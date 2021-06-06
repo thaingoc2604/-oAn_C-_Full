@@ -1,0 +1,62 @@
+D:\ProjectC#\prQuanLyMonAn\prQuanLyMonAn\obj\Debug\ResolveAssemblyReference.cache
+D:\ProjectC#\prQuanLyMonAn\prQuanLyMonAn\obj\Debug\prQuanLyMonAn.frm_LoaiMon.resources
+D:\ProjectC#\prQuanLyMonAn\prQuanLyMonAn\obj\Debug\prQuanLyMonAn.Properties.Resources.resources
+D:\ProjectC#\prQuanLyMonAn\prQuanLyMonAn\obj\Debug\prQuanLyMonAn.ThongTinMonAn.resources
+D:\ProjectC#\prQuanLyMonAn\prQuanLyMonAn\obj\Debug\prQuanLyMonAn.csproj.GenerateResource.Cache
+D:\ProjectC#\prQuanLyMonAn\prQuanLyMonAn\bin\Debug\prQuanLyMonAn.exe
+D:\ProjectC#\prQuanLyMonAn\prQuanLyMonAn\bin\Debug\prQuanLyMonAn.pdb
+D:\ProjectC#\prQuanLyMonAn\prQuanLyMonAn\bin\Debug\Data_tier.dll
+D:\ProjectC#\prQuanLyMonAn\prQuanLyMonAn\bin\Debug\BUI_tier.pdb
+D:\ProjectC#\prQuanLyMonAn\prQuanLyMonAn\bin\Debug\Data_tier.pdb
+D:\ProjectC#\prQuanLyMonAn\prQuanLyMonAn\bin\Debug\Entities.pdb
+D:\ProjectC#\prQuanLyMonAn\prQuanLyMonAn\obj\Debug\prQuanLyMonAn.exe
+D:\ProjectC#\prQuanLyMonAn\prQuanLyMonAn\obj\Debug\prQuanLyMonAn.pdb
+D:\ProjectC#\prQuanLyMonAn\prQuanLyMonAn\bin\Debug\BUI_tier.dll
+D:\ProjectC#\prQuanLyMonAn\prQuanLyMonAn\bin\Debug\Entities.dll
+D:\ProjectC#\prQuanLyMonAn\prQuanLyMonAn\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\projectc#\prQuanLyMonAn\prQuanLyMonAn\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\projectc#\prQuanLyMonAn\prQuanLyMonAn\bin\Debug\office.dll
+C:\Users\Vu\Desktop\prQuanLyMonAn\prQuanLyMonAn\prQuanLyMonAn\obj\Debug\prQuanLyMonAn.exe
+C:\Users\Vu\Desktop\prQuanLyMonAn\prQuanLyMonAn\prQuanLyMonAn\obj\Debug\prQuanLyMonAn.pdb
+C:\Users\Vu\Desktop\prQuanLyMonAn\prQuanLyMonAn\prQuanLyMonAn\bin\Debug\prQuanLyMonAn.exe
+C:\Users\Vu\Desktop\prQuanLyMonAn\prQuanLyMonAn\prQuanLyMonAn\bin\Debug\prQuanLyMonAn.pdb
+C:\Users\Vu\Desktop\prQuanLyMonAn\prQuanLyMonAn\prQuanLyMonAn\bin\Debug\BUI_tier.dll
+C:\Users\Vu\Desktop\prQuanLyMonAn\prQuanLyMonAn\prQuanLyMonAn\bin\Debug\Entities.dll
+C:\Users\Vu\Desktop\prQuanLyMonAn\prQuanLyMonAn\prQuanLyMonAn\bin\Debug\Data_tier.dll
+C:\Users\Vu\Desktop\prQuanLyMonAn\prQuanLyMonAn\prQuanLyMonAn\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\Vu\Desktop\prQuanLyMonAn\prQuanLyMonAn\prQuanLyMonAn\bin\Debug\office.dll
+C:\Users\Vu\Desktop\prQuanLyMonAn\prQuanLyMonAn\prQuanLyMonAn\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\Vu\Desktop\prQuanLyMonAn\prQuanLyMonAn\prQuanLyMonAn\bin\Debug\BUI_tier.pdb
+C:\Users\Vu\Desktop\prQuanLyMonAn\prQuanLyMonAn\prQuanLyMonAn\bin\Debug\Entities.pdb
+C:\Users\Vu\Desktop\prQuanLyMonAn\prQuanLyMonAn\prQuanLyMonAn\bin\Debug\Data_tier.pdb
+C:\Users\Vu\Desktop\prQuanLyMonAn\prQuanLyMonAn\prQuanLyMonAn\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Vu\Desktop\prQuanLyMonAn\prQuanLyMonAn\prQuanLyMonAn\obj\Debug\prQuanLyMonAn.frm_LoaiMon.resources
+C:\Users\Vu\Desktop\prQuanLyMonAn\prQuanLyMonAn\prQuanLyMonAn\obj\Debug\prQuanLyMonAn.Properties.Resources.resources
+C:\Users\Vu\Desktop\prQuanLyMonAn\prQuanLyMonAn\prQuanLyMonAn\obj\Debug\prQuanLyMonAn.ThongTinMonAn.resources
+C:\Users\Vu\Desktop\prQuanLyMonAn\prQuanLyMonAn\prQuanLyMonAn\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Vu\Desktop\prQuanLyMonAn\prQuanLyMonAn\prQuanLyMonAn\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Vu\Desktop\prQuanLyMonAn\prQuanLyMonAn\prQuanLyMonAn\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\Vu\Desktop\prQuanLyMonAn\prQuanLyMonAn\prQuanLyMonAn\bin\Debug\office.xml
+C:\Users\Vu\Desktop\prQuanLyMonAn\prQuanLyMonAn\prQuanLyMonAn\obj\Debug\prQuanLyMonAn.Welcome.resources
+C:\Users\Vu\Desktop\prĐề Tài Quản Lý Món Ăn Ngon\prQuanLyMonAn\prQuanLyMonAn\obj\Debug\prQuanLyMonAn.exe
+C:\Users\Vu\Desktop\prĐề Tài Quản Lý Món Ăn Ngon\prQuanLyMonAn\prQuanLyMonAn\obj\Debug\prQuanLyMonAn.pdb
+C:\Users\Vu\Desktop\prĐề Tài Quản Lý Món Ăn Ngon\prQuanLyMonAn\prQuanLyMonAn\bin\Debug\prQuanLyMonAn.exe
+C:\Users\Vu\Desktop\prĐề Tài Quản Lý Món Ăn Ngon\prQuanLyMonAn\prQuanLyMonAn\bin\Debug\prQuanLyMonAn.pdb
+C:\Users\Vu\Desktop\prĐề Tài Quản Lý Món Ăn Ngon\prQuanLyMonAn\prQuanLyMonAn\bin\Debug\BUI_tier.dll
+C:\Users\Vu\Desktop\prĐề Tài Quản Lý Món Ăn Ngon\prQuanLyMonAn\prQuanLyMonAn\bin\Debug\Entities.dll
+C:\Users\Vu\Desktop\prĐề Tài Quản Lý Món Ăn Ngon\prQuanLyMonAn\prQuanLyMonAn\bin\Debug\Data_tier.dll
+C:\Users\Vu\Desktop\prĐề Tài Quản Lý Món Ăn Ngon\prQuanLyMonAn\prQuanLyMonAn\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\Vu\Desktop\prĐề Tài Quản Lý Món Ăn Ngon\prQuanLyMonAn\prQuanLyMonAn\bin\Debug\office.dll
+C:\Users\Vu\Desktop\prĐề Tài Quản Lý Món Ăn Ngon\prQuanLyMonAn\prQuanLyMonAn\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\Vu\Desktop\prĐề Tài Quản Lý Món Ăn Ngon\prQuanLyMonAn\prQuanLyMonAn\bin\Debug\BUI_tier.pdb
+C:\Users\Vu\Desktop\prĐề Tài Quản Lý Món Ăn Ngon\prQuanLyMonAn\prQuanLyMonAn\bin\Debug\Entities.pdb
+C:\Users\Vu\Desktop\prĐề Tài Quản Lý Món Ăn Ngon\prQuanLyMonAn\prQuanLyMonAn\bin\Debug\Data_tier.pdb
+C:\Users\Vu\Desktop\prĐề Tài Quản Lý Món Ăn Ngon\prQuanLyMonAn\prQuanLyMonAn\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\Vu\Desktop\prĐề Tài Quản Lý Món Ăn Ngon\prQuanLyMonAn\prQuanLyMonAn\bin\Debug\office.xml
+C:\Users\Vu\Desktop\prĐề Tài Quản Lý Món Ăn Ngon\prQuanLyMonAn\prQuanLyMonAn\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Vu\Desktop\prĐề Tài Quản Lý Món Ăn Ngon\prQuanLyMonAn\prQuanLyMonAn\obj\Debug\prQuanLyMonAn.frm_LoaiMon.resources
+C:\Users\Vu\Desktop\prĐề Tài Quản Lý Món Ăn Ngon\prQuanLyMonAn\prQuanLyMonAn\obj\Debug\prQuanLyMonAn.Properties.Resources.resources
+C:\Users\Vu\Desktop\prĐề Tài Quản Lý Món Ăn Ngon\prQuanLyMonAn\prQuanLyMonAn\obj\Debug\prQuanLyMonAn.ThongTinMonAn.resources
+C:\Users\Vu\Desktop\prĐề Tài Quản Lý Món Ăn Ngon\prQuanLyMonAn\prQuanLyMonAn\obj\Debug\prQuanLyMonAn.Welcome.resources
+C:\Users\Vu\Desktop\prĐề Tài Quản Lý Món Ăn Ngon\prQuanLyMonAn\prQuanLyMonAn\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Vu\Desktop\prĐề Tài Quản Lý Món Ăn Ngon\prQuanLyMonAn\prQuanLyMonAn\obj\Debug\GenerateResource-ResGen.write.1.tlog

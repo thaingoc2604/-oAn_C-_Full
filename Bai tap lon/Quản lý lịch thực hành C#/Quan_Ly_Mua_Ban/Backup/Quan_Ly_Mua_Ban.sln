@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quan_Ly_Mua_Ban", "Quan_Ly_Mua_Ban.csproj", "{76155E96-E533-4E1B-8CCA-E4EAD6039347}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{76155E96-E533-4E1B-8CCA-E4EAD6039347}.Debug.ActiveCfg = Debug|.NET
+		{76155E96-E533-4E1B-8CCA-E4EAD6039347}.Debug.Build.0 = Debug|.NET
+		{76155E96-E533-4E1B-8CCA-E4EAD6039347}.Release.ActiveCfg = Release|.NET
+		{76155E96-E533-4E1B-8CCA-E4EAD6039347}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

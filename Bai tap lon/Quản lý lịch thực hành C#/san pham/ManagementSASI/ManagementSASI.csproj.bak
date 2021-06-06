@@ -1,0 +1,693 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{07928DF0-B94E-4A9C-96BA-3E5443CB8BBF}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ManagementSASI</RootNamespace>
+    <AssemblyName>ManagementSASI</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="adodb, Version=7.0.3300.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Windows\assembly\GAC_MSIL\CrystalDecisions.CrystalReports.Engine\10.5.3700.0__692fbea5521e1304\CrystalDecisions.CrystalReports.Engine.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.Enterprise.Framework, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Enterprise.InfoStore, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Windows\assembly\GAC_MSIL\CrystalDecisions.ReportSource\10.5.3700.0__692fbea5521e1304\CrystalDecisions.ReportSource.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.Shared, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Windows\assembly\GAC_MSIL\CrystalDecisions.Shared\10.5.3700.0__692fbea5521e1304\CrystalDecisions.Shared.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="DevExpress.Charts.v8.3.Core, Version=8.3.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Data.v8.3, Version=8.3.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Utils.v8.3, Version=8.3.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraBars.v8.3, Version=8.3.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraCharts.v8.3, Version=8.3.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraEditors.v8.3, Version=8.3.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraGrid.v8.3, Version=8.3.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraLayout.v8.3, Version=8.3.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraNavBar.v8.3, Version=8.3.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraPivotGrid.v8.3, Version=8.3.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraPivotGrid.v8.3.Core, Version=8.3.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraPrinting.v8.3, Version=8.3.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraReports.v8.3, Version=8.3.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraScheduler.v8.3, Version=8.3.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraScheduler.v8.3.Core, Version=8.3.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraScheduler.v8.3.Extensions, Version=8.3.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraSpellChecker.v8.3, Version=8.3.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraSpellChecker.v8.3.Core, Version=8.3.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraVerticalGrid.v8.3, Version=8.3.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="Interop.ADOX, Version=2.8.0.0, Culture=neutral, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=11.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c" />
+    <Reference Include="Microsoft.ReportViewer.Common, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <Reference Include="Microsoft.SqlServer.ConnectionInfo, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.SqlServer.Smo, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL" />
+    <Reference Include="msmdvbanet, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Design" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CryptorEngine.cs" />
+    <Compile Include="CrystalReportGeneraMoneySASIClass.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CrystalReportGeneraMoneySASIClass.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="CrystalReportGeneraMoneySASITeacher.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CrystalReportGeneraMoneySASITeacher.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="CrystalReportListStudentToClass.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CrystalReportListStudentToClass.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="CrystalReportListTakeATestSASI.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CrystalReportListTakeATestSASI.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="CrystalReportReceipt.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CrystalReportReceipt.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="CrystalReportReceiptManyStudent.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CrystalReportReceiptManyStudent.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="CrystalReportStudentSI.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CrystalReportStudentSI.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="DataSet1.cs">
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="DataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="frmBackup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBackup.Designer.cs">
+      <DependentUpon>frmBackup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmChangePassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmChangePassword.designer.cs">
+      <DependentUpon>frmChangePassword.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmClass.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmClass.designer.cs">
+      <DependentUpon>frmClass.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmConfiguration.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmConfiguration.Designer.cs">
+      <DependentUpon>frmConfiguration.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDepartment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDepartment.designer.cs">
+      <DependentUpon>frmDepartment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmFilterStudent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmFilterStudent.Designer.cs">
+      <DependentUpon>frmFilterStudent.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmListGeneraMoneySASIClass.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmListGeneraMoneySASIClass.Designer.cs">
+      <DependentUpon>frmListGeneraMoneySASIClass.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmListGeneraMoneySASITeacher.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmListGeneraMoneySASITeacher.Designer.cs">
+      <DependentUpon>frmListGeneraMoneySASITeacher.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmListStudentMoneySI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmListStudentMoneySI.Designer.cs">
+      <DependentUpon>frmListStudentMoneySI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmListStudentToClass.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmListStudentToClass.Designer.cs">
+      <DependentUpon>frmListStudentToClass.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLogin.Designer.cs">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMain.Designer.cs">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmReceipt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmReceipt.Designer.cs">
+      <DependentUpon>frmReceipt.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmReceiptManyStudent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmReceiptManyStudent.designer.cs">
+      <DependentUpon>frmReceiptManyStudent.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmRestore.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRestore.Designer.cs">
+      <DependentUpon>frmRestore.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmSASIClass.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSASIClass.designer.cs">
+      <DependentUpon>frmSASIClass.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmSettingMoney.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSettingMoney.Designer.cs">
+      <DependentUpon>frmSettingMoney.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmSplash.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSplash.Designer.cs">
+      <DependentUpon>frmSplash.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmSelectTableExcel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSelectTableExcel.Designer.cs">
+      <DependentUpon>frmSelectTableExcel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmStudentToRegisters.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmStudentToRegisters.Designer.cs">
+      <DependentUpon>frmStudentToRegisters.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmSubject.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSubject.Designer.cs">
+      <DependentUpon>frmSubject.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmListTakeATestSASI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmListTakeATestSASI.Designer.cs">
+      <DependentUpon>frmListTakeATestSASI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmTeacher.cs">
+    </Compile>
+    <Compile Include="frmTeacher.Designer.cs">
+      <DependentUpon>frmTeacher.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmTrain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTrain.Designer.cs">
+      <DependentUpon>frmTrain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmTrainingInformaytions.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTrainingInformaytions.Designer.cs">
+      <DependentUpon>frmTrainingInformaytions.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmTrain_Subject.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTrain_Subject.designer.cs">
+      <DependentUpon>frmTrain_Subject.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmWating.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmWating.Designer.cs">
+      <DependentUpon>frmWating.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmWatingServer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmWatingServer.Designer.cs">
+      <DependentUpon>frmWatingServer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ManagementSASI.designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ManagementSASI.dbml</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="CrystalReportGeneraMoneySASIClass.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrystalReportGeneraMoneySASIClass.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CrystalReportGeneraMoneySASITeacher.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrystalReportGeneraMoneySASITeacher.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CrystalReportListStudentToClass.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrystalReportListStudentToClass.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CrystalReportListTakeATestSASI.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrystalReportListTakeATestSASI.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CrystalReportReceipt.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrystalReportReceipt.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CrystalReportReceiptManyStudent.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrystalReportReceiptManyStudent.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CrystalReportStudentSI.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrystalReportStudentSI.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmBackup.resx">
+      <DependentUpon>frmBackup.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmChangePassword.resx">
+      <DependentUpon>frmChangePassword.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmClass.resx">
+      <DependentUpon>frmClass.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmConfiguration.resx">
+      <DependentUpon>frmConfiguration.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDepartment.resx">
+      <DependentUpon>frmDepartment.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmFilterStudent.resx">
+      <DependentUpon>frmFilterStudent.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmListGeneraMoneySASIClass.resx">
+      <DependentUpon>frmListGeneraMoneySASIClass.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmListGeneraMoneySASITeacher.resx">
+      <DependentUpon>frmListGeneraMoneySASITeacher.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmListStudentMoneySI.resx">
+      <DependentUpon>frmListStudentMoneySI.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmListStudentToClass.resx">
+      <DependentUpon>frmListStudentToClass.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLogin.resx">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMain.resx">
+      <DependentUpon>frmMain.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmReceipt.resx">
+      <DependentUpon>frmReceipt.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmReceiptManyStudent.resx">
+      <DependentUpon>frmReceiptManyStudent.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRestore.resx">
+      <DependentUpon>frmRestore.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSASIClass.resx">
+      <DependentUpon>frmSASIClass.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSettingMoney.resx">
+      <DependentUpon>frmSettingMoney.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSplash.resx">
+      <DependentUpon>frmSplash.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSelectTableExcel.resx">
+      <DependentUpon>frmSelectTableExcel.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmStudentToRegisters.resx">
+      <DependentUpon>frmStudentToRegisters.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSubject.resx">
+      <DependentUpon>frmSubject.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmListTakeATestSASI.resx">
+      <DependentUpon>frmListTakeATestSASI.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTeacher.resx">
+      <DependentUpon>frmTeacher.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTrain.resx">
+      <DependentUpon>frmTrain.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTrainingInformaytions.resx">
+      <DependentUpon>frmTrainingInformaytions.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTrain_Subject.resx">
+      <DependentUpon>frmTrain_Subject.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmWating.resx">
+      <DependentUpon>frmWating.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmWatingServer.resx">
+      <DependentUpon>frmWatingServer.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <None Include="ManagementSASI.dbml.layout">
+      <DependentUpon>ManagementSASI.dbml</DependentUpon>
+    </None>
+    <EmbeddedResource Include="Properties\licenses.licx" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTestClassSASINotYet.resx">
+      <DependentUpon>frmTestClassSASINotYet.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="frmTestClassSASINotYet.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTestClassSASINotYet.Designer.cs">
+      <DependentUpon>frmTestClassSASINotYet.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TestManageSASI.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\add.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\alarmclock.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\book_blue.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\businessman.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\businessmen.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\clock.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\home.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hourglass.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ICO00157.ICO" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ICO00165.ICO" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ICO00215.ICO" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ICO00292.ICO" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\table_view.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\what.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\about.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\chart.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\column-chart.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\currency_dollar.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\data_delete.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\data_disk.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\data_ok.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\document_plain_new.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\star_red.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Calendar_48x48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Check_48x48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\delete.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Delete_48x48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Favorites_48x48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Forward_48x48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Help_48x48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\home.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Info.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Key_48x48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Negative_48x48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\nha1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Positive_48x48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Preview_48x48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Print_48x48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Properties_48x48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Redo_48x48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Refresh_48x48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Remove_48x48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Save_48x48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Search_48x48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Undo_48x48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\User_48x48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user-group-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user-info-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="Resources\users-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{3259AA49-8AA1-44D3-9025-A0B520596A8C}" />
+    <Service Include="{967B4E0D-AD0C-4609-AB67-0FA40C0206D8}" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="DataSet1.xsc">
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet1.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet1.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSet1.xss">
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="ManagementSASI.dbml">
+      <Generator>MSLinqToSQLGenerator</Generator>
+      <LastGenOutput>ManagementSASI.designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Resources\bgfrm.JPG" />
+    <None Include="Resources\anh nen2 copy.png" />
+    <Content Include="Resources\Button-Add-icon.png" />
+    <Content Include="Resources\dangnhap.png" />
+    <Content Include="Resources\dangxuat.png" />
+    <Content Include="Resources\exit.png" />
+    <Content Include="Resources\ketqua.png" />
+    <Content Include="Resources\phuchoidulieu.png" />
+    <Content Include="Resources\saoluudulieu.png" />
+    <None Include="Resources\Untitled-1 copy.jpg" />
+    <Content Include="Resources\users3_preferences.ico" />
+    <Content Include="Resources\users_back.ico" />
+    <Content Include="Resources\users_into.ico" />
+    <Content Include="Resources\xoachuyenlop.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="QuanLySinhVien" Class="QuanLySinhVienDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=VIETCUONG-PC\SQLEXPRESS;Initial Catalog=QuanLySinhVien;Persist Security Info=True;User ID=sa" SettingsObjectName="DeTai_QuanLySinhVien.Properties.Settings" SettingsPropertyName="QuanLySinhVienConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.KetQua" Member="KetQuas">
+    <Type Name="KetQua">
+      <Column Name="ID_MonHoc" Type="System.String" DbType="NChar(10) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="ID_SinhVien" Type="System.String" DbType="NChar(10) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="LanThi" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="DiemThi" Type="System.Double" DbType="Float NOT NULL" CanBeNull="false" />
+      <Column Name="DiemTongKet" Type="System.Double" DbType="Float NOT NULL" CanBeNull="false" />
+      <Association Name="MonHoc_KetQua" Member="MonHoc" ThisKey="ID_MonHoc" OtherKey="MonHoc_ID" Type="MonHoc" IsForeignKey="true" />
+      <Association Name="SinhVien_KetQua" Member="SinhVien" ThisKey="ID_SinhVien" OtherKey="SinhVien_ID" Type="SinhVien" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Khoa" Member="Khoas">
+    <Type Name="Khoa">
+      <Column Name="Khoa_ID" Type="System.String" DbType="NChar(10) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="TenKhoa" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Association Name="Khoa_Lop" Member="Lops" ThisKey="Khoa_ID" OtherKey="ID_Khoa" Type="Lop" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Lop" Member="Lops">
+    <Type Name="Lop">
+      <Column Name="Lop_ID" Type="System.String" DbType="NChar(10) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="TenLop" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="ID_Khoa" Type="System.String" DbType="NChar(10) NOT NULL" CanBeNull="false" />
+      <Association Name="Lop_SinhVien" Member="SinhViens" ThisKey="Lop_ID" OtherKey="ID_Lop" Type="SinhVien" />
+      <Association Name="Khoa_Lop" Member="Khoa" ThisKey="ID_Khoa" OtherKey="Khoa_ID" Type="Khoa" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.MonHoc" Member="MonHocs">
+    <Type Name="MonHoc">
+      <Column Name="MonHoc_ID" Type="System.String" DbType="NChar(10) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="TenMonHoc" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="SoTrinh" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="GiangVien" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Association Name="MonHoc_KetQua" Member="KetQuas" ThisKey="MonHoc_ID" OtherKey="ID_MonHoc" Type="KetQua" />
+    </Type>
+  </Table>
+  <Table Name="dbo.QuanLyNguoiDung" Member="QuanLyNguoiDungs">
+    <Type Name="QuanLyNguoiDung">
+      <Column Name="TenDangNhap" Type="System.String" DbType="NVarChar(50) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="MatKhau" Type="System.String" DbType="NVarChar(50) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="QuyenHan" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+    </Type>
+  </Table>
+  <Table Name="dbo.SinhVien" Member="SinhViens">
+    <Type Name="SinhVien">
+      <Column Name="SinhVien_ID" Type="System.String" DbType="NChar(10) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="TenSinhVien" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="GioiTinh" Type="System.Byte" DbType="TinyInt NOT NULL" CanBeNull="false" />
+      <Column Name="NgaySinh" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="NoiSinh" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="NoiOHienTai" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="KhoaHoc" Type="System.String" DbType="NVarChar(20) NOT NULL" CanBeNull="false" />
+      <Column Name="LyLich" Type="System.String" DbType="NVarChar(1000) NOT NULL" CanBeNull="false" />
+      <Column Name="ID_Lop" Type="System.String" DbType="NChar(10) NOT NULL" CanBeNull="false" />
+      <Column Name="HinhAnh" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Association Name="SinhVien_KetQua" Member="KetQuas" ThisKey="SinhVien_ID" OtherKey="ID_SinhVien" Type="KetQua" />
+      <Association Name="Lop_SinhVien" Member="Lop" ThisKey="ID_Lop" OtherKey="Lop_ID" Type="Lop" IsForeignKey="true" />
+    </Type>
+  </Table>
+</Database>

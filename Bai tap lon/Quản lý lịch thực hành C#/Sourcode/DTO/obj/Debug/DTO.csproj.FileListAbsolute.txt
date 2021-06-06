@@ -1,0 +1,35 @@
+C:\Users\TRANTHANHHAU\Desktop\Do an lap trinh ung dung\Quanlykhachsan3lop\DTO\bin\Debug\DTO.dll
+C:\Users\TRANTHANHHAU\Desktop\Do an lap trinh ung dung\Quanlykhachsan3lop\DTO\bin\Debug\DTO.pdb
+C:\Users\TRANTHANHHAU\Desktop\Do an lap trinh ung dung\Quanlykhachsan3lop\DTO\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\TRANTHANHHAU\Desktop\Do an lap trinh ung dung\Quanlykhachsan3lop\DTO\obj\Debug\DTO.dll
+C:\Users\TRANTHANHHAU\Desktop\Do an lap trinh ung dung\Quanlykhachsan3lop\DTO\obj\Debug\DTO.pdb
+E:\Do an lap trinh ung dung\Bao cao\Do an lap trinh ung dung\Quanlykhachsan3lop\DTO\bin\Debug\DTO.dll
+E:\Do an lap trinh ung dung\Bao cao\Do an lap trinh ung dung\Quanlykhachsan3lop\DTO\bin\Debug\DTO.pdb
+E:\Do an lap trinh ung dung\Bao cao\Do an lap trinh ung dung\Quanlykhachsan3lop\DTO\obj\Debug\ResolveAssemblyReference.cache
+E:\Do an lap trinh ung dung\Bao cao\Do an lap trinh ung dung\Quanlykhachsan3lop\DTO\obj\Debug\DTO.dll
+E:\Do an lap trinh ung dung\Bao cao\Do an lap trinh ung dung\Quanlykhachsan3lop\DTO\obj\Debug\DTO.pdb
+E:\Do an lap trinh ung dung\Quanlykhachsan3lop\DTO\bin\Debug\DTO.dll
+E:\Do an lap trinh ung dung\Quanlykhachsan3lop\DTO\bin\Debug\DTO.pdb
+E:\Do an lap trinh ung dung\Quanlykhachsan3lop\DTO\obj\Debug\ResolveAssemblyReference.cache
+E:\Do an lap trinh ung dung\Quanlykhachsan3lop\DTO\obj\Debug\DTO.dll
+E:\Do an lap trinh ung dung\Quanlykhachsan3lop\DTO\obj\Debug\DTO.pdb
+C:\Users\TRANTHANHHAU\Desktop\Sourcode\DTO\bin\Debug\DTO.dll
+C:\Users\TRANTHANHHAU\Desktop\Sourcode\DTO\bin\Debug\DTO.pdb
+C:\Users\TRANTHANHHAU\Desktop\Sourcode\DTO\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\TRANTHANHHAU\Desktop\Sourcode\DTO\obj\Debug\DTO.dll
+C:\Users\TRANTHANHHAU\Desktop\Sourcode\DTO\obj\Debug\DTO.pdb
+E:\Do an lap trinh ung dung\Sourcode\DTO\bin\Debug\DTO.dll
+E:\Do an lap trinh ung dung\Sourcode\DTO\bin\Debug\DTO.pdb
+E:\Do an lap trinh ung dung\Sourcode\DTO\obj\Debug\ResolveAssemblyReference.cache
+E:\Do an lap trinh ung dung\Sourcode\DTO\obj\Debug\DTO.dll
+E:\Do an lap trinh ung dung\Sourcode\DTO\obj\Debug\DTO.pdb
+E:\Do an lap trinh ung dung\Bao cao\Sourcode\DTO\bin\Debug\DTO.dll
+E:\Do an lap trinh ung dung\Bao cao\Sourcode\DTO\bin\Debug\DTO.pdb
+E:\Do an lap trinh ung dung\Bao cao\Sourcode\DTO\obj\Debug\ResolveAssemblyReference.cache
+E:\Do an lap trinh ung dung\Bao cao\Sourcode\DTO\obj\Debug\DTO.dll
+E:\Do an lap trinh ung dung\Bao cao\Sourcode\DTO\obj\Debug\DTO.pdb
+E:\Do an lap trinh ung dung\QLKS\Bao cao\Sourcode\DTO\bin\Debug\DTO.dll
+E:\Do an lap trinh ung dung\QLKS\Bao cao\Sourcode\DTO\bin\Debug\DTO.pdb
+E:\Do an lap trinh ung dung\QLKS\Bao cao\Sourcode\DTO\obj\Debug\ResolveAssemblyReference.cache
+E:\Do an lap trinh ung dung\QLKS\Bao cao\Sourcode\DTO\obj\Debug\DTO.dll
+E:\Do an lap trinh ung dung\QLKS\Bao cao\Sourcode\DTO\obj\Debug\DTO.pdb

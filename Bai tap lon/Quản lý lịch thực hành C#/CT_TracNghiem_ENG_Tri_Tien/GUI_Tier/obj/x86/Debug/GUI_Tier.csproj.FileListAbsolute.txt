@@ -1,0 +1,114 @@
+C:\Users\Phuong\Desktop\CT_TracNghiem_ENG_Tri_Tien\GUI_Tier\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Phuong\Desktop\CT_TracNghiem_ENG_Tri_Tien\GUI_Tier\obj\x86\Debug\GUI_Tier.DangKy.resources
+C:\Users\Phuong\Desktop\CT_TracNghiem_ENG_Tri_Tien\GUI_Tier\obj\x86\Debug\GUI_Tier.DangNhap.resources
+C:\Users\Phuong\Desktop\CT_TracNghiem_ENG_Tri_Tien\GUI_Tier\obj\x86\Debug\GUI_Tier.DoiMatKhau.resources
+C:\Users\Phuong\Desktop\CT_TracNghiem_ENG_Tri_Tien\GUI_Tier\obj\x86\Debug\GUI_Tier.PlashScreen.resources
+C:\Users\Phuong\Desktop\CT_TracNghiem_ENG_Tri_Tien\GUI_Tier\obj\x86\Debug\GUI_Tier.Properties.Resources.resources
+C:\Users\Phuong\Desktop\CT_TracNghiem_ENG_Tri_Tien\GUI_Tier\obj\x86\Debug\GUI_Tier.QuenMatKhau.resources
+C:\Users\Phuong\Desktop\CT_TracNghiem_ENG_Tri_Tien\GUI_Tier\obj\x86\Debug\GUI_Tier.QuyDinhTracNghiem.resources
+C:\Users\Phuong\Desktop\CT_TracNghiem_ENG_Tri_Tien\GUI_Tier\obj\x86\Debug\GUI_Tier.Student.resources
+C:\Users\Phuong\Desktop\CT_TracNghiem_ENG_Tri_Tien\GUI_Tier\obj\x86\Debug\GUI_Tier.Teacher.resources
+C:\Users\Phuong\Desktop\CT_TracNghiem_ENG_Tri_Tien\GUI_Tier\obj\x86\Debug\GUI_Tier.Teacher_BoDe.resources
+C:\Users\Phuong\Desktop\CT_TracNghiem_ENG_Tri_Tien\GUI_Tier\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Phuong\Desktop\CT_TracNghiem_ENG_Tri_Tien\GUI_Tier\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Phuong\Desktop\CT_TracNghiem_ENG_Tri_Tien\GUI_Tier\bin\Debug\GUI_Tier.exe
+C:\Users\Phuong\Desktop\CT_TracNghiem_ENG_Tri_Tien\GUI_Tier\bin\Debug\GUI_Tier.pdb
+C:\Users\Phuong\Desktop\CT_TracNghiem_ENG_Tri_Tien\GUI_Tier\bin\Debug\Bus_Tier.dll
+C:\Users\Phuong\Desktop\CT_TracNghiem_ENG_Tri_Tien\GUI_Tier\bin\Debug\Bus_Tier.pdb
+C:\Users\Phuong\Desktop\CT_TracNghiem_ENG_Tri_Tien\GUI_Tier\obj\x86\Debug\GUI_Tier.exe
+C:\Users\Phuong\Desktop\CT_TracNghiem_ENG_Tri_Tien\GUI_Tier\obj\x86\Debug\GUI_Tier.pdb
+C:\Users\Phuong\Desktop\CT_TracNghiem_ENG_Tri_Tien\GUI_Tier\bin\Debug\Data_Tier.dll
+C:\Users\Phuong\Desktop\CT_TracNghiem_ENG_Tri_Tien\GUI_Tier\bin\Debug\Data_Tier.pdb
+C:\Users\Phuong\Desktop\CT_TracNghiem_ENG_Tri_Tien\GUI_Tier\obj\x86\Debug\GUI_Tier.Admin.resources
+C:\Users\Phuong\Desktop\CT_TracNghiem_ENG_Tri_Tien\GUI_Tier\bin\Debug\GUI_Tier.exe.config
+C:\Users\Phuong\Desktop\CT_TracNghiem_ENG_Tri_Tien\GUI_Tier\obj\x86\Debug\GUI_Tier.SuaThongTin.resources
+C:\Users\Phuong\Desktop\CT_TracNghiem_ENG_Tri_Tien\GUI_Tier\obj\x86\Debug\GUI_Tier.BangDiem.resources
+C:\Users\Phuong\Desktop\CT_TracNghiem_ENG_Tri_Tien\GUI_Tier\obj\x86\Debug\GUI_Tier.LamBai_Thi.resources
+C:\Users\Phuong\Desktop\CT_TracNghiem_ENG_Tri_Tien\GUI_Tier\obj\x86\Debug\GUI_Tier.XemDiem.resources
+C:\Users\Phuong\Desktop\CT_TracNghiem_ENG_Tri_Tien\GUI_Tier\obj\x86\Debug\GUI_Tier.About.resources
+C:\Users\Phuong\Desktop\CT_TracNghiem_ENG_Tri_Tien\GUI_Tier\obj\x86\Debug\Interop.CrystalActiveXReportViewerLib13.dll
+C:\Users\Phuong\Desktop\CT_TracNghiem_ENG_Tri_Tien\GUI_Tier\obj\x86\Debug\AxInterop.CrystalActiveXReportViewerLib13.dll
+C:\Users\Phuong\Desktop\CT_TracNghiem_ENG_Tri_Tien\GUI_Tier\obj\x86\Debug\GUI_Tier.csproj.ResolveComReference.cache
+C:\Users\Phuong\Desktop\CT_TracNghiem_ENG_Tri_Tien\GUI_Tier\bin\Debug\Interop.CrystalActiveXReportViewerLib13.dll
+C:\Users\Phuong\Desktop\CT_TracNghiem_ENG_Tri_Tien\GUI_Tier\bin\Debug\AxInterop.CrystalActiveXReportViewerLib13.dll
+C:\Users\Phuong\Desktop\CT_TracNghiem_ENG_Tri_Tien\GUI_Tier\obj\x86\Debug\GUI_Tier.Rep_BangDiem.resources
+C:\Users\Phuong\Desktop\CT_TracNghiem_ENG_Tri_Tien\GUI_Tier\obj\x86\Debug\GUI_Tier.Report_Center.resources
+C:\Users\Phuong\Desktop\CT_TracNghiem_ENG_Tri_Tien\GUI_Tier\obj\x86\Debug\GUI_Tier.Report_All_SinhVien_Form.resources
+C:\Users\bh\Desktop\New folder\CT_TracNghiem_ENG_Tri_Tien\GUI_Tier\bin\Debug\GUI_Tier.exe.config
+C:\Users\bh\Desktop\New folder\CT_TracNghiem_ENG_Tri_Tien\GUI_Tier\obj\x86\Debug\Interop.CrystalActiveXReportViewerLib13.dll
+C:\Users\bh\Desktop\New folder\CT_TracNghiem_ENG_Tri_Tien\GUI_Tier\obj\x86\Debug\AxInterop.CrystalActiveXReportViewerLib13.dll
+C:\Users\bh\Desktop\New folder\CT_TracNghiem_ENG_Tri_Tien\GUI_Tier\obj\x86\Debug\GUI_Tier.csproj.ResolveComReference.cache
+C:\Users\bh\Desktop\New folder\CT_TracNghiem_ENG_Tri_Tien\GUI_Tier\obj\x86\Debug\GUI_Tier.exe
+C:\Users\bh\Desktop\New folder\CT_TracNghiem_ENG_Tri_Tien\GUI_Tier\obj\x86\Debug\GUI_Tier.pdb
+C:\Users\bh\Desktop\New folder\CT_TracNghiem_ENG_Tri_Tien\GUI_Tier\bin\Debug\GUI_Tier.exe
+C:\Users\bh\Desktop\New folder\CT_TracNghiem_ENG_Tri_Tien\GUI_Tier\bin\Debug\GUI_Tier.pdb
+C:\Users\bh\Desktop\New folder\CT_TracNghiem_ENG_Tri_Tien\GUI_Tier\bin\Debug\Bus_Tier.dll
+C:\Users\bh\Desktop\New folder\CT_TracNghiem_ENG_Tri_Tien\GUI_Tier\bin\Debug\Data_Tier.dll
+C:\Users\bh\Desktop\New folder\CT_TracNghiem_ENG_Tri_Tien\GUI_Tier\bin\Debug\Bus_Tier.pdb
+C:\Users\bh\Desktop\New folder\CT_TracNghiem_ENG_Tri_Tien\GUI_Tier\bin\Debug\Data_Tier.pdb
+C:\Users\bh\Desktop\New folder\CT_TracNghiem_ENG_Tri_Tien\GUI_Tier\bin\Debug\Interop.CrystalActiveXReportViewerLib13.dll
+C:\Users\bh\Desktop\New folder\CT_TracNghiem_ENG_Tri_Tien\GUI_Tier\bin\Debug\AxInterop.CrystalActiveXReportViewerLib13.dll
+C:\Users\bh\Desktop\New folder\CT_TracNghiem_ENG_Tri_Tien\GUI_Tier\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\bh\Desktop\New folder\CT_TracNghiem_ENG_Tri_Tien\GUI_Tier\obj\x86\Debug\GUI_Tier.About.resources
+C:\Users\bh\Desktop\New folder\CT_TracNghiem_ENG_Tri_Tien\GUI_Tier\obj\x86\Debug\GUI_Tier.Admin.resources
+C:\Users\bh\Desktop\New folder\CT_TracNghiem_ENG_Tri_Tien\GUI_Tier\obj\x86\Debug\GUI_Tier.BangDiem.resources
+C:\Users\bh\Desktop\New folder\CT_TracNghiem_ENG_Tri_Tien\GUI_Tier\obj\x86\Debug\GUI_Tier.DangKy.resources
+C:\Users\bh\Desktop\New folder\CT_TracNghiem_ENG_Tri_Tien\GUI_Tier\obj\x86\Debug\GUI_Tier.DangNhap.resources
+C:\Users\bh\Desktop\New folder\CT_TracNghiem_ENG_Tri_Tien\GUI_Tier\obj\x86\Debug\GUI_Tier.DoiMatKhau.resources
+C:\Users\bh\Desktop\New folder\CT_TracNghiem_ENG_Tri_Tien\GUI_Tier\obj\x86\Debug\GUI_Tier.LamBai_Thi.resources
+C:\Users\bh\Desktop\New folder\CT_TracNghiem_ENG_Tri_Tien\GUI_Tier\obj\x86\Debug\GUI_Tier.PlashScreen.resources
+C:\Users\bh\Desktop\New folder\CT_TracNghiem_ENG_Tri_Tien\GUI_Tier\obj\x86\Debug\GUI_Tier.Properties.Resources.resources
+C:\Users\bh\Desktop\New folder\CT_TracNghiem_ENG_Tri_Tien\GUI_Tier\obj\x86\Debug\GUI_Tier.QuenMatKhau.resources
+C:\Users\bh\Desktop\New folder\CT_TracNghiem_ENG_Tri_Tien\GUI_Tier\obj\x86\Debug\GUI_Tier.QuyDinhTracNghiem.resources
+C:\Users\bh\Desktop\New folder\CT_TracNghiem_ENG_Tri_Tien\GUI_Tier\obj\x86\Debug\GUI_Tier.Report_All_SinhVien_Form.resources
+C:\Users\bh\Desktop\New folder\CT_TracNghiem_ENG_Tri_Tien\GUI_Tier\obj\x86\Debug\GUI_Tier.Report_Center.resources
+C:\Users\bh\Desktop\New folder\CT_TracNghiem_ENG_Tri_Tien\GUI_Tier\obj\x86\Debug\GUI_Tier.Rep_BangDiem.resources
+C:\Users\bh\Desktop\New folder\CT_TracNghiem_ENG_Tri_Tien\GUI_Tier\obj\x86\Debug\GUI_Tier.Student.resources
+C:\Users\bh\Desktop\New folder\CT_TracNghiem_ENG_Tri_Tien\GUI_Tier\obj\x86\Debug\GUI_Tier.Teacher.resources
+C:\Users\bh\Desktop\New folder\CT_TracNghiem_ENG_Tri_Tien\GUI_Tier\obj\x86\Debug\GUI_Tier.Teacher_BoDe.resources
+C:\Users\bh\Desktop\New folder\CT_TracNghiem_ENG_Tri_Tien\GUI_Tier\obj\x86\Debug\GUI_Tier.XemDiem.resources
+C:\Users\bh\Desktop\New folder\CT_TracNghiem_ENG_Tri_Tien\GUI_Tier\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\bh\Desktop\New folder\CT_TracNghiem_ENG_Tri_Tien\GUI_Tier\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\bh\Desktop\New folder\CT_TracNghiem_ENG_Tri_Tien\GUI_Tier\obj\x86\Debug\GUI_Tier.SuaThongTin.resources
+C:\Users\bh\Desktop\CT_TracNghiem_ENG_Tri_Tien\GUI_Tier\bin\Debug\GUI_Tier.exe.config
+C:\Users\bh\Desktop\CT_TracNghiem_ENG_Tri_Tien\GUI_Tier\obj\x86\Debug\Interop.CrystalActiveXReportViewerLib13.dll
+C:\Users\bh\Desktop\CT_TracNghiem_ENG_Tri_Tien\GUI_Tier\obj\x86\Debug\AxInterop.CrystalActiveXReportViewerLib13.dll
+C:\Users\bh\Desktop\CT_TracNghiem_ENG_Tri_Tien\GUI_Tier\obj\x86\Debug\GUI_Tier.csproj.ResolveComReference.cache
+C:\Users\bh\Desktop\CT_TracNghiem_ENG_Tri_Tien\GUI_Tier\obj\x86\Debug\GUI_Tier.exe
+C:\Users\bh\Desktop\CT_TracNghiem_ENG_Tri_Tien\GUI_Tier\obj\x86\Debug\GUI_Tier.pdb
+C:\Users\bh\Desktop\CT_TracNghiem_ENG_Tri_Tien\GUI_Tier\bin\Debug\GUI_Tier.exe
+C:\Users\bh\Desktop\CT_TracNghiem_ENG_Tri_Tien\GUI_Tier\bin\Debug\GUI_Tier.pdb
+C:\Users\bh\Desktop\CT_TracNghiem_ENG_Tri_Tien\GUI_Tier\bin\Debug\Bus_Tier.dll
+C:\Users\bh\Desktop\CT_TracNghiem_ENG_Tri_Tien\GUI_Tier\bin\Debug\Data_Tier.dll
+C:\Users\bh\Desktop\CT_TracNghiem_ENG_Tri_Tien\GUI_Tier\bin\Debug\Bus_Tier.pdb
+C:\Users\bh\Desktop\CT_TracNghiem_ENG_Tri_Tien\GUI_Tier\bin\Debug\Data_Tier.pdb
+C:\Users\bh\Desktop\CT_TracNghiem_ENG_Tri_Tien\GUI_Tier\bin\Debug\Interop.CrystalActiveXReportViewerLib13.dll
+C:\Users\bh\Desktop\CT_TracNghiem_ENG_Tri_Tien\GUI_Tier\bin\Debug\AxInterop.CrystalActiveXReportViewerLib13.dll
+C:\Users\bh\Desktop\CT_TracNghiem_ENG_Tri_Tien\GUI_Tier\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\bh\Desktop\CT_TracNghiem_ENG_Tri_Tien\GUI_Tier\obj\x86\Debug\GUI_Tier.About.resources
+C:\Users\bh\Desktop\CT_TracNghiem_ENG_Tri_Tien\GUI_Tier\obj\x86\Debug\GUI_Tier.Admin.resources
+C:\Users\bh\Desktop\CT_TracNghiem_ENG_Tri_Tien\GUI_Tier\obj\x86\Debug\GUI_Tier.BangDiem.resources
+C:\Users\bh\Desktop\CT_TracNghiem_ENG_Tri_Tien\GUI_Tier\obj\x86\Debug\GUI_Tier.DangKy.resources
+C:\Users\bh\Desktop\CT_TracNghiem_ENG_Tri_Tien\GUI_Tier\obj\x86\Debug\GUI_Tier.DangNhap.resources
+C:\Users\bh\Desktop\CT_TracNghiem_ENG_Tri_Tien\GUI_Tier\obj\x86\Debug\GUI_Tier.DoiMatKhau.resources
+C:\Users\bh\Desktop\CT_TracNghiem_ENG_Tri_Tien\GUI_Tier\obj\x86\Debug\GUI_Tier.LamBai_Thi.resources
+C:\Users\bh\Desktop\CT_TracNghiem_ENG_Tri_Tien\GUI_Tier\obj\x86\Debug\GUI_Tier.PlashScreen.resources
+C:\Users\bh\Desktop\CT_TracNghiem_ENG_Tri_Tien\GUI_Tier\obj\x86\Debug\GUI_Tier.Properties.Resources.resources
+C:\Users\bh\Desktop\CT_TracNghiem_ENG_Tri_Tien\GUI_Tier\obj\x86\Debug\GUI_Tier.QuenMatKhau.resources
+C:\Users\bh\Desktop\CT_TracNghiem_ENG_Tri_Tien\GUI_Tier\obj\x86\Debug\GUI_Tier.QuyDinhTracNghiem.resources
+C:\Users\bh\Desktop\CT_TracNghiem_ENG_Tri_Tien\GUI_Tier\obj\x86\Debug\GUI_Tier.Report_All_SinhVien_Form.resources
+C:\Users\bh\Desktop\CT_TracNghiem_ENG_Tri_Tien\GUI_Tier\obj\x86\Debug\GUI_Tier.Report_Center.resources
+C:\Users\bh\Desktop\CT_TracNghiem_ENG_Tri_Tien\GUI_Tier\obj\x86\Debug\GUI_Tier.Rep_BangDiem.resources
+C:\Users\bh\Desktop\CT_TracNghiem_ENG_Tri_Tien\GUI_Tier\obj\x86\Debug\GUI_Tier.Student.resources
+C:\Users\bh\Desktop\CT_TracNghiem_ENG_Tri_Tien\GUI_Tier\obj\x86\Debug\GUI_Tier.SuaThongTin.resources
+C:\Users\bh\Desktop\CT_TracNghiem_ENG_Tri_Tien\GUI_Tier\obj\x86\Debug\GUI_Tier.Teacher.resources
+C:\Users\bh\Desktop\CT_TracNghiem_ENG_Tri_Tien\GUI_Tier\obj\x86\Debug\GUI_Tier.Teacher_BoDe.resources
+C:\Users\bh\Desktop\CT_TracNghiem_ENG_Tri_Tien\GUI_Tier\obj\x86\Debug\GUI_Tier.XemDiem.resources
+C:\Users\bh\Desktop\CT_TracNghiem_ENG_Tri_Tien\GUI_Tier\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\bh\Desktop\CT_TracNghiem_ENG_Tri_Tien\GUI_Tier\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\bh\Desktop\NCTH4A_Thi Trac Nghiem Tieng Anh_Tran Tan Tri_Vo Van Tien\CT_TracNghiem_ENG_Tri_Tien\GUI_Tier\bin\Debug\GUI_Tier.exe.config
+C:\Users\bh\Desktop\NCTH4A_Thi Trac Nghiem Tieng Anh_Tran Tan Tri_Vo Van Tien\CT_TracNghiem_ENG_Tri_Tien\GUI_Tier\obj\x86\Debug\Interop.CrystalActiveXReportViewerLib13.dll
+C:\Users\bh\Desktop\NCTH4A_Thi Trac Nghiem Tieng Anh_Tran Tan Tri_Vo Van Tien\CT_TracNghiem_ENG_Tri_Tien\GUI_Tier\obj\x86\Debug\AxInterop.CrystalActiveXReportViewerLib13.dll
+C:\Users\bh\Desktop\NCTH4A_Thi Trac Nghiem Tieng Anh_Tran Tan Tri_Vo Van Tien\CT_TracNghiem_ENG_Tri_Tien\GUI_Tier\obj\x86\Debug\GUI_Tier.csproj.ResolveComReference.cache
+C:\Users\bh\Desktop\NCTH4A_Thi Trac Nghiem Tieng Anh_Tran Tan Tri_Vo Van Tien\CT_TracNghiem_ENG_Tri_Tien\GUI_Tier\obj\x86\Debug\GUI_Tier.exe
+C:\Users\bh\Desktop\NCTH4A_Thi Trac Nghiem Tieng Anh_Tran Tan Tri_Vo Van Tien\CT_TracNghiem_ENG_Tri_Tien\GUI_Tier\obj\x86\Debug\GUI_Tier.pdb

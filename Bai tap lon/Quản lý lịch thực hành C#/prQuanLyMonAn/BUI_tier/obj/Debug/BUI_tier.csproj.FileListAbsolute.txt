@@ -1,0 +1,40 @@
+D:\ProjectC#\prQuanLyMonAn\BUI_tier\bin\Debug\BUI_tier.dll
+D:\ProjectC#\prQuanLyMonAn\BUI_tier\bin\Debug\BUI_tier.pdb
+D:\ProjectC#\prQuanLyMonAn\BUI_tier\bin\Debug\Data_tier.dll
+D:\ProjectC#\prQuanLyMonAn\BUI_tier\bin\Debug\Entities.dll
+D:\ProjectC#\prQuanLyMonAn\BUI_tier\bin\Debug\Data_tier.pdb
+D:\ProjectC#\prQuanLyMonAn\BUI_tier\bin\Debug\Entities.pdb
+D:\ProjectC#\prQuanLyMonAn\BUI_tier\obj\Debug\ResolveAssemblyReference.cache
+D:\ProjectC#\prQuanLyMonAn\BUI_tier\obj\Debug\BUI_tier.dll
+D:\ProjectC#\prQuanLyMonAn\BUI_tier\obj\Debug\BUI_tier.pdb
+D:\ProjectC#\prQuanLyMonAn\BUI_tier\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\projectc#\prQuanLyMonAn\BUI_tier\bin\Debug\office.dll
+D:\projectc#\prQuanLyMonAn\BUI_tier\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\Vu\Desktop\prQuanLyMonAn\prQuanLyMonAn\BUI_tier\bin\Debug\BUI_tier.dll
+C:\Users\Vu\Desktop\prQuanLyMonAn\prQuanLyMonAn\BUI_tier\bin\Debug\BUI_tier.pdb
+C:\Users\Vu\Desktop\prQuanLyMonAn\prQuanLyMonAn\BUI_tier\bin\Debug\Data_tier.dll
+C:\Users\Vu\Desktop\prQuanLyMonAn\prQuanLyMonAn\BUI_tier\bin\Debug\Entities.dll
+C:\Users\Vu\Desktop\prQuanLyMonAn\prQuanLyMonAn\BUI_tier\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\Vu\Desktop\prQuanLyMonAn\prQuanLyMonAn\BUI_tier\bin\Debug\office.dll
+C:\Users\Vu\Desktop\prQuanLyMonAn\prQuanLyMonAn\BUI_tier\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\Vu\Desktop\prQuanLyMonAn\prQuanLyMonAn\BUI_tier\bin\Debug\Data_tier.pdb
+C:\Users\Vu\Desktop\prQuanLyMonAn\prQuanLyMonAn\BUI_tier\bin\Debug\Entities.pdb
+C:\Users\Vu\Desktop\prQuanLyMonAn\prQuanLyMonAn\BUI_tier\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Vu\Desktop\prQuanLyMonAn\prQuanLyMonAn\BUI_tier\obj\Debug\BUI_tier.dll
+C:\Users\Vu\Desktop\prQuanLyMonAn\prQuanLyMonAn\BUI_tier\obj\Debug\BUI_tier.pdb
+C:\Users\Vu\Desktop\prQuanLyMonAn\prQuanLyMonAn\BUI_tier\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\Vu\Desktop\prQuanLyMonAn\prQuanLyMonAn\BUI_tier\bin\Debug\office.xml
+C:\Users\Vu\Desktop\prĐề Tài Quản Lý Món Ăn Ngon\prQuanLyMonAn\BUI_tier\bin\Debug\BUI_tier.dll
+C:\Users\Vu\Desktop\prĐề Tài Quản Lý Món Ăn Ngon\prQuanLyMonAn\BUI_tier\bin\Debug\BUI_tier.pdb
+C:\Users\Vu\Desktop\prĐề Tài Quản Lý Món Ăn Ngon\prQuanLyMonAn\BUI_tier\bin\Debug\Data_tier.dll
+C:\Users\Vu\Desktop\prĐề Tài Quản Lý Món Ăn Ngon\prQuanLyMonAn\BUI_tier\bin\Debug\Entities.dll
+C:\Users\Vu\Desktop\prĐề Tài Quản Lý Món Ăn Ngon\prQuanLyMonAn\BUI_tier\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\Vu\Desktop\prĐề Tài Quản Lý Món Ăn Ngon\prQuanLyMonAn\BUI_tier\bin\Debug\office.dll
+C:\Users\Vu\Desktop\prĐề Tài Quản Lý Món Ăn Ngon\prQuanLyMonAn\BUI_tier\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\Vu\Desktop\prĐề Tài Quản Lý Món Ăn Ngon\prQuanLyMonAn\BUI_tier\bin\Debug\Data_tier.pdb
+C:\Users\Vu\Desktop\prĐề Tài Quản Lý Món Ăn Ngon\prQuanLyMonAn\BUI_tier\bin\Debug\Entities.pdb
+C:\Users\Vu\Desktop\prĐề Tài Quản Lý Món Ăn Ngon\prQuanLyMonAn\BUI_tier\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\Vu\Desktop\prĐề Tài Quản Lý Món Ăn Ngon\prQuanLyMonAn\BUI_tier\bin\Debug\office.xml
+C:\Users\Vu\Desktop\prĐề Tài Quản Lý Món Ăn Ngon\prQuanLyMonAn\BUI_tier\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Vu\Desktop\prĐề Tài Quản Lý Món Ăn Ngon\prQuanLyMonAn\BUI_tier\obj\Debug\BUI_tier.dll
+C:\Users\Vu\Desktop\prĐề Tài Quản Lý Món Ăn Ngon\prQuanLyMonAn\BUI_tier\obj\Debug\BUI_tier.pdb

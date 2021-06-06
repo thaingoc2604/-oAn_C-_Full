@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuanLyPhongMach", "QuanLyPhongMach\QuanLyPhongMach.csproj", "{DC3F12EB-0323-41E9-8CEF-2AB19D05E690}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAO", "DAO\DAO.csproj", "{F1B9BD87-EC58-475A-8EC1-1AE43A037AEE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DTO", "DTO\DTO.csproj", "{0B606B25-BCCF-45C0-978B-8A69D6F41FD6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BUS", "BUS\BUS.csproj", "{E200F66B-35D2-46BC-8F89-C9AF44EF841E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC3F12EB-0323-41E9-8CEF-2AB19D05E690}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC3F12EB-0323-41E9-8CEF-2AB19D05E690}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC3F12EB-0323-41E9-8CEF-2AB19D05E690}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC3F12EB-0323-41E9-8CEF-2AB19D05E690}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1B9BD87-EC58-475A-8EC1-1AE43A037AEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1B9BD87-EC58-475A-8EC1-1AE43A037AEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1B9BD87-EC58-475A-8EC1-1AE43A037AEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1B9BD87-EC58-475A-8EC1-1AE43A037AEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B606B25-BCCF-45C0-978B-8A69D6F41FD6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B606B25-BCCF-45C0-978B-8A69D6F41FD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B606B25-BCCF-45C0-978B-8A69D6F41FD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B606B25-BCCF-45C0-978B-8A69D6F41FD6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E200F66B-35D2-46BC-8F89-C9AF44EF841E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E200F66B-35D2-46BC-8F89-C9AF44EF841E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E200F66B-35D2-46BC-8F89-C9AF44EF841E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E200F66B-35D2-46BC-8F89-C9AF44EF841E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

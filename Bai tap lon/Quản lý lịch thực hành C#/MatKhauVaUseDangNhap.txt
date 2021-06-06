@@ -1,0 +1,3 @@
+Dang nhap admin va dang nhap vao sinh vien:
+Ten :phuong,pass :1234
+Ten :sang,pass:1234

@@ -1,0 +1,75 @@
+C:\Documents and Settings\Terminator_nst\Desktop\QLXM-8\QLXM-8\bin\Debug\QLXM-8.exe
+C:\Documents and Settings\Terminator_nst\Desktop\QLXM-8\QLXM-8\bin\Debug\QLXM-8.pdb
+C:\Documents and Settings\Terminator_nst\Desktop\QLXM-8\QLXM-8\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Terminator_nst\Desktop\QLXM-8\QLXM-8\obj\Debug\QLXM_8.Properties.Resources.resources
+C:\Documents and Settings\Terminator_nst\Desktop\QLXM-8\QLXM-8\obj\Debug\QLXM-8.csproj.GenerateResource.Cache
+C:\Documents and Settings\Terminator_nst\Desktop\QLXM-8\QLXM-8\obj\Debug\QLXM-8.exe
+C:\Documents and Settings\Terminator_nst\Desktop\QLXM-8\QLXM-8\obj\Debug\QLXM-8.pdb
+C:\Documents and Settings\Terminator_nst\Desktop\QLXM-8\QLXM-8\obj\Debug\QLXM_8.main.resources
+C:\Documents and Settings\Terminator_nst\Desktop\QLXM-8\QLXM-8\obj\Debug\QLXM_8.about.resources
+C:\Documents and Settings\Terminator_nst\Desktop\QLXM-8\QLXM-8\obj\Debug\QLXM_8.qlkh.resources
+C:\Documents and Settings\Terminator_nst\Desktop\QLXM-8\QLXM-8\obj\Debug\QLXM_8.qlncc.resources
+C:\Documents and Settings\Terminator_nst\Desktop\QLXM-8\QLXM-8\bin\Debug\QLXM-8.exe.config
+C:\Documents and Settings\Terminator_nst\Desktop\QLXM-8\QLXM-8\obj\Debug\QLXM_8.qlxe.resources
+C:\Documents and Settings\Terminator_nst\Desktop\QLXM-8\QLXM-8\obj\Debug\QLXM_8.hoadontt.resources
+C:\Users\SonTung\Desktop\QLXM-8\QLXM-8\bin\Debug\QLXM-8.exe.config
+C:\Users\SonTung\Desktop\QLXM-8\QLXM-8\obj\Debug\QLXM-8.exe
+C:\Users\SonTung\Desktop\QLXM-8\QLXM-8\obj\Debug\QLXM-8.pdb
+C:\Users\SonTung\Desktop\QLXM-8\QLXM-8\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\SonTung\Desktop\QLXM-8\QLXM-8\obj\Debug\QLXM_8.about.resources
+C:\Users\SonTung\Desktop\QLXM-8\QLXM-8\obj\Debug\QLXM_8.hoadontt.resources
+C:\Users\SonTung\Desktop\QLXM-8\QLXM-8\obj\Debug\QLXM_8.main.resources
+C:\Users\SonTung\Desktop\QLXM-8\QLXM-8\obj\Debug\QLXM_8.qlkh.resources
+C:\Users\SonTung\Desktop\QLXM-8\QLXM-8\obj\Debug\QLXM_8.qlncc.resources
+C:\Users\SonTung\Desktop\QLXM-8\QLXM-8\obj\Debug\QLXM_8.qlxe.resources
+C:\Users\SonTung\Desktop\QLXM-8\QLXM-8\obj\Debug\QLXM_8.Properties.Resources.resources
+C:\Users\SonTung\Desktop\QLXM-8\QLXM-8\obj\Debug\QLXM-8.csproj.GenerateResource.Cache
+C:\Users\SonTung\Desktop\QLXM-8\QLXM-8\bin\Debug\QLXM-8.exe
+C:\Users\SonTung\Desktop\QLXM-8\QLXM-8\bin\Debug\QLXM-8.pdb
+C:\Users\SonTung\Desktop\QLXM-8\QLXM-8\obj\Debug\QLXM_8.qlhdbh.resources
+C:\Users\SonTung\Desktop\QLXM-8\QLXM-8\obj\Debug\QLXM_8.qlnhomxe.resources
+C:\Users\SonTung\Desktop\QLXM-8\QLXM-8\obj\Debug\QLXM_8.qlphieunhap.resources
+C:\Users\SonTung\Desktop\QLXM-8\QLXM-8\obj\Debug\QLXM_8.qlbaohanh.resources
+C:\Users\SonTung\Desktop\QLXM-8\QLXM-8\obj\Debug\QLXM_8.qlnhanvien.resources
+C:\Users\SonTung\Desktop\QLXM-8\QLXM-8\obj\Debug\QLXM_8.tkkhach.resources
+C:\Users\SonTung\Desktop\QLXM-8\QLXM-8\obj\Debug\QLXM_8.tkncc.resources
+C:\Users\SonTung\Desktop\QLXM-8\QLXM-8\obj\Debug\QLXM_8.tkhoadontt.resources
+C:\Users\SonTung\Desktop\QLXM-8\QLXM-8\obj\Debug\QLXM_8.tkhoadonbanhang.resources
+C:\Users\SonTung\Desktop\QLXM-8\QLXM-8\obj\Debug\QLXM_8.tkphieunhap.resources
+C:\Users\SonTung\Desktop\QLXM-8\QLXM-8\obj\Debug\QLXM_8.tknhanvien.resources
+C:\Users\SonTung\Desktop\QLXM-8\QLXM-8\obj\Debug\QLXM_8.RPKhachhang.resources
+C:\Users\SonTung\Desktop\QLXM-8\QLXM-8\obj\Debug\QLXM_8.RPBanhang.resources
+C:\Users\SonTung\Desktop\QLXM-8\QLXM-8\obj\Debug\QLXM_8.RPNhaphang.resources
+C:\Users\SonTung\Desktop\QLXM-8\QLXM-8\obj\Debug\QLXM_8.Login.resources
+G:\QLXM-8\QLXM-8\bin\Debug\QLXM-8.exe.config
+G:\QLXM-8\QLXM-8\obj\Debug\QLXM-8.exe
+G:\QLXM-8\QLXM-8\obj\Debug\QLXM-8.pdb
+D:\CNTT16GT\TIN16GT_Finish\Nhom 8\QLXM-8\QLXM-8\bin\Debug\QLXM-8.exe.config
+D:\CNTT16GT\TIN16GT_Finish\Nhom 8\QLXM-8\QLXM-8\obj\Debug\QLXM-8.exe
+D:\CNTT16GT\TIN16GT_Finish\Nhom 8\QLXM-8\QLXM-8\obj\Debug\QLXM-8.pdb
+D:\CNTT16GT\TIN16GT_Finish\Nhom 8\QLXM-8\QLXM-8\bin\Debug\QLXM-8.exe
+D:\CNTT16GT\TIN16GT_Finish\Nhom 8\QLXM-8\QLXM-8\bin\Debug\QLXM-8.pdb
+D:\CNTT16GT\TIN16GT_Finish\Nhom 8\QLXM-8\QLXM-8\obj\Debug\ResolveAssemblyReference.cache
+D:\CNTT16GT\TIN16GT_Finish\Nhom 8\QLXM-8\QLXM-8\obj\Debug\QLXM_8.RPBanhang.resources
+D:\CNTT16GT\TIN16GT_Finish\Nhom 8\QLXM-8\QLXM-8\obj\Debug\QLXM_8.RPNhaphang.resources
+D:\CNTT16GT\TIN16GT_Finish\Nhom 8\QLXM-8\QLXM-8\obj\Debug\QLXM_8.about.resources
+D:\CNTT16GT\TIN16GT_Finish\Nhom 8\QLXM-8\QLXM-8\obj\Debug\QLXM_8.hoadontt.resources
+D:\CNTT16GT\TIN16GT_Finish\Nhom 8\QLXM-8\QLXM-8\obj\Debug\QLXM_8.Login.resources
+D:\CNTT16GT\TIN16GT_Finish\Nhom 8\QLXM-8\QLXM-8\obj\Debug\QLXM_8.main.resources
+D:\CNTT16GT\TIN16GT_Finish\Nhom 8\QLXM-8\QLXM-8\obj\Debug\QLXM_8.qlbaohanh.resources
+D:\CNTT16GT\TIN16GT_Finish\Nhom 8\QLXM-8\QLXM-8\obj\Debug\QLXM_8.qlhdbh.resources
+D:\CNTT16GT\TIN16GT_Finish\Nhom 8\QLXM-8\QLXM-8\obj\Debug\QLXM_8.qlkh.resources
+D:\CNTT16GT\TIN16GT_Finish\Nhom 8\QLXM-8\QLXM-8\obj\Debug\QLXM_8.qlncc.resources
+D:\CNTT16GT\TIN16GT_Finish\Nhom 8\QLXM-8\QLXM-8\obj\Debug\QLXM_8.qlnhanvien.resources
+D:\CNTT16GT\TIN16GT_Finish\Nhom 8\QLXM-8\QLXM-8\obj\Debug\QLXM_8.qlnhomxe.resources
+D:\CNTT16GT\TIN16GT_Finish\Nhom 8\QLXM-8\QLXM-8\obj\Debug\QLXM_8.qlphieunhap.resources
+D:\CNTT16GT\TIN16GT_Finish\Nhom 8\QLXM-8\QLXM-8\obj\Debug\QLXM_8.qlxe.resources
+D:\CNTT16GT\TIN16GT_Finish\Nhom 8\QLXM-8\QLXM-8\obj\Debug\QLXM_8.tkhoadonbanhang.resources
+D:\CNTT16GT\TIN16GT_Finish\Nhom 8\QLXM-8\QLXM-8\obj\Debug\QLXM_8.tkhoadontt.resources
+D:\CNTT16GT\TIN16GT_Finish\Nhom 8\QLXM-8\QLXM-8\obj\Debug\QLXM_8.tkkhach.resources
+D:\CNTT16GT\TIN16GT_Finish\Nhom 8\QLXM-8\QLXM-8\obj\Debug\QLXM_8.tkncc.resources
+D:\CNTT16GT\TIN16GT_Finish\Nhom 8\QLXM-8\QLXM-8\obj\Debug\QLXM_8.tknhanvien.resources
+D:\CNTT16GT\TIN16GT_Finish\Nhom 8\QLXM-8\QLXM-8\obj\Debug\QLXM_8.tkphieunhap.resources
+D:\CNTT16GT\TIN16GT_Finish\Nhom 8\QLXM-8\QLXM-8\obj\Debug\QLXM_8.Properties.Resources.resources
+D:\CNTT16GT\TIN16GT_Finish\Nhom 8\QLXM-8\QLXM-8\obj\Debug\QLXM_8.RPKhachhang.resources
+D:\CNTT16GT\TIN16GT_Finish\Nhom 8\QLXM-8\QLXM-8\obj\Debug\QLXM-8.csproj.GenerateResource.Cache

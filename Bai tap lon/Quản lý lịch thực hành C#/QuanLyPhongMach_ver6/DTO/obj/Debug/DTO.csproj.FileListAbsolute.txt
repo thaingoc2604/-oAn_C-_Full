@@ -1,0 +1,25 @@
+D:\Projects Visual 2008\QuanLyPhongMach\DTO\bin\Debug\DTO.dll
+D:\Projects Visual 2008\QuanLyPhongMach\DTO\bin\Debug\DTO.pdb
+D:\Projects Visual 2008\QuanLyPhongMach\DTO\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects Visual 2008\QuanLyPhongMach\DTO\obj\Debug\DTO.dll
+D:\Projects Visual 2008\QuanLyPhongMach\DTO\obj\Debug\DTO.pdb
+C:\Documents and Settings\MANH TUAN\Desktop\QuanLyPhongMach\DTO\bin\Debug\DTO.dll
+C:\Documents and Settings\MANH TUAN\Desktop\QuanLyPhongMach\DTO\bin\Debug\DTO.pdb
+C:\Documents and Settings\MANH TUAN\Desktop\QuanLyPhongMach\DTO\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\MANH TUAN\Desktop\QuanLyPhongMach\DTO\obj\Debug\DTO.dll
+C:\Documents and Settings\MANH TUAN\Desktop\QuanLyPhongMach\DTO\obj\Debug\DTO.pdb
+C:\Documents and Settings\MANH TUAN\Desktop\QuanLyPhongMach_ver3\DTO\bin\Debug\DTO.dll
+C:\Documents and Settings\MANH TUAN\Desktop\QuanLyPhongMach_ver3\DTO\bin\Debug\DTO.pdb
+C:\Documents and Settings\MANH TUAN\Desktop\QuanLyPhongMach_ver3\DTO\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\MANH TUAN\Desktop\QuanLyPhongMach_ver3\DTO\obj\Debug\DTO.dll
+C:\Documents and Settings\MANH TUAN\Desktop\QuanLyPhongMach_ver3\DTO\obj\Debug\DTO.pdb
+C:\Documents and Settings\MANH TUAN\Desktop\QuanLyPhongMach_ver4\DTO\bin\Debug\DTO.dll
+C:\Documents and Settings\MANH TUAN\Desktop\QuanLyPhongMach_ver4\DTO\bin\Debug\DTO.pdb
+C:\Documents and Settings\MANH TUAN\Desktop\QuanLyPhongMach_ver4\DTO\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\MANH TUAN\Desktop\QuanLyPhongMach_ver4\DTO\obj\Debug\DTO.dll
+C:\Documents and Settings\MANH TUAN\Desktop\QuanLyPhongMach_ver4\DTO\obj\Debug\DTO.pdb
+C:\Documents and Settings\Vu Manh Tuan\Desktop\QuanLyPhongMach_ver5\DTO\bin\Debug\DTO.dll
+C:\Documents and Settings\Vu Manh Tuan\Desktop\QuanLyPhongMach_ver5\DTO\bin\Debug\DTO.pdb
+C:\Documents and Settings\Vu Manh Tuan\Desktop\QuanLyPhongMach_ver5\DTO\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Vu Manh Tuan\Desktop\QuanLyPhongMach_ver5\DTO\obj\Debug\DTO.dll
+C:\Documents and Settings\Vu Manh Tuan\Desktop\QuanLyPhongMach_ver5\DTO\obj\Debug\DTO.pdb

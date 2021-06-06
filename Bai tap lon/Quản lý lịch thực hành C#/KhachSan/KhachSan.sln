@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KhachSan", "KhachSan\KhachSan.csproj", "{66CCBB30-BE06-4460-8106-C59E9B13EB17}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KetNoiDL", "KetNoiDL\KetNoiDL.csproj", "{53A726A7-3F35-4112-83EE-1BF54BF1737C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{66CCBB30-BE06-4460-8106-C59E9B13EB17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66CCBB30-BE06-4460-8106-C59E9B13EB17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66CCBB30-BE06-4460-8106-C59E9B13EB17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66CCBB30-BE06-4460-8106-C59E9B13EB17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53A726A7-3F35-4112-83EE-1BF54BF1737C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53A726A7-3F35-4112-83EE-1BF54BF1737C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53A726A7-3F35-4112-83EE-1BF54BF1737C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53A726A7-3F35-4112-83EE-1BF54BF1737C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

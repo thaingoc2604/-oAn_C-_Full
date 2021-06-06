@@ -1,0 +1,9 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Manager_Fortunes.MainForm_Manager.resources
+obj\Debug\Manager_Fortunes.Properties.Resources.resources
+obj\Debug\Manager Fortunes.csproj.GenerateResource.Cache
+bin\Debug\Manager Fortunes.exe
+bin\Debug\Manager Fortunes.pdb
+bin\Debug\DevComponents.DotNetBar2.dll
+obj\Debug\Manager Fortunes.exe
+obj\Debug\Manager Fortunes.pdb

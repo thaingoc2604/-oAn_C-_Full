@@ -1,0 +1,12 @@
+﻿Để có thể dùng được chương trình thì máy bạn phải có cài SQL 2000 . Nếu máy của bạn chưa có SQL 2000 thì bạn có thể cài chương trình này trong đĩa theo hướng dẫn ...
+Nếu máy bạn đã có SQL 2000 hoặc cài đặt xong nó rồi thì bạn có thể vào Start > Program > Microsoft SQL Server > Service Manager nhấn Start (nếu chưa có server thì bạn chọn ở trên)
+Sau đó vào Start > Program > Microsoft SQL Server >Enterprise Manager
+Nhìn qua trái màn hình mới hiện nhấn Double Click vào Microsoft SqL Servers > SQL Server Group > (local)(Windows NT) 
+Nhấn Chuột Phải vào Thư Mục Databases>All Tasks > Attach Database
+Nhấn Vào Nút "..." Sau đó vào ổ đĩa ( đĩa của chương trình này ) chọn file QuanLyDaiLy_Group5_Data.MDF > Sau đó Click OK
+
+Sau đó Bạn làm bước kế tiếp là vào thư mục bạn cài đặt chương trình thi bạn sẽ thấy 1 file có tên là Server.xml ... bạn click chuột phải vào và chọn Open With > Notepad ...
+Bạn Chỉnh tên này tuan-3960ba9c1c thành tên máy của Bạn ...
+
+Tên Máy là gì ?
+Bạn có thấy biểu tượng My Computer ngoài màn hình không ... Bạn nhấn chuột phải vào đó chọn Properties Sau đó chọn Computer Name ở trên ===> Chỗ Full Computer Name là tên máy của bạn đó 

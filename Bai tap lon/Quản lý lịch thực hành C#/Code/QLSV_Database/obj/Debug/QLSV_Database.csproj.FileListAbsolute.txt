@@ -1,0 +1,7 @@
+D:\BaiTap\Phong Thi Nghiem\C#\QuanLySV\QLSV_Database\obj\Debug\ResolveAssemblyReference.cache
+D:\BaiTap\Phong Thi Nghiem\C#\QuanLySV\QLSV_Database\obj\Debug\QLSV_Database.csproj.GenerateResource.Cache
+D:\BaiTap\Phong Thi Nghiem\C#\QuanLySV\QLSV_Database\bin\Debug\QLSV_Database.exe
+D:\BaiTap\Phong Thi Nghiem\C#\QuanLySV\QLSV_Database\bin\Debug\QLSV_Database.pdb
+D:\BaiTap\Phong Thi Nghiem\C#\QuanLySV\QLSV_Database\obj\Debug\QLSV_Database.exe
+D:\BaiTap\Phong Thi Nghiem\C#\QuanLySV\QLSV_Database\obj\Debug\QLSV_Database.pdb
+D:\BaiTap\Phong Thi Nghiem\C#\QuanLySV\QLSV_Database\obj\Debug\QLSV_GiaoDien.Properties.Resources.resources

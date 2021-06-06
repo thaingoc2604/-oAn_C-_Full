@@ -1,0 +1,35 @@
+D:\Projects Visual 2008\QuanLyPhongMach\DAO\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects Visual 2008\QuanLyPhongMach\DAO\bin\Debug\DAO.dll
+D:\Projects Visual 2008\QuanLyPhongMach\DAO\bin\Debug\DAO.pdb
+D:\Projects Visual 2008\QuanLyPhongMach\DAO\bin\Debug\DTO.dll
+D:\Projects Visual 2008\QuanLyPhongMach\DAO\bin\Debug\DTO.pdb
+D:\Projects Visual 2008\QuanLyPhongMach\DAO\obj\Debug\DAO.dll
+D:\Projects Visual 2008\QuanLyPhongMach\DAO\obj\Debug\DAO.pdb
+C:\Documents and Settings\MANH TUAN\Desktop\QuanLyPhongMach\DAO\bin\Debug\DAO.dll
+C:\Documents and Settings\MANH TUAN\Desktop\QuanLyPhongMach\DAO\bin\Debug\DAO.pdb
+C:\Documents and Settings\MANH TUAN\Desktop\QuanLyPhongMach\DAO\bin\Debug\DTO.dll
+C:\Documents and Settings\MANH TUAN\Desktop\QuanLyPhongMach\DAO\bin\Debug\DTO.pdb
+C:\Documents and Settings\MANH TUAN\Desktop\QuanLyPhongMach\DAO\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\MANH TUAN\Desktop\QuanLyPhongMach\DAO\obj\Debug\DAO.dll
+C:\Documents and Settings\MANH TUAN\Desktop\QuanLyPhongMach\DAO\obj\Debug\DAO.pdb
+C:\Documents and Settings\MANH TUAN\Desktop\QuanLyPhongMach_ver3\DAO\bin\Debug\DAO.dll
+C:\Documents and Settings\MANH TUAN\Desktop\QuanLyPhongMach_ver3\DAO\bin\Debug\DAO.pdb
+C:\Documents and Settings\MANH TUAN\Desktop\QuanLyPhongMach_ver3\DAO\bin\Debug\DTO.dll
+C:\Documents and Settings\MANH TUAN\Desktop\QuanLyPhongMach_ver3\DAO\bin\Debug\DTO.pdb
+C:\Documents and Settings\MANH TUAN\Desktop\QuanLyPhongMach_ver3\DAO\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\MANH TUAN\Desktop\QuanLyPhongMach_ver3\DAO\obj\Debug\DAO.dll
+C:\Documents and Settings\MANH TUAN\Desktop\QuanLyPhongMach_ver3\DAO\obj\Debug\DAO.pdb
+C:\Documents and Settings\MANH TUAN\Desktop\QuanLyPhongMach_ver4\DAO\bin\Debug\DAO.dll
+C:\Documents and Settings\MANH TUAN\Desktop\QuanLyPhongMach_ver4\DAO\bin\Debug\DAO.pdb
+C:\Documents and Settings\MANH TUAN\Desktop\QuanLyPhongMach_ver4\DAO\bin\Debug\DTO.dll
+C:\Documents and Settings\MANH TUAN\Desktop\QuanLyPhongMach_ver4\DAO\bin\Debug\DTO.pdb
+C:\Documents and Settings\MANH TUAN\Desktop\QuanLyPhongMach_ver4\DAO\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\MANH TUAN\Desktop\QuanLyPhongMach_ver4\DAO\obj\Debug\DAO.dll
+C:\Documents and Settings\MANH TUAN\Desktop\QuanLyPhongMach_ver4\DAO\obj\Debug\DAO.pdb
+C:\Documents and Settings\Vu Manh Tuan\Desktop\QuanLyPhongMach_ver5\DAO\bin\Debug\DAO.dll
+C:\Documents and Settings\Vu Manh Tuan\Desktop\QuanLyPhongMach_ver5\DAO\bin\Debug\DAO.pdb
+C:\Documents and Settings\Vu Manh Tuan\Desktop\QuanLyPhongMach_ver5\DAO\bin\Debug\DTO.dll
+C:\Documents and Settings\Vu Manh Tuan\Desktop\QuanLyPhongMach_ver5\DAO\bin\Debug\DTO.pdb
+C:\Documents and Settings\Vu Manh Tuan\Desktop\QuanLyPhongMach_ver5\DAO\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Vu Manh Tuan\Desktop\QuanLyPhongMach_ver5\DAO\obj\Debug\DAO.dll
+C:\Documents and Settings\Vu Manh Tuan\Desktop\QuanLyPhongMach_ver5\DAO\obj\Debug\DAO.pdb

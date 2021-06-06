@@ -1,0 +1,520 @@
+<VisualStudioProject>
+    <CSHARP
+        ProjectType = "Local"
+        ProductVersion = "7.10.3077"
+        SchemaVersion = "2.0"
+        ProjectGuid = "{76155E96-E533-4E1B-8CCA-E4EAD6039347}"
+    >
+        <Build>
+            <Settings
+                ApplicationIcon = "App.ico"
+                AssemblyKeyContainerName = ""
+                AssemblyName = "Quan_Ly_Mua_Ban"
+                AssemblyOriginatorKeyFile = ""
+                DefaultClientScript = "JScript"
+                DefaultHTMLPageLayout = "Grid"
+                DefaultTargetSchema = "IE50"
+                DelaySign = "false"
+                OutputType = "WinExe"
+                PreBuildEvent = ""
+                PostBuildEvent = ""
+                RootNamespace = "Quan_Ly_Mua_Ban"
+                RunPostBuildEvent = "OnBuildSuccess"
+                StartupObject = ""
+            >
+                <Config
+                    Name = "Debug"
+                    AllowUnsafeBlocks = "false"
+                    BaseAddress = "285212672"
+                    CheckForOverflowUnderflow = "false"
+                    ConfigurationOverrideFile = ""
+                    DefineConstants = "DEBUG;TRACE"
+                    DocumentationFile = ""
+                    DebugSymbols = "true"
+                    FileAlignment = "4096"
+                    IncrementalBuild = "false"
+                    NoStdLib = "false"
+                    NoWarn = ""
+                    Optimize = "false"
+                    OutputPath = "bin\Debug\"
+                    RegisterForComInterop = "false"
+                    RemoveIntegerChecks = "false"
+                    TreatWarningsAsErrors = "false"
+                    WarningLevel = "4"
+                />
+                <Config
+                    Name = "Release"
+                    AllowUnsafeBlocks = "false"
+                    BaseAddress = "285212672"
+                    CheckForOverflowUnderflow = "false"
+                    ConfigurationOverrideFile = ""
+                    DefineConstants = "TRACE"
+                    DocumentationFile = ""
+                    DebugSymbols = "false"
+                    FileAlignment = "4096"
+                    IncrementalBuild = "false"
+                    NoStdLib = "false"
+                    NoWarn = ""
+                    Optimize = "true"
+                    OutputPath = "bin\Release\"
+                    RegisterForComInterop = "false"
+                    RemoveIntegerChecks = "false"
+                    TreatWarningsAsErrors = "false"
+                    WarningLevel = "4"
+                />
+            </Settings>
+            <References>
+                <Reference
+                    Name = "System"
+                    AssemblyName = "System"
+                    HintPath = "C:\WINDOWS\Microsoft.NET\Framework\v1.1.4322\System.dll"
+                />
+                <Reference
+                    Name = "System.Data"
+                    AssemblyName = "System.Data"
+                    HintPath = "C:\WINDOWS\Microsoft.NET\Framework\v1.1.4322\System.Data.dll"
+                />
+                <Reference
+                    Name = "System.Drawing"
+                    AssemblyName = "System.Drawing"
+                    HintPath = "C:\WINDOWS\Microsoft.NET\Framework\v1.1.4322\System.Drawing.dll"
+                />
+                <Reference
+                    Name = "System.Windows.Forms"
+                    AssemblyName = "System.Windows.Forms"
+                    HintPath = "C:\WINDOWS\Microsoft.NET\Framework\v1.1.4322\System.Windows.Forms.dll"
+                />
+                <Reference
+                    Name = "System.XML"
+                    AssemblyName = "System.Xml"
+                    HintPath = "C:\WINDOWS\Microsoft.NET\Framework\v1.1.4322\System.XML.dll"
+                />
+                <Reference
+                    Name = "CrystalDecisions.Shared"
+                    AssemblyName = "CrystalDecisions.Shared"
+                    HintPath = "C:\Program Files\Common Files\Crystal Decisions\1.1\Managed\CrystalDecisions.Shared.dll"
+                    AssemblyFolderKey = "hklm\crystal.net"
+                />
+                <Reference
+                    Name = "CrystalDecisions.ReportSource"
+                    AssemblyName = "CrystalDecisions.ReportSource"
+                    HintPath = "C:\Program Files\Common Files\Crystal Decisions\1.1\Managed\CrystalDecisions.ReportSource.dll"
+                    AssemblyFolderKey = "hklm\crystal.net"
+                />
+                <Reference
+                    Name = "CrystalDecisions.CrystalReports.Engine"
+                    AssemblyName = "CrystalDecisions.CrystalReports.Engine"
+                    HintPath = "C:\Program Files\Common Files\Crystal Decisions\1.1\Managed\CrystalDecisions.CrystalReports.Engine.dll"
+                    AssemblyFolderKey = "hklm\crystal.net"
+                />
+                <Reference
+                    Name = "CrystalDecisions.Windows.Forms"
+                    AssemblyName = "CrystalDecisions.Windows.Forms"
+                    HintPath = "C:\Program Files\Common Files\Crystal Decisions\1.1\Managed\CrystalDecisions.Windows.Forms.dll"
+                    AssemblyFolderKey = "hklm\crystal.net"
+                />
+                <Reference
+                    Name = "System.Web.Services"
+                    AssemblyName = "System.Web.Services"
+                    HintPath = "C:\WINDOWS\Microsoft.NET\Framework\v1.1.4322\System.Web.Services.dll"
+                />
+            </References>
+        </Build>
+        <Files>
+            <Include>
+                <File
+                    RelPath = "Amin.cs"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Amin.resx"
+                    DependentUpon = "Amin.cs"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "app.config"
+                    BuildAction = "None"
+                />
+                <File
+                    RelPath = "App.ico"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "AssemblyInfo.cs"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "BaoCaoChiTietHopDong.cs"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "BaoCaoChiTietHopDong.resx"
+                    DependentUpon = "BaoCaoChiTietHopDong.cs"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "BaoCaoChiTietHopDongMua.cs"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "BaoCaoChiTietHopDongMua.resx"
+                    DependentUpon = "BaoCaoChiTietHopDongMua.cs"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "BaoCaoHangHoa.cs"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "BaoCaoHangHoa.resx"
+                    DependentUpon = "BaoCaoHangHoa.cs"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "BaoCaoPhieuChi.cs"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "BaoCaoPhieuChi.resx"
+                    DependentUpon = "BaoCaoPhieuChi.cs"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "BaoCaoPhieuThu.cs"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "BaoCaoPhieuThu.resx"
+                    DependentUpon = "BaoCaoPhieuThu.cs"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "CheckError.cs"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Chi_Tiet_Don_Hang.cs"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Chi_Tiet_Don_Hang.resx"
+                    DependentUpon = "Chi_Tiet_Don_Hang.cs"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Chi_Tiet_Hop_Dong_Cung_Ung.cs"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Chi_Tiet_Hop_Dong_Cung_Ung.resx"
+                    DependentUpon = "Chi_Tiet_Hop_Dong_Cung_Ung.cs"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "ConnectSQL.cs"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "ConnectSQL.resx"
+                    DependentUpon = "ConnectSQL.cs"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "connet.cs"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "DisplayIcon.cs"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "frmAbout.cs"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "frmAbout.resx"
+                    DependentUpon = "frmAbout.cs"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Gia.cs"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Gia.resx"
+                    DependentUpon = "Gia.cs"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Hang_Hoa_Loai.cs"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Hang_Hoa_Loai.resx"
+                    DependentUpon = "Hang_Hoa_Loai.cs"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Hang_Hoa_Thong_ke.cs"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Hang_Hoa_Thong_ke.resx"
+                    DependentUpon = "Hang_Hoa_Thong_ke.cs"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "HinhAnh.cs"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "HinhAnh.resx"
+                    DependentUpon = "HinhAnh.cs"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "K_Hang_Thong_ke.cs"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "K_Hang_Thong_ke.resx"
+                    DependentUpon = "K_Hang_Thong_ke.cs"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Khach_Hang_Nhom.cs"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Khach_Hang_Nhom.resx"
+                    DependentUpon = "Khach_Hang_Nhom.cs"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "KhachOnly.cs"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "KhachOnly.resx"
+                    DependentUpon = "KhachOnly.cs"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Log_on.cs"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Log_on.resx"
+                    DependentUpon = "Log_on.cs"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Luu_Tru_Hop_Dong_Ban.cs"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Luu_Tru_Hop_Dong_Ban.resx"
+                    DependentUpon = "Luu_Tru_Hop_Dong_Ban.cs"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Luu_Tru_Hop_Dong_Mua.cs"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Luu_Tru_Hop_Dong_Mua.resx"
+                    DependentUpon = "Luu_Tru_Hop_Dong_Mua.cs"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Main.cs"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Main.resx"
+                    DependentUpon = "Main.cs"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Nha_Cung_Ung_Nhom.cs"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Nha_Cung_Ung_Nhom.resx"
+                    DependentUpon = "Nha_Cung_Ung_Nhom.cs"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Nha_Cung_Ung_Thong_ke.cs"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Nha_Cung_Ung_Thong_ke.resx"
+                    DependentUpon = "Nha_Cung_Ung_Thong_ke.cs"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Phieu_Chi_Hop_Dong_Mua.cs"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Phieu_Chi_Hop_Dong_Mua.resx"
+                    DependentUpon = "Phieu_Chi_Hop_Dong_Mua.cs"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Phieu_Thu_Hop_Dong_Ban.cs"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Phieu_Thu_Hop_Dong_Ban.resx"
+                    DependentUpon = "Phieu_Thu_Hop_Dong_Ban.cs"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "ReporChiTietHopDongMua.rpt"
+                    BuildAction = "EmbeddedResource"
+                    Generator = "CrystalDecisions.VSShell.CodeGen.ReportCodeGenerator"
+                    LastGenOutput = "ReporChiTietHopDongMua.cs"
+                />
+                <File
+                    RelPath = "ReporChiTietHopDongMua.cs"
+                    DependentUpon = "ReporChiTietHopDongMua.rpt"
+                    SubType = "Component"
+                    BuildAction = "Compile"
+                    DesignTime = "True"
+                    AutoGen = "True"
+                />
+                <File
+                    RelPath = "ReportChiTietHopDong.rpt"
+                    BuildAction = "EmbeddedResource"
+                    Generator = "CrystalDecisions.VSShell.CodeGen.ReportCodeGenerator"
+                    LastGenOutput = "ReportChiTietHopDong.cs"
+                />
+                <File
+                    RelPath = "ReportChiTietHopDong.cs"
+                    DependentUpon = "ReportChiTietHopDong.rpt"
+                    SubType = "Component"
+                    BuildAction = "Compile"
+                    DesignTime = "True"
+                    AutoGen = "True"
+                />
+                <File
+                    RelPath = "ReportHangHoa.rpt"
+                    BuildAction = "EmbeddedResource"
+                    Generator = "CrystalDecisions.VSShell.CodeGen.ReportCodeGenerator"
+                    LastGenOutput = "ReportHangHoa.cs"
+                />
+                <File
+                    RelPath = "ReportHangHoa.cs"
+                    DependentUpon = "ReportHangHoa.rpt"
+                    SubType = "Component"
+                    BuildAction = "Compile"
+                    DesignTime = "True"
+                    AutoGen = "True"
+                />
+                <File
+                    RelPath = "ReportPhieuChi.rpt"
+                    BuildAction = "EmbeddedResource"
+                    Generator = "CrystalDecisions.VSShell.CodeGen.ReportCodeGenerator"
+                    LastGenOutput = "ReportPhieuChi.cs"
+                />
+                <File
+                    RelPath = "ReportPhieuChi.cs"
+                    DependentUpon = "ReportPhieuChi.rpt"
+                    SubType = "Component"
+                    BuildAction = "Compile"
+                    DesignTime = "True"
+                    AutoGen = "True"
+                />
+                <File
+                    RelPath = "ReportPhieuThu.rpt"
+                    BuildAction = "EmbeddedResource"
+                    Generator = "CrystalDecisions.VSShell.CodeGen.ReportCodeGenerator"
+                    LastGenOutput = "ReportPhieuThu.cs"
+                />
+                <File
+                    RelPath = "ReportPhieuThu.cs"
+                    DependentUpon = "ReportPhieuThu.rpt"
+                    SubType = "Component"
+                    BuildAction = "Compile"
+                    DesignTime = "True"
+                    AutoGen = "True"
+                />
+                <File
+                    RelPath = "Thong_Ke_Hop_Dong_Ban.cs"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Thong_Ke_Hop_Dong_Ban.resx"
+                    DependentUpon = "Thong_Ke_Hop_Dong_Ban.cs"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Thong_Ke_Hop_Dong_Mua.cs"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Thong_Ke_Hop_Dong_Mua.resx"
+                    DependentUpon = "Thong_Ke_Hop_Dong_Mua.cs"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Thong_ke_K_Hang_Only.cs"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Thong_ke_K_Hang_Only.resx"
+                    DependentUpon = "Thong_ke_K_Hang_Only.cs"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Tim_Kiem_S1.cs"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Tim_Kiem_S1.resx"
+                    DependentUpon = "Tim_Kiem_S1.cs"
+                    BuildAction = "EmbeddedResource"
+                />
+            </Include>
+        </Files>
+        <StartupServices>
+            <Service ID = "{CF845C55-C321-4742-B673-E6212D061ED9}" />
+        </StartupServices>
+    </CSHARP>
+</VisualStudioProject>
+

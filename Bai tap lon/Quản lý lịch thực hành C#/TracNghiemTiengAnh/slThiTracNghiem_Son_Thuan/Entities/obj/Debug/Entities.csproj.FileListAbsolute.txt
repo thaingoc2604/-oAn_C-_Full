@@ -1,0 +1,15 @@
+E:\1.........C#\C# 2\1...........De Tai\2..............source Trac Nghiem Chinh Thuc\slThiTracNghiem_Son_Thuan\Entities\bin\Debug\Entities.dll
+E:\1.........C#\C# 2\1...........De Tai\2..............source Trac Nghiem Chinh Thuc\slThiTracNghiem_Son_Thuan\Entities\bin\Debug\Entities.pdb
+E:\1.........C#\C# 2\1...........De Tai\2..............source Trac Nghiem Chinh Thuc\slThiTracNghiem_Son_Thuan\Entities\obj\Debug\ResolveAssemblyReference.cache
+E:\1.........C#\C# 2\1...........De Tai\2..............source Trac Nghiem Chinh Thuc\slThiTracNghiem_Son_Thuan\Entities\obj\Debug\Entities.dll
+E:\1.........C#\C# 2\1...........De Tai\2..............source Trac Nghiem Chinh Thuc\slThiTracNghiem_Son_Thuan\Entities\obj\Debug\Entities.pdb
+C:\Users\bh\Desktop\slThiTracNghiem_Son_Thuan\Entities\bin\Debug\Entities.dll
+C:\Users\bh\Desktop\slThiTracNghiem_Son_Thuan\Entities\bin\Debug\Entities.pdb
+C:\Users\bh\Desktop\slThiTracNghiem_Son_Thuan\Entities\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\bh\Desktop\slThiTracNghiem_Son_Thuan\Entities\obj\Debug\Entities.dll
+C:\Users\bh\Desktop\slThiTracNghiem_Son_Thuan\Entities\obj\Debug\Entities.pdb
+E:\slThiTracNghiem_Son_Thuan\Entities\bin\Debug\Entities.dll
+E:\slThiTracNghiem_Son_Thuan\Entities\bin\Debug\Entities.pdb
+E:\slThiTracNghiem_Son_Thuan\Entities\obj\Debug\ResolveAssemblyReference.cache
+E:\slThiTracNghiem_Son_Thuan\Entities\obj\Debug\Entities.dll
+E:\slThiTracNghiem_Son_Thuan\Entities\obj\Debug\Entities.pdb

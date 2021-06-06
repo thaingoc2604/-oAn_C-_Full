@@ -1,0 +1,314 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{8CEB866B-7DB8-4E41-AD3B-D895E43D5D07}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Accounting</RootNamespace>
+    <AssemblyName>Accounting</AssemblyName>
+    <ApplicationIcon>documents_yellow_edit.ico</ApplicationIcon>
+    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>2.0</OldToolsVersion>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=10.2.3600.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Enterprise.Framework, Version=10.2.3600.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Enterprise.InfoStore, Version=10.2.3600.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=10.2.3600.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Shared, Version=10.2.3600.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=10.2.3600.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="DevComponents.DotNetBar2, Version=7.3.0.1, Culture=neutral, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Charts.v8.1.Core, Version=8.1.2.0, Culture=neutral, PublicKeyToken=49d90c14d24271b5, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Data.v8.1, Version=8.1.2.0, Culture=neutral, PublicKeyToken=49d90c14d24271b5, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Utils.v8.1, Version=8.1.2.0, Culture=neutral, PublicKeyToken=49d90c14d24271b5, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraCharts.v8.1, Version=8.1.2.0, Culture=neutral, PublicKeyToken=49d90c14d24271b5, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraEditors.v8.1, Version=8.1.2.0, Culture=neutral, PublicKeyToken=49d90c14d24271b5, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraLayout.v8.1, Version=8.1.2.0, Culture=neutral, PublicKeyToken=49d90c14d24271b5" />
+    <Reference Include="DevExpress.XtraPivotGrid.v8.1, Version=8.1.2.0, Culture=neutral, PublicKeyToken=49d90c14d24271b5, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraPivotGrid.v8.1.Core, Version=8.1.2.0, Culture=neutral, PublicKeyToken=49d90c14d24271b5, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraPrinting.v8.1, Version=8.1.2.0, Culture=neutral, PublicKeyToken=49d90c14d24271b5, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraReports.v8.1, Version=8.1.2.0, Culture=neutral, PublicKeyToken=49d90c14d24271b5, processorArchitecture=MSIL" />
+    <Reference Include="Janus.Data.v3, Version=3.5.0.0, Culture=neutral, PublicKeyToken=ea4a2aac6777dfdd, processorArchitecture=MSIL" />
+    <Reference Include="Janus.Windows.CalendarCombo.v3, Version=3.5.0.0, Culture=neutral, PublicKeyToken=ea4a2aac6777dfdd, processorArchitecture=MSIL" />
+    <Reference Include="Janus.Windows.Common.v3, Version=3.5.0.0, Culture=neutral, PublicKeyToken=ea4a2aac6777dfdd, processorArchitecture=MSIL" />
+    <Reference Include="Janus.Windows.GridEX.v3, Version=3.5.0.0, Culture=neutral, PublicKeyToken=ea4a2aac6777dfdd, processorArchitecture=MSIL" />
+    <Reference Include="Janus.Windows.UI.v3, Version=3.5.0.0, Culture=neutral, PublicKeyToken=ea4a2aac6777dfdd, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.OracleClient" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Drawing.Design" />
+    <Reference Include="System.Runtime.Serialization.Formatters.Soap" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\WINDOWS\assembly\GAC_MSIL\System.Web.Services\2.0.0.0__b03f5f7f11d50a3a\System.Web.Services.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="vnConvert, Version=1.0.2723.36603, Culture=neutral, processorArchitecture=MSIL" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DataSet_ThuChi.cs">
+      <DependentUpon>DataSet_ThuChi.xsd</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="DataSet_ThuChi.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet_ThuChi.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Form_Main.cs" />
+    <Compile Include="Form_Main.Designer.cs">
+      <DependentUpon>Form_Main.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_Confirm.cs" />
+    <Compile Include="Form_Confirm.Designer.cs">
+      <DependentUpon>Form_Confirm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_Info.cs" />
+    <Compile Include="Form_Info.Designer.cs">
+      <DependentUpon>Form_Info.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_DienGiai.cs" />
+    <Compile Include="Form_DienGiai.Designer.cs">
+      <DependentUpon>Form_DienGiai.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_ThongtinPhieu.cs" />
+    <Compile Include="Form_ThongtinPhieu.Designer.cs">
+      <DependentUpon>Form_ThongtinPhieu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_UserList.cs" />
+    <Compile Include="Form_UserList.Designer.cs">
+      <DependentUpon>Form_UserList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_Config.cs" />
+    <Compile Include="Frm_Config.Designer.cs">
+      <DependentUpon>Frm_Config.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_ImportChungTuThuChi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_ImportChungTuThuChi.Designer.cs">
+      <DependentUpon>Frm_ImportChungTuThuChi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_BaoCao.cs" />
+    <Compile Include="Frm_BaoCao.Designer.cs">
+      <DependentUpon>Frm_BaoCao.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_DangNhap.cs" />
+    <Compile Include="Frm_DangNhap.Designer.cs">
+      <DependentUpon>Frm_DangNhap.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_LapPhieuChi.cs" />
+    <Compile Include="Frm_LapPhieuChi.Designer.cs">
+      <DependentUpon>Frm_LapPhieuChi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_LapPhieuThu.cs" />
+    <Compile Include="Frm_LapPhieuThu.Designer.cs">
+      <DependentUpon>Frm_LapPhieuThu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_MangSang.cs" />
+    <Compile Include="Frm_MangSang.Designer.cs">
+      <DependentUpon>Frm_MangSang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_PrintDialog.cs" />
+    <Compile Include="Frm_PrintDialog.Designer.cs">
+      <DependentUpon>Frm_PrintDialog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frrm_DSPhieuHuy.cs" />
+    <Compile Include="Frrm_DSPhieuHuy.designer.cs">
+      <DependentUpon>Frrm_DSPhieuHuy.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Form_Main.resx">
+      <DependentUpon>Form_Main.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Confirm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Form_Confirm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Info.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Form_Info.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_DienGiai.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Form_DienGiai.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_ThongtinPhieu.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Form_ThongtinPhieu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_UserList.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Form_UserList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_Config.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Frm_Config.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_ImportChungTuThuChi.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Frm_ImportChungTuThuChi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_BaoCao.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Frm_BaoCao.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_DangNhap.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Frm_DangNhap.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_LapPhieuChi.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Frm_LapPhieuChi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_LapPhieuThu.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Frm_LapPhieuThu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_MangSang.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Frm_MangSang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_PrintDialog.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Frm_PrintDialog.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frrm_DSPhieuHuy.resx">
+      <DependentUpon>Frrm_DSPhieuHuy.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\licenses.licx" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="XtraReport.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>XtraReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="app.config" />
+    <None Include="DataSet_ThuChi.xsc">
+      <DependentUpon>DataSet_ThuChi.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet_ThuChi.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet_ThuChi.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSet_ThuChi.xss">
+      <DependentUpon>DataSet_ThuChi.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="ReadXML.cs" />
+    <Compile Include="WriteXML.cs" />
+    <Compile Include="XtraReport.cs" />
+    <Compile Include="XtraReport.Designer.cs">
+      <DependentUpon>XtraReport.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BUS\BUS.csproj">
+      <Project>{2F746712-260C-4D3C-9A1D-C8FEA9CCB7D8}</Project>
+      <Name>BUS</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DAO\DAO.csproj">
+      <Project>{482B88BA-2861-4BD6-BFAE-642A951395C0}</Project>
+      <Name>DAO</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DTO\DTO.csproj">
+      <Project>{119B44CD-3039-4858-BF16-0498326081AA}</Project>
+      <Name>DTO</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{967B4E0D-AD0C-4609-AB67-0FA40C0206D8}" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="documents_white_edit.ico" />
+    <Content Include="documents_yellow_edit.ico" />
+    <Content Include="Pirate Icon 105.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,687 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Report xmlns="http://schemas.microsoft.com/sqlserver/reporting/2005/01/reportdefinition" xmlns:rd="http://schemas.microsoft.com/SQLServer/reporting/reportdesigner">
+  <DataSources>
+    <DataSource Name="qlkaraokeConnectionString">
+      <ConnectionProperties>
+        <ConnectString>Data Source=.;Initial Catalog=qlkaraoke;Integrated Security=True</ConnectString>
+        <DataProvider>SQL</DataProvider>
+      </ConnectionProperties>
+      <rd:DataSourceID>1a1ce2f1-db53-49b5-a787-3a7fd4dae480</rd:DataSourceID>
+    </DataSource>
+  </DataSources>
+  <BottomMargin>1in</BottomMargin>
+  <RightMargin>1in</RightMargin>
+  <rd:DrawGrid>true</rd:DrawGrid>
+  <InteractiveWidth>8.5in</InteractiveWidth>
+  <rd:SnapToGrid>true</rd:SnapToGrid>
+  <Body>
+    <ReportItems>
+      <List Name="list1">
+        <ReportItems>
+          <Textbox Name="Bill_number">
+            <Left>5in</Left>
+            <Top>0.125in</Top>
+            <rd:DefaultName>Bill_number</rd:DefaultName>
+            <ZIndex>20</ZIndex>
+            <Width>1in</Width>
+            <Style>
+              <TextAlign>Left</TextAlign>
+              <PaddingLeft>2pt</PaddingLeft>
+              <PaddingBottom>2pt</PaddingBottom>
+              <PaddingRight>2pt</PaddingRight>
+              <FontStyle>Italic</FontStyle>
+              <PaddingTop>2pt</PaddingTop>
+            </Style>
+            <CanGrow>true</CanGrow>
+            <Height>0.25in</Height>
+            <Value>=Fields!Bill_number.Value</Value>
+          </Textbox>
+          <Textbox Name="Vat">
+            <Left>1.125in</Left>
+            <Top>2in</Top>
+            <rd:DefaultName>Vat</rd:DefaultName>
+            <ZIndex>19</ZIndex>
+            <Width>1.875in</Width>
+            <Style>
+              <TextAlign>Left</TextAlign>
+              <PaddingLeft>2pt</PaddingLeft>
+              <PaddingBottom>2pt</PaddingBottom>
+              <PaddingRight>2pt</PaddingRight>
+              <PaddingTop>2pt</PaddingTop>
+            </Style>
+            <CanGrow>true</CanGrow>
+            <Height>0.25in</Height>
+            <Value>=Fields!Vat.Value</Value>
+          </Textbox>
+          <Textbox Name="Pro_name">
+            <Left>1.125in</Left>
+            <Top>1.625in</Top>
+            <rd:DefaultName>Pro_name</rd:DefaultName>
+            <ZIndex>18</ZIndex>
+            <Width>1.875in</Width>
+            <Style>
+              <TextAlign>Left</TextAlign>
+              <PaddingLeft>2pt</PaddingLeft>
+              <PaddingBottom>2pt</PaddingBottom>
+              <PaddingRight>2pt</PaddingRight>
+              <PaddingTop>2pt</PaddingTop>
+            </Style>
+            <CanGrow>true</CanGrow>
+            <Height>0.25in</Height>
+            <Value>=Fields!Pro_name.Value</Value>
+          </Textbox>
+          <Textbox Name="Room_name">
+            <Left>1.125in</Left>
+            <Top>1.25in</Top>
+            <rd:DefaultName>Room_name</rd:DefaultName>
+            <ZIndex>17</ZIndex>
+            <Width>1.875in</Width>
+            <Style>
+              <TextAlign>Left</TextAlign>
+              <PaddingLeft>2pt</PaddingLeft>
+              <PaddingBottom>2pt</PaddingBottom>
+              <PaddingRight>2pt</PaddingRight>
+              <PaddingTop>2pt</PaddingTop>
+            </Style>
+            <CanGrow>true</CanGrow>
+            <Height>0.25in</Height>
+            <Value>=Fields!Room_name.Value</Value>
+          </Textbox>
+          <Textbox Name="Name">
+            <Left>4.25in</Left>
+            <Top>0.875in</Top>
+            <rd:DefaultName>Name</rd:DefaultName>
+            <ZIndex>16</ZIndex>
+            <Width>1.75in</Width>
+            <Style>
+              <TextAlign>Left</TextAlign>
+              <PaddingLeft>2pt</PaddingLeft>
+              <PaddingBottom>2pt</PaddingBottom>
+              <PaddingRight>2pt</PaddingRight>
+              <PaddingTop>2pt</PaddingTop>
+            </Style>
+            <CanGrow>true</CanGrow>
+            <Height>0.25in</Height>
+            <Value>=Fields!Name.Value</Value>
+          </Textbox>
+          <Textbox Name="Person_1">
+            <Left>1.125in</Left>
+            <Top>0.875in</Top>
+            <rd:DefaultName>Person_1</rd:DefaultName>
+            <ZIndex>15</ZIndex>
+            <Width>1.875in</Width>
+            <Style>
+              <TextAlign>Left</TextAlign>
+              <PaddingLeft>2pt</PaddingLeft>
+              <PaddingBottom>2pt</PaddingBottom>
+              <PaddingRight>2pt</PaddingRight>
+              <PaddingTop>2pt</PaddingTop>
+            </Style>
+            <CanGrow>true</CanGrow>
+            <Height>0.25in</Height>
+            <Value>=Fields!Person.Value</Value>
+          </Textbox>
+          <Textbox Name="End_date">
+            <Left>4.25in</Left>
+            <Top>0.5in</Top>
+            <rd:DefaultName>End_date</rd:DefaultName>
+            <ZIndex>14</ZIndex>
+            <Width>1.75in</Width>
+            <Style>
+              <TextAlign>Left</TextAlign>
+              <PaddingLeft>2pt</PaddingLeft>
+              <PaddingBottom>2pt</PaddingBottom>
+              <PaddingRight>2pt</PaddingRight>
+              <PaddingTop>2pt</PaddingTop>
+            </Style>
+            <CanGrow>true</CanGrow>
+            <Height>0.25in</Height>
+            <Value>=Fields!End_date.Value</Value>
+          </Textbox>
+          <Textbox Name="Start_date">
+            <Left>1.125in</Left>
+            <Top>0.5in</Top>
+            <rd:DefaultName>Start_date</rd:DefaultName>
+            <ZIndex>13</ZIndex>
+            <Width>1.875in</Width>
+            <Style>
+              <TextAlign>Left</TextAlign>
+              <PaddingLeft>2pt</PaddingLeft>
+              <PaddingBottom>2pt</PaddingBottom>
+              <PaddingRight>2pt</PaddingRight>
+              <PaddingTop>2pt</PaddingTop>
+            </Style>
+            <CanGrow>true</CanGrow>
+            <Height>0.25in</Height>
+            <Value>=Fields!Start_date.Value</Value>
+          </Textbox>
+          <Textbox Name="textbox15">
+            <Left>3.25in</Left>
+            <Top>0.875in</Top>
+            <ZIndex>12</ZIndex>
+            <Width>1in</Width>
+            <Style>
+              <PaddingLeft>2pt</PaddingLeft>
+              <PaddingBottom>2pt</PaddingBottom>
+              <FontWeight>700</FontWeight>
+              <PaddingRight>2pt</PaddingRight>
+              <PaddingTop>2pt</PaddingTop>
+            </Style>
+            <CanGrow>true</CanGrow>
+            <Height>0.25in</Height>
+            <Value>Customer</Value>
+          </Textbox>
+          <Textbox Name="textbox13">
+            <Left>0.125in</Left>
+            <Top>1.625in</Top>
+            <ZIndex>11</ZIndex>
+            <Width>1in</Width>
+            <Style>
+              <PaddingLeft>2pt</PaddingLeft>
+              <PaddingBottom>2pt</PaddingBottom>
+              <FontWeight>700</FontWeight>
+              <PaddingRight>2pt</PaddingRight>
+              <PaddingTop>2pt</PaddingTop>
+            </Style>
+            <CanGrow>true</CanGrow>
+            <Height>0.25in</Height>
+            <Value>Promotion</Value>
+          </Textbox>
+          <Textbox Name="textbox12">
+            <Left>0.125in</Left>
+            <Top>2in</Top>
+            <ZIndex>10</ZIndex>
+            <Width>1in</Width>
+            <Style>
+              <PaddingLeft>2pt</PaddingLeft>
+              <PaddingBottom>2pt</PaddingBottom>
+              <FontWeight>700</FontWeight>
+              <PaddingRight>2pt</PaddingRight>
+              <PaddingTop>2pt</PaddingTop>
+            </Style>
+            <CanGrow>true</CanGrow>
+            <Height>0.25in</Height>
+            <Value>Vat</Value>
+          </Textbox>
+          <Textbox Name="textbox11">
+            <Left>3.25in</Left>
+            <Top>1.625in</Top>
+            <ZIndex>9</ZIndex>
+            <Width>1in</Width>
+            <Style>
+              <PaddingLeft>2pt</PaddingLeft>
+              <PaddingBottom>2pt</PaddingBottom>
+              <FontWeight>700</FontWeight>
+              <PaddingRight>2pt</PaddingRight>
+              <PaddingTop>2pt</PaddingTop>
+            </Style>
+            <CanGrow>true</CanGrow>
+            <Height>0.25in</Height>
+            <Value>Dishes</Value>
+          </Textbox>
+          <Textbox Name="textbox10">
+            <Left>3.25in</Left>
+            <Top>1.25in</Top>
+            <ZIndex>8</ZIndex>
+            <Width>1in</Width>
+            <Style>
+              <PaddingLeft>2pt</PaddingLeft>
+              <PaddingBottom>2pt</PaddingBottom>
+              <FontWeight>700</FontWeight>
+              <PaddingRight>2pt</PaddingRight>
+              <PaddingTop>2pt</PaddingTop>
+            </Style>
+            <CanGrow>true</CanGrow>
+            <Height>0.25in</Height>
+            <Value>Beberage</Value>
+          </Textbox>
+          <Textbox Name="textbox9">
+            <Left>0.125in</Left>
+            <Top>1.25in</Top>
+            <rd:DefaultName>textbox9</rd:DefaultName>
+            <ZIndex>7</ZIndex>
+            <Width>1in</Width>
+            <Style>
+              <PaddingLeft>2pt</PaddingLeft>
+              <PaddingBottom>2pt</PaddingBottom>
+              <FontWeight>700</FontWeight>
+              <PaddingRight>2pt</PaddingRight>
+              <PaddingTop>2pt</PaddingTop>
+            </Style>
+            <CanGrow>true</CanGrow>
+            <Height>0.25in</Height>
+            <Value>Room</Value>
+          </Textbox>
+          <Textbox Name="textbox8">
+            <Left>0.125in</Left>
+            <Top>0.875in</Top>
+            <ZIndex>6</ZIndex>
+            <Width>1in</Width>
+            <Style>
+              <PaddingLeft>2pt</PaddingLeft>
+              <PaddingBottom>2pt</PaddingBottom>
+              <FontWeight>700</FontWeight>
+              <PaddingRight>2pt</PaddingRight>
+              <PaddingTop>2pt</PaddingTop>
+            </Style>
+            <CanGrow>true</CanGrow>
+            <Height>0.25in</Height>
+            <Value>Person number</Value>
+          </Textbox>
+          <Textbox Name="textbox7">
+            <Left>3.25in</Left>
+            <Top>0.5in</Top>
+            <ZIndex>5</ZIndex>
+            <Width>1in</Width>
+            <Style>
+              <PaddingLeft>2pt</PaddingLeft>
+              <PaddingBottom>2pt</PaddingBottom>
+              <FontWeight>700</FontWeight>
+              <PaddingRight>2pt</PaddingRight>
+              <PaddingTop>2pt</PaddingTop>
+            </Style>
+            <CanGrow>true</CanGrow>
+            <Height>0.25in</Height>
+            <Value>End time</Value>
+          </Textbox>
+          <Textbox Name="textbox6">
+            <Left>0.125in</Left>
+            <Top>0.5in</Top>
+            <rd:DefaultName>textbox6</rd:DefaultName>
+            <ZIndex>4</ZIndex>
+            <Width>1in</Width>
+            <Style>
+              <PaddingLeft>2pt</PaddingLeft>
+              <PaddingBottom>2pt</PaddingBottom>
+              <FontWeight>700</FontWeight>
+              <PaddingRight>2pt</PaddingRight>
+              <PaddingTop>2pt</PaddingTop>
+            </Style>
+            <CanGrow>true</CanGrow>
+            <Height>0.25in</Height>
+            <Value>Start time</Value>
+          </Textbox>
+          <Textbox Name="textbox3">
+            <Left>2.5in</Left>
+            <Top>2.5in</Top>
+            <rd:DefaultName>textbox3</rd:DefaultName>
+            <ZIndex>3</ZIndex>
+            <Width>0.875in</Width>
+            <Style>
+              <PaddingLeft>2pt</PaddingLeft>
+              <PaddingBottom>2pt</PaddingBottom>
+              <FontWeight>700</FontWeight>
+              <Color>Red</Color>
+              <PaddingRight>2pt</PaddingRight>
+              <PaddingTop>2pt</PaddingTop>
+            </Style>
+            <CanGrow>true</CanGrow>
+            <Height>0.25in</Height>
+            <Value>Payment</Value>
+          </Textbox>
+          <Textbox Name="textbox1">
+            <Left>4.125in</Left>
+            <Top>0.125in</Top>
+            <rd:DefaultName>textbox1</rd:DefaultName>
+            <ZIndex>2</ZIndex>
+            <Width>0.875in</Width>
+            <Style>
+              <PaddingLeft>2pt</PaddingLeft>
+              <PaddingBottom>2pt</PaddingBottom>
+              <FontWeight>Lighter</FontWeight>
+              <Color>Blue</Color>
+              <PaddingRight>2pt</PaddingRight>
+              <FontStyle>Italic</FontStyle>
+              <PaddingTop>2pt</PaddingTop>
+            </Style>
+            <CanGrow>true</CanGrow>
+            <Height>0.25in</Height>
+            <Value>Bill Number</Value>
+          </Textbox>
+          <Textbox Name="Total_1">
+            <Left>3.375in</Left>
+            <Top>2.5in</Top>
+            <rd:DefaultName>Total_1</rd:DefaultName>
+            <ZIndex>1</ZIndex>
+            <Width>1in</Width>
+            <Style>
+              <TextAlign>Left</TextAlign>
+              <PaddingLeft>2pt</PaddingLeft>
+              <PaddingBottom>2pt</PaddingBottom>
+              <FontWeight>700</FontWeight>
+              <PaddingRight>2pt</PaddingRight>
+              <FontStyle>Italic</FontStyle>
+              <PaddingTop>2pt</PaddingTop>
+            </Style>
+            <CanGrow>true</CanGrow>
+            <Height>0.25in</Height>
+            <Value>=Fields!Total.Value</Value>
+          </Textbox>
+          <Line Name="line2">
+            <Left>0.125in</Left>
+            <Top>3in</Top>
+            <Width>5.875in</Width>
+            <Style>
+              <BorderStyle>
+                <Default>Solid</Default>
+              </BorderStyle>
+            </Style>
+            <Height>0in</Height>
+          </Line>
+        </ReportItems>
+        <DataSetName>DataSet1_View_Bill</DataSetName>
+      </List>
+    </ReportItems>
+    <Height>3.125in</Height>
+  </Body>
+  <PageHeader>
+    <ReportItems>
+      <Textbox Name="textbox4">
+        <rd:DefaultName>textbox4</rd:DefaultName>
+        <Width>1.75in</Width>
+        <Style>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingBottom>2pt</PaddingBottom>
+          <FontWeight>300</FontWeight>
+          <FontSize>14pt</FontSize>
+          <Color>Tomato</Color>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+        </Style>
+        <CanGrow>true</CanGrow>
+        <Value>QL KARAOKE</Value>
+      </Textbox>
+    </ReportItems>
+    <Height>0.375in</Height>
+    <PrintOnLastPage>true</PrintOnLastPage>
+    <PrintOnFirstPage>true</PrintOnFirstPage>
+    <Style>
+      <BackgroundColor>GreenYellow</BackgroundColor>
+    </Style>
+  </PageHeader>
+  <rd:ReportID>b4cfed29-ce12-469d-8d0f-3737b9a94270</rd:ReportID>
+  <LeftMargin>1in</LeftMargin>
+  <DataSets>
+    <DataSet Name="DataSet1_Bills">
+      <rd:DataSetInfo>
+        <rd:TableAdapterGetDataMethod>GetData</rd:TableAdapterGetDataMethod>
+        <rd:DataSetName>DataSet1</rd:DataSetName>
+        <rd:TableAdapterFillMethod>Fill</rd:TableAdapterFillMethod>
+        <rd:TableAdapterName>BillsTableAdapter</rd:TableAdapterName>
+        <rd:TableName>Bills</rd:TableName>
+      </rd:DataSetInfo>
+      <Query>
+        <rd:UseGenericDesigner>true</rd:UseGenericDesigner>
+        <CommandText>SELECT Bill_ID, Bill_number, Room_ID, Date, Total_goods, Customer_ID, Vat, Pro_ID, Total, Sub_total FROM Bills</CommandText>
+        <DataSourceName>qlkaraokeConnectionString</DataSourceName>
+      </Query>
+      <Fields>
+        <Field Name="Bill_ID">
+          <rd:TypeName>System.Int32</rd:TypeName>
+          <DataField>Bill_ID</DataField>
+        </Field>
+        <Field Name="Bill_number">
+          <rd:TypeName>System.String</rd:TypeName>
+          <DataField>Bill_number</DataField>
+        </Field>
+        <Field Name="Room_ID">
+          <rd:TypeName>System.Int32</rd:TypeName>
+          <DataField>Room_ID</DataField>
+        </Field>
+        <Field Name="Date">
+          <rd:TypeName>System.DateTime</rd:TypeName>
+          <DataField>Date</DataField>
+        </Field>
+        <Field Name="Total_goods">
+          <rd:TypeName>System.Int32</rd:TypeName>
+          <DataField>Total_goods</DataField>
+        </Field>
+        <Field Name="Customer_ID">
+          <rd:TypeName>System.Int32</rd:TypeName>
+          <DataField>Customer_ID</DataField>
+        </Field>
+        <Field Name="Vat">
+          <rd:TypeName>System.Int32</rd:TypeName>
+          <DataField>Vat</DataField>
+        </Field>
+        <Field Name="Pro_ID">
+          <rd:TypeName>System.Int32</rd:TypeName>
+          <DataField>Pro_ID</DataField>
+        </Field>
+        <Field Name="Total">
+          <rd:TypeName>System.Double</rd:TypeName>
+          <DataField>Total</DataField>
+        </Field>
+        <Field Name="Sub_total">
+          <rd:TypeName>System.Double</rd:TypeName>
+          <DataField>Sub_total</DataField>
+        </Field>
+        <Field Name="Status">
+          <rd:TypeName>System.String</rd:TypeName>
+          <DataField>Status</DataField>
+        </Field>
+      </Fields>
+    </DataSet>
+    <DataSet Name="DataSet1_Room">
+      <rd:DataSetInfo>
+        <rd:TableAdapterGetDataMethod>GetData</rd:TableAdapterGetDataMethod>
+        <rd:DataSetName>DataSet1</rd:DataSetName>
+        <rd:TableAdapterFillMethod>Fill</rd:TableAdapterFillMethod>
+        <rd:TableAdapterName>RoomTableAdapter</rd:TableAdapterName>
+        <rd:TableName>Room</rd:TableName>
+      </rd:DataSetInfo>
+      <Query>
+        <rd:UseGenericDesigner>true</rd:UseGenericDesigner>
+        <CommandText>SELECT Room_ID, Room_name, Kindroom_ID, Status FROM dbo.Room</CommandText>
+        <DataSourceName>qlkaraokeConnectionString</DataSourceName>
+      </Query>
+      <Fields>
+        <Field Name="Room_ID">
+          <rd:TypeName>System.Int32</rd:TypeName>
+          <DataField>Room_ID</DataField>
+        </Field>
+        <Field Name="Room_name">
+          <rd:TypeName>System.String</rd:TypeName>
+          <DataField>Room_name</DataField>
+        </Field>
+        <Field Name="Kindroom_ID">
+          <rd:TypeName>System.Int32</rd:TypeName>
+          <DataField>Kindroom_ID</DataField>
+        </Field>
+        <Field Name="Status">
+          <rd:TypeName>System.Boolean</rd:TypeName>
+          <DataField>Status</DataField>
+        </Field>
+        <Field Name="Start_date">
+          <rd:TypeName>System.String</rd:TypeName>
+          <DataField>Start_date</DataField>
+        </Field>
+        <Field Name="End_date">
+          <rd:TypeName>System.String</rd:TypeName>
+          <DataField>End_date</DataField>
+        </Field>
+        <Field Name="Person">
+          <rd:TypeName>System.String</rd:TypeName>
+          <DataField>Person</DataField>
+        </Field>
+      </Fields>
+    </DataSet>
+    <DataSet Name="DataSet1_Promotion">
+      <rd:DataSetInfo>
+        <rd:TableAdapterGetDataMethod>GetData</rd:TableAdapterGetDataMethod>
+        <rd:DataSetName>DataSet1</rd:DataSetName>
+        <rd:TableAdapterFillMethod>Fill</rd:TableAdapterFillMethod>
+        <rd:TableAdapterName>PromotionTableAdapter</rd:TableAdapterName>
+        <rd:TableName>Promotion</rd:TableName>
+      </rd:DataSetInfo>
+      <Query>
+        <rd:UseGenericDesigner>true</rd:UseGenericDesigner>
+        <CommandText>SELECT Pro_ID, Pro_name, Pro_content, Sub_money, Sub_percent, Start_date, End_date FROM dbo.Promotion</CommandText>
+        <DataSourceName>qlkaraokeConnectionString</DataSourceName>
+      </Query>
+      <Fields>
+        <Field Name="Pro_ID">
+          <rd:TypeName>System.Int32</rd:TypeName>
+          <DataField>Pro_ID</DataField>
+        </Field>
+        <Field Name="Pro_name">
+          <rd:TypeName>System.String</rd:TypeName>
+          <DataField>Pro_name</DataField>
+        </Field>
+        <Field Name="Pro_content">
+          <rd:TypeName>System.String</rd:TypeName>
+          <DataField>Pro_content</DataField>
+        </Field>
+        <Field Name="Sub_money">
+          <rd:TypeName>System.Decimal</rd:TypeName>
+          <DataField>Sub_money</DataField>
+        </Field>
+        <Field Name="Sub_percent">
+          <rd:TypeName>System.Int32</rd:TypeName>
+          <DataField>Sub_percent</DataField>
+        </Field>
+        <Field Name="Start_date">
+          <rd:TypeName>System.DateTime</rd:TypeName>
+          <DataField>Start_date</DataField>
+        </Field>
+        <Field Name="End_date">
+          <rd:TypeName>System.DateTime</rd:TypeName>
+          <DataField>End_date</DataField>
+        </Field>
+        <Field Name="Status">
+          <rd:TypeName>System.String</rd:TypeName>
+          <DataField>Status</DataField>
+        </Field>
+      </Fields>
+    </DataSet>
+    <DataSet Name="DataSet1_View_Bill">
+      <rd:DataSetInfo>
+        <rd:TableAdapterGetDataMethod>GetData</rd:TableAdapterGetDataMethod>
+        <rd:DataSetName>DataSet1</rd:DataSetName>
+        <rd:TableAdapterFillMethod>Fill</rd:TableAdapterFillMethod>
+        <rd:TableAdapterName>View_BillTableAdapter</rd:TableAdapterName>
+        <rd:TableName>View_Bill</rd:TableName>
+      </rd:DataSetInfo>
+      <Query>
+        <rd:UseGenericDesigner>true</rd:UseGenericDesigner>
+        <CommandText>SELECT Bill_number, Room_ID, Total_goods, Customer_ID, Vat, Pro_ID, Total, Sub_total, Status, Date, Room_name, Pro_name, Name, Bill_ID, Person, End_date, Start_date FROM dbo.View_Bill</CommandText>
+        <DataSourceName>qlkaraokeConnectionString</DataSourceName>
+      </Query>
+      <Fields>
+        <Field Name="Bill_number">
+          <rd:TypeName>System.String</rd:TypeName>
+          <DataField>Bill_number</DataField>
+        </Field>
+        <Field Name="Room_ID">
+          <rd:TypeName>System.Int32</rd:TypeName>
+          <DataField>Room_ID</DataField>
+        </Field>
+        <Field Name="Total_goods">
+          <rd:TypeName>System.Int32</rd:TypeName>
+          <DataField>Total_goods</DataField>
+        </Field>
+        <Field Name="Customer_ID">
+          <rd:TypeName>System.Int32</rd:TypeName>
+          <DataField>Customer_ID</DataField>
+        </Field>
+        <Field Name="Vat">
+          <rd:TypeName>System.Int32</rd:TypeName>
+          <DataField>Vat</DataField>
+        </Field>
+        <Field Name="Pro_ID">
+          <rd:TypeName>System.Int32</rd:TypeName>
+          <DataField>Pro_ID</DataField>
+        </Field>
+        <Field Name="Total">
+          <rd:TypeName>System.Double</rd:TypeName>
+          <DataField>Total</DataField>
+        </Field>
+        <Field Name="Sub_total">
+          <rd:TypeName>System.Double</rd:TypeName>
+          <DataField>Sub_total</DataField>
+        </Field>
+        <Field Name="Status">
+          <rd:TypeName>System.Boolean</rd:TypeName>
+          <DataField>Status</DataField>
+        </Field>
+        <Field Name="Date">
+          <rd:TypeName>System.DateTime</rd:TypeName>
+          <DataField>Date</DataField>
+        </Field>
+        <Field Name="Room_name">
+          <rd:TypeName>System.String</rd:TypeName>
+          <DataField>Room_name</DataField>
+        </Field>
+        <Field Name="Pro_name">
+          <rd:TypeName>System.String</rd:TypeName>
+          <DataField>Pro_name</DataField>
+        </Field>
+        <Field Name="Name">
+          <rd:TypeName>System.String</rd:TypeName>
+          <DataField>Name</DataField>
+        </Field>
+        <Field Name="Bill_ID">
+          <rd:TypeName>System.Int32</rd:TypeName>
+          <DataField>Bill_ID</DataField>
+        </Field>
+        <Field Name="Person">
+          <rd:TypeName>System.Int32</rd:TypeName>
+          <DataField>Person</DataField>
+        </Field>
+        <Field Name="End_date">
+          <rd:TypeName>System.DateTime</rd:TypeName>
+          <DataField>End_date</DataField>
+        </Field>
+        <Field Name="Start_date">
+          <rd:TypeName>System.DateTime</rd:TypeName>
+          <DataField>Start_date</DataField>
+        </Field>
+      </Fields>
+    </DataSet>
+  </DataSets>
+  <Width>6.75in</Width>
+  <InteractiveHeight>11in</InteractiveHeight>
+  <Language>en-US</Language>
+  <PageFooter>
+    <ReportItems>
+      <Textbox Name="textbox14">
+        <rd:DefaultName>textbox14</rd:DefaultName>
+        <ZIndex>1</ZIndex>
+        <Width>1in</Width>
+        <Style>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingBottom>2pt</PaddingBottom>
+          <Color>Red</Color>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+        </Style>
+        <CanGrow>true</CanGrow>
+        <Height>0.25in</Height>
+        <Value>=Globals!PageNumber</Value>
+      </Textbox>
+      <Textbox Name="textbox5">
+        <Left>4.75in</Left>
+        <rd:DefaultName>textbox5</rd:DefaultName>
+        <Style>
+          <TextAlign>Right</TextAlign>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingBottom>2pt</PaddingBottom>
+          <Format>D</Format>
+          <Color>Red</Color>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+        </Style>
+        <CanGrow>true</CanGrow>
+        <Height>0.25in</Height>
+        <Value>=Now</Value>
+      </Textbox>
+    </ReportItems>
+    <Height>0.5in</Height>
+    <PrintOnLastPage>true</PrintOnLastPage>
+    <PrintOnFirstPage>true</PrintOnFirstPage>
+    <Style>
+      <BackgroundColor>Silver</BackgroundColor>
+    </Style>
+  </PageFooter>
+  <TopMargin>1in</TopMargin>
+</Report>

@@ -1,0 +1,362 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+QuanLyKinhDoanh
+</name>
+</assembly>
+<members>
+<member name="T:QuanLyKinhDoanh.dsNhanVien_KH_NCC.View_NhanVienDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:QuanLyKinhDoanh.dsNhanVien_KH_NCC.View_KhachHangDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:QuanLyKinhDoanh.dsNhanVien_KH_NCC.View_NhaCCDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:QuanLyKinhDoanh.dsNhanVien_KH_NCC.View_HangHoaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:QuanLyKinhDoanh.dsNhanVien_KH_NCC.View_NhanVienRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:QuanLyKinhDoanh.dsNhanVien_KH_NCC.View_KhachHangRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:QuanLyKinhDoanh.dsNhanVien_KH_NCC.View_NhaCCRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:QuanLyKinhDoanh.dsNhanVien_KH_NCC.View_HangHoaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:QuanLyKinhDoanh.dsNhanVien_KH_NCC.View_NhanVienRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:QuanLyKinhDoanh.dsNhanVien_KH_NCC.View_KhachHangRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:QuanLyKinhDoanh.dsNhanVien_KH_NCC.View_NhaCCRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:QuanLyKinhDoanh.dsNhanVien_KH_NCC.View_HangHoaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:QuanLyKinhDoanh.dsNhanVien_KH_NCC">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:QuanLyKinhDoanh.dsNhanVien_KH_NCCTableAdapters.View_NhanVienTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:QuanLyKinhDoanh.dsNhanVien_KH_NCCTableAdapters.View_KhachHangTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:QuanLyKinhDoanh.dsNhanVien_KH_NCCTableAdapters.View_NhaCCTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:QuanLyKinhDoanh.dsNhanVien_KH_NCCTableAdapters.View_HangHoaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:QuanLyKinhDoanh.dsNhanVien_KH_NCCTableAdapters.TableAdapterManager.UpdateUpdatedRows(QuanLyKinhDoanh.dsNhanVien_KH_NCC,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:QuanLyKinhDoanh.dsNhanVien_KH_NCCTableAdapters.TableAdapterManager.UpdateInsertedRows(QuanLyKinhDoanh.dsNhanVien_KH_NCC,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:QuanLyKinhDoanh.dsNhanVien_KH_NCCTableAdapters.TableAdapterManager.UpdateDeletedRows(QuanLyKinhDoanh.dsNhanVien_KH_NCC,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:QuanLyKinhDoanh.dsNhanVien_KH_NCCTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:QuanLyKinhDoanh.dsNhanVien_KH_NCCTableAdapters.TableAdapterManager.UpdateAll(QuanLyKinhDoanh.dsNhanVien_KH_NCC)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:QuanLyKinhDoanh.dsNhanVien_KH_NCCTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:QuanLyKinhDoanh.dsNhanVien_KH_NCCTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:QuanLyKinhDoanh.dsNhanVien_KH_NCCTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="M:QuanLyKinhDoanh.NhapLieu.AddControl(System.Windows.Forms.Control,System.Collections.Generic.List{System.Windows.Forms.Control}@)">
+	<summary>
+ Them cac dieu khien vao danh sach cac dieu khien
+ </summary>
+	<param name="control">Dieu khien</param>
+	<param name="List">Danh sach chua cac dieu khien</param>
+	<remarks></remarks>
+</member><member name="T:QuanLyKinhDoanh.dsData.View_PhieuNhapKhoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:QuanLyKinhDoanh.dsData.View_PhieuXuatKhoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:QuanLyKinhDoanh.dsData.View_CTPhieuNhapKhoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:QuanLyKinhDoanh.dsData.View_CTPhieuXuatKhoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:QuanLyKinhDoanh.dsData.View_PhieuChiDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:QuanLyKinhDoanh.dsData.View_PhieuThuDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:QuanLyKinhDoanh.dsData.BC_BangKe_MuaHangDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:QuanLyKinhDoanh.dsData.BC_BangKe_BanHangDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:QuanLyKinhDoanh.dsData.BC_BanHang_Theo_KhachHangDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:QuanLyKinhDoanh.dsData.BC_MuaHang_Theo_NCCDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:QuanLyKinhDoanh.dsData.View_HangTonDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:QuanLyKinhDoanh.dsData.View_KhachHang_HoaDonDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:QuanLyKinhDoanh.dsData.View_CTHDBanHangDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:QuanLyKinhDoanh.dsData.View_PhieuNhapKhoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:QuanLyKinhDoanh.dsData.View_PhieuXuatKhoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:QuanLyKinhDoanh.dsData.View_CTPhieuNhapKhoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:QuanLyKinhDoanh.dsData.View_CTPhieuXuatKhoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:QuanLyKinhDoanh.dsData.View_PhieuChiRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:QuanLyKinhDoanh.dsData.View_PhieuThuRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:QuanLyKinhDoanh.dsData.BC_BangKe_MuaHangRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:QuanLyKinhDoanh.dsData.BC_BangKe_BanHangRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:QuanLyKinhDoanh.dsData.BC_BanHang_Theo_KhachHangRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:QuanLyKinhDoanh.dsData.BC_MuaHang_Theo_NCCRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:QuanLyKinhDoanh.dsData.View_HangTonRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:QuanLyKinhDoanh.dsData.View_KhachHang_HoaDonRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:QuanLyKinhDoanh.dsData.View_CTHDBanHangRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:QuanLyKinhDoanh.dsData.View_PhieuNhapKhoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:QuanLyKinhDoanh.dsData.View_PhieuXuatKhoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:QuanLyKinhDoanh.dsData.View_CTPhieuNhapKhoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:QuanLyKinhDoanh.dsData.View_CTPhieuXuatKhoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:QuanLyKinhDoanh.dsData.View_PhieuChiRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:QuanLyKinhDoanh.dsData.View_PhieuThuRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:QuanLyKinhDoanh.dsData.BC_BangKe_MuaHangRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:QuanLyKinhDoanh.dsData.BC_BangKe_BanHangRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:QuanLyKinhDoanh.dsData.BC_BanHang_Theo_KhachHangRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:QuanLyKinhDoanh.dsData.BC_MuaHang_Theo_NCCRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:QuanLyKinhDoanh.dsData.View_HangTonRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:QuanLyKinhDoanh.dsData.View_KhachHang_HoaDonRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:QuanLyKinhDoanh.dsData.View_CTHDBanHangRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:QuanLyKinhDoanh.dsData">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:QuanLyKinhDoanh.dsDataTableAdapters.View_PhieuNhapKhoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:QuanLyKinhDoanh.dsDataTableAdapters.View_PhieuXuatKhoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:QuanLyKinhDoanh.dsDataTableAdapters.View_CTPhieuNhapKhoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:QuanLyKinhDoanh.dsDataTableAdapters.View_CTPhieuXuatKhoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:QuanLyKinhDoanh.dsDataTableAdapters.View_PhieuChiTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:QuanLyKinhDoanh.dsDataTableAdapters.View_PhieuThuTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:QuanLyKinhDoanh.dsDataTableAdapters.BC_BangKe_MuaHangTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:QuanLyKinhDoanh.dsDataTableAdapters.BC_BangKe_BanHangTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:QuanLyKinhDoanh.dsDataTableAdapters.BC_BanHang_Theo_KhachHangTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:QuanLyKinhDoanh.dsDataTableAdapters.BC_MuaHang_Theo_NCCTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:QuanLyKinhDoanh.dsDataTableAdapters.View_HangTonTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:QuanLyKinhDoanh.dsDataTableAdapters.View_KhachHang_HoaDonTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:QuanLyKinhDoanh.dsDataTableAdapters.View_CTHDBanHangTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:QuanLyKinhDoanh.dsDataTableAdapters.TableAdapterManager.UpdateUpdatedRows(QuanLyKinhDoanh.dsData,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:QuanLyKinhDoanh.dsDataTableAdapters.TableAdapterManager.UpdateInsertedRows(QuanLyKinhDoanh.dsData,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:QuanLyKinhDoanh.dsDataTableAdapters.TableAdapterManager.UpdateDeletedRows(QuanLyKinhDoanh.dsData,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:QuanLyKinhDoanh.dsDataTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:QuanLyKinhDoanh.dsDataTableAdapters.TableAdapterManager.UpdateAll(QuanLyKinhDoanh.dsData)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:QuanLyKinhDoanh.dsDataTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:QuanLyKinhDoanh.dsDataTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:QuanLyKinhDoanh.dsDataTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+</members>
+</doc>

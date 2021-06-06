@@ -1,0 +1,187 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 17, 16.375" name="ManagementSASI">
+  <DataContextMoniker Name="/ManagementSASIDataContext" />
+  <nestedChildShapes>
+    <classShape Id="b7f1b04d-e777-4488-93f3-c315370f2a66" absoluteBounds="0.625, 0.75, 2, 2.0822371419270831">
+      <DataClassMoniker Name="/ManagementSASIDataContext/Class" />
+      <nestedChildShapes>
+        <elementListCompartment Id="437bb91a-b899-44dd-8762-a099c04a55b8" absoluteBounds="0.64, 1.21, 1.9700000000000002, 1.5222371419270833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="acfc4a5b-8471-4424-8008-dfe2a0c04611" absoluteBounds="0.75, 0.75, 2, 1.5891951497395831">
+      <DataClassMoniker Name="/ManagementSASIDataContext/Train" />
+      <nestedChildShapes>
+        <elementListCompartment Id="7c28cdcc-4bb0-45e5-9fd2-a566892628c8" absoluteBounds="0.765, 1.21, 1.9700000000000002, 1.0291951497395833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="64a95c49-fecb-4670-84b5-877306ac3977" absoluteBounds="6.25, 7.5, 2, 1.5891951497395827">
+      <DataClassMoniker Name="/ManagementSASIDataContext/TrainingInformation" />
+      <nestedChildShapes>
+        <elementListCompartment Id="43638230-82f0-4094-bf2e-0350b421c850" absoluteBounds="6.265, 7.96, 1.9700000000000002, 1.0291951497395833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="8e904def-2ee6-42af-b3e1-bfb379d68e1e" absoluteBounds="9.25, 2.125, 2, 2.4109318033854166">
+      <DataClassMoniker Name="/ManagementSASIDataContext/Teacher" />
+      <nestedChildShapes>
+        <elementListCompartment Id="6e951d07-2157-4a08-a023-55e6f49aa516" absoluteBounds="9.265, 2.585, 1.9700000000000002, 1.8509318033854165" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="b4700916-a84f-4219-96cc-449ad7d64482" absoluteBounds="14.75, 2, 2, 2.0822371419270835">
+      <DataClassMoniker Name="/ManagementSASIDataContext/SubjectTrain" />
+      <nestedChildShapes>
+        <elementListCompartment Id="648f02e3-48eb-4ab8-a93a-2a18fbaba231" absoluteBounds="14.765, 2.46, 1.9700000000000002, 1.5222371419270833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="26eee8af-3f2b-4057-897c-a37e4ce98c98" absoluteBounds="12, 4, 2, 1.2605004882812505">
+      <DataClassMoniker Name="/ManagementSASIDataContext/Subject" />
+      <nestedChildShapes>
+        <elementListCompartment Id="587d7e68-ff0f-45e4-b79c-503f8fc10ce7" absoluteBounds="12.015, 4.46, 1.9700000000000002, 0.70050048828125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="b0f28621-0723-42e4-9564-250a613d32b1" absoluteBounds="14.75, 4.875, 2, 3.3970157877604166">
+      <DataClassMoniker Name="/ManagementSASIDataContext/StudentToRegister" />
+      <nestedChildShapes>
+        <elementListCompartment Id="21776c47-e906-40b4-ab61-5be569d2d9ca" absoluteBounds="14.765, 5.335, 1.9700000000000002, 2.8370157877604165" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="b838abf5-f1a7-4522-bf6e-e3abb86dcd97" absoluteBounds="3.25, 10.5, 2, 2.0822371419270826">
+      <DataClassMoniker Name="/ManagementSASIDataContext/Student" />
+      <nestedChildShapes>
+        <elementListCompartment Id="fc77d134-2501-4a04-8426-0f5753e1145a" absoluteBounds="3.265, 10.96, 1.9700000000000002, 1.5222371419270833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="90732fcb-2c6c-4ccd-910f-cbcd8acfedee" absoluteBounds="12, 11.125, 2, 1.4248478190104166">
+      <DataClassMoniker Name="/ManagementSASIDataContext/SettingSubjectSplit" />
+      <nestedChildShapes>
+        <elementListCompartment Id="5b1d3c7d-c1cc-4f14-be23-153c2f9ca308" absoluteBounds="12.015, 11.585, 1.9700000000000002, 0.86484781901041674" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="dd723398-0b1f-451a-bd50-bc7628496a7a" absoluteBounds="9, 6.125, 2, 1.7535424804687505">
+      <DataClassMoniker Name="/ManagementSASIDataContext/SettingMoneyRate" />
+      <nestedChildShapes>
+        <elementListCompartment Id="b9fe38d8-367f-4c8e-b7f1-f318433ac28f" absoluteBounds="9.015, 6.585, 1.9700000000000002, 1.19354248046875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="c738bc28-5774-4507-ab17-0f2c55bb27bf" absoluteBounds="12, 6.875, 2, 2.7396264648437505">
+      <DataClassMoniker Name="/ManagementSASIDataContext/SASIClass" />
+      <nestedChildShapes>
+        <elementListCompartment Id="f9d52251-2a74-4ea2-ac29-12a8c3894910" absoluteBounds="12.015, 7.335, 1.9700000000000002, 2.17962646484375" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="6ce727f6-67ae-47c8-aa35-7f083bb9cd56" absoluteBounds="9, 8.625, 2, 1.9178898111979166">
+      <DataClassMoniker Name="/ManagementSASIDataContext/MoneyRatesByClassSASI" />
+      <nestedChildShapes>
+        <elementListCompartment Id="6affade0-d393-4a44-aec9-23031c5d8b97" absoluteBounds="9.015, 9.085, 1.9700000000000002, 1.3578898111979165" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="35034e94-4549-445c-8d64-e47d6478a685" absoluteBounds="6.25, 11.5, 2, 1.0961531575520844">
+      <DataClassMoniker Name="/ManagementSASIDataContext/Login" />
+      <nestedChildShapes>
+        <elementListCompartment Id="7d65ba71-2879-4e47-98f2-c72a4f3d473c" absoluteBounds="6.265, 11.96, 1.9700000000000002, 0.53615315755208326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="cf811670-4350-47d3-9bd1-8b28464b402f" absoluteBounds="0.75, 3.875, 2, 1.4248478190104166">
+      <DataClassMoniker Name="/ManagementSASIDataContext/Department" />
+      <nestedChildShapes>
+        <elementListCompartment Id="0e6d988d-7593-4efa-b225-55f374e4f3e7" absoluteBounds="0.765, 4.335, 1.9700000000000002, 0.86484781901041674" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="a1475f38-dfef-454e-ab34-d7b8c4fb8dd2" absoluteBounds="3.25, 13.5, 2, 2.5752791341145826">
+      <DataClassMoniker Name="/ManagementSASIDataContext/Config" />
+      <nestedChildShapes>
+        <elementListCompartment Id="fb1b8781-467a-4b93-a006-6e2ccde0778e" absoluteBounds="3.265, 13.96, 1.9700000000000002, 2.015279134114583" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(0.75 : 1.54459757486979); (0.375 : 1.54459757486979); (0.375 : 1.79111857096354); (0.625 : 1.79111857096354)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/ManagementSASIDataContext/Train/Train_Class" />
+      <nodes>
+        <classShapeMoniker Id="acfc4a5b-8471-4424-8008-dfe2a0c04611" />
+        <classShapeMoniker Id="b7f1b04d-e777-4488-93f3-c315370f2a66" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 1.3749995); (15.75 : 1.3749995); (15.75 : 2)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/ManagementSASIDataContext/Train/Train_SubjectTrain" />
+      <nodes>
+        <classShapeMoniker Id="acfc4a5b-8471-4424-8008-dfe2a0c04611" />
+        <classShapeMoniker Id="b4700916-a84f-4219-96cc-449ad7d64482" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(13 : 4); (13 : 2.9999995); (14.75 : 2.9999995)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/ManagementSASIDataContext/Subject/Subject_SubjectTrain" />
+      <nodes>
+        <classShapeMoniker Id="26eee8af-3f2b-4057-897c-a37e4ce98c98" />
+        <classShapeMoniker Id="b4700916-a84f-4219-96cc-449ad7d64482" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(0.65625 : 2.83223714192708); (0.65625 : 5.71242390950521); (11.0729166666667 : 5.71242390950521 : JumpStart); (11.2395833333333 : 5.71242390950521 : JumpEnd); (14.2916666666667 : 5.71242390950521 : JumpStart); (14.4583333333333 : 5.71242390950521 : JumpEnd); (14.75 : 5.71242390950521)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/ManagementSASIDataContext/Class/Class_StudentToRegister" />
+      <nodes>
+        <classShapeMoniker Id="b7f1b04d-e777-4488-93f3-c315370f2a66" />
+        <classShapeMoniker Id="b0f28621-0723-42e4-9564-250a613d32b1" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(14 : 5.06775024414063); (14.2916666666667 : 5.06775024414062 : JumpStart); (14.4583333333333 : 5.06775024414063 : JumpEnd); (14.75 : 5.06775024414063)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/ManagementSASIDataContext/Subject/Subject_StudentToRegister" />
+      <nodes>
+        <classShapeMoniker Id="26eee8af-3f2b-4057-897c-a37e4ce98c98" />
+        <classShapeMoniker Id="b0f28621-0723-42e4-9564-250a613d32b1" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(14 : 11.125); (14.375 : 10.75); (14.375 : 3.57237032096354); (14.75 : 3.57237032096354)]" fixedFrom="NotFixed" fixedTo="Algorithm">
+      <AssociationMoniker Name="/ManagementSASIDataContext/SettingSubjectSplit/SettingSubjectSplit_SubjectTrain" />
+      <nodes>
+        <classShapeMoniker Id="90732fcb-2c6c-4ccd-910f-cbcd8acfedee" />
+        <classShapeMoniker Id="b4700916-a84f-4219-96cc-449ad7d64482" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(8.25 : 7.68927124023438); (9 : 7.68927124023438)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/ManagementSASIDataContext/TrainingInformation/TrainingInformation_SettingMoneyRate" />
+      <nodes>
+        <classShapeMoniker Id="64a95c49-fecb-4670-84b5-877306ac3977" />
+        <classShapeMoniker Id="dd723398-0b1f-451a-bd50-bc7628496a7a" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(14 : 7.57350789388021); (14.2916666666667 : 7.57350789388021 : JumpStart); (14.4583333333333 : 7.57350789388021 : JumpEnd); (14.75 : 7.57350789388021)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/ManagementSASIDataContext/SASIClass/SASIClass_StudentToRegister" />
+      <nodes>
+        <classShapeMoniker Id="c738bc28-5774-4507-ab17-0f2c55bb27bf" />
+        <classShapeMoniker Id="b0f28621-0723-42e4-9564-250a613d32b1" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(11.15625 : 4.53593180338542); (11.15625 : 8.25177124023438); (12 : 8.25177124023438)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/ManagementSASIDataContext/Teacher/Teacher_SASIClass" />
+      <nodes>
+        <classShapeMoniker Id="8e904def-2ee6-42af-b3e1-bfb379d68e1e" />
+        <classShapeMoniker Id="c738bc28-5774-4507-ab17-0f2c55bb27bf" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(8.25 : 8.46963562011719); (12 : 8.46963562011719)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/ManagementSASIDataContext/TrainingInformation/TrainingInformation_SASIClass" />
+      <nodes>
+        <classShapeMoniker Id="64a95c49-fecb-4670-84b5-877306ac3977" />
+        <classShapeMoniker Id="c738bc28-5774-4507-ab17-0f2c55bb27bf" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(8.25 : 8.85709757486979); (9 : 8.85709757486979)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/ManagementSASIDataContext/TrainingInformation/TrainingInformation_MoneyRatesByClassSASI" />
+      <nodes>
+        <classShapeMoniker Id="64a95c49-fecb-4670-84b5-877306ac3977" />
+        <classShapeMoniker Id="6ce727f6-67ae-47c8-aa35-7f083bb9cd56" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(1.6875 : 3.875); (1.6875 : 2.83223714192708)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/ManagementSASIDataContext/Department/Department_Class" />
+      <nodes>
+        <classShapeMoniker Id="cf811670-4350-47d3-9bd1-8b28464b402f" />
+        <classShapeMoniker Id="b7f1b04d-e777-4488-93f3-c315370f2a66" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 4.20546590169271); (9.25 : 4.20546590169271)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/ManagementSASIDataContext/Department/Department_Teacher" />
+      <nodes>
+        <classShapeMoniker Id="cf811670-4350-47d3-9bd1-8b28464b402f" />
+        <classShapeMoniker Id="8e904def-2ee6-42af-b3e1-bfb379d68e1e" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

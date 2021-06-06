@@ -1,0 +1,15 @@
+C:\Users\Phuong\Desktop\CT_TracNghiem_ENG_Tri_Tien\Data_Tier\bin\Debug\Data_Tier.dll
+C:\Users\Phuong\Desktop\CT_TracNghiem_ENG_Tri_Tien\Data_Tier\bin\Debug\Data_Tier.pdb
+C:\Users\Phuong\Desktop\CT_TracNghiem_ENG_Tri_Tien\Data_Tier\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Phuong\Desktop\CT_TracNghiem_ENG_Tri_Tien\Data_Tier\obj\Debug\Data_Tier.dll
+C:\Users\Phuong\Desktop\CT_TracNghiem_ENG_Tri_Tien\Data_Tier\obj\Debug\Data_Tier.pdb
+C:\Users\bh\Desktop\New folder\CT_TracNghiem_ENG_Tri_Tien\Data_Tier\bin\Debug\Data_Tier.dll
+C:\Users\bh\Desktop\New folder\CT_TracNghiem_ENG_Tri_Tien\Data_Tier\bin\Debug\Data_Tier.pdb
+C:\Users\bh\Desktop\New folder\CT_TracNghiem_ENG_Tri_Tien\Data_Tier\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\bh\Desktop\New folder\CT_TracNghiem_ENG_Tri_Tien\Data_Tier\obj\Debug\Data_Tier.dll
+C:\Users\bh\Desktop\New folder\CT_TracNghiem_ENG_Tri_Tien\Data_Tier\obj\Debug\Data_Tier.pdb
+C:\Users\bh\Desktop\CT_TracNghiem_ENG_Tri_Tien\Data_Tier\bin\Debug\Data_Tier.dll
+C:\Users\bh\Desktop\CT_TracNghiem_ENG_Tri_Tien\Data_Tier\bin\Debug\Data_Tier.pdb
+C:\Users\bh\Desktop\CT_TracNghiem_ENG_Tri_Tien\Data_Tier\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\bh\Desktop\CT_TracNghiem_ENG_Tri_Tien\Data_Tier\obj\Debug\Data_Tier.dll
+C:\Users\bh\Desktop\CT_TracNghiem_ENG_Tri_Tien\Data_Tier\obj\Debug\Data_Tier.pdb

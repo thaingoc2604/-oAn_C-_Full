@@ -1,0 +1,52 @@
+D:\Documents and Settings\Hoai Linh\My Documents\Visual Studio 2005\Projects\Manager Fortunes\Manager Fortunes\obj\Debug\Manager Fortunes.exe
+D:\Documents and Settings\Hoai Linh\My Documents\Visual Studio 2005\Projects\Manager Fortunes\Manager Fortunes\obj\Debug\Manager Fortunes.pdb
+D:\Documents and Settings\Hoai Linh\My Documents\Visual Studio 2005\Projects\Manager Fortunes\Manager Fortunes\bin\Debug\Manager Fortunes.exe
+D:\Documents and Settings\Hoai Linh\My Documents\Visual Studio 2005\Projects\Manager Fortunes\Manager Fortunes\bin\Debug\Manager Fortunes.pdb
+D:\Documents and Settings\Hoai Linh\My Documents\Visual Studio 2005\Projects\Manager Fortunes\Manager Fortunes\bin\Debug\DevComponents.DotNetBar2.dll
+D:\Documents and Settings\Hoai Linh\My Documents\Visual Studio 2005\Projects\Manager Fortunes\Manager Fortunes\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\Hoai Linh\My Documents\Visual Studio 2005\Projects\Manager Fortunes\Manager Fortunes\obj\Debug\Manager_Fortunes.MainForm_Manager.resources
+D:\Documents and Settings\Hoai Linh\My Documents\Visual Studio 2005\Projects\Manager Fortunes\Manager Fortunes\obj\Debug\Manager_Fortunes.Properties.Resources.resources
+D:\Documents and Settings\Hoai Linh\My Documents\Visual Studio 2005\Projects\Manager Fortunes\Manager Fortunes\obj\Debug\Manager Fortunes.csproj.GenerateResource.Cache
+D:\Documents and Settings\Hoai Linh\My Documents\Visual Studio 2005\Projects\Manager Fortunes\Manager Fortunes\obj\Debug\Manager_Fortunes.frm_NhapCongCu.resources
+D:\Documents and Settings\Hoai Linh\My Documents\Visual Studio 2005\Projects\Manager Fortunes\Manager Fortunes\bin\Debug\XPExplorerBar.dll
+D:\Documents and Settings\Hoai Linh\My Documents\Visual Studio 2005\Projects\Manager Fortunes\Manager Fortunes\obj\Debug\Manager_Fortunes.PresentationLayer.frm_SuaCongCu.resources
+E:\Bai Tap\HK VIII\ThuTap\DoAn\Manager Fortunes\Manager Fortunes\obj\Debug\Manager Fortunes.exe
+E:\Bai Tap\HK VIII\ThuTap\DoAn\Manager Fortunes\Manager Fortunes\obj\Debug\Manager Fortunes.pdb
+E:\Bai Tap\HK VIII\ThuTap\DoAn\Manager Fortunes\Manager Fortunes\bin\Debug\Manager Fortunes.exe
+E:\Bai Tap\HK VIII\ThuTap\DoAn\Manager Fortunes\Manager Fortunes\bin\Debug\Manager Fortunes.pdb
+E:\Bai Tap\HK VIII\ThuTap\DoAn\Manager Fortunes\Manager Fortunes\bin\Debug\XPExplorerBar.dll
+E:\Bai Tap\HK VIII\ThuTap\DoAn\Manager Fortunes\Manager Fortunes\obj\Debug\ResolveAssemblyReference.cache
+E:\Bai Tap\HK VIII\ThuTap\DoAn\Manager Fortunes\Manager Fortunes\obj\Debug\Manager_Fortunes.frm_NhapCongCu.resources
+E:\Bai Tap\HK VIII\ThuTap\DoAn\Manager Fortunes\Manager Fortunes\obj\Debug\Manager_Fortunes.MainForm_Manager.resources
+E:\Bai Tap\HK VIII\ThuTap\DoAn\Manager Fortunes\Manager Fortunes\obj\Debug\Manager_Fortunes.PresentationLayer.frm_SuaCongCu.resources
+E:\Bai Tap\HK VIII\ThuTap\DoAn\Manager Fortunes\Manager Fortunes\obj\Debug\Manager_Fortunes.Properties.Resources.resources
+E:\Bai Tap\HK VIII\ThuTap\DoAn\Manager Fortunes\Manager Fortunes\obj\Debug\Manager Fortunes.csproj.GenerateResource.Cache
+E:\Bai Tap\HK VIII\ThuTap\DoAn\Manager Fortunes\Manager Fortunes\obj\Debug\Manager_Fortunes.PresentationLayer.frm_DatMuaCongCu.resources
+E:\Bai Tap\HK VIII\ThuTap\DoAn\Manager Fortunes\Manager Fortunes\obj\Debug\Manager_Fortunes.PresentationLayer.frm_ChuyenPhong.resources
+E:\Bai Tap\HK VIII\ThuTap\DoAn\Manager Fortunes\Manager Fortunes\obj\Debug\Manager_Fortunes.PresentationLayer.frm_DanhGiaCongCu.resources
+E:\Bai Tap\HK VIII\ThuTap\DoAn\Manager Fortunes\Manager Fortunes\obj\Debug\Manager_Fortunes.PresentationLayer.frm_InKiemKe.resources
+E:\Bai Tap\HK VIII\ThuTap\DoAn\Manager Fortunes\Manager Fortunes\obj\Debug\Manager_Fortunes.PresentationLayer.frm_ThanhLyCongCu.resources
+E:\Bai Tap\HK VIII\ThuTap\DoAn\Manager Fortunes\Manager Fortunes\obj\Debug\Manager_Fortunes.PresentationLayer.frm_ThongKe.resources
+E:\Bai Tap\HK VIII\ThuTap\DoAn\Manager Fortunes\Manager Fortunes\obj\Debug\Manager_Fortunes.PresentationLayer.frm_TraCuuChung.resources
+E:\Bai Tap\HK VIII\ThuTap\DoAn\Manager Fortunes\Manager Fortunes\obj\Debug\Manager_Fortunes.PresentationLayer.frm_TraCuuPhieu.resources
+E:\Bai Tap\HK VIII\ThuTap\DoAn\Manager Fortunes\Manager Fortunes\obj\Debug\Manager_Fortunes.PresentationLayer.frm_TraCuuPhongBan.resources
+E:\Bai Tap\HK VIII\ThuTap\DoAn\Manager Fortunes\Manager Fortunes\obj\Debug\Manager_Fortunes.PresentationLayer.frm_XepPhong.resources
+E:\Bai Tap\HK VIII\ThuTap\DoAn\Manager Fortunes\Manager Fortunes\obj\Debug\Manager_Fortunes.frmDangNhap.resources
+E:\Bai Tap\HK VIII\ThuTap\DoAn\Manager Fortunes\Manager Fortunes\obj\Debug\Manager_Fortunes.frmDoiMatKhau.resources
+E:\Bai Tap\HK VIII\ThuTap\DoAn\Manager Fortunes\Manager Fortunes\obj\Debug\Manager_Fortunes.frmQuanLyNhanVien.resources
+E:\Bai Tap\HK VIII\ThuTap\DoAn\Manager Fortunes\Manager Fortunes\obj\Debug\Manager_Fortunes.PresentationLayer.frmThueCongCu.resources
+E:\Bai Tap\HK VIII\ThuTap\DoAn\Manager Fortunes\Manager Fortunes\obj\Debug\Manager_Fortunes.PresentationLayer.frmTimKiemTaiSanThue.resources
+E:\Bai Tap\HK VIII\ThuTap\DoAn\Manager Fortunes\Manager Fortunes\obj\Debug\Manager_Fortunes.PresentationLayer.frmTimKiemCongCu.resources
+E:\Bai Tap\HK VIII\ThuTap\DoAn\Manager Fortunes\Manager Fortunes\obj\Debug\Manager_Fortunes.PresentationLayer.Thuetaisan.resources
+E:\Bai Tap\HK VIII\ThuTap\DoAn\Manager Fortunes\Manager Fortunes\obj\Debug\Manager_Fortunes.frmDiadiem.resources
+E:\Bai Tap\HK VIII\ThuTap\DoAn\Manager Fortunes\Manager Fortunes\obj\Debug\Manager_Fortunes.frmDonvitinh.resources
+E:\Bai Tap\HK VIII\ThuTap\DoAn\Manager Fortunes\Manager Fortunes\obj\Debug\Manager_Fortunes.frmPhongban.resources
+E:\Bai Tap\HK VIII\ThuTap\DoAn\Manager Fortunes\Manager Fortunes\obj\Debug\Manager_Fortunes.PresentationLayer.frmTaisan.resources
+E:\Bai Tap\HK VIII\ThuTap\DoAn\Manager Fortunes\Manager Fortunes\obj\Debug\Manager_Fortunes.PresentationLayer.frmLydotanggiam.resources
+E:\Bai Tap\HK VIII\ThuTap\DoAn\Manager Fortunes\Manager Fortunes\obj\Debug\Manager_Fortunes.PresentationLayer.frmNhomtaisan.resources
+E:\Bai Tap\HK VIII\ThuTap\DoAn\Manager Fortunes\Manager Fortunes\obj\Debug\Manager_Fortunes.PresentationLayer.frmMucdichsudung.resources
+E:\Bai Tap\HK VIII\ThuTap\DoAn\Manager Fortunes\Manager Fortunes\obj\Debug\Manager_Fortunes.PresentationLayer.frmTaisanphantram.resources
+E:\Bai Tap\HK VIII\ThuTap\DoAn\Manager Fortunes\Manager Fortunes\obj\Debug\Manager_Fortunes.PresentationLayer.frmThoikhauhaoTSCD.resources
+E:\Bai Tap\HK VIII\ThuTap\DoAn\Manager Fortunes\Manager Fortunes\obj\Debug\Manager_Fortunes.PresentationLayer.frmKhaibaochothanhly.resources
+E:\Bai Tap\HK VIII\ThuTap\DoAn\QuanLyTaiSan\Code\Manager Fortunes\Manager Fortunes\obj\Debug\Manager Fortunes.exe
+E:\Bai Tap\HK VIII\ThuTap\DoAn\QuanLyTaiSan\Code\Manager Fortunes\Manager Fortunes\obj\Debug\Manager Fortunes.pdb

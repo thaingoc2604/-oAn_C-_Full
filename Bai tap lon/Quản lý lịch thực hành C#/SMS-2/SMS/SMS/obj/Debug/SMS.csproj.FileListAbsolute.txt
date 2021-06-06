@@ -1,0 +1,13 @@
+C:\Users\Hoai_Thanh\Desktop\SMS-2\SMS\SMS\bin\Debug\SMS.exe
+C:\Users\Hoai_Thanh\Desktop\SMS-2\SMS\SMS\bin\Debug\SMS.pdb
+C:\Users\Hoai_Thanh\Desktop\SMS-2\SMS\SMS\bin\Debug\GSMCommShared.dll
+C:\Users\Hoai_Thanh\Desktop\SMS-2\SMS\SMS\bin\Debug\RS232.dll
+C:\Users\Hoai_Thanh\Desktop\SMS-2\SMS\SMS\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Hoai_Thanh\Desktop\SMS-2\SMS\SMS\obj\Debug\SMS.Delete.resources
+C:\Users\Hoai_Thanh\Desktop\SMS-2\SMS\SMS\obj\Debug\SMS.frmConnection.resources
+C:\Users\Hoai_Thanh\Desktop\SMS-2\SMS\SMS\obj\Debug\SMS.Receive.resources
+C:\Users\Hoai_Thanh\Desktop\SMS-2\SMS\SMS\obj\Debug\SMS.Send.resources
+C:\Users\Hoai_Thanh\Desktop\SMS-2\SMS\SMS\obj\Debug\SMS.Form1.resources
+C:\Users\Hoai_Thanh\Desktop\SMS-2\SMS\SMS\obj\Debug\SMS.csproj.GenerateResource.Cache
+C:\Users\Hoai_Thanh\Desktop\SMS-2\SMS\SMS\obj\Debug\SMS.exe
+C:\Users\Hoai_Thanh\Desktop\SMS-2\SMS\SMS\obj\Debug\SMS.pdb

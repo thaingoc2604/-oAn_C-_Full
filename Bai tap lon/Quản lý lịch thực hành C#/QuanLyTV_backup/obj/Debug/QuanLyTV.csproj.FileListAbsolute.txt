@@ -1,0 +1,135 @@
+C:\Users\HoangThanh\Desktop\QuanLyTV\QuanLyTV\bin\Debug\QuanLyTV.exe.config
+C:\Users\HoangThanh\Desktop\QuanLyTV\QuanLyTV\obj\Debug\QuanLyTV.exe
+C:\Users\HoangThanh\Desktop\QuanLyTV\QuanLyTV\obj\Debug\QuanLyTV.pdb
+C:\Users\HoangThanh\Desktop\QuanLyTV\QuanLyTV\bin\Debug\QuanLyTV.exe
+C:\Users\HoangThanh\Desktop\QuanLyTV\QuanLyTV\bin\Debug\QuanLyTV.pdb
+C:\Users\HoangThanh\Desktop\QuanLyTV\QuanLyTV\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\HoangThanh\Desktop\QuanLyTV\QuanLyTV\obj\Debug\QuanLyTV.ChiTietDocGia.resources
+C:\Users\HoangThanh\Desktop\QuanLyTV\QuanLyTV\obj\Debug\QuanLyTV.ChiTietNhanVien.resources
+C:\Users\HoangThanh\Desktop\QuanLyTV\QuanLyTV\obj\Debug\QuanLyTV.Form1.resources
+C:\Users\HoangThanh\Desktop\QuanLyTV\QuanLyTV\obj\Debug\QuanLyTV.fromDocGia.resources
+C:\Users\HoangThanh\Desktop\QuanLyTV\QuanLyTV\obj\Debug\QuanLyTV.fromNhanVien.resources
+C:\Users\HoangThanh\Desktop\QuanLyTV\QuanLyTV\obj\Debug\QuanLyTV.LuuTruSach.resources
+C:\Users\HoangThanh\Desktop\QuanLyTV\QuanLyTV\obj\Debug\QuanLyTV.Properties.Resources.resources
+C:\Users\HoangThanh\Desktop\QuanLyTV\QuanLyTV\obj\Debug\QuanLyTV.TimKiemSach.resources
+C:\Users\HoangThanh\Desktop\QuanLyTV\QuanLyTV\obj\Debug\QuanLyTV.csproj.GenerateResource.Cache
+C:\Users\HoangThanh\Desktop\QuanLyTV\QuanLyTV\obj\Debug\QuanLyTV.Login.resources
+C:\Users\HoangThanh\Desktop\QuanLyTV\QuanLyTV\obj\Debug\QuanLyTV.QuanLyMuonSach.resources
+C:\Users\HoangThanh\Desktop\QuanLyTV\QuanLyTV\obj\Debug\QuanLyTV.ThongKe.resources
+C:\Users\HoangThanh\Desktop\QuanLyTV\QuanLyTV\obj\Debug\QuanLyTV.TKDocGia.resources
+C:\Users\HoangThanh\Desktop\QuanLyTV\QuanLyTV\obj\Debug\QuanLyTV.TKNhanVien.resources
+C:\Users\HoangThanh\Desktop\QuanLyTV\QuanLyTV\obj\Debug\QuanLyTV.TKSach.resources
+C:\Users\HoangThanh\Desktop\QuanLyTV\QuanLyTV\obj\Debug\QuanLyTV.TKDangMuonSach.resources
+C:\Users\HoangThanh\Desktop\QuanLyTV\QuanLyTV\obj\Debug\QuanLyTV.Options.resources
+C:\Users\HoangThanh\Documents\QuanLyTV\QuanLyTV\bin\Debug\QuanLyTV.exe.config
+C:\Users\HoangThanh\Documents\QuanLyTV\QuanLyTV\obj\Debug\QuanLyTV.exe
+C:\Users\HoangThanh\Documents\QuanLyTV\QuanLyTV\obj\Debug\QuanLyTV.pdb
+C:\Users\HoangThanh\Documents\QuanLyTV\QuanLyTV\bin\Debug\QuanLyTV.exe
+C:\Users\HoangThanh\Documents\QuanLyTV\QuanLyTV\bin\Debug\QuanLyTV.pdb
+C:\Users\HoangThanh\Documents\QuanLyTV\QuanLyTV\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\HoangThanh\Documents\QuanLyTV\QuanLyTV\obj\Debug\QuanLyTV.ChiTietDocGia.resources
+C:\Users\HoangThanh\Documents\QuanLyTV\QuanLyTV\obj\Debug\QuanLyTV.ChiTietNhanVien.resources
+C:\Users\HoangThanh\Documents\QuanLyTV\QuanLyTV\obj\Debug\QuanLyTV.Form1.resources
+C:\Users\HoangThanh\Documents\QuanLyTV\QuanLyTV\obj\Debug\QuanLyTV.fromDocGia.resources
+C:\Users\HoangThanh\Documents\QuanLyTV\QuanLyTV\obj\Debug\QuanLyTV.fromNhanVien.resources
+C:\Users\HoangThanh\Documents\QuanLyTV\QuanLyTV\obj\Debug\QuanLyTV.Login.resources
+C:\Users\HoangThanh\Documents\QuanLyTV\QuanLyTV\obj\Debug\QuanLyTV.LuuTruSach.resources
+C:\Users\HoangThanh\Documents\QuanLyTV\QuanLyTV\obj\Debug\QuanLyTV.Options.resources
+C:\Users\HoangThanh\Documents\QuanLyTV\QuanLyTV\obj\Debug\QuanLyTV.Properties.Resources.resources
+C:\Users\HoangThanh\Documents\QuanLyTV\QuanLyTV\obj\Debug\QuanLyTV.QuanLyMuonSach.resources
+C:\Users\HoangThanh\Documents\QuanLyTV\QuanLyTV\obj\Debug\QuanLyTV.ThongKe.resources
+C:\Users\HoangThanh\Documents\QuanLyTV\QuanLyTV\obj\Debug\QuanLyTV.TimKiemSach.resources
+C:\Users\HoangThanh\Documents\QuanLyTV\QuanLyTV\obj\Debug\QuanLyTV.TKDangMuonSach.resources
+C:\Users\HoangThanh\Documents\QuanLyTV\QuanLyTV\obj\Debug\QuanLyTV.TKDocGia.resources
+C:\Users\HoangThanh\Documents\QuanLyTV\QuanLyTV\obj\Debug\QuanLyTV.TKNhanVien.resources
+C:\Users\HoangThanh\Documents\QuanLyTV\QuanLyTV\obj\Debug\QuanLyTV.TKSach.resources
+C:\Users\HoangThanh\Documents\QuanLyTV\QuanLyTV\obj\Debug\QuanLyTV.csproj.GenerateResource.Cache
+C:\Users\HoangThanh\Documents\QuanLyTV\QuanLyTV\obj\Debug\QuanLyTV.rptFormDocGia.resources
+C:\Users\HoangThanh\Documents\QuanLyTV\QuanLyTV\obj\Debug\QuanLyTV.rptFormNhanVien.resources
+C:\Users\HoangThanh\Documents\QuanLyTV\QuanLyTV\obj\Debug\QuanLyTV.rptFormSach.resources
+C:\Users\HoangThanh\Documents\QuanLyTV\QuanLyTV\obj\Debug\QuanLyTV.rptFormQuanLyMuon.resources
+E:\QuanLyTV\QuanLyTV\QuanLyTV\bin\Debug\QuanLyTV.exe.config
+E:\QuanLyTV\QuanLyTV\QuanLyTV\obj\Debug\QuanLyTV.exe
+E:\QuanLyTV\QuanLyTV\QuanLyTV\obj\Debug\QuanLyTV.pdb
+E:\QuanLyTV\QuanLyTV\QuanLyTV\bin\Debug\QuanLyTV.exe
+E:\QuanLyTV\QuanLyTV\QuanLyTV\bin\Debug\QuanLyTV.pdb
+E:\QuanLyTV\QuanLyTV\QuanLyTV\obj\Debug\ResolveAssemblyReference.cache
+E:\QuanLyTV\QuanLyTV\QuanLyTV\obj\Debug\QuanLyTV.ChiTietDocGia.resources
+E:\QuanLyTV\QuanLyTV\QuanLyTV\obj\Debug\QuanLyTV.ChiTietNhanVien.resources
+E:\QuanLyTV\QuanLyTV\QuanLyTV\obj\Debug\QuanLyTV.Form1.resources
+E:\QuanLyTV\QuanLyTV\QuanLyTV\obj\Debug\QuanLyTV.fromDocGia.resources
+E:\QuanLyTV\QuanLyTV\QuanLyTV\obj\Debug\QuanLyTV.fromNhanVien.resources
+E:\QuanLyTV\QuanLyTV\QuanLyTV\obj\Debug\QuanLyTV.Login.resources
+E:\QuanLyTV\QuanLyTV\QuanLyTV\obj\Debug\QuanLyTV.LuuTruSach.resources
+E:\QuanLyTV\QuanLyTV\QuanLyTV\obj\Debug\QuanLyTV.Options.resources
+E:\QuanLyTV\QuanLyTV\QuanLyTV\obj\Debug\QuanLyTV.Properties.Resources.resources
+E:\QuanLyTV\QuanLyTV\QuanLyTV\obj\Debug\QuanLyTV.QuanLyMuonSach.resources
+E:\QuanLyTV\QuanLyTV\QuanLyTV\obj\Debug\QuanLyTV.rptFormDocGia.resources
+E:\QuanLyTV\QuanLyTV\QuanLyTV\obj\Debug\QuanLyTV.rptFormNhanVien.resources
+E:\QuanLyTV\QuanLyTV\QuanLyTV\obj\Debug\QuanLyTV.rptFormQuanLyMuon.resources
+E:\QuanLyTV\QuanLyTV\QuanLyTV\obj\Debug\QuanLyTV.rptFormSach.resources
+E:\QuanLyTV\QuanLyTV\QuanLyTV\obj\Debug\QuanLyTV.ThongKe.resources
+E:\QuanLyTV\QuanLyTV\QuanLyTV\obj\Debug\QuanLyTV.TimKiemSach.resources
+E:\QuanLyTV\QuanLyTV\QuanLyTV\obj\Debug\QuanLyTV.TKDangMuonSach.resources
+E:\QuanLyTV\QuanLyTV\QuanLyTV\obj\Debug\QuanLyTV.TKDocGia.resources
+E:\QuanLyTV\QuanLyTV\QuanLyTV\obj\Debug\QuanLyTV.TKNhanVien.resources
+E:\QuanLyTV\QuanLyTV\QuanLyTV\obj\Debug\QuanLyTV.TKSach.resources
+E:\QuanLyTV\QuanLyTV\QuanLyTV\obj\Debug\QuanLyTV.csproj.GenerateResource.Cache
+C:\Users\HoangThanh\Desktop\QuanLyTV\bin\Debug\QuanLyTV.exe.config
+C:\Users\HoangThanh\Desktop\QuanLyTV\obj\Debug\QuanLyTV.exe
+C:\Users\HoangThanh\Desktop\QuanLyTV\obj\Debug\QuanLyTV.pdb
+C:\Users\HoangThanh\Desktop\QuanLyTV\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\HoangThanh\Desktop\QuanLyTV\obj\Debug\QuanLyTV.ChiTietDocGia.resources
+C:\Users\HoangThanh\Desktop\QuanLyTV\obj\Debug\QuanLyTV.ChiTietNhanVien.resources
+C:\Users\HoangThanh\Desktop\QuanLyTV\obj\Debug\QuanLyTV.Form1.resources
+C:\Users\HoangThanh\Desktop\QuanLyTV\obj\Debug\QuanLyTV.fromDocGia.resources
+C:\Users\HoangThanh\Desktop\QuanLyTV\obj\Debug\QuanLyTV.fromNhanVien.resources
+C:\Users\HoangThanh\Desktop\QuanLyTV\obj\Debug\QuanLyTV.Login.resources
+C:\Users\HoangThanh\Desktop\QuanLyTV\obj\Debug\QuanLyTV.LuuTruSach.resources
+C:\Users\HoangThanh\Desktop\QuanLyTV\obj\Debug\QuanLyTV.Options.resources
+C:\Users\HoangThanh\Desktop\QuanLyTV\obj\Debug\QuanLyTV.Properties.Resources.resources
+C:\Users\HoangThanh\Desktop\QuanLyTV\obj\Debug\QuanLyTV.QuanLyMuonSach.resources
+C:\Users\HoangThanh\Desktop\QuanLyTV\obj\Debug\QuanLyTV.rptFormDocGia.resources
+C:\Users\HoangThanh\Desktop\QuanLyTV\obj\Debug\QuanLyTV.rptFormNhanVien.resources
+C:\Users\HoangThanh\Desktop\QuanLyTV\obj\Debug\QuanLyTV.rptFormQuanLyMuon.resources
+C:\Users\HoangThanh\Desktop\QuanLyTV\obj\Debug\QuanLyTV.rptFormSach.resources
+C:\Users\HoangThanh\Desktop\QuanLyTV\obj\Debug\QuanLyTV.ThongKe.resources
+C:\Users\HoangThanh\Desktop\QuanLyTV\obj\Debug\QuanLyTV.TimKiemSach.resources
+C:\Users\HoangThanh\Desktop\QuanLyTV\obj\Debug\QuanLyTV.TKDangMuonSach.resources
+C:\Users\HoangThanh\Desktop\QuanLyTV\obj\Debug\QuanLyTV.TKDocGia.resources
+C:\Users\HoangThanh\Desktop\QuanLyTV\obj\Debug\QuanLyTV.TKNhanVien.resources
+C:\Users\HoangThanh\Desktop\QuanLyTV\obj\Debug\QuanLyTV.TKSach.resources
+C:\Users\HoangThanh\Desktop\QuanLyTV\obj\Debug\QuanLyTV.csproj.GenerateResource.Cache
+C:\Users\HoangThanh\Desktop\QuanLyTV\bin\Debug\QuanLyTV.exe
+C:\Users\HoangThanh\Desktop\QuanLyTV\bin\Debug\QuanLyTV.pdb
+C:\Users\HoangThanh\Desktop\QuanLyTV\obj\Debug\QuanLyTV.AboutCT.resources
+D:\slide\New Folder (3)\New Folder\QuanLyTV\bin\Debug\QuanLyTV.exe.config
+D:\slide\New Folder (3)\New Folder\QuanLyTV\obj\Debug\QuanLyTV.exe
+D:\slide\New Folder (3)\New Folder\QuanLyTV\obj\Debug\QuanLyTV.pdb
+D:\slide\New Folder (3)\New Folder\QuanLyTV\bin\Debug\QuanLyTV.exe
+D:\slide\New Folder (3)\New Folder\QuanLyTV\bin\Debug\QuanLyTV.pdb
+D:\slide\New Folder (3)\New Folder\QuanLyTV\obj\Debug\ResolveAssemblyReference.cache
+D:\slide\New Folder (3)\New Folder\QuanLyTV\obj\Debug\QuanLyTV.AboutCT.resources
+D:\slide\New Folder (3)\New Folder\QuanLyTV\obj\Debug\QuanLyTV.ChiTietDocGia.resources
+D:\slide\New Folder (3)\New Folder\QuanLyTV\obj\Debug\QuanLyTV.ChiTietNhanVien.resources
+D:\slide\New Folder (3)\New Folder\QuanLyTV\obj\Debug\QuanLyTV.Form1.resources
+D:\slide\New Folder (3)\New Folder\QuanLyTV\obj\Debug\QuanLyTV.fromDocGia.resources
+D:\slide\New Folder (3)\New Folder\QuanLyTV\obj\Debug\QuanLyTV.fromNhanVien.resources
+D:\slide\New Folder (3)\New Folder\QuanLyTV\obj\Debug\QuanLyTV.Login.resources
+D:\slide\New Folder (3)\New Folder\QuanLyTV\obj\Debug\QuanLyTV.LuuTruSach.resources
+D:\slide\New Folder (3)\New Folder\QuanLyTV\obj\Debug\QuanLyTV.Options.resources
+D:\slide\New Folder (3)\New Folder\QuanLyTV\obj\Debug\QuanLyTV.Properties.Resources.resources
+D:\slide\New Folder (3)\New Folder\QuanLyTV\obj\Debug\QuanLyTV.QuanLyMuonSach.resources
+D:\slide\New Folder (3)\New Folder\QuanLyTV\obj\Debug\QuanLyTV.rptFormDocGia.resources
+D:\slide\New Folder (3)\New Folder\QuanLyTV\obj\Debug\QuanLyTV.rptFormNhanVien.resources
+D:\slide\New Folder (3)\New Folder\QuanLyTV\obj\Debug\QuanLyTV.rptFormQuanLyMuon.resources
+D:\slide\New Folder (3)\New Folder\QuanLyTV\obj\Debug\QuanLyTV.rptFormSach.resources
+D:\slide\New Folder (3)\New Folder\QuanLyTV\obj\Debug\QuanLyTV.ThongKe.resources
+D:\slide\New Folder (3)\New Folder\QuanLyTV\obj\Debug\QuanLyTV.TimKiemSach.resources
+D:\slide\New Folder (3)\New Folder\QuanLyTV\obj\Debug\QuanLyTV.TKDangMuonSach.resources
+D:\slide\New Folder (3)\New Folder\QuanLyTV\obj\Debug\QuanLyTV.TKDocGia.resources
+D:\slide\New Folder (3)\New Folder\QuanLyTV\obj\Debug\QuanLyTV.TKNhanVien.resources
+D:\slide\New Folder (3)\New Folder\QuanLyTV\obj\Debug\QuanLyTV.TKSach.resources
+D:\slide\New Folder (3)\New Folder\QuanLyTV\obj\Debug\QuanLyTV.csproj.GenerateResource.Cache
+D:\slide\New Folder (3)\New Folder\QuanLyTV\obj\Debug\QuanLyTV.TimDocGia.resources
+C:\Users\HoangThanh\Desktop\QuanLyTV\obj\Debug\QuanLyTV.TimDocGia.resources

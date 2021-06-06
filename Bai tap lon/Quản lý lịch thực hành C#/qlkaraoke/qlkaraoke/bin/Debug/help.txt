@@ -1,0 +1,9 @@
+account user
+		username: user
+		pass       : user
+
+=======================================
+
+acount admin
+		username : admin
+		usernaem : admin

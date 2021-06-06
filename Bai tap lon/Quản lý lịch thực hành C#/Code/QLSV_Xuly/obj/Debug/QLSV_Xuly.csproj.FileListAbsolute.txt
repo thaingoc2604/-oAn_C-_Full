@@ -1,0 +1,7 @@
+D:\BaiTap\Phong Thi Nghiem\C#\QuanLySV\QLSV_Xuly\obj\Debug\ResolveAssemblyReference.cache
+D:\BaiTap\Phong Thi Nghiem\C#\QuanLySV\QLSV_Xuly\bin\Debug\QLSV_Xuly.dll
+D:\BaiTap\Phong Thi Nghiem\C#\QuanLySV\QLSV_Xuly\bin\Debug\QLSV_Xuly.pdb
+D:\BaiTap\Phong Thi Nghiem\C#\QuanLySV\QLSV_Xuly\bin\Debug\QLSV_Database.exe
+D:\BaiTap\Phong Thi Nghiem\C#\QuanLySV\QLSV_Xuly\bin\Debug\QLSV_Database.pdb
+D:\BaiTap\Phong Thi Nghiem\C#\QuanLySV\QLSV_Xuly\obj\Debug\QLSV_Xuly.dll
+D:\BaiTap\Phong Thi Nghiem\C#\QuanLySV\QLSV_Xuly\obj\Debug\QLSV_Xuly.pdb

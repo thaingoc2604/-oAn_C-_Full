@@ -1,0 +1,358 @@
+﻿<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{CE72FBE8-6C54-489A-B919-93F97FF8D456}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Manager_Fortunes</RootNamespace>
+    <AssemblyName>Manager Fortunes</AssemblyName>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DevComponents.DotNetBar2, Version=7.5.0.1, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>E:\Bai Tap\HK VIII\ThuTap\Manager Fortunes\Manager Fortunes\bin\Debug\DevComponents.DotNetBar2.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="XPExplorerBar, Version=3.3.0.0, Culture=neutral, PublicKeyToken=26272737b5f33015">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>E:\Bai Tap\HK VII\LTQL2\ThuVien\XPExplorerBar.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BusinessObject\CongCuInfo.cs" />
+    <Compile Include="Controller\NhapCongCuControl.cs" />
+    <Compile Include="Datalayer\NhapCongCuData.cs" />
+    <Compile Include="DataServices.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="DataServices.Designer.cs">
+      <DependentUpon>DataServices.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PresentationLayer\frm_ChuyenPhong.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PresentationLayer\frm_ChuyenPhong.Designer.cs">
+      <DependentUpon>frm_ChuyenPhong.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PresentationLayer\frm_DanhGiaCongCu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PresentationLayer\frm_DanhGiaCongCu.Designer.cs">
+      <DependentUpon>frm_DanhGiaCongCu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PresentationLayer\frm_DatMuaCongCu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PresentationLayer\frm_DatMuaCongCu.Designer.cs">
+      <DependentUpon>frm_DatMuaCongCu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PresentationLayer\frm_InKiemKe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PresentationLayer\frm_InKiemKe.Designer.cs">
+      <DependentUpon>frm_InKiemKe.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PresentationLayer\frm_NhapCongCu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PresentationLayer\frm_NhapCongCu.Designer.cs">
+      <DependentUpon>frm_NhapCongCu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainForm_Manager.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForm_Manager.Designer.cs">
+      <DependentUpon>MainForm_Manager.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PresentationLayer\frm_SuaCongCu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PresentationLayer\frm_SuaCongCu.Designer.cs">
+      <DependentUpon>frm_SuaCongCu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PresentationLayer\frm_ThanhLyCongCu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PresentationLayer\frm_ThanhLyCongCu.Designer.cs">
+      <DependentUpon>frm_ThanhLyCongCu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PresentationLayer\frm_ThongKe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PresentationLayer\frm_ThongKe.Designer.cs">
+      <DependentUpon>frm_ThongKe.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PresentationLayer\frm_TraCuuChung.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PresentationLayer\frm_TraCuuChung.Designer.cs">
+      <DependentUpon>frm_TraCuuChung.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PresentationLayer\frm_TraCuuPhieu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PresentationLayer\frm_TraCuuPhieu.Designer.cs">
+      <DependentUpon>frm_TraCuuPhieu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PresentationLayer\frm_TraCuuPhongBan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PresentationLayer\frm_TraCuuPhongBan.Designer.cs">
+      <DependentUpon>frm_TraCuuPhongBan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PresentationLayer\frm_XepPhong.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PresentationLayer\frm_XepPhong.Designer.cs">
+      <DependentUpon>frm_XepPhong.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="PresentationLayer\frm_ChuyenPhong.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frm_ChuyenPhong.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PresentationLayer\frm_DanhGiaCongCu.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frm_DanhGiaCongCu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PresentationLayer\frm_DatMuaCongCu.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frm_DatMuaCongCu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PresentationLayer\frm_InKiemKe.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frm_InKiemKe.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PresentationLayer\frm_NhapCongCu.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frm_NhapCongCu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm_Manager.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>MainForm_Manager.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PresentationLayer\frm_SuaCongCu.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frm_SuaCongCu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PresentationLayer\frm_ThanhLyCongCu.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frm_ThanhLyCongCu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PresentationLayer\frm_ThongKe.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frm_ThongKe.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PresentationLayer\frm_TraCuuChung.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frm_TraCuuChung.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PresentationLayer\frm_TraCuuPhieu.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frm_TraCuuPhieu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PresentationLayer\frm_TraCuuPhongBan.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frm_TraCuuPhongBan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PresentationLayer\frm_XepPhong.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frm_XepPhong.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DangNhap32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Thoat32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Luu32_1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PhucHoi32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\users.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user32.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\remove.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Find.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\nguoidung1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\QLSinhVien32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\chambai1TS.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ThemSinhVien32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\monthi.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Edit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Edit1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ThongTinDanhGia32png.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DiemDanhSinhVien.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Them16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ChuyenPhong16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dethi.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Print.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TraCuu32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TimDay16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TimPhong16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Lapphieuxuatts.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Lapphieuxuatts4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Nhaptaisan4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Nhaptaisan5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Nhaptaisan6.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\nhaptsphantram.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Chothanhly.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\thoi.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\thanhlytaisan.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Kiemke.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Help.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tacgia.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\thue.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\thuecongcu.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lapbaocao.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Nhomtaisan.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Diadiem.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\phongban.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\donvitinh.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\donvitinh1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tracuu1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mucdichsudung.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Initiation\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

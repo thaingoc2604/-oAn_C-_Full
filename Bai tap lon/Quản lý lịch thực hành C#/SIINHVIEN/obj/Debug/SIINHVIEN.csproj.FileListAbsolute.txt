@@ -1,0 +1,8 @@
+C:\Users\Quang\Desktop\SIINHVIEN\SIINHVIEN\bin\Debug\SIINHVIEN.exe
+C:\Users\Quang\Desktop\SIINHVIEN\SIINHVIEN\bin\Debug\SIINHVIEN.pdb
+C:\Users\Quang\Desktop\SIINHVIEN\SIINHVIEN\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Quang\Desktop\SIINHVIEN\SIINHVIEN\obj\Debug\SIINHVIEN.Form1.resources
+C:\Users\Quang\Desktop\SIINHVIEN\SIINHVIEN\obj\Debug\SIINHVIEN.Properties.Resources.resources
+C:\Users\Quang\Desktop\SIINHVIEN\SIINHVIEN\obj\Debug\SIINHVIEN.csproj.GenerateResource.Cache
+C:\Users\Quang\Desktop\SIINHVIEN\SIINHVIEN\obj\Debug\SIINHVIEN.exe
+C:\Users\Quang\Desktop\SIINHVIEN\SIINHVIEN\obj\Debug\SIINHVIEN.pdb

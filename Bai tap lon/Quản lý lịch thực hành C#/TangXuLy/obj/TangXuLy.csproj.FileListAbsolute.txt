@@ -1,0 +1,7 @@
+E:\HocKy5\c#\doanwin2\PR_QLCafe3tier\TangXuLy\bin\Debug\TangXuLy.dll
+E:\HocKy5\c#\doanwin2\PR_QLCafe3tier\TangXuLy\bin\Debug\TangXuLy.pdb
+E:\HocKy5\c#\doanwin2\PR_QLCafe3tier\TangXuLy\bin\Debug\TangDuLieu.dll
+E:\HocKy5\c#\doanwin2\PR_QLCafe3tier\TangXuLy\bin\Debug\TangDuLieu.pdb
+E:\HocKy5\c#\doanwin2\PR_QLCafe3tier\TangXuLy\obj\Debug\ResolveAssemblyReference.cache
+E:\HocKy5\c#\doanwin2\PR_QLCafe3tier\TangXuLy\obj\Debug\TangXuLy.dll
+E:\HocKy5\c#\doanwin2\PR_QLCafe3tier\TangXuLy\obj\Debug\TangXuLy.pdb

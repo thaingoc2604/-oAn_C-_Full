@@ -1,0 +1,163 @@
+E:\Tai Lieu HK VII\LT Win 2\Tieu Luan C#\ThiTracNghiem\frmAdministrator\bin\Debug\frmAdministrator.exe
+E:\Tai Lieu HK VII\LT Win 2\Tieu Luan C#\ThiTracNghiem\frmAdministrator\bin\Debug\frmAdministrator.pdb
+E:\Tai Lieu HK VII\LT Win 2\Tieu Luan C#\ThiTracNghiem\frmAdministrator\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Tai Lieu HK VII\LT Win 2\Tieu Luan C#\ThiTracNghiem\frmAdministrator\obj\x86\Debug\frmAdministrator.frmAbout.resources
+E:\Tai Lieu HK VII\LT Win 2\Tieu Luan C#\ThiTracNghiem\frmAdministrator\obj\x86\Debug\frmAdministrator.frmAdministrator.resources
+E:\Tai Lieu HK VII\LT Win 2\Tieu Luan C#\ThiTracNghiem\frmAdministrator\obj\x86\Debug\frmAdministrator.frmThuVien.resources
+E:\Tai Lieu HK VII\LT Win 2\Tieu Luan C#\ThiTracNghiem\frmAdministrator\obj\x86\Debug\frmAdministrator.Properties.Resources.resources
+E:\Tai Lieu HK VII\LT Win 2\Tieu Luan C#\ThiTracNghiem\frmAdministrator\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Tai Lieu HK VII\LT Win 2\Tieu Luan C#\ThiTracNghiem\frmAdministrator\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Tai Lieu HK VII\LT Win 2\Tieu Luan C#\ThiTracNghiem\frmAdministrator\obj\x86\Debug\frmAdministrator.exe
+E:\Tai Lieu HK VII\LT Win 2\Tieu Luan C#\ThiTracNghiem\frmAdministrator\obj\x86\Debug\frmAdministrator.pdb
+E:\Tai Lieu HK VII\LT Win 2\Tieu Luan C#\ThiTracNghiem\frmAdministrator\obj\x86\Debug\frmAdministrator.frmTaoDeThi.resources
+E:\Tai Lieu HK VII\LT Win 2\Tieu Luan C#\ThiTracNghiem\frmAdministrator\obj\x86\Debug\frmAdministrator.frmLamBai.resources
+E:\Tai Lieu HK VII\LT Win 2\Tieu Luan C#\ThiTracNghiem\frmAdministrator\obj\x86\Debug\frmAdministrator.frmManHinhDen.resources
+E:\Tai Lieu HK VII\LT Win 2\Tieu Luan C#\ThiTracNghiem\frmAdministrator\obj\x86\Debug\frmAdministrator.frmThemCauHoi.resources
+E:\Tai Lieu HK VII\LT Win 2\Tieu Luan C#\ThiTracNghiem\frmAdministrator\obj\x86\Debug\frmAdministrator.frmThoiGianChoCauHoi.resources
+E:\Tai Lieu HK VII\LT Win 2\Tieu Luan C#\ThiTracNghiem\frmAdministrator\obj\x86\Debug\frmAdministrator.frmTimKiem.resources
+E:\Tai Lieu HK VII\LT Win 2\Tieu Luan C#\ThiTracNghiem\frmAdministrator\obj\x86\Debug\frmAdministrator.frmUser.resources
+E:\Tai Lieu HK VII\LT Win 2\Tieu Luan C#\ThiTracNghiem\frmAdministrator\bin\Debug\BUS-Tier.dll
+E:\Tai Lieu HK VII\LT Win 2\Tieu Luan C#\ThiTracNghiem\frmAdministrator\bin\Debug\BUS-Tier.pdb
+E:\Tai Lieu HK VII\LT Win 2\Tieu Luan C#\ThiTracNghiem\frmAdministrator\obj\x86\Debug\frmAdministrator.Form1.resources
+E:\Tai Lieu HK VII\LT Win 2\Tieu Luan C#\ThiTracNghiem\frmAdministrator\bin\Debug\DTO.dll
+E:\Tai Lieu HK VII\LT Win 2\Tieu Luan C#\ThiTracNghiem\frmAdministrator\bin\Debug\DTO.pdb
+E:\Tai Lieu HK VII\LT Win 2\Tieu Luan C#\ThiTracNghiem\frmAdministrator\bin\Debug\DataAccess_Layer.dll
+E:\Tai Lieu HK VII\LT Win 2\Tieu Luan C#\ThiTracNghiem\frmAdministrator\bin\Debug\DataAccess_Layer.pdb
+E:\Tai Lieu HK VII\LT Win 2\Tieu Luan C#\ThiTracNghiem\frmAdministrator\obj\x86\Debug\frmAdministrator.frmLogin.resources
+E:\Tai Lieu HK VII\LT Win 2\Tieu Luan C#\ThiTracNghiem\frmAdministrator\obj\x86\Debug\frmAdministrator.frmSplash.resources
+D:\ThiTracNghiem\frmAdministrator\obj\x86\Debug\frmAdministrator.exe
+D:\ThiTracNghiem\frmAdministrator\obj\x86\Debug\frmAdministrator.pdb
+D:\ThiTracNghiem\frmAdministrator\bin\Debug\frmAdministrator.exe
+D:\ThiTracNghiem\frmAdministrator\bin\Debug\frmAdministrator.pdb
+D:\ThiTracNghiem\frmAdministrator\bin\Debug\BUS-Tier.dll
+D:\ThiTracNghiem\frmAdministrator\bin\Debug\DTO.dll
+D:\ThiTracNghiem\frmAdministrator\bin\Debug\DataAccess_Layer.dll
+D:\ThiTracNghiem\frmAdministrator\bin\Debug\BUS-Tier.pdb
+D:\ThiTracNghiem\frmAdministrator\bin\Debug\DTO.pdb
+D:\ThiTracNghiem\frmAdministrator\bin\Debug\DataAccess_Layer.pdb
+D:\ThiTracNghiem\frmAdministrator\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\ThiTracNghiem\frmAdministrator\obj\x86\Debug\frmAdministrator.frmAbout.resources
+D:\ThiTracNghiem\frmAdministrator\obj\x86\Debug\frmAdministrator.frmAdministrator.resources
+D:\ThiTracNghiem\frmAdministrator\obj\x86\Debug\frmAdministrator.frmLamBai.resources
+D:\ThiTracNghiem\frmAdministrator\obj\x86\Debug\frmAdministrator.frmLogin.resources
+D:\ThiTracNghiem\frmAdministrator\obj\x86\Debug\frmAdministrator.frmManHinhDen.resources
+D:\ThiTracNghiem\frmAdministrator\obj\x86\Debug\frmAdministrator.frmSplash.resources
+D:\ThiTracNghiem\frmAdministrator\obj\x86\Debug\frmAdministrator.frmTaoDeThi.resources
+D:\ThiTracNghiem\frmAdministrator\obj\x86\Debug\frmAdministrator.frmThemCauHoi.resources
+D:\ThiTracNghiem\frmAdministrator\obj\x86\Debug\frmAdministrator.frmThoiGianChoCauHoi.resources
+D:\ThiTracNghiem\frmAdministrator\obj\x86\Debug\frmAdministrator.frmThuVien.resources
+D:\ThiTracNghiem\frmAdministrator\obj\x86\Debug\frmAdministrator.frmTimKiem.resources
+D:\ThiTracNghiem\frmAdministrator\obj\x86\Debug\frmAdministrator.frmUser.resources
+D:\ThiTracNghiem\frmAdministrator\obj\x86\Debug\frmAdministrator.Properties.Resources.resources
+D:\ThiTracNghiem\frmAdministrator\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\ThiTracNghiem\frmAdministrator\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\jsinhnhat\Desktop\ThiTracNghiem\frmAdministrator\obj\x86\Debug\frmAdministrator.exe
+C:\Users\jsinhnhat\Desktop\ThiTracNghiem\frmAdministrator\obj\x86\Debug\frmAdministrator.pdb
+C:\Users\jsinhnhat\Desktop\ThiTracNghiem\frmAdministrator\bin\Debug\frmAdministrator.exe
+C:\Users\jsinhnhat\Desktop\ThiTracNghiem\frmAdministrator\bin\Debug\frmAdministrator.pdb
+C:\Users\jsinhnhat\Desktop\ThiTracNghiem\frmAdministrator\bin\Debug\BUS-Tier.dll
+C:\Users\jsinhnhat\Desktop\ThiTracNghiem\frmAdministrator\bin\Debug\DTO.dll
+C:\Users\jsinhnhat\Desktop\ThiTracNghiem\frmAdministrator\bin\Debug\DataAccess_Layer.dll
+C:\Users\jsinhnhat\Desktop\ThiTracNghiem\frmAdministrator\bin\Debug\BUS-Tier.pdb
+C:\Users\jsinhnhat\Desktop\ThiTracNghiem\frmAdministrator\bin\Debug\DTO.pdb
+C:\Users\jsinhnhat\Desktop\ThiTracNghiem\frmAdministrator\bin\Debug\DataAccess_Layer.pdb
+C:\Users\jsinhnhat\Desktop\ThiTracNghiem\frmAdministrator\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\jsinhnhat\Desktop\ThiTracNghiem\frmAdministrator\obj\x86\Debug\frmAdministrator.frmAbout.resources
+C:\Users\jsinhnhat\Desktop\ThiTracNghiem\frmAdministrator\obj\x86\Debug\frmAdministrator.frmAdministrator.resources
+C:\Users\jsinhnhat\Desktop\ThiTracNghiem\frmAdministrator\obj\x86\Debug\frmAdministrator.frmLamBai.resources
+C:\Users\jsinhnhat\Desktop\ThiTracNghiem\frmAdministrator\obj\x86\Debug\frmAdministrator.frmLogin.resources
+C:\Users\jsinhnhat\Desktop\ThiTracNghiem\frmAdministrator\obj\x86\Debug\frmAdministrator.frmManHinhDen.resources
+C:\Users\jsinhnhat\Desktop\ThiTracNghiem\frmAdministrator\obj\x86\Debug\frmAdministrator.frmSplash.resources
+C:\Users\jsinhnhat\Desktop\ThiTracNghiem\frmAdministrator\obj\x86\Debug\frmAdministrator.frmTaoDeThi.resources
+C:\Users\jsinhnhat\Desktop\ThiTracNghiem\frmAdministrator\obj\x86\Debug\frmAdministrator.frmThemCauHoi.resources
+C:\Users\jsinhnhat\Desktop\ThiTracNghiem\frmAdministrator\obj\x86\Debug\frmAdministrator.frmThoiGianChoCauHoi.resources
+C:\Users\jsinhnhat\Desktop\ThiTracNghiem\frmAdministrator\obj\x86\Debug\frmAdministrator.frmThuVien.resources
+C:\Users\jsinhnhat\Desktop\ThiTracNghiem\frmAdministrator\obj\x86\Debug\frmAdministrator.frmTimKiem.resources
+C:\Users\jsinhnhat\Desktop\ThiTracNghiem\frmAdministrator\obj\x86\Debug\frmAdministrator.frmUser.resources
+C:\Users\jsinhnhat\Desktop\ThiTracNghiem\frmAdministrator\obj\x86\Debug\frmAdministrator.Properties.Resources.resources
+C:\Users\jsinhnhat\Desktop\ThiTracNghiem\frmAdministrator\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\jsinhnhat\Desktop\ThiTracNghiem\frmAdministrator\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\ThiTracNghiem\frmAdministrator\bin\Debug\frmAdministrator.exe.config
+E:\ThiTracNghiem\frmAdministrator\bin\Debug\frmAdministrator.exe.config
+E:\ThiTracNghiem\frmAdministrator\obj\x86\Debug\frmAdministrator.exe
+E:\ThiTracNghiem\frmAdministrator\obj\x86\Debug\frmAdministrator.pdb
+E:\ThiTracNghiem\frmAdministrator\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\ThiTracNghiem\frmAdministrator\obj\x86\Debug\frmAdministrator.frmAbout.resources
+E:\ThiTracNghiem\frmAdministrator\obj\x86\Debug\frmAdministrator.frmAdministrator.resources
+E:\ThiTracNghiem\frmAdministrator\obj\x86\Debug\frmAdministrator.frmLamBai.resources
+E:\ThiTracNghiem\frmAdministrator\obj\x86\Debug\frmAdministrator.frmLogin.resources
+E:\ThiTracNghiem\frmAdministrator\obj\x86\Debug\frmAdministrator.frmManHinhDen.resources
+E:\ThiTracNghiem\frmAdministrator\obj\x86\Debug\frmAdministrator.frmSplash.resources
+E:\ThiTracNghiem\frmAdministrator\obj\x86\Debug\frmAdministrator.frmTaoDeThi.resources
+E:\ThiTracNghiem\frmAdministrator\obj\x86\Debug\frmAdministrator.frmThemCauHoi.resources
+E:\ThiTracNghiem\frmAdministrator\obj\x86\Debug\frmAdministrator.frmThoiGianChoCauHoi.resources
+E:\ThiTracNghiem\frmAdministrator\obj\x86\Debug\frmAdministrator.frmThuVien.resources
+E:\ThiTracNghiem\frmAdministrator\obj\x86\Debug\frmAdministrator.frmTimKiem.resources
+E:\ThiTracNghiem\frmAdministrator\obj\x86\Debug\frmAdministrator.frmUser.resources
+E:\ThiTracNghiem\frmAdministrator\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\ThiTracNghiem\frmAdministrator\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\ThiTracNghiem\frmAdministrator\bin\Debug\frmAdministrator.exe
+E:\ThiTracNghiem\frmAdministrator\bin\Debug\frmAdministrator.pdb
+E:\ThiTracNghiem\frmAdministrator\bin\Debug\BUS-Tier.dll
+E:\ThiTracNghiem\frmAdministrator\bin\Debug\DTO.dll
+E:\ThiTracNghiem\frmAdministrator\bin\Debug\DataAccess_Layer.dll
+E:\ThiTracNghiem\frmAdministrator\bin\Debug\BUS-Tier.pdb
+E:\ThiTracNghiem\frmAdministrator\bin\Debug\DTO.pdb
+E:\ThiTracNghiem\frmAdministrator\bin\Debug\DataAccess_Layer.pdb
+E:\ThiTracNghiem\frmAdministrator\obj\x86\Debug\frmAdministrator.Properties.Resources.resources
+D:\new\ThiTracNghiem\frmAdministrator\bin\Debug\frmAdministrator.exe.config
+D:\new\ThiTracNghiem\frmAdministrator\obj\x86\Debug\frmAdministrator.exe
+D:\new\ThiTracNghiem\frmAdministrator\obj\x86\Debug\frmAdministrator.pdb
+D:\new\ThiTracNghiem\frmAdministrator\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\new\ThiTracNghiem\frmAdministrator\obj\x86\Debug\frmAdministrator.frmAbout.resources
+D:\new\ThiTracNghiem\frmAdministrator\obj\x86\Debug\frmAdministrator.frmAdministrator.resources
+D:\new\ThiTracNghiem\frmAdministrator\obj\x86\Debug\frmAdministrator.frmLamBai.resources
+D:\new\ThiTracNghiem\frmAdministrator\obj\x86\Debug\frmAdministrator.frmLogin.resources
+D:\new\ThiTracNghiem\frmAdministrator\obj\x86\Debug\frmAdministrator.frmManHinhDen.resources
+D:\new\ThiTracNghiem\frmAdministrator\obj\x86\Debug\frmAdministrator.frmSplash.resources
+D:\new\ThiTracNghiem\frmAdministrator\obj\x86\Debug\frmAdministrator.frmTaoDeThi.resources
+D:\new\ThiTracNghiem\frmAdministrator\obj\x86\Debug\frmAdministrator.frmThemCauHoi.resources
+D:\new\ThiTracNghiem\frmAdministrator\obj\x86\Debug\frmAdministrator.frmThoiGianChoCauHoi.resources
+D:\new\ThiTracNghiem\frmAdministrator\obj\x86\Debug\frmAdministrator.frmThuVien.resources
+D:\new\ThiTracNghiem\frmAdministrator\obj\x86\Debug\frmAdministrator.frmTimKiem.resources
+D:\new\ThiTracNghiem\frmAdministrator\obj\x86\Debug\frmAdministrator.frmUser.resources
+D:\new\ThiTracNghiem\frmAdministrator\obj\x86\Debug\frmAdministrator.report.report.resources
+D:\new\ThiTracNghiem\frmAdministrator\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\new\ThiTracNghiem\frmAdministrator\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\new\ThiTracNghiem\frmAdministrator\bin\Debug\frmAdministrator.exe
+D:\new\ThiTracNghiem\frmAdministrator\bin\Debug\frmAdministrator.pdb
+D:\new\ThiTracNghiem\frmAdministrator\bin\Debug\BUS-Tier.dll
+D:\new\ThiTracNghiem\frmAdministrator\bin\Debug\DTO.dll
+D:\new\ThiTracNghiem\frmAdministrator\bin\Debug\DataAccess_Layer.dll
+D:\new\ThiTracNghiem\frmAdministrator\bin\Debug\BUS-Tier.pdb
+D:\new\ThiTracNghiem\frmAdministrator\bin\Debug\DTO.pdb
+D:\new\ThiTracNghiem\frmAdministrator\bin\Debug\DataAccess_Layer.pdb
+D:\new\ThiTracNghiem\frmAdministrator\obj\x86\Debug\frmAdministrator.Properties.Resources.resources
+D:\new\New folder\ThiTracNghiem\frmAdministrator\bin\Debug\frmAdministrator.exe.config
+D:\new\New folder\ThiTracNghiem\frmAdministrator\obj\x86\Debug\frmAdministrator.exe
+D:\new\New folder\ThiTracNghiem\frmAdministrator\obj\x86\Debug\frmAdministrator.pdb
+D:\new\New folder\ThiTracNghiem\frmAdministrator\bin\Debug\frmAdministrator.exe
+D:\new\New folder\ThiTracNghiem\frmAdministrator\bin\Debug\frmAdministrator.pdb
+D:\new\New folder\ThiTracNghiem\frmAdministrator\bin\Debug\BUS-Tier.dll
+D:\new\New folder\ThiTracNghiem\frmAdministrator\bin\Debug\DTO.dll
+D:\new\New folder\ThiTracNghiem\frmAdministrator\bin\Debug\DataAccess_Layer.dll
+D:\new\New folder\ThiTracNghiem\frmAdministrator\bin\Debug\BUS-Tier.pdb
+D:\new\New folder\ThiTracNghiem\frmAdministrator\bin\Debug\DTO.pdb
+D:\new\New folder\ThiTracNghiem\frmAdministrator\bin\Debug\DataAccess_Layer.pdb
+D:\new\New folder\ThiTracNghiem\frmAdministrator\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\new\New folder\ThiTracNghiem\frmAdministrator\obj\x86\Debug\frmAdministrator.frmAbout.resources
+D:\new\New folder\ThiTracNghiem\frmAdministrator\obj\x86\Debug\frmAdministrator.frmAdministrator.resources
+D:\new\New folder\ThiTracNghiem\frmAdministrator\obj\x86\Debug\frmAdministrator.frmLamBai.resources
+D:\new\New folder\ThiTracNghiem\frmAdministrator\obj\x86\Debug\frmAdministrator.frmLogin.resources
+D:\new\New folder\ThiTracNghiem\frmAdministrator\obj\x86\Debug\frmAdministrator.frmManHinhDen.resources
+D:\new\New folder\ThiTracNghiem\frmAdministrator\obj\x86\Debug\frmAdministrator.frmSplash.resources
+D:\new\New folder\ThiTracNghiem\frmAdministrator\obj\x86\Debug\frmAdministrator.frmTaoDeThi.resources
+D:\new\New folder\ThiTracNghiem\frmAdministrator\obj\x86\Debug\frmAdministrator.frmThemCauHoi.resources
+D:\new\New folder\ThiTracNghiem\frmAdministrator\obj\x86\Debug\frmAdministrator.frmThoiGianChoCauHoi.resources
+D:\new\New folder\ThiTracNghiem\frmAdministrator\obj\x86\Debug\frmAdministrator.frmThuVien.resources
+D:\new\New folder\ThiTracNghiem\frmAdministrator\obj\x86\Debug\frmAdministrator.frmTimKiem.resources
+D:\new\New folder\ThiTracNghiem\frmAdministrator\obj\x86\Debug\frmAdministrator.frmUser.resources
+D:\new\New folder\ThiTracNghiem\frmAdministrator\obj\x86\Debug\frmAdministrator.Properties.Resources.resources
+D:\new\New folder\ThiTracNghiem\frmAdministrator\obj\x86\Debug\frmAdministrator.report.report.resources
+D:\new\New folder\ThiTracNghiem\frmAdministrator\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\new\New folder\ThiTracNghiem\frmAdministrator\obj\x86\Debug\GenerateResource.write.1.tlog

@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "QAEmu", "QAEmu\QAEmu.vbproj", "{5FABBBE1-7070-48F1-AD02-8B4909E43C7B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankManagement", "BankManagement\BankManagement.csproj", "{33FC07F7-10E7-4E2C-B094-660D7DA7A039}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5FABBBE1-7070-48F1-AD02-8B4909E43C7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FABBBE1-7070-48F1-AD02-8B4909E43C7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FABBBE1-7070-48F1-AD02-8B4909E43C7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FABBBE1-7070-48F1-AD02-8B4909E43C7B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33FC07F7-10E7-4E2C-B094-660D7DA7A039}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33FC07F7-10E7-4E2C-B094-660D7DA7A039}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33FC07F7-10E7-4E2C-B094-660D7DA7A039}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33FC07F7-10E7-4E2C-B094-660D7DA7A039}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,3 @@
+bin\Debug\Quan_Ly_Mua_Ban.exe.config
+obj\Debug\Quan_Ly_Mua_Ban.exe
+obj\Debug\Quan_Ly_Mua_Ban.pdb

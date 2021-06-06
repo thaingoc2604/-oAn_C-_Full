@@ -1,0 +1,188 @@
+D:\Projects Visual 2008\QuanLyPhongMach\QuanLyPhongMach\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects Visual 2008\QuanLyPhongMach\QuanLyPhongMach\obj\Debug\QuanLyPhongMach.DangNhap.resources
+D:\Projects Visual 2008\QuanLyPhongMach\QuanLyPhongMach\obj\Debug\QuanLyPhongMach.FrmChinh.resources
+D:\Projects Visual 2008\QuanLyPhongMach\QuanLyPhongMach\obj\Debug\QuanLyPhongMach.Properties.Resources.resources
+D:\Projects Visual 2008\QuanLyPhongMach\QuanLyPhongMach\obj\Debug\QuanLyPhongMach.csproj.GenerateResource.Cache
+D:\Projects Visual 2008\QuanLyPhongMach\QuanLyPhongMach\bin\Debug\QuanLyPhongMach.exe
+D:\Projects Visual 2008\QuanLyPhongMach\QuanLyPhongMach\bin\Debug\QuanLyPhongMach.pdb
+D:\Projects Visual 2008\QuanLyPhongMach\QuanLyPhongMach\bin\Debug\BUS.dll
+D:\Projects Visual 2008\QuanLyPhongMach\QuanLyPhongMach\bin\Debug\DTO.dll
+D:\Projects Visual 2008\QuanLyPhongMach\QuanLyPhongMach\bin\Debug\DAO.dll
+D:\Projects Visual 2008\QuanLyPhongMach\QuanLyPhongMach\bin\Debug\BUS.pdb
+D:\Projects Visual 2008\QuanLyPhongMach\QuanLyPhongMach\bin\Debug\DAO.pdb
+D:\Projects Visual 2008\QuanLyPhongMach\QuanLyPhongMach\bin\Debug\DTO.pdb
+D:\Projects Visual 2008\QuanLyPhongMach\QuanLyPhongMach\obj\Debug\QuanLyPhongMach.exe
+D:\Projects Visual 2008\QuanLyPhongMach\QuanLyPhongMach\obj\Debug\QuanLyPhongMach.pdb
+D:\Projects Visual 2008\QuanLyPhongMach\QuanLyPhongMach\obj\Debug\QuanLyPhongMach.ThemBenhNhan.resources
+D:\Projects Visual 2008\QuanLyPhongMach\QuanLyPhongMach\obj\Debug\QuanLyPhongMach.SapGiuongBenh.resources
+D:\Projects Visual 2008\QuanLyPhongMach\QuanLyPhongMach\obj\Debug\QuanLyPhongMach.frmTraCuuBenhNhan.resources
+D:\Projects Visual 2008\QuanLyPhongMach\QuanLyPhongMach\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\Projects Visual 2008\QuanLyPhongMach\QuanLyPhongMach\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\Projects Visual 2008\QuanLyPhongMach\QuanLyPhongMach\bin\Debug\office.dll
+D:\Projects Visual 2008\QuanLyPhongMach\QuanLyPhongMach\bin\Debug\Microsoft.Office.Interop.Excel.xml
+D:\Projects Visual 2008\QuanLyPhongMach\QuanLyPhongMach\bin\Debug\office.xml
+D:\Projects Visual 2008\QuanLyPhongMach\QuanLyPhongMach\obj\Debug\QuanLyPhongMach.frmThemDonThuoc.resources
+G:\QuanLyPhongMach\QuanLyPhongMach\obj\Debug\QuanLyPhongMach.exe
+G:\QuanLyPhongMach\QuanLyPhongMach\obj\Debug\QuanLyPhongMach.pdb
+C:\Documents and Settings\MANH TUAN\Desktop\Do An\QuanLyPhongMach\QuanLyPhongMach\obj\Debug\QuanLyPhongMach.exe
+C:\Documents and Settings\MANH TUAN\Desktop\Do An\QuanLyPhongMach\QuanLyPhongMach\obj\Debug\QuanLyPhongMach.pdb
+C:\Documents and Settings\MANH TUAN\Desktop\Do An\QuanLyPhongMach\QuanLyPhongMach\bin\Debug\QuanLyPhongMach.exe
+C:\Documents and Settings\MANH TUAN\Desktop\Do An\QuanLyPhongMach\QuanLyPhongMach\bin\Debug\QuanLyPhongMach.pdb
+C:\Documents and Settings\MANH TUAN\Desktop\Do An\QuanLyPhongMach\QuanLyPhongMach\bin\Debug\BUS.dll
+C:\Documents and Settings\MANH TUAN\Desktop\Do An\QuanLyPhongMach\QuanLyPhongMach\bin\Debug\DTO.dll
+C:\Documents and Settings\MANH TUAN\Desktop\Do An\QuanLyPhongMach\QuanLyPhongMach\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Documents and Settings\MANH TUAN\Desktop\Do An\QuanLyPhongMach\QuanLyPhongMach\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Documents and Settings\MANH TUAN\Desktop\Do An\QuanLyPhongMach\QuanLyPhongMach\bin\Debug\DAO.dll
+C:\Documents and Settings\MANH TUAN\Desktop\Do An\QuanLyPhongMach\QuanLyPhongMach\bin\Debug\office.dll
+C:\Documents and Settings\MANH TUAN\Desktop\Do An\QuanLyPhongMach\QuanLyPhongMach\bin\Debug\BUS.pdb
+C:\Documents and Settings\MANH TUAN\Desktop\Do An\QuanLyPhongMach\QuanLyPhongMach\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Documents and Settings\MANH TUAN\Desktop\Do An\QuanLyPhongMach\QuanLyPhongMach\bin\Debug\DAO.pdb
+C:\Documents and Settings\MANH TUAN\Desktop\Do An\QuanLyPhongMach\QuanLyPhongMach\bin\Debug\DTO.pdb
+C:\Documents and Settings\MANH TUAN\Desktop\Do An\QuanLyPhongMach\QuanLyPhongMach\bin\Debug\office.xml
+C:\Documents and Settings\MANH TUAN\Desktop\Do An\QuanLyPhongMach\QuanLyPhongMach\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\MANH TUAN\Desktop\Do An\QuanLyPhongMach\QuanLyPhongMach\obj\Debug\QuanLyPhongMach.DangNhap.resources
+C:\Documents and Settings\MANH TUAN\Desktop\Do An\QuanLyPhongMach\QuanLyPhongMach\obj\Debug\QuanLyPhongMach.FrmChinh.resources
+C:\Documents and Settings\MANH TUAN\Desktop\Do An\QuanLyPhongMach\QuanLyPhongMach\obj\Debug\QuanLyPhongMach.Properties.Resources.resources
+C:\Documents and Settings\MANH TUAN\Desktop\Do An\QuanLyPhongMach\QuanLyPhongMach\obj\Debug\QuanLyPhongMach.SapGiuongBenh.resources
+C:\Documents and Settings\MANH TUAN\Desktop\Do An\QuanLyPhongMach\QuanLyPhongMach\obj\Debug\QuanLyPhongMach.ThemBenhNhan.resources
+C:\Documents and Settings\MANH TUAN\Desktop\Do An\QuanLyPhongMach\QuanLyPhongMach\obj\Debug\QuanLyPhongMach.frmThemDonThuoc.resources
+C:\Documents and Settings\MANH TUAN\Desktop\Do An\QuanLyPhongMach\QuanLyPhongMach\obj\Debug\QuanLyPhongMach.frmTraCuuBenhNhan.resources
+C:\Documents and Settings\MANH TUAN\Desktop\Do An\QuanLyPhongMach\QuanLyPhongMach\obj\Debug\QuanLyPhongMach.csproj.GenerateResource.Cache
+C:\Documents and Settings\MANH TUAN\Desktop\QuanLyPhongMach\QuanLyPhongMach\obj\Debug\QuanLyPhongMach.exe
+C:\Documents and Settings\MANH TUAN\Desktop\QuanLyPhongMach\QuanLyPhongMach\obj\Debug\QuanLyPhongMach.pdb
+C:\Documents and Settings\MANH TUAN\Desktop\QuanLyPhongMach\QuanLyPhongMach\bin\Debug\QuanLyPhongMach.exe
+C:\Documents and Settings\MANH TUAN\Desktop\QuanLyPhongMach\QuanLyPhongMach\bin\Debug\QuanLyPhongMach.pdb
+C:\Documents and Settings\MANH TUAN\Desktop\QuanLyPhongMach\QuanLyPhongMach\bin\Debug\BUS.dll
+C:\Documents and Settings\MANH TUAN\Desktop\QuanLyPhongMach\QuanLyPhongMach\bin\Debug\DTO.dll
+C:\Documents and Settings\MANH TUAN\Desktop\QuanLyPhongMach\QuanLyPhongMach\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Documents and Settings\MANH TUAN\Desktop\QuanLyPhongMach\QuanLyPhongMach\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Documents and Settings\MANH TUAN\Desktop\QuanLyPhongMach\QuanLyPhongMach\bin\Debug\DAO.dll
+C:\Documents and Settings\MANH TUAN\Desktop\QuanLyPhongMach\QuanLyPhongMach\bin\Debug\office.dll
+C:\Documents and Settings\MANH TUAN\Desktop\QuanLyPhongMach\QuanLyPhongMach\bin\Debug\BUS.pdb
+C:\Documents and Settings\MANH TUAN\Desktop\QuanLyPhongMach\QuanLyPhongMach\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Documents and Settings\MANH TUAN\Desktop\QuanLyPhongMach\QuanLyPhongMach\bin\Debug\DAO.pdb
+C:\Documents and Settings\MANH TUAN\Desktop\QuanLyPhongMach\QuanLyPhongMach\bin\Debug\DTO.pdb
+C:\Documents and Settings\MANH TUAN\Desktop\QuanLyPhongMach\QuanLyPhongMach\bin\Debug\office.xml
+C:\Documents and Settings\MANH TUAN\Desktop\QuanLyPhongMach\QuanLyPhongMach\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\MANH TUAN\Desktop\QuanLyPhongMach\QuanLyPhongMach\obj\Debug\QuanLyPhongMach.DangNhap.resources
+C:\Documents and Settings\MANH TUAN\Desktop\QuanLyPhongMach\QuanLyPhongMach\obj\Debug\QuanLyPhongMach.FrmChinh.resources
+C:\Documents and Settings\MANH TUAN\Desktop\QuanLyPhongMach\QuanLyPhongMach\obj\Debug\QuanLyPhongMach.Properties.Resources.resources
+C:\Documents and Settings\MANH TUAN\Desktop\QuanLyPhongMach\QuanLyPhongMach\obj\Debug\QuanLyPhongMach.SapGiuongBenh.resources
+C:\Documents and Settings\MANH TUAN\Desktop\QuanLyPhongMach\QuanLyPhongMach\obj\Debug\QuanLyPhongMach.ThemBenhNhan.resources
+C:\Documents and Settings\MANH TUAN\Desktop\QuanLyPhongMach\QuanLyPhongMach\obj\Debug\QuanLyPhongMach.frmThemDonThuoc.resources
+C:\Documents and Settings\MANH TUAN\Desktop\QuanLyPhongMach\QuanLyPhongMach\obj\Debug\QuanLyPhongMach.frmTraCuuBenhNhan.resources
+C:\Documents and Settings\MANH TUAN\Desktop\QuanLyPhongMach\QuanLyPhongMach\obj\Debug\QuanLyPhongMach.csproj.GenerateResource.Cache
+C:\Documents and Settings\MANH TUAN\Desktop\QuanLyPhongMach\QuanLyPhongMach\obj\Debug\QuanLyPhongMach.frmDoiMatKhauBacSiDangNhap.resources
+C:\Documents and Settings\MANH TUAN\Desktop\QuanLyPhongMach\QuanLyPhongMach\obj\Debug\QuanLyPhongMach.frmTraCuuDanhSachBenhNhanDaDieuTri.resources
+C:\Documents and Settings\MANH TUAN\Desktop\QuanLyPhongMach_ver2\QuanLyPhongMach\obj\Debug\QuanLyPhongMach.exe
+C:\Documents and Settings\MANH TUAN\Desktop\QuanLyPhongMach_ver2\QuanLyPhongMach\obj\Debug\QuanLyPhongMach.pdb
+C:\Documents and Settings\MANH TUAN\Desktop\QuanLyPhongMach_ver2\QuanLyPhongMach\bin\Debug\QuanLyPhongMach.exe
+C:\Documents and Settings\MANH TUAN\Desktop\QuanLyPhongMach_ver2\QuanLyPhongMach\bin\Debug\QuanLyPhongMach.pdb
+C:\Documents and Settings\MANH TUAN\Desktop\QuanLyPhongMach_ver2\QuanLyPhongMach\bin\Debug\BUS.dll
+C:\Documents and Settings\MANH TUAN\Desktop\QuanLyPhongMach_ver2\QuanLyPhongMach\bin\Debug\DTO.dll
+C:\Documents and Settings\MANH TUAN\Desktop\QuanLyPhongMach_ver2\QuanLyPhongMach\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Documents and Settings\MANH TUAN\Desktop\QuanLyPhongMach_ver2\QuanLyPhongMach\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Documents and Settings\MANH TUAN\Desktop\QuanLyPhongMach_ver2\QuanLyPhongMach\bin\Debug\DAO.dll
+C:\Documents and Settings\MANH TUAN\Desktop\QuanLyPhongMach_ver2\QuanLyPhongMach\bin\Debug\office.dll
+C:\Documents and Settings\MANH TUAN\Desktop\QuanLyPhongMach_ver2\QuanLyPhongMach\bin\Debug\BUS.pdb
+C:\Documents and Settings\MANH TUAN\Desktop\QuanLyPhongMach_ver2\QuanLyPhongMach\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Documents and Settings\MANH TUAN\Desktop\QuanLyPhongMach_ver2\QuanLyPhongMach\bin\Debug\DAO.pdb
+C:\Documents and Settings\MANH TUAN\Desktop\QuanLyPhongMach_ver2\QuanLyPhongMach\bin\Debug\DTO.pdb
+C:\Documents and Settings\MANH TUAN\Desktop\QuanLyPhongMach_ver2\QuanLyPhongMach\bin\Debug\office.xml
+C:\Documents and Settings\MANH TUAN\Desktop\QuanLyPhongMach_ver2\QuanLyPhongMach\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\MANH TUAN\Desktop\QuanLyPhongMach_ver2\QuanLyPhongMach\obj\Debug\QuanLyPhongMach.DangNhap.resources
+C:\Documents and Settings\MANH TUAN\Desktop\QuanLyPhongMach_ver2\QuanLyPhongMach\obj\Debug\QuanLyPhongMach.frmDoiMatKhauBacSiDangNhap.resources
+C:\Documents and Settings\MANH TUAN\Desktop\QuanLyPhongMach_ver2\QuanLyPhongMach\obj\Debug\QuanLyPhongMach.FrmChinh.resources
+C:\Documents and Settings\MANH TUAN\Desktop\QuanLyPhongMach_ver2\QuanLyPhongMach\obj\Debug\QuanLyPhongMach.Properties.Resources.resources
+C:\Documents and Settings\MANH TUAN\Desktop\QuanLyPhongMach_ver2\QuanLyPhongMach\obj\Debug\QuanLyPhongMach.SapGiuongBenh.resources
+C:\Documents and Settings\MANH TUAN\Desktop\QuanLyPhongMach_ver2\QuanLyPhongMach\obj\Debug\QuanLyPhongMach.ThemBenhNhan.resources
+C:\Documents and Settings\MANH TUAN\Desktop\QuanLyPhongMach_ver2\QuanLyPhongMach\obj\Debug\QuanLyPhongMach.frmThemDonThuoc.resources
+C:\Documents and Settings\MANH TUAN\Desktop\QuanLyPhongMach_ver2\QuanLyPhongMach\obj\Debug\QuanLyPhongMach.frmTraCuuBenhNhan.resources
+C:\Documents and Settings\MANH TUAN\Desktop\QuanLyPhongMach_ver2\QuanLyPhongMach\obj\Debug\QuanLyPhongMach.frmTraCuuDanhSachBenhNhanDaDieuTri.resources
+C:\Documents and Settings\MANH TUAN\Desktop\QuanLyPhongMach_ver2\QuanLyPhongMach\obj\Debug\QuanLyPhongMach.csproj.GenerateResource.Cache
+C:\Documents and Settings\MANH TUAN\Desktop\QuanLyPhongMach_ver3\QuanLyPhongMach\obj\Debug\QuanLyPhongMach.exe
+C:\Documents and Settings\MANH TUAN\Desktop\QuanLyPhongMach_ver3\QuanLyPhongMach\obj\Debug\QuanLyPhongMach.pdb
+C:\Documents and Settings\MANH TUAN\Desktop\QuanLyPhongMach_ver3\QuanLyPhongMach\bin\Debug\QuanLyPhongMach.exe
+C:\Documents and Settings\MANH TUAN\Desktop\QuanLyPhongMach_ver3\QuanLyPhongMach\bin\Debug\QuanLyPhongMach.pdb
+C:\Documents and Settings\MANH TUAN\Desktop\QuanLyPhongMach_ver3\QuanLyPhongMach\bin\Debug\BUS.dll
+C:\Documents and Settings\MANH TUAN\Desktop\QuanLyPhongMach_ver3\QuanLyPhongMach\bin\Debug\DTO.dll
+C:\Documents and Settings\MANH TUAN\Desktop\QuanLyPhongMach_ver3\QuanLyPhongMach\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Documents and Settings\MANH TUAN\Desktop\QuanLyPhongMach_ver3\QuanLyPhongMach\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Documents and Settings\MANH TUAN\Desktop\QuanLyPhongMach_ver3\QuanLyPhongMach\bin\Debug\DAO.dll
+C:\Documents and Settings\MANH TUAN\Desktop\QuanLyPhongMach_ver3\QuanLyPhongMach\bin\Debug\office.dll
+C:\Documents and Settings\MANH TUAN\Desktop\QuanLyPhongMach_ver3\QuanLyPhongMach\bin\Debug\BUS.pdb
+C:\Documents and Settings\MANH TUAN\Desktop\QuanLyPhongMach_ver3\QuanLyPhongMach\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Documents and Settings\MANH TUAN\Desktop\QuanLyPhongMach_ver3\QuanLyPhongMach\bin\Debug\DAO.pdb
+C:\Documents and Settings\MANH TUAN\Desktop\QuanLyPhongMach_ver3\QuanLyPhongMach\bin\Debug\DTO.pdb
+C:\Documents and Settings\MANH TUAN\Desktop\QuanLyPhongMach_ver3\QuanLyPhongMach\bin\Debug\office.xml
+C:\Documents and Settings\MANH TUAN\Desktop\QuanLyPhongMach_ver3\QuanLyPhongMach\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\MANH TUAN\Desktop\QuanLyPhongMach_ver3\QuanLyPhongMach\obj\Debug\QuanLyPhongMach.DangNhap.resources
+C:\Documents and Settings\MANH TUAN\Desktop\QuanLyPhongMach_ver3\QuanLyPhongMach\obj\Debug\QuanLyPhongMach.FrmChinh.resources
+C:\Documents and Settings\MANH TUAN\Desktop\QuanLyPhongMach_ver3\QuanLyPhongMach\obj\Debug\QuanLyPhongMach.Properties.Resources.resources
+C:\Documents and Settings\MANH TUAN\Desktop\QuanLyPhongMach_ver3\QuanLyPhongMach\obj\Debug\QuanLyPhongMach.SapGiuongBenh.resources
+C:\Documents and Settings\MANH TUAN\Desktop\QuanLyPhongMach_ver3\QuanLyPhongMach\obj\Debug\QuanLyPhongMach.ThemBenhNhan.resources
+C:\Documents and Settings\MANH TUAN\Desktop\QuanLyPhongMach_ver3\QuanLyPhongMach\obj\Debug\QuanLyPhongMach.frmThemDonThuoc.resources
+C:\Documents and Settings\MANH TUAN\Desktop\QuanLyPhongMach_ver3\QuanLyPhongMach\obj\Debug\QuanLyPhongMach.frmTraCuuBenhNhan.resources
+C:\Documents and Settings\MANH TUAN\Desktop\QuanLyPhongMach_ver3\QuanLyPhongMach\obj\Debug\QuanLyPhongMach.frmTraCuuDanhSachBenhNhanDaDieuTri.resources
+C:\Documents and Settings\MANH TUAN\Desktop\QuanLyPhongMach_ver3\QuanLyPhongMach\obj\Debug\QuanLyPhongMach.csproj.GenerateResource.Cache
+C:\Documents and Settings\MANH TUAN\Desktop\QuanLyPhongMach_ver3\QuanLyPhongMach\obj\Debug\QuanLyPhongMach.frmTraCuuThongTinBacSi.resources
+C:\Documents and Settings\MANH TUAN\Desktop\QuanLyPhongMach_ver3\QuanLyPhongMach\obj\Debug\QuanLyPhongMach.frmDoiThongTinCaNhan.resources
+C:\Documents and Settings\MANH TUAN\Desktop\QuanLyPhongMach_ver4\QuanLyPhongMach\obj\Debug\QuanLyPhongMach.exe
+C:\Documents and Settings\MANH TUAN\Desktop\QuanLyPhongMach_ver4\QuanLyPhongMach\obj\Debug\QuanLyPhongMach.pdb
+C:\Documents and Settings\MANH TUAN\Desktop\QuanLyPhongMach_ver4\QuanLyPhongMach\bin\Debug\QuanLyPhongMach.exe
+C:\Documents and Settings\MANH TUAN\Desktop\QuanLyPhongMach_ver4\QuanLyPhongMach\bin\Debug\QuanLyPhongMach.pdb
+C:\Documents and Settings\MANH TUAN\Desktop\QuanLyPhongMach_ver4\QuanLyPhongMach\bin\Debug\BUS.dll
+C:\Documents and Settings\MANH TUAN\Desktop\QuanLyPhongMach_ver4\QuanLyPhongMach\bin\Debug\DTO.dll
+C:\Documents and Settings\MANH TUAN\Desktop\QuanLyPhongMach_ver4\QuanLyPhongMach\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Documents and Settings\MANH TUAN\Desktop\QuanLyPhongMach_ver4\QuanLyPhongMach\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Documents and Settings\MANH TUAN\Desktop\QuanLyPhongMach_ver4\QuanLyPhongMach\bin\Debug\DAO.dll
+C:\Documents and Settings\MANH TUAN\Desktop\QuanLyPhongMach_ver4\QuanLyPhongMach\bin\Debug\office.dll
+C:\Documents and Settings\MANH TUAN\Desktop\QuanLyPhongMach_ver4\QuanLyPhongMach\bin\Debug\BUS.pdb
+C:\Documents and Settings\MANH TUAN\Desktop\QuanLyPhongMach_ver4\QuanLyPhongMach\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Documents and Settings\MANH TUAN\Desktop\QuanLyPhongMach_ver4\QuanLyPhongMach\bin\Debug\DAO.pdb
+C:\Documents and Settings\MANH TUAN\Desktop\QuanLyPhongMach_ver4\QuanLyPhongMach\bin\Debug\DTO.pdb
+C:\Documents and Settings\MANH TUAN\Desktop\QuanLyPhongMach_ver4\QuanLyPhongMach\bin\Debug\office.xml
+C:\Documents and Settings\MANH TUAN\Desktop\QuanLyPhongMach_ver4\QuanLyPhongMach\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\MANH TUAN\Desktop\QuanLyPhongMach_ver4\QuanLyPhongMach\obj\Debug\QuanLyPhongMach.DangNhap.resources
+C:\Documents and Settings\MANH TUAN\Desktop\QuanLyPhongMach_ver4\QuanLyPhongMach\obj\Debug\QuanLyPhongMach.frmDoiThongTinCaNhan.resources
+C:\Documents and Settings\MANH TUAN\Desktop\QuanLyPhongMach_ver4\QuanLyPhongMach\obj\Debug\QuanLyPhongMach.FrmChinh.resources
+C:\Documents and Settings\MANH TUAN\Desktop\QuanLyPhongMach_ver4\QuanLyPhongMach\obj\Debug\QuanLyPhongMach.Properties.Resources.resources
+C:\Documents and Settings\MANH TUAN\Desktop\QuanLyPhongMach_ver4\QuanLyPhongMach\obj\Debug\QuanLyPhongMach.SapGiuongBenh.resources
+C:\Documents and Settings\MANH TUAN\Desktop\QuanLyPhongMach_ver4\QuanLyPhongMach\obj\Debug\QuanLyPhongMach.ThemBenhNhan.resources
+C:\Documents and Settings\MANH TUAN\Desktop\QuanLyPhongMach_ver4\QuanLyPhongMach\obj\Debug\QuanLyPhongMach.frmThemDonThuoc.resources
+C:\Documents and Settings\MANH TUAN\Desktop\QuanLyPhongMach_ver4\QuanLyPhongMach\obj\Debug\QuanLyPhongMach.frmTraCuuBenhNhan.resources
+C:\Documents and Settings\MANH TUAN\Desktop\QuanLyPhongMach_ver4\QuanLyPhongMach\obj\Debug\QuanLyPhongMach.frmTraCuuDanhSachBenhNhanDaDieuTri.resources
+C:\Documents and Settings\MANH TUAN\Desktop\QuanLyPhongMach_ver4\QuanLyPhongMach\obj\Debug\QuanLyPhongMach.frmTraCuuThongTinBacSi.resources
+C:\Documents and Settings\MANH TUAN\Desktop\QuanLyPhongMach_ver4\QuanLyPhongMach\obj\Debug\QuanLyPhongMach.csproj.GenerateResource.Cache
+C:\Documents and Settings\MANH TUAN\Desktop\QuanLyPhongMach_ver4\QuanLyPhongMach\obj\Debug\QuanLyPhongMach.frmCapNhatThongTinBenhNhan.resources
+C:\Documents and Settings\Vu Manh Tuan\Desktop\QuanLyPhongMach_ver5\QuanLyPhongMach\obj\Debug\QuanLyPhongMach.exe
+C:\Documents and Settings\Vu Manh Tuan\Desktop\QuanLyPhongMach_ver5\QuanLyPhongMach\obj\Debug\QuanLyPhongMach.pdb
+C:\Documents and Settings\Vu Manh Tuan\Desktop\QuanLyPhongMach_ver5\QuanLyPhongMach\bin\Debug\QuanLyPhongMach.exe
+C:\Documents and Settings\Vu Manh Tuan\Desktop\QuanLyPhongMach_ver5\QuanLyPhongMach\bin\Debug\QuanLyPhongMach.pdb
+C:\Documents and Settings\Vu Manh Tuan\Desktop\QuanLyPhongMach_ver5\QuanLyPhongMach\bin\Debug\BUS.dll
+C:\Documents and Settings\Vu Manh Tuan\Desktop\QuanLyPhongMach_ver5\QuanLyPhongMach\bin\Debug\DTO.dll
+C:\Documents and Settings\Vu Manh Tuan\Desktop\QuanLyPhongMach_ver5\QuanLyPhongMach\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Documents and Settings\Vu Manh Tuan\Desktop\QuanLyPhongMach_ver5\QuanLyPhongMach\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Documents and Settings\Vu Manh Tuan\Desktop\QuanLyPhongMach_ver5\QuanLyPhongMach\bin\Debug\DAO.dll
+C:\Documents and Settings\Vu Manh Tuan\Desktop\QuanLyPhongMach_ver5\QuanLyPhongMach\bin\Debug\office.dll
+C:\Documents and Settings\Vu Manh Tuan\Desktop\QuanLyPhongMach_ver5\QuanLyPhongMach\bin\Debug\BUS.pdb
+C:\Documents and Settings\Vu Manh Tuan\Desktop\QuanLyPhongMach_ver5\QuanLyPhongMach\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Documents and Settings\Vu Manh Tuan\Desktop\QuanLyPhongMach_ver5\QuanLyPhongMach\bin\Debug\DAO.pdb
+C:\Documents and Settings\Vu Manh Tuan\Desktop\QuanLyPhongMach_ver5\QuanLyPhongMach\bin\Debug\DTO.pdb
+C:\Documents and Settings\Vu Manh Tuan\Desktop\QuanLyPhongMach_ver5\QuanLyPhongMach\bin\Debug\office.xml
+C:\Documents and Settings\Vu Manh Tuan\Desktop\QuanLyPhongMach_ver5\QuanLyPhongMach\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Vu Manh Tuan\Desktop\QuanLyPhongMach_ver5\QuanLyPhongMach\obj\Debug\QuanLyPhongMach.frmCapNhatThongTinBenhNhan.resources
+C:\Documents and Settings\Vu Manh Tuan\Desktop\QuanLyPhongMach_ver5\QuanLyPhongMach\obj\Debug\QuanLyPhongMach.DangNhap.resources
+C:\Documents and Settings\Vu Manh Tuan\Desktop\QuanLyPhongMach_ver5\QuanLyPhongMach\obj\Debug\QuanLyPhongMach.frmDoiThongTinCaNhan.resources
+C:\Documents and Settings\Vu Manh Tuan\Desktop\QuanLyPhongMach_ver5\QuanLyPhongMach\obj\Debug\QuanLyPhongMach.FrmChinh.resources
+C:\Documents and Settings\Vu Manh Tuan\Desktop\QuanLyPhongMach_ver5\QuanLyPhongMach\obj\Debug\QuanLyPhongMach.Properties.Resources.resources
+C:\Documents and Settings\Vu Manh Tuan\Desktop\QuanLyPhongMach_ver5\QuanLyPhongMach\obj\Debug\QuanLyPhongMach.SapGiuongBenh.resources
+C:\Documents and Settings\Vu Manh Tuan\Desktop\QuanLyPhongMach_ver5\QuanLyPhongMach\obj\Debug\QuanLyPhongMach.ThemBenhNhan.resources
+C:\Documents and Settings\Vu Manh Tuan\Desktop\QuanLyPhongMach_ver5\QuanLyPhongMach\obj\Debug\QuanLyPhongMach.frmThemDonThuoc.resources
+C:\Documents and Settings\Vu Manh Tuan\Desktop\QuanLyPhongMach_ver5\QuanLyPhongMach\obj\Debug\QuanLyPhongMach.frmTraCuuBenhNhan.resources
+C:\Documents and Settings\Vu Manh Tuan\Desktop\QuanLyPhongMach_ver5\QuanLyPhongMach\obj\Debug\QuanLyPhongMach.frmTraCuuDanhSachBenhNhanDaDieuTri.resources
+C:\Documents and Settings\Vu Manh Tuan\Desktop\QuanLyPhongMach_ver5\QuanLyPhongMach\obj\Debug\QuanLyPhongMach.frmTraCuuThongTinBacSi.resources
+C:\Documents and Settings\Vu Manh Tuan\Desktop\QuanLyPhongMach_ver5\QuanLyPhongMach\obj\Debug\QuanLyPhongMach.csproj.GenerateResource.Cache
+C:\Documents and Settings\Vu Manh Tuan\Desktop\QuanLyPhongMach_ver5\QuanLyPhongMach\obj\Debug\QuanLyPhongMach.frmThemBacSi.resources
+C:\Documents and Settings\Vu Manh Tuan\Desktop\QuanLyPhongMach_ver6\QuanLyPhongMach\obj\Debug\QuanLyPhongMach.exe
+C:\Documents and Settings\Vu Manh Tuan\Desktop\QuanLyPhongMach_ver6\QuanLyPhongMach\obj\Debug\QuanLyPhongMach.pdb

@@ -1,0 +1,45 @@
+D:\Projects Visual 2008\QuanLyPhongMach\BUS\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects Visual 2008\QuanLyPhongMach\BUS\bin\Debug\BUS.dll
+D:\Projects Visual 2008\QuanLyPhongMach\BUS\bin\Debug\BUS.pdb
+D:\Projects Visual 2008\QuanLyPhongMach\BUS\bin\Debug\DAO.dll
+D:\Projects Visual 2008\QuanLyPhongMach\BUS\bin\Debug\DTO.dll
+D:\Projects Visual 2008\QuanLyPhongMach\BUS\bin\Debug\DAO.pdb
+D:\Projects Visual 2008\QuanLyPhongMach\BUS\bin\Debug\DTO.pdb
+D:\Projects Visual 2008\QuanLyPhongMach\BUS\obj\Debug\BUS.dll
+D:\Projects Visual 2008\QuanLyPhongMach\BUS\obj\Debug\BUS.pdb
+C:\Documents and Settings\MANH TUAN\Desktop\QuanLyPhongMach\BUS\bin\Debug\BUS.dll
+C:\Documents and Settings\MANH TUAN\Desktop\QuanLyPhongMach\BUS\bin\Debug\BUS.pdb
+C:\Documents and Settings\MANH TUAN\Desktop\QuanLyPhongMach\BUS\bin\Debug\DAO.dll
+C:\Documents and Settings\MANH TUAN\Desktop\QuanLyPhongMach\BUS\bin\Debug\DTO.dll
+C:\Documents and Settings\MANH TUAN\Desktop\QuanLyPhongMach\BUS\bin\Debug\DAO.pdb
+C:\Documents and Settings\MANH TUAN\Desktop\QuanLyPhongMach\BUS\bin\Debug\DTO.pdb
+C:\Documents and Settings\MANH TUAN\Desktop\QuanLyPhongMach\BUS\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\MANH TUAN\Desktop\QuanLyPhongMach\BUS\obj\Debug\BUS.dll
+C:\Documents and Settings\MANH TUAN\Desktop\QuanLyPhongMach\BUS\obj\Debug\BUS.pdb
+C:\Documents and Settings\MANH TUAN\Desktop\QuanLyPhongMach_ver3\BUS\bin\Debug\BUS.dll
+C:\Documents and Settings\MANH TUAN\Desktop\QuanLyPhongMach_ver3\BUS\bin\Debug\BUS.pdb
+C:\Documents and Settings\MANH TUAN\Desktop\QuanLyPhongMach_ver3\BUS\bin\Debug\DAO.dll
+C:\Documents and Settings\MANH TUAN\Desktop\QuanLyPhongMach_ver3\BUS\bin\Debug\DTO.dll
+C:\Documents and Settings\MANH TUAN\Desktop\QuanLyPhongMach_ver3\BUS\bin\Debug\DAO.pdb
+C:\Documents and Settings\MANH TUAN\Desktop\QuanLyPhongMach_ver3\BUS\bin\Debug\DTO.pdb
+C:\Documents and Settings\MANH TUAN\Desktop\QuanLyPhongMach_ver3\BUS\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\MANH TUAN\Desktop\QuanLyPhongMach_ver3\BUS\obj\Debug\BUS.dll
+C:\Documents and Settings\MANH TUAN\Desktop\QuanLyPhongMach_ver3\BUS\obj\Debug\BUS.pdb
+C:\Documents and Settings\MANH TUAN\Desktop\QuanLyPhongMach_ver4\BUS\bin\Debug\BUS.dll
+C:\Documents and Settings\MANH TUAN\Desktop\QuanLyPhongMach_ver4\BUS\bin\Debug\BUS.pdb
+C:\Documents and Settings\MANH TUAN\Desktop\QuanLyPhongMach_ver4\BUS\bin\Debug\DAO.dll
+C:\Documents and Settings\MANH TUAN\Desktop\QuanLyPhongMach_ver4\BUS\bin\Debug\DTO.dll
+C:\Documents and Settings\MANH TUAN\Desktop\QuanLyPhongMach_ver4\BUS\bin\Debug\DAO.pdb
+C:\Documents and Settings\MANH TUAN\Desktop\QuanLyPhongMach_ver4\BUS\bin\Debug\DTO.pdb
+C:\Documents and Settings\MANH TUAN\Desktop\QuanLyPhongMach_ver4\BUS\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\MANH TUAN\Desktop\QuanLyPhongMach_ver4\BUS\obj\Debug\BUS.dll
+C:\Documents and Settings\MANH TUAN\Desktop\QuanLyPhongMach_ver4\BUS\obj\Debug\BUS.pdb
+C:\Documents and Settings\Vu Manh Tuan\Desktop\QuanLyPhongMach_ver5\BUS\bin\Debug\BUS.dll
+C:\Documents and Settings\Vu Manh Tuan\Desktop\QuanLyPhongMach_ver5\BUS\bin\Debug\BUS.pdb
+C:\Documents and Settings\Vu Manh Tuan\Desktop\QuanLyPhongMach_ver5\BUS\bin\Debug\DAO.dll
+C:\Documents and Settings\Vu Manh Tuan\Desktop\QuanLyPhongMach_ver5\BUS\bin\Debug\DTO.dll
+C:\Documents and Settings\Vu Manh Tuan\Desktop\QuanLyPhongMach_ver5\BUS\bin\Debug\DAO.pdb
+C:\Documents and Settings\Vu Manh Tuan\Desktop\QuanLyPhongMach_ver5\BUS\bin\Debug\DTO.pdb
+C:\Documents and Settings\Vu Manh Tuan\Desktop\QuanLyPhongMach_ver5\BUS\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Vu Manh Tuan\Desktop\QuanLyPhongMach_ver5\BUS\obj\Debug\BUS.dll
+C:\Documents and Settings\Vu Manh Tuan\Desktop\QuanLyPhongMach_ver5\BUS\obj\Debug\BUS.pdb

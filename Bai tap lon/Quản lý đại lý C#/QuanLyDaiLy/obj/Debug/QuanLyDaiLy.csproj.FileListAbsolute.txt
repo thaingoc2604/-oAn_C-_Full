@@ -1,0 +1,2 @@
+D:\Share\Bai tap lon\Quản lý đại lý C#\QuanLyDaiLy\obj\Debug\QuanLyDaiLy.exe
+D:\Share\Bai tap lon\Quản lý đại lý C#\QuanLyDaiLy\obj\Debug\QuanLyDaiLy.pdb

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Quan_Ly_Mua_Ban">
+</Property><Property Name="Solution File" Value="D:\BAI_BAO_CAO\Compressed\QuanLyMuaBan\go\Quan_Ly_Mua_Ban\Quan_Ly_Mua_Ban.sln">
+</Property><Property Name="User Options File" Value="D:\BAI_BAO_CAO\Compressed\QuanLyMuaBan\go\Quan_Ly_Mua_Ban\Quan_Ly_Mua_Ban.suo">
+</Property><Property Name="Date" Value="Thursday, June 10, 2010">
+</Property><Property Name="Time" Value="4:33 AM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Quan_Ly_Mua_Ban.sln" Description="File successfully backed up as D:\BAI_BAO_CAO\Compressed\QuanLyMuaBan\go\Quan_Ly_Mua_Ban\Backup\Quan_Ly_Mua_Ban.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Quan_Ly_Mua_Ban.suo" Description="File successfully backed up as D:\BAI_BAO_CAO\Compressed\QuanLyMuaBan\go\Quan_Ly_Mua_Ban\Backup\Quan_Ly_Mua_Ban.suo">
+</Event><Event ErrorLevel="0" Project="Quan_Ly_Mua_Ban" Source="Quan_Ly_Mua_Ban.csproj" Description="Project file successfully backed up as D:\BAI_BAO_CAO\Compressed\QuanLyMuaBan\go\Quan_Ly_Mua_Ban\Backup\Quan_Ly_Mua_Ban.csproj">
+</Event><Event ErrorLevel="0" Project="Quan_Ly_Mua_Ban" Source="Quan_Ly_Mua_Ban.csproj.user" Description="Project user file successfully backed up as D:\BAI_BAO_CAO\Compressed\QuanLyMuaBan\go\Quan_Ly_Mua_Ban\Backup\Quan_Ly_Mua_Ban.csproj.user">
+</Event><Event ErrorLevel="0" Project="Quan_Ly_Mua_Ban" Source="Amin.cs" Description="File successfully backed up as D:\BAI_BAO_CAO\Compressed\QuanLyMuaBan\go\Quan_Ly_Mua_Ban\Backup\Amin.cs">
+</Event><Event ErrorLevel="0" Project="Quan_Ly_Mua_Ban" Source="AssemblyInfo.cs" Description="File successfully backed up as D:\BAI_BAO_CAO\Compressed\QuanLyMuaBan\go\Quan_Ly_Mua_Ban\Backup\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Quan_Ly_Mua_Ban" Source="BaoCaoChiTietHopDong.cs" Description="File successfully backed up as D:\BAI_BAO_CAO\Compressed\QuanLyMuaBan\go\Quan_Ly_Mua_Ban\Backup\BaoCaoChiTietHopDong.cs">
+</Event><Event ErrorLevel="0" Project="Quan_Ly_Mua_Ban" Source="BaoCaoChiTietHopDongMua.cs" Description="File successfully backed up as D:\BAI_BAO_CAO\Compressed\QuanLyMuaBan\go\Quan_Ly_Mua_Ban\Backup\BaoCaoChiTietHopDongMua.cs">
+</Event><Event ErrorLevel="0" Project="Quan_Ly_Mua_Ban" Source="BaoCaoHangHoa.cs" Description="File successfully backed up as D:\BAI_BAO_CAO\Compressed\QuanLyMuaBan\go\Quan_Ly_Mua_Ban\Backup\BaoCaoHangHoa.cs">
+</Event><Event ErrorLevel="0" Project="Quan_Ly_Mua_Ban" Source="BaoCaoPhieuChi.cs" Description="File successfully backed up as D:\BAI_BAO_CAO\Compressed\QuanLyMuaBan\go\Quan_Ly_Mua_Ban\Backup\BaoCaoPhieuChi.cs">
+</Event><Event ErrorLevel="0" Project="Quan_Ly_Mua_Ban" Source="BaoCaoPhieuThu.cs" Description="File successfully backed up as D:\BAI_BAO_CAO\Compressed\QuanLyMuaBan\go\Quan_Ly_Mua_Ban\Backup\BaoCaoPhieuThu.cs">
+</Event><Event ErrorLevel="0" Project="Quan_Ly_Mua_Ban" Source="CheckError.cs" Description="File successfully backed up as D:\BAI_BAO_CAO\Compressed\QuanLyMuaBan\go\Quan_Ly_Mua_Ban\Backup\CheckError.cs">
+</Event><Event ErrorLevel="0" Project="Quan_Ly_Mua_Ban" Source="Chi_Tiet_Don_Hang.cs" Description="File successfully backed up as D:\BAI_BAO_CAO\Compressed\QuanLyMuaBan\go\Quan_Ly_Mua_Ban\Backup\Chi_Tiet_Don_Hang.cs">
+</Event><Event ErrorLevel="0" Project="Quan_Ly_Mua_Ban" Source="Chi_Tiet_Hop_Dong_Cung_Ung.cs" Description="File successfully backed up as D:\BAI_BAO_CAO\Compressed\QuanLyMuaBan\go\Quan_Ly_Mua_Ban\Backup\Chi_Tiet_Hop_Dong_Cung_Ung.cs">
+</Event><Event ErrorLevel="0" Project="Quan_Ly_Mua_Ban" Source="ConnectSQL.cs" Description="File successfully backed up as D:\BAI_BAO_CAO\Compressed\QuanLyMuaBan\go\Quan_Ly_Mua_Ban\Backup\ConnectSQL.cs">
+</Event><Event ErrorLevel="0" Project="Quan_Ly_Mua_Ban" Source="connet.cs" Description="File successfully backed up as D:\BAI_BAO_CAO\Compressed\QuanLyMuaBan\go\Quan_Ly_Mua_Ban\Backup\connet.cs">
+</Event><Event ErrorLevel="0" Project="Quan_Ly_Mua_Ban" Source="DisplayIcon.cs" Description="File successfully backed up as D:\BAI_BAO_CAO\Compressed\QuanLyMuaBan\go\Quan_Ly_Mua_Ban\Backup\DisplayIcon.cs">
+</Event><Event ErrorLevel="0" Project="Quan_Ly_Mua_Ban" Source="frmAbout.cs" Description="File successfully backed up as D:\BAI_BAO_CAO\Compressed\QuanLyMuaBan\go\Quan_Ly_Mua_Ban\Backup\frmAbout.cs">
+</Event><Event ErrorLevel="0" Project="Quan_Ly_Mua_Ban" Source="Gia.cs" Description="File successfully backed up as D:\BAI_BAO_CAO\Compressed\QuanLyMuaBan\go\Quan_Ly_Mua_Ban\Backup\Gia.cs">
+</Event><Event ErrorLevel="0" Project="Quan_Ly_Mua_Ban" Source="Hang_Hoa_Loai.cs" Description="File successfully backed up as D:\BAI_BAO_CAO\Compressed\QuanLyMuaBan\go\Quan_Ly_Mua_Ban\Backup\Hang_Hoa_Loai.cs">
+</Event><Event ErrorLevel="0" Project="Quan_Ly_Mua_Ban" Source="Hang_Hoa_Thong_ke.cs" Description="File successfully backed up as D:\BAI_BAO_CAO\Compressed\QuanLyMuaBan\go\Quan_Ly_Mua_Ban\Backup\Hang_Hoa_Thong_ke.cs">
+</Event><Event ErrorLevel="0" Project="Quan_Ly_Mua_Ban" Source="HinhAnh.cs" Description="File successfully backed up as D:\BAI_BAO_CAO\Compressed\QuanLyMuaBan\go\Quan_Ly_Mua_Ban\Backup\HinhAnh.cs">
+</Event><Event ErrorLevel="0" Project="Quan_Ly_Mua_Ban" Source="KhachOnly.cs" Description="File successfully backed up as D:\BAI_BAO_CAO\Compressed\QuanLyMuaBan\go\Quan_Ly_Mua_Ban\Backup\KhachOnly.cs">
+</Event><Event ErrorLevel="0" Project="Quan_Ly_Mua_Ban" Source="Khach_Hang_Nhom.cs" Description="File successfully backed up as D:\BAI_BAO_CAO\Compressed\QuanLyMuaBan\go\Quan_Ly_Mua_Ban\Backup\Khach_Hang_Nhom.cs">
+</Event><Event ErrorLevel="0" Project="Quan_Ly_Mua_Ban" Source="K_Hang_Thong_ke.cs" Description="File successfully backed up as D:\BAI_BAO_CAO\Compressed\QuanLyMuaBan\go\Quan_Ly_Mua_Ban\Backup\K_Hang_Thong_ke.cs">
+</Event><Event ErrorLevel="0" Project="Quan_Ly_Mua_Ban" Source="Log_on.cs" Description="File successfully backed up as D:\BAI_BAO_CAO\Compressed\QuanLyMuaBan\go\Quan_Ly_Mua_Ban\Backup\Log_on.cs">
+</Event><Event ErrorLevel="0" Project="Quan_Ly_Mua_Ban" Source="Luu_Tru_Hop_Dong_Ban.cs" Description="File successfully backed up as D:\BAI_BAO_CAO\Compressed\QuanLyMuaBan\go\Quan_Ly_Mua_Ban\Backup\Luu_Tru_Hop_Dong_Ban.cs">
+</Event><Event ErrorLevel="0" Project="Quan_Ly_Mua_Ban" Source="Luu_Tru_Hop_Dong_Mua.cs" Description="File successfully backed up as D:\BAI_BAO_CAO\Compressed\QuanLyMuaBan\go\Quan_Ly_Mua_Ban\Backup\Luu_Tru_Hop_Dong_Mua.cs">
+</Event><Event ErrorLevel="0" Project="Quan_Ly_Mua_Ban" Source="Main.cs" Description="File successfully backed up as D:\BAI_BAO_CAO\Compressed\QuanLyMuaBan\go\Quan_Ly_Mua_Ban\Backup\Main.cs">
+</Event><Event ErrorLevel="0" Project="Quan_Ly_Mua_Ban" Source="Nha_Cung_Ung_Nhom.cs" Description="File successfully backed up as D:\BAI_BAO_CAO\Compressed\QuanLyMuaBan\go\Quan_Ly_Mua_Ban\Backup\Nha_Cung_Ung_Nhom.cs">
+</Event><Event ErrorLevel="0" Project="Quan_Ly_Mua_Ban" Source="Nha_Cung_Ung_Thong_ke.cs" Description="File successfully backed up as D:\BAI_BAO_CAO\Compressed\QuanLyMuaBan\go\Quan_Ly_Mua_Ban\Backup\Nha_Cung_Ung_Thong_ke.cs">
+</Event><Event ErrorLevel="0" Project="Quan_Ly_Mua_Ban" Source="Phieu_Chi_Hop_Dong_Mua.cs" Description="File successfully backed up as D:\BAI_BAO_CAO\Compressed\QuanLyMuaBan\go\Quan_Ly_Mua_Ban\Backup\Phieu_Chi_Hop_Dong_Mua.cs">
+</Event><Event ErrorLevel="0" Project="Quan_Ly_Mua_Ban" Source="Phieu_Thu_Hop_Dong_Ban.cs" Description="File successfully backed up as D:\BAI_BAO_CAO\Compressed\QuanLyMuaBan\go\Quan_Ly_Mua_Ban\Backup\Phieu_Thu_Hop_Dong_Ban.cs">
+</Event><Event ErrorLevel="0" Project="Quan_Ly_Mua_Ban" Source="ReporChiTietHopDongMua.cs" Description="File successfully backed up as D:\BAI_BAO_CAO\Compressed\QuanLyMuaBan\go\Quan_Ly_Mua_Ban\Backup\ReporChiTietHopDongMua.cs">
+</Event><Event ErrorLevel="0" Project="Quan_Ly_Mua_Ban" Source="ReportChiTietHopDong.cs" Description="File successfully backed up as D:\BAI_BAO_CAO\Compressed\QuanLyMuaBan\go\Quan_Ly_Mua_Ban\Backup\ReportChiTietHopDong.cs">
+</Event><Event ErrorLevel="0" Project="Quan_Ly_Mua_Ban" Source="ReportHangHoa.cs" Description="File successfully backed up as D:\BAI_BAO_CAO\Compressed\QuanLyMuaBan\go\Quan_Ly_Mua_Ban\Backup\ReportHangHoa.cs">
+</Event><Event ErrorLevel="0" Project="Quan_Ly_Mua_Ban" Source="ReportPhieuChi.cs" Description="File successfully backed up as D:\BAI_BAO_CAO\Compressed\QuanLyMuaBan\go\Quan_Ly_Mua_Ban\Backup\ReportPhieuChi.cs">
+</Event><Event ErrorLevel="0" Project="Quan_Ly_Mua_Ban" Source="ReportPhieuThu.cs" Description="File successfully backed up as D:\BAI_BAO_CAO\Compressed\QuanLyMuaBan\go\Quan_Ly_Mua_Ban\Backup\ReportPhieuThu.cs">
+</Event><Event ErrorLevel="0" Project="Quan_Ly_Mua_Ban" Source="Thong_Ke_Hop_Dong_Ban.cs" Description="File successfully backed up as D:\BAI_BAO_CAO\Compressed\QuanLyMuaBan\go\Quan_Ly_Mua_Ban\Backup\Thong_Ke_Hop_Dong_Ban.cs">
+</Event><Event ErrorLevel="0" Project="Quan_Ly_Mua_Ban" Source="Thong_Ke_Hop_Dong_Mua.cs" Description="File successfully backed up as D:\BAI_BAO_CAO\Compressed\QuanLyMuaBan\go\Quan_Ly_Mua_Ban\Backup\Thong_Ke_Hop_Dong_Mua.cs">
+</Event><Event ErrorLevel="0" Project="Quan_Ly_Mua_Ban" Source="Thong_ke_K_Hang_Only.cs" Description="File successfully backed up as D:\BAI_BAO_CAO\Compressed\QuanLyMuaBan\go\Quan_Ly_Mua_Ban\Backup\Thong_ke_K_Hang_Only.cs">
+</Event><Event ErrorLevel="0" Project="Quan_Ly_Mua_Ban" Source="Tim_Kiem_S1.cs" Description="File successfully backed up as D:\BAI_BAO_CAO\Compressed\QuanLyMuaBan\go\Quan_Ly_Mua_Ban\Backup\Tim_Kiem_S1.cs">
+</Event><Event ErrorLevel="0" Project="Quan_Ly_Mua_Ban" Source="app.config" Description="File successfully backed up as D:\BAI_BAO_CAO\Compressed\QuanLyMuaBan\go\Quan_Ly_Mua_Ban\Backup\app.config">
+</Event><Event ErrorLevel="0" Project="Quan_Ly_Mua_Ban" Source="App.ico" Description="File successfully backed up as D:\BAI_BAO_CAO\Compressed\QuanLyMuaBan\go\Quan_Ly_Mua_Ban\Backup\App.ico">
+</Event><Event ErrorLevel="0" Project="Quan_Ly_Mua_Ban" Source="Amin.resx" Description="File successfully backed up as D:\BAI_BAO_CAO\Compressed\QuanLyMuaBan\go\Quan_Ly_Mua_Ban\Backup\Amin.resx">
+</Event><Event ErrorLevel="0" Project="Quan_Ly_Mua_Ban" Source="BaoCaoChiTietHopDong.resx" Description="File successfully backed up as D:\BAI_BAO_CAO\Compressed\QuanLyMuaBan\go\Quan_Ly_Mua_Ban\Backup\BaoCaoChiTietHopDong.resx">
+</Event><Event ErrorLevel="0" Project="Quan_Ly_Mua_Ban" Source="BaoCaoChiTietHopDongMua.resx" Description="File successfully backed up as D:\BAI_BAO_CAO\Compressed\QuanLyMuaBan\go\Quan_Ly_Mua_Ban\Backup\BaoCaoChiTietHopDongMua.resx">
+</Event><Event ErrorLevel="0" Project="Quan_Ly_Mua_Ban" Source="BaoCaoHangHoa.resx" Description="File successfully backed up as D:\BAI_BAO_CAO\Compressed\QuanLyMuaBan\go\Quan_Ly_Mua_Ban\Backup\BaoCaoHangHoa.resx">
+</Event><Event ErrorLevel="0" Project="Quan_Ly_Mua_Ban" Source="BaoCaoPhieuChi.resx" Description="File successfully backed up as D:\BAI_BAO_CAO\Compressed\QuanLyMuaBan\go\Quan_Ly_Mua_Ban\Backup\BaoCaoPhieuChi.resx">
+</Event><Event ErrorLevel="0" Project="Quan_Ly_Mua_Ban" Source="BaoCaoPhieuThu.resx" Description="File successfully backed up as D:\BAI_BAO_CAO\Compressed\QuanLyMuaBan\go\Quan_Ly_Mua_Ban\Backup\BaoCaoPhieuThu.resx">
+</Event><Event ErrorLevel="0" Project="Quan_Ly_Mua_Ban" Source="Chi_Tiet_Don_Hang.resx" Description="File successfully backed up as D:\BAI_BAO_CAO\Compressed\QuanLyMuaBan\go\Quan_Ly_Mua_Ban\Backup\Chi_Tiet_Don_Hang.resx">
+</Event><Event ErrorLevel="0" Project="Quan_Ly_Mua_Ban" Source="Chi_Tiet_Hop_Dong_Cung_Ung.resx" Description="File successfully backed up as D:\BAI_BAO_CAO\Compressed\QuanLyMuaBan\go\Quan_Ly_Mua_Ban\Backup\Chi_Tiet_Hop_Dong_Cung_Ung.resx">
+</Event><Event ErrorLevel="0" Project="Quan_Ly_Mua_Ban" Source="ConnectSQL.resx" Description="File successfully backed up as D:\BAI_BAO_CAO\Compressed\QuanLyMuaBan\go\Quan_Ly_Mua_Ban\Backup\ConnectSQL.resx">
+</Event><Event ErrorLevel="0" Project="Quan_Ly_Mua_Ban" Source="frmAbout.resx" Description="File successfully backed up as D:\BAI_BAO_CAO\Compressed\QuanLyMuaBan\go\Quan_Ly_Mua_Ban\Backup\frmAbout.resx">
+</Event><Event ErrorLevel="0" Project="Quan_Ly_Mua_Ban" Source="Gia.resx" Description="File successfully backed up as D:\BAI_BAO_CAO\Compressed\QuanLyMuaBan\go\Quan_Ly_Mua_Ban\Backup\Gia.resx">
+</Event><Event ErrorLevel="0" Project="Quan_Ly_Mua_Ban" Source="Hang_Hoa_Loai.resx" Description="File successfully backed up as D:\BAI_BAO_CAO\Compressed\QuanLyMuaBan\go\Quan_Ly_Mua_Ban\Backup\Hang_Hoa_Loai.resx">
+</Event><Event ErrorLevel="0" Project="Quan_Ly_Mua_Ban" Source="Hang_Hoa_Thong_ke.resx" Description="File successfully backed up as D:\BAI_BAO_CAO\Compressed\QuanLyMuaBan\go\Quan_Ly_Mua_Ban\Backup\Hang_Hoa_Thong_ke.resx">
+</Event><Event ErrorLevel="0" Project="Quan_Ly_Mua_Ban" Source="HinhAnh.resx" Description="File successfully backed up as D:\BAI_BAO_CAO\Compressed\QuanLyMuaBan\go\Quan_Ly_Mua_Ban\Backup\HinhAnh.resx">
+</Event><Event ErrorLevel="0" Project="Quan_Ly_Mua_Ban" Source="KhachOnly.resx" Description="File successfully backed up as D:\BAI_BAO_CAO\Compressed\QuanLyMuaBan\go\Quan_Ly_Mua_Ban\Backup\KhachOnly.resx">
+</Event><Event ErrorLevel="0" Project="Quan_Ly_Mua_Ban" Source="Khach_Hang_Nhom.resx" Description="File successfully backed up as D:\BAI_BAO_CAO\Compressed\QuanLyMuaBan\go\Quan_Ly_Mua_Ban\Backup\Khach_Hang_Nhom.resx">
+</Event><Event ErrorLevel="0" Project="Quan_Ly_Mua_Ban" Source="K_Hang_Thong_ke.resx" Description="File successfully backed up as D:\BAI_BAO_CAO\Compressed\QuanLyMuaBan\go\Quan_Ly_Mua_Ban\Backup\K_Hang_Thong_ke.resx">
+</Event><Event ErrorLevel="0" Project="Quan_Ly_Mua_Ban" Source="Log_on.resx" Description="File successfully backed up as D:\BAI_BAO_CAO\Compressed\QuanLyMuaBan\go\Quan_Ly_Mua_Ban\Backup\Log_on.resx">
+</Event><Event ErrorLevel="0" Project="Quan_Ly_Mua_Ban" Source="Luu_Tru_Hop_Dong_Ban.resx" Description="File successfully backed up as D:\BAI_BAO_CAO\Compressed\QuanLyMuaBan\go\Quan_Ly_Mua_Ban\Backup\Luu_Tru_Hop_Dong_Ban.resx">
+</Event><Event ErrorLevel="0" Project="Quan_Ly_Mua_Ban" Source="Luu_Tru_Hop_Dong_Mua.resx" Description="File successfully backed up as D:\BAI_BAO_CAO\Compressed\QuanLyMuaBan\go\Quan_Ly_Mua_Ban\Backup\Luu_Tru_Hop_Dong_Mua.resx">
+</Event><Event ErrorLevel="0" Project="Quan_Ly_Mua_Ban" Source="Main.resx" Description="File successfully backed up as D:\BAI_BAO_CAO\Compressed\QuanLyMuaBan\go\Quan_Ly_Mua_Ban\Backup\Main.resx">
+</Event><Event ErrorLevel="0" Project="Quan_Ly_Mua_Ban" Source="Nha_Cung_Ung_Nhom.resx" Description="File successfully backed up as D:\BAI_BAO_CAO\Compressed\QuanLyMuaBan\go\Quan_Ly_Mua_Ban\Backup\Nha_Cung_Ung_Nhom.resx">
+</Event><Event ErrorLevel="0" Project="Quan_Ly_Mua_Ban" Source="Nha_Cung_Ung_Thong_ke.resx" Description="File successfully backed up as D:\BAI_BAO_CAO\Compressed\QuanLyMuaBan\go\Quan_Ly_Mua_Ban\Backup\Nha_Cung_Ung_Thong_ke.resx">
+</Event><Event ErrorLevel="0" Project="Quan_Ly_Mua_Ban" Source="Phieu_Chi_Hop_Dong_Mua.resx" Description="File successfully backed up as D:\BAI_BAO_CAO\Compressed\QuanLyMuaBan\go\Quan_Ly_Mua_Ban\Backup\Phieu_Chi_Hop_Dong_Mua.resx">
+</Event><Event ErrorLevel="0" Project="Quan_Ly_Mua_Ban" Source="Phieu_Thu_Hop_Dong_Ban.resx" Description="File successfully backed up as D:\BAI_BAO_CAO\Compressed\QuanLyMuaBan\go\Quan_Ly_Mua_Ban\Backup\Phieu_Thu_Hop_Dong_Ban.resx">
+</Event><Event ErrorLevel="0" Project="Quan_Ly_Mua_Ban" Source="ReporChiTietHopDongMua.rpt" Description="File successfully backed up as D:\BAI_BAO_CAO\Compressed\QuanLyMuaBan\go\Quan_Ly_Mua_Ban\Backup\ReporChiTietHopDongMua.rpt">
+</Event><Event ErrorLevel="0" Project="Quan_Ly_Mua_Ban" Source="ReportChiTietHopDong.rpt" Description="File successfully backed up as D:\BAI_BAO_CAO\Compressed\QuanLyMuaBan\go\Quan_Ly_Mua_Ban\Backup\ReportChiTietHopDong.rpt">
+</Event><Event ErrorLevel="0" Project="Quan_Ly_Mua_Ban" Source="ReportHangHoa.rpt" Description="File successfully backed up as D:\BAI_BAO_CAO\Compressed\QuanLyMuaBan\go\Quan_Ly_Mua_Ban\Backup\ReportHangHoa.rpt">
+</Event><Event ErrorLevel="0" Project="Quan_Ly_Mua_Ban" Source="ReportPhieuChi.rpt" Description="File successfully backed up as D:\BAI_BAO_CAO\Compressed\QuanLyMuaBan\go\Quan_Ly_Mua_Ban\Backup\ReportPhieuChi.rpt">
+</Event><Event ErrorLevel="0" Project="Quan_Ly_Mua_Ban" Source="ReportPhieuThu.rpt" Description="File successfully backed up as D:\BAI_BAO_CAO\Compressed\QuanLyMuaBan\go\Quan_Ly_Mua_Ban\Backup\ReportPhieuThu.rpt">
+</Event><Event ErrorLevel="0" Project="Quan_Ly_Mua_Ban" Source="Thong_Ke_Hop_Dong_Ban.resx" Description="File successfully backed up as D:\BAI_BAO_CAO\Compressed\QuanLyMuaBan\go\Quan_Ly_Mua_Ban\Backup\Thong_Ke_Hop_Dong_Ban.resx">
+</Event><Event ErrorLevel="0" Project="Quan_Ly_Mua_Ban" Source="Thong_Ke_Hop_Dong_Mua.resx" Description="File successfully backed up as D:\BAI_BAO_CAO\Compressed\QuanLyMuaBan\go\Quan_Ly_Mua_Ban\Backup\Thong_Ke_Hop_Dong_Mua.resx">
+</Event><Event ErrorLevel="0" Project="Quan_Ly_Mua_Ban" Source="Thong_ke_K_Hang_Only.resx" Description="File successfully backed up as D:\BAI_BAO_CAO\Compressed\QuanLyMuaBan\go\Quan_Ly_Mua_Ban\Backup\Thong_ke_K_Hang_Only.resx">
+</Event><Event ErrorLevel="0" Project="Quan_Ly_Mua_Ban" Source="Tim_Kiem_S1.resx" Description="File successfully backed up as D:\BAI_BAO_CAO\Compressed\QuanLyMuaBan\go\Quan_Ly_Mua_Ban\Backup\Tim_Kiem_S1.resx">
+</Event><Event ErrorLevel="0" Project="Quan_Ly_Mua_Ban" Source="Quan_Ly_Mua_Ban.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Quan_Ly_Mua_Ban" Source="Quan_Ly_Mua_Ban.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Quan_Ly_Mua_Ban.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Quan_Ly_Mua_Ban.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Quan_Ly_Mua_Ban" Source="Quan_Ly_Mua_Ban.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

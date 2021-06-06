@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 9.875" name="dbEventsManagement">
+  <DataContextMoniker Name="/dbEventsManagementDataContext" />
+  <nestedChildShapes>
+    <classShape Id="32978da3-3731-44cb-b604-aa626d5624f6" absoluteBounds="4.25, 1.25, 2, 2.7324039713541666">
+      <DataClassMoniker Name="/dbEventsManagementDataContext/ChiTietCT" />
+      <nestedChildShapes>
+        <elementListCompartment Id="912346d9-41bd-4554-8264-64c201d19a1c" absoluteBounds="4.2650000000000006, 1.71, 1.9700000000000002, 2.1724039713541665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="0103d4a1-a2b7-4911-9495-c51abdd4383a" absoluteBounds="5, 6.25, 2, 1.3862939453125005">
+      <DataClassMoniker Name="/dbEventsManagementDataContext/PhiPhat" />
+      <nestedChildShapes>
+        <elementListCompartment Id="93de4999-d7f2-41bb-b7d9-16cac73a4ca1" absoluteBounds="5.0150000000000006, 6.71, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="ddeea991-0fb7-48c6-a1c9-10920560eff1" absoluteBounds="1.5, 2.75, 2, 1.3862939453124998">
+      <DataClassMoniker Name="/dbEventsManagementDataContext/ChuongTrinh" />
+      <nestedChildShapes>
+        <elementListCompartment Id="eaafe3e6-f6c2-4358-ba44-721668a94583" absoluteBounds="1.5150000000000001, 3.21, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="f7bb3612-7a25-44f6-a45d-7b03571f1e5f" absoluteBounds="7, 1.5, 2, 2.1554996744791666">
+      <DataClassMoniker Name="/dbEventsManagementDataContext/KeHoachChiTra" />
+      <nestedChildShapes>
+        <elementListCompartment Id="b864e8d5-c42b-4723-b1d7-78b93f6cd267" absoluteBounds="7.015, 1.96, 1.9700000000000002, 1.5954996744791665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="aca789c9-7996-4a92-924e-a346f3e26ccd" absoluteBounds="1.125, 4.5, 2, 1.7708968098958327">
+      <DataClassMoniker Name="/dbEventsManagementDataContext/KhachHang" />
+      <nestedChildShapes>
+        <elementListCompartment Id="37b695d1-749c-4195-8695-d5b36b3cb493" absoluteBounds="1.1400000000000001, 4.96, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="f43b793d-5846-4146-914d-f18cfd41eefa" absoluteBounds="7.625, 4.25, 2, 2.3478011067708344">
+      <DataClassMoniker Name="/dbEventsManagementDataContext/NhanVien" />
+      <nestedChildShapes>
+        <elementListCompartment Id="34cc1a52-1efa-48ad-bd3b-2b867347c3d2" absoluteBounds="7.6400000000000006, 4.7100000000000009, 1.9700000000000002, 1.7878011067708335" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(3.5 : 3.36620198567708); (4.25 : 3.36620198567708)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/dbEventsManagementDataContext/ChuongTrinh/ChuongTrinh_ChiTietCT" />
+      <nodes>
+        <classShapeMoniker Id="ddeea991-0fb7-48c6-a1c9-10920560eff1" />
+        <classShapeMoniker Id="32978da3-3731-44cb-b604-aa626d5624f6" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(6.25 : 2.57774983723958); (7 : 2.57774983723958)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/dbEventsManagementDataContext/ChiTietCT/ChiTietCT_KeHoachChiTra" />
+      <nodes>
+        <classShapeMoniker Id="32978da3-3731-44cb-b604-aa626d5624f6" />
+        <classShapeMoniker Id="f7bb3612-7a25-44f6-a45d-7b03571f1e5f" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(3.125 : 5.38544840494792); (4.49537569665595 : 5.38544840494792); (4.49537569665595 : 3.98240397135417)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/dbEventsManagementDataContext/KhachHang/KhachHang_ChiTietCT" />
+      <nodes>
+        <classShapeMoniker Id="aca789c9-7996-4a92-924e-a346f3e26ccd" />
+        <classShapeMoniker Id="32978da3-3731-44cb-b604-aa626d5624f6" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(7.625 : 4.71875); (4.74769034832797 : 4.71875); (4.74769034832797 : 3.98240397135417)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/dbEventsManagementDataContext/NhanVien/NhanVien_ChiTietCT" />
+      <nodes>
+        <classShapeMoniker Id="f43b793d-5846-4146-914d-f18cfd41eefa" />
+        <classShapeMoniker Id="32978da3-3731-44cb-b604-aa626d5624f6" />
+      </nodes>
+    </associationConnector>
+    <classShape Id="e8d9b298-9ab3-4f89-9436-1a902e723192" absoluteBounds="1.75, 0.5, 2, 1.7708968098958331">
+      <DataClassMoniker Name="/dbEventsManagementDataContext/NguoiDung" />
+      <nestedChildShapes>
+        <elementListCompartment Id="77d348c1-b018-4cd9-9b41-95838a619396" absoluteBounds="1.7650000000000001, 0.96, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="9885276a-5318-4d21-807a-69d9731d18c6" absoluteBounds="2.125, 6.875, 2, 2.7324039713541666">
+      <DataClassMoniker Name="/dbEventsManagementDataContext/view_ThongTinKH" />
+      <nestedChildShapes>
+        <elementListCompartment Id="b70b0a81-ecdc-49a1-944a-1ff649d0334d" absoluteBounds="2.14, 7.3350000000000009, 1.9700000000000002, 2.1724039713541665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="e9fd831b-5578-4e3c-9d98-6c716a5381bf" absoluteBounds="4.75, 8, 2, 1.3862939453125">
+      <DataClassMoniker Name="/dbEventsManagementDataContext/view_ThongTinNV" />
+      <nestedChildShapes>
+        <elementListCompartment Id="e8a7c12c-ee4e-4ae6-abed-a8b6dd9278d0" absoluteBounds="4.765, 8.46, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

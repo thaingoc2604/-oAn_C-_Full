@@ -1,0 +1,28 @@
+E:\Tai Lieu HK VII\LT Win 2\Tieu Luan C#\ThiTracNghiem\DataAccess Layer\obj\Debug\ResolveAssemblyReference.cache
+E:\Tai Lieu HK VII\LT Win 2\Tieu Luan C#\ThiTracNghiem\DataAccess Layer\bin\Debug\DTO.dll
+E:\Tai Lieu HK VII\LT Win 2\Tieu Luan C#\ThiTracNghiem\DataAccess Layer\bin\Debug\DTO.pdb
+E:\Tai Lieu HK VII\LT Win 2\Tieu Luan C#\ThiTracNghiem\DataAccess Layer\bin\Debug\DataAccess_Layer.dll
+E:\Tai Lieu HK VII\LT Win 2\Tieu Luan C#\ThiTracNghiem\DataAccess Layer\bin\Debug\DataAccess_Layer.pdb
+E:\Tai Lieu HK VII\LT Win 2\Tieu Luan C#\ThiTracNghiem\DataAccess Layer\obj\Debug\DataAccess_Layer.dll
+E:\Tai Lieu HK VII\LT Win 2\Tieu Luan C#\ThiTracNghiem\DataAccess Layer\obj\Debug\DataAccess_Layer.pdb
+C:\Users\jsinhnhat\Desktop\ThiTracNghiem\DataAccess Layer\bin\Debug\DataAccess_Layer.dll
+C:\Users\jsinhnhat\Desktop\ThiTracNghiem\DataAccess Layer\bin\Debug\DataAccess_Layer.pdb
+C:\Users\jsinhnhat\Desktop\ThiTracNghiem\DataAccess Layer\bin\Debug\DTO.dll
+C:\Users\jsinhnhat\Desktop\ThiTracNghiem\DataAccess Layer\bin\Debug\DTO.pdb
+C:\Users\jsinhnhat\Desktop\ThiTracNghiem\DataAccess Layer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jsinhnhat\Desktop\ThiTracNghiem\DataAccess Layer\obj\Debug\DataAccess_Layer.dll
+C:\Users\jsinhnhat\Desktop\ThiTracNghiem\DataAccess Layer\obj\Debug\DataAccess_Layer.pdb
+D:\ThiTracNghiem\DataAccess Layer\bin\Debug\DataAccess_Layer.dll
+D:\ThiTracNghiem\DataAccess Layer\bin\Debug\DataAccess_Layer.pdb
+D:\ThiTracNghiem\DataAccess Layer\bin\Debug\DTO.dll
+D:\ThiTracNghiem\DataAccess Layer\bin\Debug\DTO.pdb
+D:\ThiTracNghiem\DataAccess Layer\obj\Debug\ResolveAssemblyReference.cache
+D:\ThiTracNghiem\DataAccess Layer\obj\Debug\DataAccess_Layer.dll
+D:\ThiTracNghiem\DataAccess Layer\obj\Debug\DataAccess_Layer.pdb
+D:\new\New folder\ThiTracNghiem\DataAccess Layer\bin\Debug\DataAccess_Layer.dll
+D:\new\New folder\ThiTracNghiem\DataAccess Layer\bin\Debug\DataAccess_Layer.pdb
+D:\new\New folder\ThiTracNghiem\DataAccess Layer\bin\Debug\DTO.dll
+D:\new\New folder\ThiTracNghiem\DataAccess Layer\bin\Debug\DTO.pdb
+D:\new\New folder\ThiTracNghiem\DataAccess Layer\obj\Debug\ResolveAssemblyReference.cache
+D:\new\New folder\ThiTracNghiem\DataAccess Layer\obj\Debug\DataAccess_Layer.dll
+D:\new\New folder\ThiTracNghiem\DataAccess Layer\obj\Debug\DataAccess_Layer.pdb

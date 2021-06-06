@@ -1,0 +1,27 @@
+C:\Users\user\Desktop\DeTaiC#\DAMH_ThiTracNghiem_THDC\Business_Tier\bin\Debug\Business_Tier.dll
+C:\Users\user\Desktop\DeTaiC#\DAMH_ThiTracNghiem_THDC\Business_Tier\bin\Debug\Business_Tier.pdb
+C:\Users\user\Desktop\DeTaiC#\DAMH_ThiTracNghiem_THDC\Business_Tier\bin\Debug\Data_Tier.dll
+C:\Users\user\Desktop\DeTaiC#\DAMH_ThiTracNghiem_THDC\Business_Tier\bin\Debug\Entities.dll
+C:\Users\user\Desktop\DeTaiC#\DAMH_ThiTracNghiem_THDC\Business_Tier\bin\Debug\Data_Tier.pdb
+C:\Users\user\Desktop\DeTaiC#\DAMH_ThiTracNghiem_THDC\Business_Tier\bin\Debug\Entities.pdb
+C:\Users\user\Desktop\DeTaiC#\DAMH_ThiTracNghiem_THDC\Business_Tier\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\user\Desktop\DeTaiC#\DAMH_ThiTracNghiem_THDC\Business_Tier\obj\Debug\Business_Tier.dll
+C:\Users\user\Desktop\DeTaiC#\DAMH_ThiTracNghiem_THDC\Business_Tier\obj\Debug\Business_Tier.pdb
+C:\Users\THUSANG\Desktop\New folder\DAMH_ThiTracNghiem_THDC\Business_Tier\bin\Debug\Business_Tier.dll
+C:\Users\THUSANG\Desktop\New folder\DAMH_ThiTracNghiem_THDC\Business_Tier\bin\Debug\Business_Tier.pdb
+C:\Users\THUSANG\Desktop\New folder\DAMH_ThiTracNghiem_THDC\Business_Tier\bin\Debug\Data_Tier.dll
+C:\Users\THUSANG\Desktop\New folder\DAMH_ThiTracNghiem_THDC\Business_Tier\bin\Debug\Entities.dll
+C:\Users\THUSANG\Desktop\New folder\DAMH_ThiTracNghiem_THDC\Business_Tier\bin\Debug\Data_Tier.pdb
+C:\Users\THUSANG\Desktop\New folder\DAMH_ThiTracNghiem_THDC\Business_Tier\bin\Debug\Entities.pdb
+C:\Users\THUSANG\Desktop\New folder\DAMH_ThiTracNghiem_THDC\Business_Tier\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\THUSANG\Desktop\New folder\DAMH_ThiTracNghiem_THDC\Business_Tier\obj\Debug\Business_Tier.dll
+C:\Users\THUSANG\Desktop\New folder\DAMH_ThiTracNghiem_THDC\Business_Tier\obj\Debug\Business_Tier.pdb
+C:\Users\user\Desktop\New folder\DAMH_ThiTracNghiem_THDC\Business_Tier\bin\Debug\Business_Tier.dll
+C:\Users\user\Desktop\New folder\DAMH_ThiTracNghiem_THDC\Business_Tier\bin\Debug\Business_Tier.pdb
+C:\Users\user\Desktop\New folder\DAMH_ThiTracNghiem_THDC\Business_Tier\bin\Debug\Data_Tier.dll
+C:\Users\user\Desktop\New folder\DAMH_ThiTracNghiem_THDC\Business_Tier\bin\Debug\Entities.dll
+C:\Users\user\Desktop\New folder\DAMH_ThiTracNghiem_THDC\Business_Tier\bin\Debug\Data_Tier.pdb
+C:\Users\user\Desktop\New folder\DAMH_ThiTracNghiem_THDC\Business_Tier\bin\Debug\Entities.pdb
+C:\Users\user\Desktop\New folder\DAMH_ThiTracNghiem_THDC\Business_Tier\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\user\Desktop\New folder\DAMH_ThiTracNghiem_THDC\Business_Tier\obj\Debug\Business_Tier.dll
+C:\Users\user\Desktop\New folder\DAMH_ThiTracNghiem_THDC\Business_Tier\obj\Debug\Business_Tier.pdb

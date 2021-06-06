@@ -1,0 +1,20 @@
+E:\Tai Lieu HK VII\LT Win 2\Tieu Luan C#\ThiTracNghiem\DTO\bin\Debug\DTO.dll
+E:\Tai Lieu HK VII\LT Win 2\Tieu Luan C#\ThiTracNghiem\DTO\bin\Debug\DTO.pdb
+E:\Tai Lieu HK VII\LT Win 2\Tieu Luan C#\ThiTracNghiem\DTO\obj\Debug\ResolveAssemblyReference.cache
+E:\Tai Lieu HK VII\LT Win 2\Tieu Luan C#\ThiTracNghiem\DTO\obj\Debug\DTO.dll
+E:\Tai Lieu HK VII\LT Win 2\Tieu Luan C#\ThiTracNghiem\DTO\obj\Debug\DTO.pdb
+C:\Users\jsinhnhat\Desktop\ThiTracNghiem\DTO\bin\Debug\DTO.dll
+C:\Users\jsinhnhat\Desktop\ThiTracNghiem\DTO\bin\Debug\DTO.pdb
+C:\Users\jsinhnhat\Desktop\ThiTracNghiem\DTO\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jsinhnhat\Desktop\ThiTracNghiem\DTO\obj\Debug\DTO.dll
+C:\Users\jsinhnhat\Desktop\ThiTracNghiem\DTO\obj\Debug\DTO.pdb
+D:\ThiTracNghiem\DTO\bin\Debug\DTO.dll
+D:\ThiTracNghiem\DTO\bin\Debug\DTO.pdb
+D:\ThiTracNghiem\DTO\obj\Debug\ResolveAssemblyReference.cache
+D:\ThiTracNghiem\DTO\obj\Debug\DTO.dll
+D:\ThiTracNghiem\DTO\obj\Debug\DTO.pdb
+D:\new\New folder\ThiTracNghiem\DTO\bin\Debug\DTO.dll
+D:\new\New folder\ThiTracNghiem\DTO\bin\Debug\DTO.pdb
+D:\new\New folder\ThiTracNghiem\DTO\obj\Debug\ResolveAssemblyReference.cache
+D:\new\New folder\ThiTracNghiem\DTO\obj\Debug\DTO.dll
+D:\new\New folder\ThiTracNghiem\DTO\obj\Debug\DTO.pdb

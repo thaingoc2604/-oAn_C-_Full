@@ -1,0 +1,8 @@
+C:\Users\Quang\Desktop\Media\Media\bin\Debug\Media.exe
+C:\Users\Quang\Desktop\Media\Media\bin\Debug\Media.pdb
+C:\Users\Quang\Desktop\Media\Media\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Quang\Desktop\Media\Media\obj\Debug\Media.Form1.resources
+C:\Users\Quang\Desktop\Media\Media\obj\Debug\Media.Properties.Resources.resources
+C:\Users\Quang\Desktop\Media\Media\obj\Debug\Media.csproj.GenerateResource.Cache
+C:\Users\Quang\Desktop\Media\Media\obj\Debug\Media.exe
+C:\Users\Quang\Desktop\Media\Media\obj\Debug\Media.pdb

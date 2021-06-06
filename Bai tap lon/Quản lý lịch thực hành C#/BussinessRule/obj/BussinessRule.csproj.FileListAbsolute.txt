@@ -1,0 +1,7 @@
+C:\Users\Hoai_Thanh\Desktop\doan-cafe\doan-cafe\BussinessRule\bin\Debug\BussinessRule.dll
+C:\Users\Hoai_Thanh\Desktop\doan-cafe\doan-cafe\BussinessRule\bin\Debug\BussinessRule.pdb
+C:\Users\Hoai_Thanh\Desktop\doan-cafe\doan-cafe\BussinessRule\bin\Debug\DataAccess.dll
+C:\Users\Hoai_Thanh\Desktop\doan-cafe\doan-cafe\BussinessRule\bin\Debug\DataAccess.pdb
+C:\Users\Hoai_Thanh\Desktop\doan-cafe\doan-cafe\BussinessRule\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Hoai_Thanh\Desktop\doan-cafe\doan-cafe\BussinessRule\obj\Debug\BussinessRule.dll
+C:\Users\Hoai_Thanh\Desktop\doan-cafe\doan-cafe\BussinessRule\obj\Debug\BussinessRule.pdb

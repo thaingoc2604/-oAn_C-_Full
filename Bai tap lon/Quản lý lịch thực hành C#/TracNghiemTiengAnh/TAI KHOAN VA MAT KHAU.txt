@@ -1,0 +1,6 @@
+﻿TÀI KHOẢN NHÂN VIÊN :
+	thanhson     mật khẩu :thanhson
+	hongthuan    mật khẩu :123
+
+TÀI KHOẢN ADMIN :
+	thanhson 	mật khẩu :thanhson

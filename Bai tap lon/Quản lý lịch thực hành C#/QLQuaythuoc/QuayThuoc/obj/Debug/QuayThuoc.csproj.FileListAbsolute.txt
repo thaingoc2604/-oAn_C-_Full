@@ -1,0 +1,40 @@
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\QuayThuoc\QuayThuoc\bin\Debug\QuayThuoc.exe.config
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\QuayThuoc\QuayThuoc\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\QuayThuoc\QuayThuoc\obj\Debug\QuayThuoc.Form1.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\QuayThuoc\QuayThuoc\obj\Debug\QuayThuoc.Properties.Resources.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\QuayThuoc\QuayThuoc\obj\Debug\QuayThuoc.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\QuayThuoc\QuayThuoc\bin\Debug\Database1.sdf
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\QuayThuoc\QuayThuoc\bin\Debug\Quanlyquaythuoc.mdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\QuayThuoc\QuayThuoc\bin\Debug\QuayThuoc.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\QuayThuoc\QuayThuoc\bin\Debug\QuayThuoc.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\QuayThuoc\QuayThuoc\obj\Debug\QuayThuoc.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\QuayThuoc\QuayThuoc\obj\Debug\QuayThuoc.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\QuayThuoc\QuayThuoc\obj\Debug\QuayThuoc.FrmBan.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\QuayThuoc\QuayThuoc\obj\Debug\QuayThuoc.frmDangKi.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\QuayThuoc\QuayThuoc\obj\Debug\QuayThuoc.FrmDoanhThu.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\QuayThuoc\QuayThuoc\obj\Debug\QuayThuoc.FrmHuongDan.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\QuayThuoc\QuayThuoc\obj\Debug\QuayThuoc.FrmKhach.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\QuayThuoc\QuayThuoc\obj\Debug\QuayThuoc.frmlogin.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\QuayThuoc\QuayThuoc\obj\Debug\QuayThuoc.FrmTacGia.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\QuayThuoc\QuayThuoc\obj\Debug\QuayThuoc.FrmThuoc.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\QuayThuoc\QuayThuoc\obj\Debug\QuayThuoc.FrmMua.resources
+C:\Documents and Settings\Administrator\Desktop\ABC\QuayThuoc\bin\Debug\QuayThuoc.exe.config
+C:\Documents and Settings\Administrator\Desktop\ABC\QuayThuoc\obj\Debug\QuayThuoc.exe
+C:\Documents and Settings\Administrator\Desktop\ABC\QuayThuoc\obj\Debug\QuayThuoc.pdb
+C:\Documents and Settings\Administrator\Desktop\ABC\QuayThuoc\bin\Debug\Database1.sdf
+C:\Documents and Settings\Administrator\Desktop\ABC\QuayThuoc\bin\Debug\Quanlyquaythuoc.mdb
+C:\Documents and Settings\Administrator\Desktop\ABC\QuayThuoc\bin\Debug\QuayThuoc.exe
+C:\Documents and Settings\Administrator\Desktop\ABC\QuayThuoc\bin\Debug\QuayThuoc.pdb
+C:\Documents and Settings\Administrator\Desktop\ABC\QuayThuoc\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\ABC\QuayThuoc\obj\Debug\QuayThuoc.Form1.resources
+C:\Documents and Settings\Administrator\Desktop\ABC\QuayThuoc\obj\Debug\QuayThuoc.FrmBan.resources
+C:\Documents and Settings\Administrator\Desktop\ABC\QuayThuoc\obj\Debug\QuayThuoc.frmDangKi.resources
+C:\Documents and Settings\Administrator\Desktop\ABC\QuayThuoc\obj\Debug\QuayThuoc.FrmDoanhThu.resources
+C:\Documents and Settings\Administrator\Desktop\ABC\QuayThuoc\obj\Debug\QuayThuoc.FrmHuongDan.resources
+C:\Documents and Settings\Administrator\Desktop\ABC\QuayThuoc\obj\Debug\QuayThuoc.FrmKhach.resources
+C:\Documents and Settings\Administrator\Desktop\ABC\QuayThuoc\obj\Debug\QuayThuoc.frmlogin.resources
+C:\Documents and Settings\Administrator\Desktop\ABC\QuayThuoc\obj\Debug\QuayThuoc.FrmMua.resources
+C:\Documents and Settings\Administrator\Desktop\ABC\QuayThuoc\obj\Debug\QuayThuoc.FrmTacGia.resources
+C:\Documents and Settings\Administrator\Desktop\ABC\QuayThuoc\obj\Debug\QuayThuoc.FrmThuoc.resources
+C:\Documents and Settings\Administrator\Desktop\ABC\QuayThuoc\obj\Debug\QuayThuoc.Properties.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\ABC\QuayThuoc\obj\Debug\QuayThuoc.csproj.GenerateResource.Cache

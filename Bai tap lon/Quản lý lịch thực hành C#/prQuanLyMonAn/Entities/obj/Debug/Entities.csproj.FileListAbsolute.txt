@@ -1,0 +1,31 @@
+D:\ProjectC#\prQuanLyMonAn\Entities\bin\Debug\Entities.dll
+D:\ProjectC#\prQuanLyMonAn\Entities\bin\Debug\Entities.pdb
+D:\ProjectC#\prQuanLyMonAn\Entities\obj\Debug\ResolveAssemblyReference.cache
+D:\ProjectC#\prQuanLyMonAn\Entities\obj\Debug\Entities.dll
+D:\ProjectC#\prQuanLyMonAn\Entities\obj\Debug\Entities.pdb
+D:\ProjectC#\prQuanLyMonAn\Entities\bin\Debug\Entities.dll.config
+D:\ProjectC#\prQuanLyMonAn\Entities\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\ProjectC#\prQuanLyMonAn\Entities\bin\Debug\office.dll
+D:\ProjectC#\prQuanLyMonAn\Entities\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\Vu\Desktop\prQuanLyMonAn\prQuanLyMonAn\Entities\bin\Debug\Entities.dll.config
+C:\Users\Vu\Desktop\prQuanLyMonAn\prQuanLyMonAn\Entities\bin\Debug\Entities.dll
+C:\Users\Vu\Desktop\prQuanLyMonAn\prQuanLyMonAn\Entities\bin\Debug\Entities.pdb
+C:\Users\Vu\Desktop\prQuanLyMonAn\prQuanLyMonAn\Entities\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\Vu\Desktop\prQuanLyMonAn\prQuanLyMonAn\Entities\bin\Debug\office.dll
+C:\Users\Vu\Desktop\prQuanLyMonAn\prQuanLyMonAn\Entities\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\Vu\Desktop\prQuanLyMonAn\prQuanLyMonAn\Entities\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\Vu\Desktop\prQuanLyMonAn\prQuanLyMonAn\Entities\bin\Debug\office.xml
+C:\Users\Vu\Desktop\prQuanLyMonAn\prQuanLyMonAn\Entities\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Vu\Desktop\prQuanLyMonAn\prQuanLyMonAn\Entities\obj\Debug\Entities.dll
+C:\Users\Vu\Desktop\prQuanLyMonAn\prQuanLyMonAn\Entities\obj\Debug\Entities.pdb
+C:\Users\Vu\Desktop\prĐề Tài Quản Lý Món Ăn Ngon\prQuanLyMonAn\Entities\bin\Debug\Entities.dll.config
+C:\Users\Vu\Desktop\prĐề Tài Quản Lý Món Ăn Ngon\prQuanLyMonAn\Entities\bin\Debug\Entities.dll
+C:\Users\Vu\Desktop\prĐề Tài Quản Lý Món Ăn Ngon\prQuanLyMonAn\Entities\bin\Debug\Entities.pdb
+C:\Users\Vu\Desktop\prĐề Tài Quản Lý Món Ăn Ngon\prQuanLyMonAn\Entities\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\Vu\Desktop\prĐề Tài Quản Lý Món Ăn Ngon\prQuanLyMonAn\Entities\bin\Debug\office.dll
+C:\Users\Vu\Desktop\prĐề Tài Quản Lý Món Ăn Ngon\prQuanLyMonAn\Entities\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\Vu\Desktop\prĐề Tài Quản Lý Món Ăn Ngon\prQuanLyMonAn\Entities\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\Vu\Desktop\prĐề Tài Quản Lý Món Ăn Ngon\prQuanLyMonAn\Entities\bin\Debug\office.xml
+C:\Users\Vu\Desktop\prĐề Tài Quản Lý Món Ăn Ngon\prQuanLyMonAn\Entities\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Vu\Desktop\prĐề Tài Quản Lý Món Ăn Ngon\prQuanLyMonAn\Entities\obj\Debug\Entities.dll
+C:\Users\Vu\Desktop\prĐề Tài Quản Lý Món Ăn Ngon\prQuanLyMonAn\Entities\obj\Debug\Entities.pdb

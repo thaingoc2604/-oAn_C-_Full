@@ -1,0 +1,7 @@
+bin\Debug\BussinessRule.dll
+bin\Debug\BussinessRule.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\BussinessRule.dll
+obj\Debug\BussinessRule.pdb
+bin\Debug\DataAccess.dll
+bin\Debug\DataAccess.pdb

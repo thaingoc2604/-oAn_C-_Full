@@ -1,0 +1,92 @@
+C:\Users\user\Desktop\DeTaiC#\DAMH_ThiTracNghiem_THDC\ThiTracNghiem_THDC\bin\Debug\ThiTracNghiem_THDC.exe
+C:\Users\user\Desktop\DeTaiC#\DAMH_ThiTracNghiem_THDC\ThiTracNghiem_THDC\bin\Debug\ThiTracNghiem_THDC.pdb
+C:\Users\user\Desktop\DeTaiC#\DAMH_ThiTracNghiem_THDC\ThiTracNghiem_THDC\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\user\Desktop\DeTaiC#\DAMH_ThiTracNghiem_THDC\ThiTracNghiem_THDC\obj\x86\Debug\ThiTracNghiem_THDC.frmMain.resources
+C:\Users\user\Desktop\DeTaiC#\DAMH_ThiTracNghiem_THDC\ThiTracNghiem_THDC\obj\x86\Debug\ThiTracNghiem_THDC.Properties.Resources.resources
+C:\Users\user\Desktop\DeTaiC#\DAMH_ThiTracNghiem_THDC\ThiTracNghiem_THDC\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\user\Desktop\DeTaiC#\DAMH_ThiTracNghiem_THDC\ThiTracNghiem_THDC\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\user\Desktop\DeTaiC#\DAMH_ThiTracNghiem_THDC\ThiTracNghiem_THDC\obj\x86\Debug\ThiTracNghiem_THDC.exe
+C:\Users\user\Desktop\DeTaiC#\DAMH_ThiTracNghiem_THDC\ThiTracNghiem_THDC\obj\x86\Debug\ThiTracNghiem_THDC.pdb
+C:\Users\user\Desktop\DeTaiC#\DAMH_ThiTracNghiem_THDC\ThiTracNghiem_THDC\obj\x86\Debug\ThiTracNghiem_THDC.frmAbout.resources
+C:\Users\user\Desktop\DeTaiC#\DAMH_ThiTracNghiem_THDC\ThiTracNghiem_THDC\obj\x86\Debug\ThiTracNghiem_THDC.frmAdminDangNhap.resources
+C:\Users\user\Desktop\DeTaiC#\DAMH_ThiTracNghiem_THDC\ThiTracNghiem_THDC\obj\x86\Debug\ThiTracNghiem_THDC.frmSVDangNhap.resources
+C:\Users\user\Desktop\DeTaiC#\DAMH_ThiTracNghiem_THDC\ThiTracNghiem_THDC\obj\x86\Debug\ThiTracNghiem_THDC.frmTaoVaChinhSuaDeThi.resources
+C:\Users\user\Desktop\DeTaiC#\DAMH_ThiTracNghiem_THDC\ThiTracNghiem_THDC\obj\x86\Debug\ThiTracNghiem_THDC.frmTheLoai.resources
+C:\Users\user\Desktop\DeTaiC#\DAMH_ThiTracNghiem_THDC\ThiTracNghiem_THDC\obj\x86\Debug\ThiTracNghiem_THDC.frmThiTracNghiem.resources
+C:\Users\user\Desktop\DeTaiC#\DAMH_ThiTracNghiem_THDC\ThiTracNghiem_THDC\obj\x86\Debug\ThiTracNghiem_THDC.frmThiThu.resources
+C:\Users\user\Desktop\DeTaiC#\DAMH_ThiTracNghiem_THDC\ThiTracNghiem_THDC\bin\Debug\Business_Tier.dll
+C:\Users\user\Desktop\DeTaiC#\DAMH_ThiTracNghiem_THDC\ThiTracNghiem_THDC\bin\Debug\Entities.dll
+C:\Users\user\Desktop\DeTaiC#\DAMH_ThiTracNghiem_THDC\ThiTracNghiem_THDC\bin\Debug\Business_Tier.pdb
+C:\Users\user\Desktop\DeTaiC#\DAMH_ThiTracNghiem_THDC\ThiTracNghiem_THDC\bin\Debug\Entities.pdb
+C:\Users\user\Desktop\DeTaiC#\DAMH_ThiTracNghiem_THDC\ThiTracNghiem_THDC\bin\Debug\Data_Tier.dll
+C:\Users\user\Desktop\DeTaiC#\DAMH_ThiTracNghiem_THDC\ThiTracNghiem_THDC\bin\Debug\Data_Tier.pdb
+C:\Users\user\Desktop\DeTaiC#\DAMH_ThiTracNghiem_THDC\ThiTracNghiem_THDC\bin\Debug\ThiTracNghiem_THDC.exe.config
+H:\New folder\DAMH_ThiTracNghiem_THDC\ThiTracNghiem_THDC\bin\Debug\ThiTracNghiem_THDC.exe.config
+H:\New folder\DAMH_ThiTracNghiem_THDC\ThiTracNghiem_THDC\obj\x86\Debug\ThiTracNghiem_THDC.exe
+H:\New folder\DAMH_ThiTracNghiem_THDC\ThiTracNghiem_THDC\obj\x86\Debug\ThiTracNghiem_THDC.pdb
+H:\New folder\DAMH_ThiTracNghiem_THDC\ThiTracNghiem_THDC\bin\Debug\ThiTracNghiem_THDC.exe
+H:\New folder\DAMH_ThiTracNghiem_THDC\ThiTracNghiem_THDC\bin\Debug\ThiTracNghiem_THDC.pdb
+H:\New folder\DAMH_ThiTracNghiem_THDC\ThiTracNghiem_THDC\bin\Debug\Business_Tier.dll
+H:\New folder\DAMH_ThiTracNghiem_THDC\ThiTracNghiem_THDC\bin\Debug\Entities.dll
+H:\New folder\DAMH_ThiTracNghiem_THDC\ThiTracNghiem_THDC\bin\Debug\Data_Tier.dll
+H:\New folder\DAMH_ThiTracNghiem_THDC\ThiTracNghiem_THDC\bin\Debug\Business_Tier.pdb
+H:\New folder\DAMH_ThiTracNghiem_THDC\ThiTracNghiem_THDC\bin\Debug\Entities.pdb
+H:\New folder\DAMH_ThiTracNghiem_THDC\ThiTracNghiem_THDC\bin\Debug\Data_Tier.pdb
+H:\New folder\DAMH_ThiTracNghiem_THDC\ThiTracNghiem_THDC\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\New folder\DAMH_ThiTracNghiem_THDC\ThiTracNghiem_THDC\obj\x86\Debug\ThiTracNghiem_THDC.frmAbout.resources
+H:\New folder\DAMH_ThiTracNghiem_THDC\ThiTracNghiem_THDC\obj\x86\Debug\ThiTracNghiem_THDC.frmAdminDangNhap.resources
+H:\New folder\DAMH_ThiTracNghiem_THDC\ThiTracNghiem_THDC\obj\x86\Debug\ThiTracNghiem_THDC.frmMain.resources
+H:\New folder\DAMH_ThiTracNghiem_THDC\ThiTracNghiem_THDC\obj\x86\Debug\ThiTracNghiem_THDC.frmSVDangNhap.resources
+H:\New folder\DAMH_ThiTracNghiem_THDC\ThiTracNghiem_THDC\obj\x86\Debug\ThiTracNghiem_THDC.frmTaoVaChinhSuaDeThi.resources
+H:\New folder\DAMH_ThiTracNghiem_THDC\ThiTracNghiem_THDC\obj\x86\Debug\ThiTracNghiem_THDC.frmTheLoai.resources
+H:\New folder\DAMH_ThiTracNghiem_THDC\ThiTracNghiem_THDC\obj\x86\Debug\ThiTracNghiem_THDC.frmThiThu.resources
+H:\New folder\DAMH_ThiTracNghiem_THDC\ThiTracNghiem_THDC\obj\x86\Debug\ThiTracNghiem_THDC.frmThiTracNghiem.resources
+H:\New folder\DAMH_ThiTracNghiem_THDC\ThiTracNghiem_THDC\obj\x86\Debug\ThiTracNghiem_THDC.Properties.Resources.resources
+H:\New folder\DAMH_ThiTracNghiem_THDC\ThiTracNghiem_THDC\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\New folder\DAMH_ThiTracNghiem_THDC\ThiTracNghiem_THDC\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\THUSANG\Desktop\New folder\DAMH_ThiTracNghiem_THDC\ThiTracNghiem_THDC\bin\Debug\ThiTracNghiem_THDC.exe.config
+C:\Users\THUSANG\Desktop\New folder\DAMH_ThiTracNghiem_THDC\ThiTracNghiem_THDC\obj\x86\Debug\ThiTracNghiem_THDC.exe
+C:\Users\THUSANG\Desktop\New folder\DAMH_ThiTracNghiem_THDC\ThiTracNghiem_THDC\obj\x86\Debug\ThiTracNghiem_THDC.pdb
+C:\Users\THUSANG\Desktop\New folder\DAMH_ThiTracNghiem_THDC\ThiTracNghiem_THDC\bin\Debug\ThiTracNghiem_THDC.exe
+C:\Users\THUSANG\Desktop\New folder\DAMH_ThiTracNghiem_THDC\ThiTracNghiem_THDC\bin\Debug\ThiTracNghiem_THDC.pdb
+C:\Users\THUSANG\Desktop\New folder\DAMH_ThiTracNghiem_THDC\ThiTracNghiem_THDC\bin\Debug\Business_Tier.dll
+C:\Users\THUSANG\Desktop\New folder\DAMH_ThiTracNghiem_THDC\ThiTracNghiem_THDC\bin\Debug\Entities.dll
+C:\Users\THUSANG\Desktop\New folder\DAMH_ThiTracNghiem_THDC\ThiTracNghiem_THDC\bin\Debug\Data_Tier.dll
+C:\Users\THUSANG\Desktop\New folder\DAMH_ThiTracNghiem_THDC\ThiTracNghiem_THDC\bin\Debug\Business_Tier.pdb
+C:\Users\THUSANG\Desktop\New folder\DAMH_ThiTracNghiem_THDC\ThiTracNghiem_THDC\bin\Debug\Entities.pdb
+C:\Users\THUSANG\Desktop\New folder\DAMH_ThiTracNghiem_THDC\ThiTracNghiem_THDC\bin\Debug\Data_Tier.pdb
+C:\Users\THUSANG\Desktop\New folder\DAMH_ThiTracNghiem_THDC\ThiTracNghiem_THDC\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\THUSANG\Desktop\New folder\DAMH_ThiTracNghiem_THDC\ThiTracNghiem_THDC\obj\x86\Debug\ThiTracNghiem_THDC.frmAbout.resources
+C:\Users\THUSANG\Desktop\New folder\DAMH_ThiTracNghiem_THDC\ThiTracNghiem_THDC\obj\x86\Debug\ThiTracNghiem_THDC.frmAdminDangNhap.resources
+C:\Users\THUSANG\Desktop\New folder\DAMH_ThiTracNghiem_THDC\ThiTracNghiem_THDC\obj\x86\Debug\ThiTracNghiem_THDC.frmMain.resources
+C:\Users\THUSANG\Desktop\New folder\DAMH_ThiTracNghiem_THDC\ThiTracNghiem_THDC\obj\x86\Debug\ThiTracNghiem_THDC.frmSVDangNhap.resources
+C:\Users\THUSANG\Desktop\New folder\DAMH_ThiTracNghiem_THDC\ThiTracNghiem_THDC\obj\x86\Debug\ThiTracNghiem_THDC.frmTaoVaChinhSuaDeThi.resources
+C:\Users\THUSANG\Desktop\New folder\DAMH_ThiTracNghiem_THDC\ThiTracNghiem_THDC\obj\x86\Debug\ThiTracNghiem_THDC.frmTheLoai.resources
+C:\Users\THUSANG\Desktop\New folder\DAMH_ThiTracNghiem_THDC\ThiTracNghiem_THDC\obj\x86\Debug\ThiTracNghiem_THDC.frmThiThu.resources
+C:\Users\THUSANG\Desktop\New folder\DAMH_ThiTracNghiem_THDC\ThiTracNghiem_THDC\obj\x86\Debug\ThiTracNghiem_THDC.frmThiTracNghiem.resources
+C:\Users\THUSANG\Desktop\New folder\DAMH_ThiTracNghiem_THDC\ThiTracNghiem_THDC\obj\x86\Debug\ThiTracNghiem_THDC.Properties.Resources.resources
+C:\Users\THUSANG\Desktop\New folder\DAMH_ThiTracNghiem_THDC\ThiTracNghiem_THDC\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\THUSANG\Desktop\New folder\DAMH_ThiTracNghiem_THDC\ThiTracNghiem_THDC\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\user\Desktop\New folder\DAMH_ThiTracNghiem_THDC\ThiTracNghiem_THDC\obj\x86\Debug\ThiTracNghiem_THDC.exe
+C:\Users\user\Desktop\New folder\DAMH_ThiTracNghiem_THDC\ThiTracNghiem_THDC\obj\x86\Debug\ThiTracNghiem_THDC.pdb
+C:\Users\user\Desktop\New folder\DAMH_ThiTracNghiem_THDC\ThiTracNghiem_THDC\bin\Debug\ThiTracNghiem_THDC.exe
+C:\Users\user\Desktop\New folder\DAMH_ThiTracNghiem_THDC\ThiTracNghiem_THDC\bin\Debug\ThiTracNghiem_THDC.pdb
+C:\Users\user\Desktop\New folder\DAMH_ThiTracNghiem_THDC\ThiTracNghiem_THDC\bin\Debug\Business_Tier.dll
+C:\Users\user\Desktop\New folder\DAMH_ThiTracNghiem_THDC\ThiTracNghiem_THDC\bin\Debug\Entities.dll
+C:\Users\user\Desktop\New folder\DAMH_ThiTracNghiem_THDC\ThiTracNghiem_THDC\bin\Debug\Data_Tier.dll
+C:\Users\user\Desktop\New folder\DAMH_ThiTracNghiem_THDC\ThiTracNghiem_THDC\bin\Debug\Business_Tier.pdb
+C:\Users\user\Desktop\New folder\DAMH_ThiTracNghiem_THDC\ThiTracNghiem_THDC\bin\Debug\Entities.pdb
+C:\Users\user\Desktop\New folder\DAMH_ThiTracNghiem_THDC\ThiTracNghiem_THDC\bin\Debug\Data_Tier.pdb
+C:\Users\user\Desktop\New folder\DAMH_ThiTracNghiem_THDC\ThiTracNghiem_THDC\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\user\Desktop\New folder\DAMH_ThiTracNghiem_THDC\ThiTracNghiem_THDC\obj\x86\Debug\ThiTracNghiem_THDC.frmAbout.resources
+C:\Users\user\Desktop\New folder\DAMH_ThiTracNghiem_THDC\ThiTracNghiem_THDC\obj\x86\Debug\ThiTracNghiem_THDC.frmAdminDangNhap.resources
+C:\Users\user\Desktop\New folder\DAMH_ThiTracNghiem_THDC\ThiTracNghiem_THDC\obj\x86\Debug\ThiTracNghiem_THDC.frmMain.resources
+C:\Users\user\Desktop\New folder\DAMH_ThiTracNghiem_THDC\ThiTracNghiem_THDC\obj\x86\Debug\ThiTracNghiem_THDC.frmSVDangNhap.resources
+C:\Users\user\Desktop\New folder\DAMH_ThiTracNghiem_THDC\ThiTracNghiem_THDC\obj\x86\Debug\ThiTracNghiem_THDC.frmTaoVaChinhSuaDeThi.resources
+C:\Users\user\Desktop\New folder\DAMH_ThiTracNghiem_THDC\ThiTracNghiem_THDC\obj\x86\Debug\ThiTracNghiem_THDC.frmTheLoai.resources
+C:\Users\user\Desktop\New folder\DAMH_ThiTracNghiem_THDC\ThiTracNghiem_THDC\obj\x86\Debug\ThiTracNghiem_THDC.frmThiThu.resources
+C:\Users\user\Desktop\New folder\DAMH_ThiTracNghiem_THDC\ThiTracNghiem_THDC\obj\x86\Debug\ThiTracNghiem_THDC.frmThiTracNghiem.resources
+C:\Users\user\Desktop\New folder\DAMH_ThiTracNghiem_THDC\ThiTracNghiem_THDC\obj\x86\Debug\ThiTracNghiem_THDC.Properties.Resources.resources
+C:\Users\user\Desktop\New folder\DAMH_ThiTracNghiem_THDC\ThiTracNghiem_THDC\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\user\Desktop\New folder\DAMH_ThiTracNghiem_THDC\ThiTracNghiem_THDC\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\user\Desktop\New folder\DAMH_ThiTracNghiem_THDC\ThiTracNghiem_THDC\obj\x86\Debug\ThiTracNghiem_THDC.frmHuongDan.resources

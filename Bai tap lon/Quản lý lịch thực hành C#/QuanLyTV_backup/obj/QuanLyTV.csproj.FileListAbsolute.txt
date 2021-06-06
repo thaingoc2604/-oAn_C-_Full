@@ -1,0 +1,26 @@
+C:\Users\HoangThanh\Documents\Visual Studio 2005\Projects\QuanLyTV\QuanLyTV\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\HoangThanh\Documents\Visual Studio 2005\Projects\QuanLyTV\QuanLyTV\obj\Debug\QuanLyTV.Form1.resources
+C:\Users\HoangThanh\Documents\Visual Studio 2005\Projects\QuanLyTV\QuanLyTV\obj\Debug\QuanLyTV.Properties.Resources.resources
+C:\Users\HoangThanh\Documents\Visual Studio 2005\Projects\QuanLyTV\QuanLyTV\obj\Debug\QuanLyTV.csproj.GenerateResource.Cache
+C:\Users\HoangThanh\Documents\Visual Studio 2005\Projects\QuanLyTV\QuanLyTV\bin\Debug\QuanLyTV.exe
+C:\Users\HoangThanh\Documents\Visual Studio 2005\Projects\QuanLyTV\QuanLyTV\bin\Debug\QuanLyTV.pdb
+C:\Users\HoangThanh\Documents\Visual Studio 2005\Projects\QuanLyTV\QuanLyTV\obj\Debug\QuanLyTV.exe
+C:\Users\HoangThanh\Documents\Visual Studio 2005\Projects\QuanLyTV\QuanLyTV\obj\Debug\QuanLyTV.pdb
+C:\Users\HoangThanh\Documents\Visual Studio 2005\Projects\QuanLyTV\QuanLyTV\obj\Debug\QuanLyTV.fromDocGia.resources
+C:\Users\HoangThanh\Documents\Visual Studio 2005\Projects\QuanLyTV\QuanLyTV\obj\Debug\QuanLyTV.fromNhanVien.resources
+C:\Users\HoangThanh\Desktop\QuanLyTV\QuanLyTV\obj\Debug\QuanLyTV.exe
+C:\Users\HoangThanh\Desktop\QuanLyTV\QuanLyTV\obj\Debug\QuanLyTV.pdb
+C:\Users\HoangThanh\Desktop\QuanLyTV\QuanLyTV\bin\Debug\QuanLyTV.exe
+C:\Users\HoangThanh\Desktop\QuanLyTV\QuanLyTV\bin\Debug\QuanLyTV.pdb
+C:\Users\HoangThanh\Desktop\QuanLyTV\QuanLyTV\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\HoangThanh\Desktop\QuanLyTV\QuanLyTV\obj\Debug\QuanLyTV.Form1.resources
+C:\Users\HoangThanh\Desktop\QuanLyTV\QuanLyTV\obj\Debug\QuanLyTV.fromDocGia.resources
+C:\Users\HoangThanh\Desktop\QuanLyTV\QuanLyTV\obj\Debug\QuanLyTV.fromNhanVien.resources
+C:\Users\HoangThanh\Desktop\QuanLyTV\QuanLyTV\obj\Debug\QuanLyTV.Properties.Resources.resources
+C:\Users\HoangThanh\Desktop\QuanLyTV\QuanLyTV\obj\Debug\QuanLyTV.csproj.GenerateResource.Cache
+C:\Users\HoangThanh\Desktop\QuanLyTV\QuanLyTV\obj\Debug\QuanLyTV.ChiTietDocGia.resources
+C:\Users\HoangThanh\Desktop\QuanLyTV\QuanLyTV\obj\Debug\QuanLyTV.ChiTietNhanVien.resources
+C:\Users\HoangThanh\Desktop\QuanLyTV\QuanLyTV\obj\Debug\QuanLyTV.LuuTruSach.resources
+C:\Users\HoangThanh\Desktop\QuanLyTV\QuanLyTV\obj\Debug\QuanLyTV.TimKiemSach.resources
+C:\Users\HoangThanh\Desktop\QuanLyTV\QuanLyTV\bin\Debug\Quanlythuvien.mdb
+C:\Users\HoangThanh\Desktop\QuanLyTV\QuanLyTV\bin\Debug\QuanLyTV.exe.config

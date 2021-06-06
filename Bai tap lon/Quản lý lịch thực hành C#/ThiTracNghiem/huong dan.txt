@@ -1,0 +1,9 @@
+﻿ id: đăng nhập quyền quản trị!  
+admin : 1234567
+khuong: 123456
+nhat: 123456
+
+mọi tah8t1 mắc xin liên hê theo địa chỉ email:
+
+jsinhnhat@gmail.com
+ithanhkhuong@mail.com

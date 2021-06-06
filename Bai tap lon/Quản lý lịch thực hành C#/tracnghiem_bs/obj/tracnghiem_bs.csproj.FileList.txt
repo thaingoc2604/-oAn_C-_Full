@@ -1,0 +1,14 @@
+bin\Debug\tracnghiem_bs.dll
+bin\Debug\tracnghiem_bs.pdb
+bin\Debug\tracnghiem_da.dll
+bin\Debug\tracnghiem_da.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\tracnghiem_bs.dll
+obj\Debug\tracnghiem_bs.pdb
+bin\Release\tracnghiem_bs.dll
+bin\Release\tracnghiem_bs.pdb
+bin\Release\tracnghiem_da.dll
+bin\Release\tracnghiem_da.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\tracnghiem_bs.dll
+obj\Release\tracnghiem_bs.pdb

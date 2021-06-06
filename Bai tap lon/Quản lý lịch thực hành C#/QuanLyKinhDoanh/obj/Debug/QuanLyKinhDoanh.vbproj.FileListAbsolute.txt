@@ -1,0 +1,311 @@
+D:\Hoc tap\DH GTVT\Hoc Tap\Mon hoc\Dang Hoc\Hoc ky 5\Lap trinh truc quan\BTL\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\ResolveAssemblyReference.cache
+D:\Hoc tap\DH GTVT\Hoc Tap\Mon hoc\Dang Hoc\Hoc ky 5\Lap trinh truc quan\BTL\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmBoPhan.resources
+D:\Hoc tap\DH GTVT\Hoc Tap\Mon hoc\Dang Hoc\Hoc ky 5\Lap trinh truc quan\BTL\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmChucVu.resources
+D:\Hoc tap\DH GTVT\Hoc Tap\Mon hoc\Dang Hoc\Hoc ky 5\Lap trinh truc quan\BTL\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmDMPhieuNhapKho.resources
+D:\Hoc tap\DH GTVT\Hoc Tap\Mon hoc\Dang Hoc\Hoc ky 5\Lap trinh truc quan\BTL\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmDMPhieuXuatKho.resources
+D:\Hoc tap\DH GTVT\Hoc Tap\Mon hoc\Dang Hoc\Hoc ky 5\Lap trinh truc quan\BTL\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmHangHoa.resources
+D:\Hoc tap\DH GTVT\Hoc Tap\Mon hoc\Dang Hoc\Hoc ky 5\Lap trinh truc quan\BTL\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmKhachHang.resources
+D:\Hoc tap\DH GTVT\Hoc Tap\Mon hoc\Dang Hoc\Hoc ky 5\Lap trinh truc quan\BTL\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmKho.resources
+D:\Hoc tap\DH GTVT\Hoc Tap\Mon hoc\Dang Hoc\Hoc ky 5\Lap trinh truc quan\BTL\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmMsgOK.resources
+D:\Hoc tap\DH GTVT\Hoc Tap\Mon hoc\Dang Hoc\Hoc ky 5\Lap trinh truc quan\BTL\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmMsgYesNo.resources
+D:\Hoc tap\DH GTVT\Hoc Tap\Mon hoc\Dang Hoc\Hoc ky 5\Lap trinh truc quan\BTL\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmNhaCC.resources
+D:\Hoc tap\DH GTVT\Hoc Tap\Mon hoc\Dang Hoc\Hoc ky 5\Lap trinh truc quan\BTL\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmNhanVien.resources
+D:\Hoc tap\DH GTVT\Hoc Tap\Mon hoc\Dang Hoc\Hoc ky 5\Lap trinh truc quan\BTL\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmNhomHang.resources
+D:\Hoc tap\DH GTVT\Hoc Tap\Mon hoc\Dang Hoc\Hoc ky 5\Lap trinh truc quan\BTL\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmPhieuNhapKho.resources
+D:\Hoc tap\DH GTVT\Hoc Tap\Mon hoc\Dang Hoc\Hoc ky 5\Lap trinh truc quan\BTL\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmPhieuXuatKho.resources
+D:\Hoc tap\DH GTVT\Hoc Tap\Mon hoc\Dang Hoc\Hoc ky 5\Lap trinh truc quan\BTL\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmSuaPhieuNhapKho.resources
+D:\Hoc tap\DH GTVT\Hoc Tap\Mon hoc\Dang Hoc\Hoc ky 5\Lap trinh truc quan\BTL\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmSuaPhieuXuatKho.resources
+D:\Hoc tap\DH GTVT\Hoc Tap\Mon hoc\Dang Hoc\Hoc ky 5\Lap trinh truc quan\BTL\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmTimKiemHangHoa.resources
+D:\Hoc tap\DH GTVT\Hoc Tap\Mon hoc\Dang Hoc\Hoc ky 5\Lap trinh truc quan\BTL\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmTimKiemKhachHang.resources
+D:\Hoc tap\DH GTVT\Hoc Tap\Mon hoc\Dang Hoc\Hoc ky 5\Lap trinh truc quan\BTL\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmTimKiemNhaCC.resources
+D:\Hoc tap\DH GTVT\Hoc Tap\Mon hoc\Dang Hoc\Hoc ky 5\Lap trinh truc quan\BTL\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmTimKiemNhanVien.resources
+D:\Hoc tap\DH GTVT\Hoc Tap\Mon hoc\Dang Hoc\Hoc ky 5\Lap trinh truc quan\BTL\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmTimKiemPhieuNhapKho.resources
+D:\Hoc tap\DH GTVT\Hoc Tap\Mon hoc\Dang Hoc\Hoc ky 5\Lap trinh truc quan\BTL\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmTimKiemPhieuXuatKho.resources
+D:\Hoc tap\DH GTVT\Hoc Tap\Mon hoc\Dang Hoc\Hoc ky 5\Lap trinh truc quan\BTL\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmTinhTP.resources
+D:\Hoc tap\DH GTVT\Hoc Tap\Mon hoc\Dang Hoc\Hoc ky 5\Lap trinh truc quan\BTL\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.Resources.resources
+D:\Hoc tap\DH GTVT\Hoc Tap\Mon hoc\Dang Hoc\Hoc ky 5\Lap trinh truc quan\BTL\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.vbproj.GenerateResource.Cache
+D:\Hoc tap\DH GTVT\Hoc Tap\Mon hoc\Dang Hoc\Hoc ky 5\Lap trinh truc quan\BTL\QuanLyKinhDoanh\QuanLyKinhDoanh\bin\Debug\QuanLyKinhDoanh.exe
+D:\Hoc tap\DH GTVT\Hoc Tap\Mon hoc\Dang Hoc\Hoc ky 5\Lap trinh truc quan\BTL\QuanLyKinhDoanh\QuanLyKinhDoanh\bin\Debug\QuanLyKinhDoanh.pdb
+D:\Hoc tap\DH GTVT\Hoc Tap\Mon hoc\Dang Hoc\Hoc ky 5\Lap trinh truc quan\BTL\QuanLyKinhDoanh\QuanLyKinhDoanh\bin\Debug\QuanLyKinhDoanh.xml
+D:\Hoc tap\DH GTVT\Hoc Tap\Mon hoc\Dang Hoc\Hoc ky 5\Lap trinh truc quan\BTL\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.exe
+D:\Hoc tap\DH GTVT\Hoc Tap\Mon hoc\Dang Hoc\Hoc ky 5\Lap trinh truc quan\BTL\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.xml
+D:\Hoc tap\DH GTVT\Hoc Tap\Mon hoc\Dang Hoc\Hoc ky 5\Lap trinh truc quan\BTL\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.pdb
+D:\Hoc tap\DH GTVT\Hoc Tap\Mon hoc\Dang Hoc\Hoc ky 5\Lap trinh truc quan\BTL\QuanLyKinhDoanh\QuanLyKinhDoanh\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\Hoc tap\DH GTVT\Hoc Tap\Mon hoc\Dang Hoc\Hoc ky 5\Lap trinh truc quan\BTL\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmSplashScreen.resources
+D:\Hoc tap\DH GTVT\Hoc Tap\Mon hoc\Dang Hoc\Hoc ky 5\Lap trinh truc quan\BTL\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmLogin.resources
+D:\Hoc tap\DH GTVT\Hoc Tap\Mon hoc\Dang Hoc\Hoc ky 5\Lap trinh truc quan\BTL\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmBaoCao.resources
+D:\Hoc tap\DH GTVT\Hoc Tap\Mon hoc\Dang Hoc\Hoc ky 5\Lap trinh truc quan\BTL\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmHoaDonBanHang.resources
+D:\Hoc tap\DH GTVT\Hoc Tap\Mon hoc\Dang Hoc\Hoc ky 5\Lap trinh truc quan\BTL\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmMainX.resources
+D:\Hoc tap\DH GTVT\Hoc Tap\Mon hoc\Dang Hoc\Hoc ky 5\Lap trinh truc quan\BTL\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.exe.licenses
+D:\Hoc tap\DH GTVT\Hoc Tap\Mon hoc\Dang Hoc\Hoc ky 5\Lap trinh truc quan\BTL\QuanLyKinhDoanh\QuanLyKinhDoanh\bin\Debug\DevComponents.DotNetBar2.dll
+D:\Hoc tap\DH GTVT\Hoc Tap\Mon hoc\Dang Hoc\Hoc ky 5\Lap trinh truc quan\BTL\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmPhieuChi.resources
+D:\Hoc tap\DH GTVT\Hoc Tap\Mon hoc\Dang Hoc\Hoc ky 5\Lap trinh truc quan\BTL\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmPhieuThu.resources
+D:\Hoc tap\DH GTVT\Hoc Tap\Mon hoc\Dang Hoc\Hoc ky 5\Lap trinh truc quan\BTL\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmTimKiemPhieuChi.resources
+D:\Hoc tap\DH GTVT\Hoc Tap\Mon hoc\Dang Hoc\Hoc ky 5\Lap trinh truc quan\BTL\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmTimKiemPhieuThu.resources
+D:\Hoc tap\DH GTVT\Hoc Tap\Mon hoc\Dang Hoc\Hoc ky 5\Lap trinh truc quan\BTL\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmUsers.resources
+D:\Hoc tap\DH GTVT\Hoc Tap\Mon hoc\Dang Hoc\Hoc ky 5\Lap trinh truc quan\BTL\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmDoiMatKhau.resources
+D:\Hoc tap\DH GTVT\Hoc Tap\Mon hoc\Dang Hoc\Hoc ky 5\Lap trinh truc quan\BTL\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmBaoCaoTongHop.resources
+D:\Hoc tap\DH GTVT\Hoc Tap\Mon hoc\Dang Hoc\Hoc ky 5\Lap trinh truc quan\BTL\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmTacGia.resources
+D:\Hoc tap\DH GTVT\Hoc Tap\Mon hoc\Dang Hoc\Hoc ky 5\Lap trinh truc quan\BTL\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmThemLuong.resources
+D:\Hoc tap\DH GTVT\Hoc Tap\Mon hoc\Dang Hoc\Hoc ky 5\Lap trinh truc quan\BTL\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmThemNhanVien.resources
+D:\Hoc tap\DH GTVT\Hoc Tap\Mon hoc\Da Hoc\Hoc ky 5\Lap trinh truc quan\BTL\QuanLyKinhDoanh\QuanLyKinhDoanh\bin\Debug\QuanLyKinhDoanh.exe
+D:\Hoc tap\DH GTVT\Hoc Tap\Mon hoc\Da Hoc\Hoc ky 5\Lap trinh truc quan\BTL\QuanLyKinhDoanh\QuanLyKinhDoanh\bin\Debug\QuanLyKinhDoanh.pdb
+D:\Hoc tap\DH GTVT\Hoc Tap\Mon hoc\Da Hoc\Hoc ky 5\Lap trinh truc quan\BTL\QuanLyKinhDoanh\QuanLyKinhDoanh\bin\Debug\QuanLyKinhDoanh.xml
+D:\Hoc tap\DH GTVT\Hoc Tap\Mon hoc\Da Hoc\Hoc ky 5\Lap trinh truc quan\BTL\QuanLyKinhDoanh\QuanLyKinhDoanh\bin\Debug\DevComponents.DotNetBar2.dll
+D:\Hoc tap\DH GTVT\Hoc Tap\Mon hoc\Da Hoc\Hoc ky 5\Lap trinh truc quan\BTL\QuanLyKinhDoanh\QuanLyKinhDoanh\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\Hoc tap\DH GTVT\Hoc Tap\Mon hoc\Da Hoc\Hoc ky 5\Lap trinh truc quan\BTL\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\ResolveAssemblyReference.cache
+D:\Hoc tap\DH GTVT\Hoc Tap\Mon hoc\Da Hoc\Hoc ky 5\Lap trinh truc quan\BTL\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmBoPhan.resources
+D:\Hoc tap\DH GTVT\Hoc Tap\Mon hoc\Da Hoc\Hoc ky 5\Lap trinh truc quan\BTL\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmChucVu.resources
+D:\Hoc tap\DH GTVT\Hoc Tap\Mon hoc\Da Hoc\Hoc ky 5\Lap trinh truc quan\BTL\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmDoiMatKhau.resources
+D:\Hoc tap\DH GTVT\Hoc Tap\Mon hoc\Da Hoc\Hoc ky 5\Lap trinh truc quan\BTL\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmHangHoa.resources
+D:\Hoc tap\DH GTVT\Hoc Tap\Mon hoc\Da Hoc\Hoc ky 5\Lap trinh truc quan\BTL\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmHoaDonBanHang.resources
+D:\Hoc tap\DH GTVT\Hoc Tap\Mon hoc\Da Hoc\Hoc ky 5\Lap trinh truc quan\BTL\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmKhachHang.resources
+D:\Hoc tap\DH GTVT\Hoc Tap\Mon hoc\Da Hoc\Hoc ky 5\Lap trinh truc quan\BTL\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmKho.resources
+D:\Hoc tap\DH GTVT\Hoc Tap\Mon hoc\Da Hoc\Hoc ky 5\Lap trinh truc quan\BTL\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmLogin.resources
+D:\Hoc tap\DH GTVT\Hoc Tap\Mon hoc\Da Hoc\Hoc ky 5\Lap trinh truc quan\BTL\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmMainX.resources
+D:\Hoc tap\DH GTVT\Hoc Tap\Mon hoc\Da Hoc\Hoc ky 5\Lap trinh truc quan\BTL\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmMsgOK.resources
+D:\Hoc tap\DH GTVT\Hoc Tap\Mon hoc\Da Hoc\Hoc ky 5\Lap trinh truc quan\BTL\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmMsgYesNo.resources
+D:\Hoc tap\DH GTVT\Hoc Tap\Mon hoc\Da Hoc\Hoc ky 5\Lap trinh truc quan\BTL\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmNhaCC.resources
+D:\Hoc tap\DH GTVT\Hoc Tap\Mon hoc\Da Hoc\Hoc ky 5\Lap trinh truc quan\BTL\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmNhanVien.resources
+D:\Hoc tap\DH GTVT\Hoc Tap\Mon hoc\Da Hoc\Hoc ky 5\Lap trinh truc quan\BTL\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmNhomHang.resources
+D:\Hoc tap\DH GTVT\Hoc Tap\Mon hoc\Da Hoc\Hoc ky 5\Lap trinh truc quan\BTL\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmPhieuChi.resources
+D:\Hoc tap\DH GTVT\Hoc Tap\Mon hoc\Da Hoc\Hoc ky 5\Lap trinh truc quan\BTL\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmPhieuNhapKho.resources
+D:\Hoc tap\DH GTVT\Hoc Tap\Mon hoc\Da Hoc\Hoc ky 5\Lap trinh truc quan\BTL\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmPhieuThu.resources
+D:\Hoc tap\DH GTVT\Hoc Tap\Mon hoc\Da Hoc\Hoc ky 5\Lap trinh truc quan\BTL\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmPhieuXuatKho.resources
+D:\Hoc tap\DH GTVT\Hoc Tap\Mon hoc\Da Hoc\Hoc ky 5\Lap trinh truc quan\BTL\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmSplashScreen.resources
+D:\Hoc tap\DH GTVT\Hoc Tap\Mon hoc\Da Hoc\Hoc ky 5\Lap trinh truc quan\BTL\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmSuaPhieuNhapKho.resources
+D:\Hoc tap\DH GTVT\Hoc Tap\Mon hoc\Da Hoc\Hoc ky 5\Lap trinh truc quan\BTL\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmSuaPhieuXuatKho.resources
+D:\Hoc tap\DH GTVT\Hoc Tap\Mon hoc\Da Hoc\Hoc ky 5\Lap trinh truc quan\BTL\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmTacGia.resources
+D:\Hoc tap\DH GTVT\Hoc Tap\Mon hoc\Da Hoc\Hoc ky 5\Lap trinh truc quan\BTL\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmThemLuong.resources
+D:\Hoc tap\DH GTVT\Hoc Tap\Mon hoc\Da Hoc\Hoc ky 5\Lap trinh truc quan\BTL\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmThemNhanVien.resources
+D:\Hoc tap\DH GTVT\Hoc Tap\Mon hoc\Da Hoc\Hoc ky 5\Lap trinh truc quan\BTL\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmTimKiemHangHoa.resources
+D:\Hoc tap\DH GTVT\Hoc Tap\Mon hoc\Da Hoc\Hoc ky 5\Lap trinh truc quan\BTL\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmTimKiemKhachHang.resources
+D:\Hoc tap\DH GTVT\Hoc Tap\Mon hoc\Da Hoc\Hoc ky 5\Lap trinh truc quan\BTL\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmTimKiemNhaCC.resources
+D:\Hoc tap\DH GTVT\Hoc Tap\Mon hoc\Da Hoc\Hoc ky 5\Lap trinh truc quan\BTL\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmTimKiemNhanVien.resources
+D:\Hoc tap\DH GTVT\Hoc Tap\Mon hoc\Da Hoc\Hoc ky 5\Lap trinh truc quan\BTL\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmTimKiemPhieuChi.resources
+D:\Hoc tap\DH GTVT\Hoc Tap\Mon hoc\Da Hoc\Hoc ky 5\Lap trinh truc quan\BTL\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmTimKiemPhieuNhapKho.resources
+D:\Hoc tap\DH GTVT\Hoc Tap\Mon hoc\Da Hoc\Hoc ky 5\Lap trinh truc quan\BTL\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmTimKiemPhieuThu.resources
+D:\Hoc tap\DH GTVT\Hoc Tap\Mon hoc\Da Hoc\Hoc ky 5\Lap trinh truc quan\BTL\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmTimKiemPhieuXuatKho.resources
+D:\Hoc tap\DH GTVT\Hoc Tap\Mon hoc\Da Hoc\Hoc ky 5\Lap trinh truc quan\BTL\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmTinhTP.resources
+D:\Hoc tap\DH GTVT\Hoc Tap\Mon hoc\Da Hoc\Hoc ky 5\Lap trinh truc quan\BTL\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmUsers.resources
+D:\Hoc tap\DH GTVT\Hoc Tap\Mon hoc\Da Hoc\Hoc ky 5\Lap trinh truc quan\BTL\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.Resources.resources
+D:\Hoc tap\DH GTVT\Hoc Tap\Mon hoc\Da Hoc\Hoc ky 5\Lap trinh truc quan\BTL\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmBaoCaoTongHop.resources
+D:\Hoc tap\DH GTVT\Hoc Tap\Mon hoc\Da Hoc\Hoc ky 5\Lap trinh truc quan\BTL\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmBaoCao.resources
+D:\Hoc tap\DH GTVT\Hoc Tap\Mon hoc\Da Hoc\Hoc ky 5\Lap trinh truc quan\BTL\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.vbproj.GenerateResource.Cache
+D:\Hoc tap\DH GTVT\Hoc Tap\Mon hoc\Da Hoc\Hoc ky 5\Lap trinh truc quan\BTL\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.exe.licenses
+D:\Hoc tap\DH GTVT\Hoc Tap\Mon hoc\Da Hoc\Hoc ky 5\Lap trinh truc quan\BTL\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.exe
+D:\Hoc tap\DH GTVT\Hoc Tap\Mon hoc\Da Hoc\Hoc ky 5\Lap trinh truc quan\BTL\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.xml
+D:\Hoc tap\DH GTVT\Hoc Tap\Mon hoc\Da Hoc\Hoc ky 5\Lap trinh truc quan\BTL\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.pdb
+D:\Hoc tap\DH GTVT\Hoc Tap\Mon hoc\Da Hoc\Hoc ky 5\Lap trinh truc quan\BTL\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmHoaDonMuaHang.resources
+D:\Hoc tap\DH GTVT\Hoc Tap\Mon hoc\Da Hoc\Hoc ky 5\Lap trinh truc quan\BTL\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmSuaHoaDonBanHang.resources
+D:\Hoc tap\DH GTVT\Hoc Tap\Mon hoc\Da Hoc\Hoc ky 5\Lap trinh truc quan\BTL\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmSuaHoaDonMuaHang.resources
+D:\Hoc tap\DH GTVT\Hoc Tap\Mon hoc\Da Hoc\Hoc ky 5\Lap trinh truc quan\BTL\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmTimKiemHoaDonBanHang.resources
+D:\Hoc tap\DH GTVT\Hoc Tap\Mon hoc\Da Hoc\Hoc ky 5\Lap trinh truc quan\BTL\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmTimKiemHoaDonMuaHang.resources
+D:\Hoc tap\DH GTVT\Hoc Tap\Mon hoc\Da Hoc\Hoc ky 5\Lap trinh truc quan\BTL\QuanLyKinhDoanh\QuanLyKinhDoanh\bin\Debug\QuanLyKinhDoanh.exe.config
+D:\Hoc tap\DH GTVT\Hoc Tap\Mon hoc\Da Hoc\Hoc ky 5\Lap trinh truc quan1\BTL\QuanLyKinhDoanh\QuanLyKinhDoanh\bin\Debug\QuanLyKinhDoanh.exe.config
+D:\Hoc tap\DH GTVT\Hoc Tap\Mon hoc\Da Hoc\Hoc ky 5\Lap trinh truc quan1\BTL\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.exe
+D:\Hoc tap\DH GTVT\Hoc Tap\Mon hoc\Da Hoc\Hoc ky 5\Lap trinh truc quan1\BTL\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.xml
+D:\Hoc tap\DH GTVT\Hoc Tap\Mon hoc\Da Hoc\Hoc ky 5\Lap trinh truc quan1\BTL\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.pdb
+D:\Hoc tap\DH GTVT\Hoc Tap\Mon hoc\Da Hoc\Hoc ky 5\Lap trinh truc quan1\BTL\QuanLyKinhDoanh\QuanLyKinhDoanh\bin\Debug\QuanLyKinhDoanh.exe
+D:\Hoc tap\DH GTVT\Hoc Tap\Mon hoc\Da Hoc\Hoc ky 5\Lap trinh truc quan1\BTL\QuanLyKinhDoanh\QuanLyKinhDoanh\bin\Debug\QuanLyKinhDoanh.pdb
+D:\Hoc tap\DH GTVT\Hoc Tap\Mon hoc\Da Hoc\Hoc ky 5\Lap trinh truc quan1\BTL\QuanLyKinhDoanh\QuanLyKinhDoanh\bin\Debug\QuanLyKinhDoanh.xml
+D:\Hoc tap\DH GTVT\Hoc Tap\Mon hoc\Da Hoc\Hoc ky 5\Lap trinh truc quan1\BTL\QuanLyKinhDoanh\QuanLyKinhDoanh\bin\Debug\DevComponents.DotNetBar2.dll
+D:\Hoc tap\DH GTVT\Hoc Tap\Mon hoc\Da Hoc\Hoc ky 5\Lap trinh truc quan1\BTL\QuanLyKinhDoanh\QuanLyKinhDoanh\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\Hoc tap\DH GTVT\Hoc Tap\Mon hoc\Da Hoc\Hoc ky 5\Lap trinh truc quan1\BTL\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\ResolveAssemblyReference.cache
+D:\Hoc tap\DH GTVT\Hoc Tap\Mon hoc\Da Hoc\Hoc ky 5\Lap trinh truc quan1\BTL\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmBoPhan.resources
+D:\Hoc tap\DH GTVT\Hoc Tap\Mon hoc\Da Hoc\Hoc ky 5\Lap trinh truc quan1\BTL\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmChucVu.resources
+D:\Hoc tap\DH GTVT\Hoc Tap\Mon hoc\Da Hoc\Hoc ky 5\Lap trinh truc quan1\BTL\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmDoiMatKhau.resources
+D:\Hoc tap\DH GTVT\Hoc Tap\Mon hoc\Da Hoc\Hoc ky 5\Lap trinh truc quan1\BTL\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmHangHoa.resources
+D:\Hoc tap\DH GTVT\Hoc Tap\Mon hoc\Da Hoc\Hoc ky 5\Lap trinh truc quan1\BTL\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmHoaDonBanHang.resources
+D:\Hoc tap\DH GTVT\Hoc Tap\Mon hoc\Da Hoc\Hoc ky 5\Lap trinh truc quan1\BTL\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmHoaDonMuaHang.resources
+D:\Hoc tap\DH GTVT\Hoc Tap\Mon hoc\Da Hoc\Hoc ky 5\Lap trinh truc quan1\BTL\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmKhachHang.resources
+D:\Hoc tap\DH GTVT\Hoc Tap\Mon hoc\Da Hoc\Hoc ky 5\Lap trinh truc quan1\BTL\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmKho.resources
+D:\Hoc tap\DH GTVT\Hoc Tap\Mon hoc\Da Hoc\Hoc ky 5\Lap trinh truc quan1\BTL\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmLogin.resources
+D:\Hoc tap\DH GTVT\Hoc Tap\Mon hoc\Da Hoc\Hoc ky 5\Lap trinh truc quan1\BTL\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmMainX.resources
+D:\Hoc tap\DH GTVT\Hoc Tap\Mon hoc\Da Hoc\Hoc ky 5\Lap trinh truc quan1\BTL\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmMsgOK.resources
+D:\Hoc tap\DH GTVT\Hoc Tap\Mon hoc\Da Hoc\Hoc ky 5\Lap trinh truc quan1\BTL\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmMsgYesNo.resources
+D:\Hoc tap\DH GTVT\Hoc Tap\Mon hoc\Da Hoc\Hoc ky 5\Lap trinh truc quan1\BTL\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmNhaCC.resources
+D:\Hoc tap\DH GTVT\Hoc Tap\Mon hoc\Da Hoc\Hoc ky 5\Lap trinh truc quan1\BTL\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmNhanVien.resources
+D:\Hoc tap\DH GTVT\Hoc Tap\Mon hoc\Da Hoc\Hoc ky 5\Lap trinh truc quan1\BTL\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmNhomHang.resources
+D:\Hoc tap\DH GTVT\Hoc Tap\Mon hoc\Da Hoc\Hoc ky 5\Lap trinh truc quan1\BTL\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmPhieuChi.resources
+D:\Hoc tap\DH GTVT\Hoc Tap\Mon hoc\Da Hoc\Hoc ky 5\Lap trinh truc quan1\BTL\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmPhieuNhapKho.resources
+D:\Hoc tap\DH GTVT\Hoc Tap\Mon hoc\Da Hoc\Hoc ky 5\Lap trinh truc quan1\BTL\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmPhieuThu.resources
+D:\Hoc tap\DH GTVT\Hoc Tap\Mon hoc\Da Hoc\Hoc ky 5\Lap trinh truc quan1\BTL\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmPhieuXuatKho.resources
+D:\Hoc tap\DH GTVT\Hoc Tap\Mon hoc\Da Hoc\Hoc ky 5\Lap trinh truc quan1\BTL\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmSplashScreen.resources
+D:\Hoc tap\DH GTVT\Hoc Tap\Mon hoc\Da Hoc\Hoc ky 5\Lap trinh truc quan1\BTL\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmSuaHoaDonBanHang.resources
+D:\Hoc tap\DH GTVT\Hoc Tap\Mon hoc\Da Hoc\Hoc ky 5\Lap trinh truc quan1\BTL\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmSuaHoaDonMuaHang.resources
+D:\Hoc tap\DH GTVT\Hoc Tap\Mon hoc\Da Hoc\Hoc ky 5\Lap trinh truc quan1\BTL\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmSuaPhieuNhapKho.resources
+D:\Hoc tap\DH GTVT\Hoc Tap\Mon hoc\Da Hoc\Hoc ky 5\Lap trinh truc quan1\BTL\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmSuaPhieuXuatKho.resources
+D:\Hoc tap\DH GTVT\Hoc Tap\Mon hoc\Da Hoc\Hoc ky 5\Lap trinh truc quan1\BTL\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmTacGia.resources
+D:\Hoc tap\DH GTVT\Hoc Tap\Mon hoc\Da Hoc\Hoc ky 5\Lap trinh truc quan1\BTL\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmThemLuong.resources
+D:\Hoc tap\DH GTVT\Hoc Tap\Mon hoc\Da Hoc\Hoc ky 5\Lap trinh truc quan1\BTL\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmThemNhanVien.resources
+D:\Hoc tap\DH GTVT\Hoc Tap\Mon hoc\Da Hoc\Hoc ky 5\Lap trinh truc quan1\BTL\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmTimKiemHangHoa.resources
+D:\Hoc tap\DH GTVT\Hoc Tap\Mon hoc\Da Hoc\Hoc ky 5\Lap trinh truc quan1\BTL\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmTimKiemHoaDonBanHang.resources
+D:\Hoc tap\DH GTVT\Hoc Tap\Mon hoc\Da Hoc\Hoc ky 5\Lap trinh truc quan1\BTL\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmTimKiemHoaDonMuaHang.resources
+D:\Hoc tap\DH GTVT\Hoc Tap\Mon hoc\Da Hoc\Hoc ky 5\Lap trinh truc quan1\BTL\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmTimKiemKhachHang.resources
+D:\Hoc tap\DH GTVT\Hoc Tap\Mon hoc\Da Hoc\Hoc ky 5\Lap trinh truc quan1\BTL\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmTimKiemNhaCC.resources
+D:\Hoc tap\DH GTVT\Hoc Tap\Mon hoc\Da Hoc\Hoc ky 5\Lap trinh truc quan1\BTL\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmTimKiemNhanVien.resources
+D:\Hoc tap\DH GTVT\Hoc Tap\Mon hoc\Da Hoc\Hoc ky 5\Lap trinh truc quan1\BTL\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmTimKiemPhieuChi.resources
+D:\Hoc tap\DH GTVT\Hoc Tap\Mon hoc\Da Hoc\Hoc ky 5\Lap trinh truc quan1\BTL\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmTimKiemPhieuNhapKho.resources
+D:\Hoc tap\DH GTVT\Hoc Tap\Mon hoc\Da Hoc\Hoc ky 5\Lap trinh truc quan1\BTL\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmTimKiemPhieuThu.resources
+D:\Hoc tap\DH GTVT\Hoc Tap\Mon hoc\Da Hoc\Hoc ky 5\Lap trinh truc quan1\BTL\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmTimKiemPhieuXuatKho.resources
+D:\Hoc tap\DH GTVT\Hoc Tap\Mon hoc\Da Hoc\Hoc ky 5\Lap trinh truc quan1\BTL\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmTinhTP.resources
+D:\Hoc tap\DH GTVT\Hoc Tap\Mon hoc\Da Hoc\Hoc ky 5\Lap trinh truc quan1\BTL\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmUsers.resources
+D:\Hoc tap\DH GTVT\Hoc Tap\Mon hoc\Da Hoc\Hoc ky 5\Lap trinh truc quan1\BTL\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.Resources.resources
+D:\Hoc tap\DH GTVT\Hoc Tap\Mon hoc\Da Hoc\Hoc ky 5\Lap trinh truc quan1\BTL\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmBaoCaoTongHop.resources
+D:\Hoc tap\DH GTVT\Hoc Tap\Mon hoc\Da Hoc\Hoc ky 5\Lap trinh truc quan1\BTL\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmBaoCao.resources
+D:\Hoc tap\DH GTVT\Hoc Tap\Mon hoc\Da Hoc\Hoc ky 5\Lap trinh truc quan1\BTL\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.vbproj.GenerateResource.Cache
+D:\Hoc tap\DH GTVT\Hoc Tap\Mon hoc\Da Hoc\Hoc ky 5\Lap trinh truc quan1\BTL\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.exe.licenses
+E:\GTVT\Do an tot nghiep\QuanLyKinhDoanh\QuanLyKinhDoanh\bin\Debug\QuanLyKinhDoanh.exe.config
+E:\GTVT\Do an tot nghiep\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.exe
+E:\GTVT\Do an tot nghiep\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.xml
+E:\GTVT\Do an tot nghiep\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.pdb
+E:\GTVT\Do an tot nghiep\QuanLyKinhDoanh\QuanLyKinhDoanh\bin\Debug\QuanLyKinhDoanh.exe
+E:\GTVT\Do an tot nghiep\QuanLyKinhDoanh\QuanLyKinhDoanh\bin\Debug\QuanLyKinhDoanh.pdb
+E:\GTVT\Do an tot nghiep\QuanLyKinhDoanh\QuanLyKinhDoanh\bin\Debug\QuanLyKinhDoanh.xml
+E:\GTVT\Do an tot nghiep\QuanLyKinhDoanh\QuanLyKinhDoanh\bin\Debug\DevComponents.DotNetBar2.dll
+E:\GTVT\Do an tot nghiep\QuanLyKinhDoanh\QuanLyKinhDoanh\bin\Debug\Microsoft.Office.Interop.Excel.dll
+E:\GTVT\Do an tot nghiep\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\ResolveAssemblyReference.cache
+E:\GTVT\Do an tot nghiep\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmBoPhan.resources
+E:\GTVT\Do an tot nghiep\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmChucVu.resources
+E:\GTVT\Do an tot nghiep\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmDoiMatKhau.resources
+E:\GTVT\Do an tot nghiep\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmHangHoa.resources
+E:\GTVT\Do an tot nghiep\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmHoaDonBanHang.resources
+E:\GTVT\Do an tot nghiep\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmHoaDonMuaHang.resources
+E:\GTVT\Do an tot nghiep\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmKhachHang.resources
+E:\GTVT\Do an tot nghiep\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmKho.resources
+E:\GTVT\Do an tot nghiep\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmLogin.resources
+E:\GTVT\Do an tot nghiep\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmMainX.resources
+E:\GTVT\Do an tot nghiep\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmMsgOK.resources
+E:\GTVT\Do an tot nghiep\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmMsgYesNo.resources
+E:\GTVT\Do an tot nghiep\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmNhaCC.resources
+E:\GTVT\Do an tot nghiep\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmNhanVien.resources
+E:\GTVT\Do an tot nghiep\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmNhomHang.resources
+E:\GTVT\Do an tot nghiep\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmPhieuChi.resources
+E:\GTVT\Do an tot nghiep\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmPhieuNhapKho.resources
+E:\GTVT\Do an tot nghiep\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmPhieuThu.resources
+E:\GTVT\Do an tot nghiep\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmPhieuXuatKho.resources
+E:\GTVT\Do an tot nghiep\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmSplashScreen.resources
+E:\GTVT\Do an tot nghiep\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmSuaHoaDonBanHang.resources
+E:\GTVT\Do an tot nghiep\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmSuaHoaDonMuaHang.resources
+E:\GTVT\Do an tot nghiep\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmSuaPhieuNhapKho.resources
+E:\GTVT\Do an tot nghiep\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmSuaPhieuXuatKho.resources
+E:\GTVT\Do an tot nghiep\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmTacGia.resources
+E:\GTVT\Do an tot nghiep\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmThemLuong.resources
+E:\GTVT\Do an tot nghiep\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmThemNhanVien.resources
+E:\GTVT\Do an tot nghiep\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmTimKiemHangHoa.resources
+E:\GTVT\Do an tot nghiep\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmTimKiemHoaDonBanHang.resources
+E:\GTVT\Do an tot nghiep\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmTimKiemHoaDonMuaHang.resources
+E:\GTVT\Do an tot nghiep\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmTimKiemKhachHang.resources
+E:\GTVT\Do an tot nghiep\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmTimKiemNhaCC.resources
+E:\GTVT\Do an tot nghiep\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmTimKiemNhanVien.resources
+E:\GTVT\Do an tot nghiep\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmTimKiemPhieuChi.resources
+E:\GTVT\Do an tot nghiep\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmTimKiemPhieuNhapKho.resources
+E:\GTVT\Do an tot nghiep\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmTimKiemPhieuThu.resources
+E:\GTVT\Do an tot nghiep\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmTimKiemPhieuXuatKho.resources
+E:\GTVT\Do an tot nghiep\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmTinhTP.resources
+E:\GTVT\Do an tot nghiep\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmUsers.resources
+E:\GTVT\Do an tot nghiep\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.Resources.resources
+E:\GTVT\Do an tot nghiep\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmBaoCaoTongHop.resources
+E:\GTVT\Do an tot nghiep\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmBaoCao.resources
+E:\GTVT\Do an tot nghiep\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.vbproj.GenerateResource.Cache
+E:\GTVT\Do an tot nghiep\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.exe.licenses
+C:\Documents and Settings\admin\Desktop\QuanLyKinhDoanh\QuanLyKinhDoanh\bin\Debug\QuanLyKinhDoanh.exe.config
+C:\Documents and Settings\admin\Desktop\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.exe
+C:\Documents and Settings\admin\Desktop\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.xml
+C:\Documents and Settings\admin\Desktop\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.pdb
+C:\Documents and Settings\admin\Desktop\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\admin\Desktop\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmBoPhan.resources
+C:\Documents and Settings\admin\Desktop\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmChucVu.resources
+C:\Documents and Settings\admin\Desktop\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmDoiMatKhau.resources
+C:\Documents and Settings\admin\Desktop\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmHangHoa.resources
+C:\Documents and Settings\admin\Desktop\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmHoaDonBanHang.resources
+C:\Documents and Settings\admin\Desktop\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmHoaDonMuaHang.resources
+C:\Documents and Settings\admin\Desktop\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmKhachHang.resources
+C:\Documents and Settings\admin\Desktop\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmKho.resources
+C:\Documents and Settings\admin\Desktop\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmLogin.resources
+C:\Documents and Settings\admin\Desktop\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmMainX.resources
+C:\Documents and Settings\admin\Desktop\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmMsgOK.resources
+C:\Documents and Settings\admin\Desktop\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmMsgYesNo.resources
+C:\Documents and Settings\admin\Desktop\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmNhaCC.resources
+C:\Documents and Settings\admin\Desktop\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmNhanVien.resources
+C:\Documents and Settings\admin\Desktop\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmNhomHang.resources
+C:\Documents and Settings\admin\Desktop\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmPhieuChi.resources
+C:\Documents and Settings\admin\Desktop\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmPhieuNhapKho.resources
+C:\Documents and Settings\admin\Desktop\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmPhieuThu.resources
+C:\Documents and Settings\admin\Desktop\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmPhieuXuatKho.resources
+C:\Documents and Settings\admin\Desktop\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmSplashScreen.resources
+C:\Documents and Settings\admin\Desktop\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmSuaHoaDonBanHang.resources
+C:\Documents and Settings\admin\Desktop\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmSuaHoaDonMuaHang.resources
+C:\Documents and Settings\admin\Desktop\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmSuaPhieuNhapKho.resources
+C:\Documents and Settings\admin\Desktop\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmSuaPhieuXuatKho.resources
+C:\Documents and Settings\admin\Desktop\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmTacGia.resources
+C:\Documents and Settings\admin\Desktop\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmThemLuong.resources
+C:\Documents and Settings\admin\Desktop\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmThemNhanVien.resources
+C:\Documents and Settings\admin\Desktop\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmTimKiemHangHoa.resources
+C:\Documents and Settings\admin\Desktop\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmTimKiemHoaDonBanHang.resources
+C:\Documents and Settings\admin\Desktop\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmTimKiemHoaDonMuaHang.resources
+C:\Documents and Settings\admin\Desktop\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmTimKiemKhachHang.resources
+C:\Documents and Settings\admin\Desktop\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmTimKiemNhaCC.resources
+C:\Documents and Settings\admin\Desktop\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmTimKiemNhanVien.resources
+C:\Documents and Settings\admin\Desktop\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmTimKiemPhieuChi.resources
+C:\Documents and Settings\admin\Desktop\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmTimKiemPhieuNhapKho.resources
+C:\Documents and Settings\admin\Desktop\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmTimKiemPhieuThu.resources
+C:\Documents and Settings\admin\Desktop\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmTimKiemPhieuXuatKho.resources
+C:\Documents and Settings\admin\Desktop\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmTinhTP.resources
+C:\Documents and Settings\admin\Desktop\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmUsers.resources
+C:\Documents and Settings\admin\Desktop\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.Resources.resources
+C:\Documents and Settings\admin\Desktop\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmBaoCaoTongHop.resources
+C:\Documents and Settings\admin\Desktop\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmBaoCao.resources
+C:\Documents and Settings\admin\Desktop\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\admin\Desktop\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\admin\Desktop\QuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.exe.licenses
+C:\Users\Dinhvan\Google Drive\Private\ShareCode\Public\Visual C#\[chua up cai nay]Đồ án quản lý kho hàng quản lý kinh doanh bằng C#\[sharecode.org]DoAnQuanLyKinhDoanh\QuanLyKinhDoanh\bin\Debug\QuanLyKinhDoanh.exe.config
+C:\Users\Dinhvan\Google Drive\Private\ShareCode\Public\Visual C#\[chua up cai nay]Đồ án quản lý kho hàng quản lý kinh doanh bằng C#\[sharecode.org]DoAnQuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.exe
+C:\Users\Dinhvan\Google Drive\Private\ShareCode\Public\Visual C#\[chua up cai nay]Đồ án quản lý kho hàng quản lý kinh doanh bằng C#\[sharecode.org]DoAnQuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.xml
+C:\Users\Dinhvan\Google Drive\Private\ShareCode\Public\Visual C#\[chua up cai nay]Đồ án quản lý kho hàng quản lý kinh doanh bằng C#\[sharecode.org]DoAnQuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.pdb
+C:\Users\Dinhvan\Google Drive\Private\ShareCode\Public\Visual C#\[chua up cai nay]Đồ án quản lý kho hàng quản lý kinh doanh bằng C#\[sharecode.org]DoAnQuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.vbprojResolveAssemblyReference.cache
+C:\Users\Dinhvan\Google Drive\Private\ShareCode\Public\Visual C#\[chua up cai nay]Đồ án quản lý kho hàng quản lý kinh doanh bằng C#\[sharecode.org]DoAnQuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmBoPhan.resources
+C:\Users\Dinhvan\Google Drive\Private\ShareCode\Public\Visual C#\[chua up cai nay]Đồ án quản lý kho hàng quản lý kinh doanh bằng C#\[sharecode.org]DoAnQuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmChucVu.resources
+C:\Users\Dinhvan\Google Drive\Private\ShareCode\Public\Visual C#\[chua up cai nay]Đồ án quản lý kho hàng quản lý kinh doanh bằng C#\[sharecode.org]DoAnQuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmDoiMatKhau.resources
+C:\Users\Dinhvan\Google Drive\Private\ShareCode\Public\Visual C#\[chua up cai nay]Đồ án quản lý kho hàng quản lý kinh doanh bằng C#\[sharecode.org]DoAnQuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmHangHoa.resources
+C:\Users\Dinhvan\Google Drive\Private\ShareCode\Public\Visual C#\[chua up cai nay]Đồ án quản lý kho hàng quản lý kinh doanh bằng C#\[sharecode.org]DoAnQuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmHoaDonBanHang.resources
+C:\Users\Dinhvan\Google Drive\Private\ShareCode\Public\Visual C#\[chua up cai nay]Đồ án quản lý kho hàng quản lý kinh doanh bằng C#\[sharecode.org]DoAnQuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmHoaDonMuaHang.resources
+C:\Users\Dinhvan\Google Drive\Private\ShareCode\Public\Visual C#\[chua up cai nay]Đồ án quản lý kho hàng quản lý kinh doanh bằng C#\[sharecode.org]DoAnQuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmKhachHang.resources
+C:\Users\Dinhvan\Google Drive\Private\ShareCode\Public\Visual C#\[chua up cai nay]Đồ án quản lý kho hàng quản lý kinh doanh bằng C#\[sharecode.org]DoAnQuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmKho.resources
+C:\Users\Dinhvan\Google Drive\Private\ShareCode\Public\Visual C#\[chua up cai nay]Đồ án quản lý kho hàng quản lý kinh doanh bằng C#\[sharecode.org]DoAnQuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmLogin.resources
+C:\Users\Dinhvan\Google Drive\Private\ShareCode\Public\Visual C#\[chua up cai nay]Đồ án quản lý kho hàng quản lý kinh doanh bằng C#\[sharecode.org]DoAnQuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmMainX.resources
+C:\Users\Dinhvan\Google Drive\Private\ShareCode\Public\Visual C#\[chua up cai nay]Đồ án quản lý kho hàng quản lý kinh doanh bằng C#\[sharecode.org]DoAnQuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmMsgOK.resources
+C:\Users\Dinhvan\Google Drive\Private\ShareCode\Public\Visual C#\[chua up cai nay]Đồ án quản lý kho hàng quản lý kinh doanh bằng C#\[sharecode.org]DoAnQuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmMsgYesNo.resources
+C:\Users\Dinhvan\Google Drive\Private\ShareCode\Public\Visual C#\[chua up cai nay]Đồ án quản lý kho hàng quản lý kinh doanh bằng C#\[sharecode.org]DoAnQuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmNhaCC.resources
+C:\Users\Dinhvan\Google Drive\Private\ShareCode\Public\Visual C#\[chua up cai nay]Đồ án quản lý kho hàng quản lý kinh doanh bằng C#\[sharecode.org]DoAnQuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmNhanVien.resources
+C:\Users\Dinhvan\Google Drive\Private\ShareCode\Public\Visual C#\[chua up cai nay]Đồ án quản lý kho hàng quản lý kinh doanh bằng C#\[sharecode.org]DoAnQuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmNhomHang.resources
+C:\Users\Dinhvan\Google Drive\Private\ShareCode\Public\Visual C#\[chua up cai nay]Đồ án quản lý kho hàng quản lý kinh doanh bằng C#\[sharecode.org]DoAnQuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmPhieuChi.resources
+C:\Users\Dinhvan\Google Drive\Private\ShareCode\Public\Visual C#\[chua up cai nay]Đồ án quản lý kho hàng quản lý kinh doanh bằng C#\[sharecode.org]DoAnQuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmPhieuNhapKho.resources
+C:\Users\Dinhvan\Google Drive\Private\ShareCode\Public\Visual C#\[chua up cai nay]Đồ án quản lý kho hàng quản lý kinh doanh bằng C#\[sharecode.org]DoAnQuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmPhieuThu.resources
+C:\Users\Dinhvan\Google Drive\Private\ShareCode\Public\Visual C#\[chua up cai nay]Đồ án quản lý kho hàng quản lý kinh doanh bằng C#\[sharecode.org]DoAnQuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmPhieuXuatKho.resources
+C:\Users\Dinhvan\Google Drive\Private\ShareCode\Public\Visual C#\[chua up cai nay]Đồ án quản lý kho hàng quản lý kinh doanh bằng C#\[sharecode.org]DoAnQuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmSplashScreen.resources
+C:\Users\Dinhvan\Google Drive\Private\ShareCode\Public\Visual C#\[chua up cai nay]Đồ án quản lý kho hàng quản lý kinh doanh bằng C#\[sharecode.org]DoAnQuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmSuaHoaDonBanHang.resources
+C:\Users\Dinhvan\Google Drive\Private\ShareCode\Public\Visual C#\[chua up cai nay]Đồ án quản lý kho hàng quản lý kinh doanh bằng C#\[sharecode.org]DoAnQuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmSuaHoaDonMuaHang.resources
+C:\Users\Dinhvan\Google Drive\Private\ShareCode\Public\Visual C#\[chua up cai nay]Đồ án quản lý kho hàng quản lý kinh doanh bằng C#\[sharecode.org]DoAnQuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmSuaPhieuNhapKho.resources
+C:\Users\Dinhvan\Google Drive\Private\ShareCode\Public\Visual C#\[chua up cai nay]Đồ án quản lý kho hàng quản lý kinh doanh bằng C#\[sharecode.org]DoAnQuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmSuaPhieuXuatKho.resources
+C:\Users\Dinhvan\Google Drive\Private\ShareCode\Public\Visual C#\[chua up cai nay]Đồ án quản lý kho hàng quản lý kinh doanh bằng C#\[sharecode.org]DoAnQuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmTacGia.resources
+C:\Users\Dinhvan\Google Drive\Private\ShareCode\Public\Visual C#\[chua up cai nay]Đồ án quản lý kho hàng quản lý kinh doanh bằng C#\[sharecode.org]DoAnQuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmThemLuong.resources
+C:\Users\Dinhvan\Google Drive\Private\ShareCode\Public\Visual C#\[chua up cai nay]Đồ án quản lý kho hàng quản lý kinh doanh bằng C#\[sharecode.org]DoAnQuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmThemNhanVien.resources
+C:\Users\Dinhvan\Google Drive\Private\ShareCode\Public\Visual C#\[chua up cai nay]Đồ án quản lý kho hàng quản lý kinh doanh bằng C#\[sharecode.org]DoAnQuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmTimKiemHangHoa.resources
+C:\Users\Dinhvan\Google Drive\Private\ShareCode\Public\Visual C#\[chua up cai nay]Đồ án quản lý kho hàng quản lý kinh doanh bằng C#\[sharecode.org]DoAnQuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmTimKiemHoaDonBanHang.resources
+C:\Users\Dinhvan\Google Drive\Private\ShareCode\Public\Visual C#\[chua up cai nay]Đồ án quản lý kho hàng quản lý kinh doanh bằng C#\[sharecode.org]DoAnQuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmTimKiemHoaDonMuaHang.resources
+C:\Users\Dinhvan\Google Drive\Private\ShareCode\Public\Visual C#\[chua up cai nay]Đồ án quản lý kho hàng quản lý kinh doanh bằng C#\[sharecode.org]DoAnQuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmTimKiemKhachHang.resources
+C:\Users\Dinhvan\Google Drive\Private\ShareCode\Public\Visual C#\[chua up cai nay]Đồ án quản lý kho hàng quản lý kinh doanh bằng C#\[sharecode.org]DoAnQuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmTimKiemNhaCC.resources
+C:\Users\Dinhvan\Google Drive\Private\ShareCode\Public\Visual C#\[chua up cai nay]Đồ án quản lý kho hàng quản lý kinh doanh bằng C#\[sharecode.org]DoAnQuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmTimKiemNhanVien.resources
+C:\Users\Dinhvan\Google Drive\Private\ShareCode\Public\Visual C#\[chua up cai nay]Đồ án quản lý kho hàng quản lý kinh doanh bằng C#\[sharecode.org]DoAnQuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmTimKiemPhieuChi.resources
+C:\Users\Dinhvan\Google Drive\Private\ShareCode\Public\Visual C#\[chua up cai nay]Đồ án quản lý kho hàng quản lý kinh doanh bằng C#\[sharecode.org]DoAnQuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmTimKiemPhieuNhapKho.resources
+C:\Users\Dinhvan\Google Drive\Private\ShareCode\Public\Visual C#\[chua up cai nay]Đồ án quản lý kho hàng quản lý kinh doanh bằng C#\[sharecode.org]DoAnQuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmTimKiemPhieuThu.resources
+C:\Users\Dinhvan\Google Drive\Private\ShareCode\Public\Visual C#\[chua up cai nay]Đồ án quản lý kho hàng quản lý kinh doanh bằng C#\[sharecode.org]DoAnQuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmTimKiemPhieuXuatKho.resources
+C:\Users\Dinhvan\Google Drive\Private\ShareCode\Public\Visual C#\[chua up cai nay]Đồ án quản lý kho hàng quản lý kinh doanh bằng C#\[sharecode.org]DoAnQuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmTinhTP.resources
+C:\Users\Dinhvan\Google Drive\Private\ShareCode\Public\Visual C#\[chua up cai nay]Đồ án quản lý kho hàng quản lý kinh doanh bằng C#\[sharecode.org]DoAnQuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmUsers.resources
+C:\Users\Dinhvan\Google Drive\Private\ShareCode\Public\Visual C#\[chua up cai nay]Đồ án quản lý kho hàng quản lý kinh doanh bằng C#\[sharecode.org]DoAnQuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.Resources.resources
+C:\Users\Dinhvan\Google Drive\Private\ShareCode\Public\Visual C#\[chua up cai nay]Đồ án quản lý kho hàng quản lý kinh doanh bằng C#\[sharecode.org]DoAnQuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmBaoCaoTongHop.resources
+C:\Users\Dinhvan\Google Drive\Private\ShareCode\Public\Visual C#\[chua up cai nay]Đồ án quản lý kho hàng quản lý kinh doanh bằng C#\[sharecode.org]DoAnQuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.frmBaoCao.resources
+C:\Users\Dinhvan\Google Drive\Private\ShareCode\Public\Visual C#\[chua up cai nay]Đồ án quản lý kho hàng quản lý kinh doanh bằng C#\[sharecode.org]DoAnQuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.vbproj.GenerateResource.Cache
+C:\Users\Dinhvan\Google Drive\Private\ShareCode\Public\Visual C#\[chua up cai nay]Đồ án quản lý kho hàng quản lý kinh doanh bằng C#\[sharecode.org]DoAnQuanLyKinhDoanh\QuanLyKinhDoanh\obj\Debug\QuanLyKinhDoanh.exe.licenses

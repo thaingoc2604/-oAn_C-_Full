@@ -1,0 +1,48 @@
+SELECT Product, Quantity
+FROM Inventory
+WHERE Warehouse = 'FL'
+
+    CREATE PROCEDURE sp_GetInventory
+    @location varchar(10)
+    AS
+    SELECT Product, Quantity
+    FROM Inventory
+    WHERE Warehouse = @location
+
+Our Florida warehouse manager can then access inventory levels by issuing the command
+
+    EXECUTE sp_GetInventory 'FL'
+
+The New York warehouse manager can use the same stored procedure to access that area's inventory.
+
+    EXECUTE sp_GetInventory 'NY'
+
+   1.
+      private void LoadData()
+   2.
+      {
+   3.
+           SqlConnection conn = new SqlConnection("Data Source='SHAWHP\\SQLEXPRESS';Initial Catalog=SoftwareInventory;Integrated Security=SSPI");
+
+      SqlCommand cmd = new SqlCommand("dbo.proc_GetCadyData", conn);
+ 
+      cmd.CommandType = CommandType.StoredProcedure;
+
+      cmd.Parameters.AddWithValue("@CadyName", "Cady-A");
+ 
+      SqlDataAdapter adapter = new SqlDataAdapter(cmd);
+
+      dataSet1.Tables.Clear();
+
+      adapter.Fill(dataSet1, "Table");
+  
+      MyGrid.DataSource = dataSet1.Tables["Table"];
+  
+      bindingSource1 = new BindingSource(dataSet1, "Table");
+  
+      bindingNavigator1.BindingSource = bindingSource1;
+  
+      MyGrid.DataSource = bindingSource1;
+            return kq;
+  15.
+      }

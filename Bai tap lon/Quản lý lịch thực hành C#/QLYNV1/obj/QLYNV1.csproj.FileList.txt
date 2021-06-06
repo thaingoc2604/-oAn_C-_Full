@@ -1,0 +1,8 @@
+bin\Debug\QLYNV1.exe
+bin\Debug\QLYNV1.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\QLYNV1.Form1.resources
+obj\Debug\QLYNV1.Properties.Resources.resources
+obj\Debug\QLYNV1.csproj.GenerateResource.Cache
+obj\Debug\QLYNV1.exe
+obj\Debug\QLYNV1.pdb

@@ -1,0 +1,36 @@
+ CREATE PROCEDURE sp_ThemMaDG
+    @madg nvarchar(10),
+    @diengiai nvarchar (150)   	
+    AS
+    INSERT INTO diengiai
+    VALUES (@madg,@diengiai)
+
+// Sua Dien Giai
+
+ CREATE PROCEDURE sp_SuaDG
+    @madg nvarchar(10),
+    @diengiai nvarchar (150)   	
+    AS
+    UPDATE diengiai
+    SET diengiai=@diengiai,madg=@madg
+    WHERE madg=@madg
+
+// Dang Nhap
+
+CREATE PROCEDURE sp_DangNhap
+    @username varchar(10),
+    @pass varchar (150)   	
+    AS
+    select count(*)
+    from nguoidung
+    WHERE Username=@Username and Pass=@pass
+
+// Lay thong tin nguoi dung
+
+CREATE PROCEDURE sp_Getuser
+    @username nvarchar(10),
+    @pass nvarchar (150)   	
+    AS
+    select *
+    from nguoidung
+    WHERE Username=@Username and Pass=@pass

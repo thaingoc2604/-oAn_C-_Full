@@ -1,0 +1,5 @@
+﻿server:daothanglong\quan
+database:nhansu_luong
+username:sa
+pass:sa
+s:123

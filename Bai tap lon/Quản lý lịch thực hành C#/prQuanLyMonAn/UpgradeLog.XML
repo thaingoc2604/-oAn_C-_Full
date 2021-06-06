@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="prQuanLyMonAn">
+</Property><Property Name="Solution File" Value="C:\Users\Vu\Desktop\prQuanLyMonAn\prQuanLyMonAn\prQuanLyMonAn.sln">
+</Property><Property Name="User Options File" Value="C:\Users\Vu\Desktop\prQuanLyMonAn\prQuanLyMonAn\prQuanLyMonAn.suo">
+</Property><Property Name="Date" Value="19 Tháng Mười Một 2012">
+</Property><Property Name="Time" Value="10:53 AM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="prQuanLyMonAn.sln" Description="File successfully backed up as C:\Users\Vu\Desktop\prQuanLyMonAn\prQuanLyMonAn\Backup\prQuanLyMonAn.sln">
+</Event><Event ErrorLevel="0" Project="" Source="prQuanLyMonAn.suo" Description="File successfully backed up as C:\Users\Vu\Desktop\prQuanLyMonAn\prQuanLyMonAn\Backup\prQuanLyMonAn.suo">
+</Event><Event ErrorLevel="0" Project="prQuanLyMonAn" Source="prQuanLyMonAn\prQuanLyMonAn.csproj" Description="Project file successfully backed up as C:\Users\Vu\Desktop\prQuanLyMonAn\prQuanLyMonAn\Backup\prQuanLyMonAn\prQuanLyMonAn.csproj">
+</Event><Event ErrorLevel="0" Project="prQuanLyMonAn" Source="prQuanLyMonAn\frm_LoaiMon.cs" Description="File successfully backed up as C:\Users\Vu\Desktop\prQuanLyMonAn\prQuanLyMonAn\Backup\prQuanLyMonAn\frm_LoaiMon.cs">
+</Event><Event ErrorLevel="0" Project="prQuanLyMonAn" Source="prQuanLyMonAn\frm_LoaiMon.designer.cs" Description="File successfully backed up as C:\Users\Vu\Desktop\prQuanLyMonAn\prQuanLyMonAn\Backup\prQuanLyMonAn\frm_LoaiMon.designer.cs">
+</Event><Event ErrorLevel="0" Project="prQuanLyMonAn" Source="prQuanLyMonAn\Program.cs" Description="File successfully backed up as C:\Users\Vu\Desktop\prQuanLyMonAn\prQuanLyMonAn\Backup\prQuanLyMonAn\Program.cs">
+</Event><Event ErrorLevel="0" Project="prQuanLyMonAn" Source="prQuanLyMonAn\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\Vu\Desktop\prQuanLyMonAn\prQuanLyMonAn\Backup\prQuanLyMonAn\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="prQuanLyMonAn" Source="prQuanLyMonAn\Properties\Resources.Designer.cs" Description="File successfully backed up as C:\Users\Vu\Desktop\prQuanLyMonAn\prQuanLyMonAn\Backup\prQuanLyMonAn\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="prQuanLyMonAn" Source="prQuanLyMonAn\Properties\Settings.Designer.cs" Description="File successfully backed up as C:\Users\Vu\Desktop\prQuanLyMonAn\prQuanLyMonAn\Backup\prQuanLyMonAn\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="prQuanLyMonAn" Source="prQuanLyMonAn\ThongTinMonAn.cs" Description="File successfully backed up as C:\Users\Vu\Desktop\prQuanLyMonAn\prQuanLyMonAn\Backup\prQuanLyMonAn\ThongTinMonAn.cs">
+</Event><Event ErrorLevel="0" Project="prQuanLyMonAn" Source="prQuanLyMonAn\ThongTinMonAn.Designer.cs" Description="File successfully backed up as C:\Users\Vu\Desktop\prQuanLyMonAn\prQuanLyMonAn\Backup\prQuanLyMonAn\ThongTinMonAn.Designer.cs">
+</Event><Event ErrorLevel="0" Project="prQuanLyMonAn" Source="prQuanLyMonAn\Properties\Settings.settings" Description="File successfully backed up as C:\Users\Vu\Desktop\prQuanLyMonAn\prQuanLyMonAn\Backup\prQuanLyMonAn\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="prQuanLyMonAn" Source="prQuanLyMonAn\frm_LoaiMon.resx" Description="File successfully backed up as C:\Users\Vu\Desktop\prQuanLyMonAn\prQuanLyMonAn\Backup\prQuanLyMonAn\frm_LoaiMon.resx">
+</Event><Event ErrorLevel="0" Project="prQuanLyMonAn" Source="prQuanLyMonAn\Properties\Resources.resx" Description="File successfully backed up as C:\Users\Vu\Desktop\prQuanLyMonAn\prQuanLyMonAn\Backup\prQuanLyMonAn\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="prQuanLyMonAn" Source="prQuanLyMonAn\ThongTinMonAn.resx" Description="File successfully backed up as C:\Users\Vu\Desktop\prQuanLyMonAn\prQuanLyMonAn\Backup\prQuanLyMonAn\ThongTinMonAn.resx">
+</Event><Event ErrorLevel="0" Project="prQuanLyMonAn" Source="prQuanLyMonAn\prQuanLyMonAn.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="prQuanLyMonAn" Source="prQuanLyMonAn\prQuanLyMonAn.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Entities" Source="Entities\Entities.csproj" Description="Project file successfully backed up as C:\Users\Vu\Desktop\prQuanLyMonAn\prQuanLyMonAn\Backup\Entities\Entities.csproj">
+</Event><Event ErrorLevel="0" Project="Entities" Source="Entities\LoaiMon.cs" Description="File successfully backed up as C:\Users\Vu\Desktop\prQuanLyMonAn\prQuanLyMonAn\Backup\Entities\LoaiMon.cs">
+</Event><Event ErrorLevel="0" Project="Entities" Source="Entities\MonAn.cs" Description="File successfully backed up as C:\Users\Vu\Desktop\prQuanLyMonAn\prQuanLyMonAn\Backup\Entities\MonAn.cs">
+</Event><Event ErrorLevel="0" Project="Entities" Source="Entities\PHAN_MEM.cs" Description="File successfully backed up as C:\Users\Vu\Desktop\prQuanLyMonAn\prQuanLyMonAn\Backup\Entities\PHAN_MEM.cs">
+</Event><Event ErrorLevel="0" Project="Entities" Source="Entities\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\Vu\Desktop\prQuanLyMonAn\prQuanLyMonAn\Backup\Entities\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Entities" Source="Entities\App.config" Description="File successfully backed up as C:\Users\Vu\Desktop\prQuanLyMonAn\prQuanLyMonAn\Backup\Entities\App.config">
+</Event><Event ErrorLevel="0" Project="Entities" Source="Entities\Entities.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Entities" Source="Entities\Entities.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Data_tier" Source="Data_tier\Data_tier.csproj" Description="Project file successfully backed up as C:\Users\Vu\Desktop\prQuanLyMonAn\prQuanLyMonAn\Backup\Data_tier\Data_tier.csproj">
+</Event><Event ErrorLevel="0" Project="Data_tier" Source="Data_tier\D_LoaiMon.cs" Description="File successfully backed up as C:\Users\Vu\Desktop\prQuanLyMonAn\prQuanLyMonAn\Backup\Data_tier\D_LoaiMon.cs">
+</Event><Event ErrorLevel="0" Project="Data_tier" Source="Data_tier\D_MonAn.cs" Description="File successfully backed up as C:\Users\Vu\Desktop\prQuanLyMonAn\prQuanLyMonAn\Backup\Data_tier\D_MonAn.cs">
+</Event><Event ErrorLevel="0" Project="Data_tier" Source="Data_tier\General_data.cs" Description="File successfully backed up as C:\Users\Vu\Desktop\prQuanLyMonAn\prQuanLyMonAn\Backup\Data_tier\General_data.cs">
+</Event><Event ErrorLevel="0" Project="Data_tier" Source="Data_tier\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\Vu\Desktop\prQuanLyMonAn\prQuanLyMonAn\Backup\Data_tier\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Data_tier" Source="Data_tier\Data_tier.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Data_tier" Source="Data_tier\Data_tier.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="BUI_tier" Source="BUI_tier\BUI_tier.csproj" Description="Project file successfully backed up as C:\Users\Vu\Desktop\prQuanLyMonAn\prQuanLyMonAn\Backup\BUI_tier\BUI_tier.csproj">
+</Event><Event ErrorLevel="0" Project="BUI_tier" Source="BUI_tier\B_LoaiMon.cs" Description="File successfully backed up as C:\Users\Vu\Desktop\prQuanLyMonAn\prQuanLyMonAn\Backup\BUI_tier\B_LoaiMon.cs">
+</Event><Event ErrorLevel="0" Project="BUI_tier" Source="BUI_tier\B_MonAn.cs" Description="File successfully backed up as C:\Users\Vu\Desktop\prQuanLyMonAn\prQuanLyMonAn\Backup\BUI_tier\B_MonAn.cs">
+</Event><Event ErrorLevel="0" Project="BUI_tier" Source="BUI_tier\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\Vu\Desktop\prQuanLyMonAn\prQuanLyMonAn\Backup\BUI_tier\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="BUI_tier" Source="BUI_tier\BUI_tier.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="BUI_tier" Source="BUI_tier\BUI_tier.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="prQuanLyMonAn.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="prQuanLyMonAn.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="prQuanLyMonAn" Source="prQuanLyMonAn\prQuanLyMonAn.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="Entities" Source="Entities\Entities.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="Data_tier" Source="Data_tier\Data_tier.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="BUI_tier" Source="BUI_tier\BUI_tier.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

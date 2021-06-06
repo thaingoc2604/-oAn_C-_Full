@@ -1,0 +1,352 @@
+﻿<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ProjectType>Local</ProjectType>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{76155E96-E533-4E1B-8CCA-E4EAD6039347}</ProjectGuid>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ApplicationIcon>App.ico</ApplicationIcon>
+    <AssemblyKeyContainerName>
+    </AssemblyKeyContainerName>
+    <AssemblyName>Quan_Ly_Mua_Ban</AssemblyName>
+    <AssemblyOriginatorKeyFile>
+    </AssemblyOriginatorKeyFile>
+    <DefaultClientScript>JScript</DefaultClientScript>
+    <DefaultHTMLPageLayout>Grid</DefaultHTMLPageLayout>
+    <DefaultTargetSchema>IE50</DefaultTargetSchema>
+    <DelaySign>false</DelaySign>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Quan_Ly_Mua_Ban</RootNamespace>
+    <RunPostBuildEvent>OnBuildSuccess</RunPostBuildEvent>
+    <StartupObject>
+    </StartupObject>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <OutputPath>bin\Debug\</OutputPath>
+    <AllowUnsafeBlocks>false</AllowUnsafeBlocks>
+    <BaseAddress>285212672</BaseAddress>
+    <CheckForOverflowUnderflow>false</CheckForOverflowUnderflow>
+    <ConfigurationOverrideFile>
+    </ConfigurationOverrideFile>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DocumentationFile>
+    </DocumentationFile>
+    <DebugSymbols>true</DebugSymbols>
+    <FileAlignment>4096</FileAlignment>
+    <NoStdLib>false</NoStdLib>
+    <NoWarn>
+    </NoWarn>
+    <Optimize>false</Optimize>
+    <RegisterForComInterop>false</RegisterForComInterop>
+    <RemoveIntegerChecks>false</RemoveIntegerChecks>
+    <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
+    <WarningLevel>4</WarningLevel>
+    <DebugType>full</DebugType>
+    <ErrorReport>prompt</ErrorReport>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <OutputPath>bin\Release\</OutputPath>
+    <AllowUnsafeBlocks>false</AllowUnsafeBlocks>
+    <BaseAddress>285212672</BaseAddress>
+    <CheckForOverflowUnderflow>false</CheckForOverflowUnderflow>
+    <ConfigurationOverrideFile>
+    </ConfigurationOverrideFile>
+    <DefineConstants>TRACE</DefineConstants>
+    <DocumentationFile>
+    </DocumentationFile>
+    <DebugSymbols>false</DebugSymbols>
+    <FileAlignment>4096</FileAlignment>
+    <NoStdLib>false</NoStdLib>
+    <NoWarn>
+    </NoWarn>
+    <Optimize>true</Optimize>
+    <RegisterForComInterop>false</RegisterForComInterop>
+    <RemoveIntegerChecks>false</RemoveIntegerChecks>
+    <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
+    <WarningLevel>4</WarningLevel>
+    <DebugType>none</DebugType>
+    <ErrorReport>prompt</ErrorReport>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=10.2.3600.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Enterprise.Framework, Version=10.2.3600.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Enterprise.InfoStore, Version=10.2.3600.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=10.2.3600.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Shared, Version=10.2.3600.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=10.2.3600.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="System">
+      <Name>System</Name>
+    </Reference>
+    <Reference Include="System.Data">
+      <Name>System.Data</Name>
+    </Reference>
+    <Reference Include="System.Drawing">
+      <Name>System.Drawing</Name>
+    </Reference>
+    <Reference Include="System.Web.Services">
+      <Name>System.Web.Services</Name>
+    </Reference>
+    <Reference Include="System.Windows.Forms">
+      <Name>System.Windows.Forms</Name>
+    </Reference>
+    <Reference Include="System.Xml">
+      <Name>System.XML</Name>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Amin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AssemblyInfo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="BaoCaoChiTietHopDong.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BaoCaoChiTietHopDongMua.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BaoCaoHangHoa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BaoCaoPhieuChi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BaoCaoPhieuThu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CheckError.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Chi_Tiet_Don_Hang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Chi_Tiet_Hop_Dong_Cung_Ung.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ConnectSQL.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="connet.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="DisplayIcon.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="frmAbout.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Hang_Hoa_Loai.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Hang_Hoa_Thong_ke.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HinhAnh.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KhachOnly.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Khach_Hang_Nhom.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="K_Hang_Thong_ke.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Log_on.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Luu_Tru_Hop_Dong_Ban.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Luu_Tru_Hop_Dong_Mua.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Nha_Cung_Ung_Nhom.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Nha_Cung_Ung_Thong_ke.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Phieu_Chi_Hop_Dong_Mua.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Phieu_Thu_Hop_Dong_Ban.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReporChiTietHopDongMua.cs">
+      <DependentUpon>ReporChiTietHopDongMua.rpt</DependentUpon>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+    </Compile>
+    <Compile Include="ReportChiTietHopDong.cs">
+      <DependentUpon>ReportChiTietHopDong.rpt</DependentUpon>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+    </Compile>
+    <Compile Include="ReportHangHoa.cs">
+      <DependentUpon>ReportHangHoa.rpt</DependentUpon>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+    </Compile>
+    <Compile Include="ReportPhieuChi.cs">
+      <DependentUpon>ReportPhieuChi.rpt</DependentUpon>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+    </Compile>
+    <Compile Include="ReportPhieuThu.cs">
+      <DependentUpon>ReportPhieuThu.rpt</DependentUpon>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+    </Compile>
+    <Compile Include="Thong_Ke_Hop_Dong_Ban.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Thong_Ke_Hop_Dong_Mua.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Thong_ke_K_Hang_Only.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tim_Kiem_S1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <EmbeddedResource Include="Amin.resx">
+      <DependentUpon>Amin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BaoCaoChiTietHopDong.resx">
+      <DependentUpon>BaoCaoChiTietHopDong.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BaoCaoChiTietHopDongMua.resx">
+      <DependentUpon>BaoCaoChiTietHopDongMua.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BaoCaoHangHoa.resx">
+      <DependentUpon>BaoCaoHangHoa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BaoCaoPhieuChi.resx">
+      <DependentUpon>BaoCaoPhieuChi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BaoCaoPhieuThu.resx">
+      <DependentUpon>BaoCaoPhieuThu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Chi_Tiet_Don_Hang.resx">
+      <DependentUpon>Chi_Tiet_Don_Hang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Chi_Tiet_Hop_Dong_Cung_Ung.resx">
+      <DependentUpon>Chi_Tiet_Hop_Dong_Cung_Ung.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ConnectSQL.resx">
+      <DependentUpon>ConnectSQL.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAbout.resx">
+      <DependentUpon>frmAbout.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gia.resx">
+      <DependentUpon>Gia.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Hang_Hoa_Loai.resx">
+      <DependentUpon>Hang_Hoa_Loai.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Hang_Hoa_Thong_ke.resx">
+      <DependentUpon>Hang_Hoa_Thong_ke.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HinhAnh.resx">
+      <DependentUpon>HinhAnh.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KhachOnly.resx">
+      <DependentUpon>KhachOnly.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Khach_Hang_Nhom.resx">
+      <DependentUpon>Khach_Hang_Nhom.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="K_Hang_Thong_ke.resx">
+      <DependentUpon>K_Hang_Thong_ke.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Log_on.resx">
+      <DependentUpon>Log_on.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Luu_Tru_Hop_Dong_Ban.resx">
+      <DependentUpon>Luu_Tru_Hop_Dong_Ban.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Luu_Tru_Hop_Dong_Mua.resx">
+      <DependentUpon>Luu_Tru_Hop_Dong_Mua.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main.resx">
+      <DependentUpon>Main.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Nha_Cung_Ung_Nhom.resx">
+      <DependentUpon>Nha_Cung_Ung_Nhom.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Nha_Cung_Ung_Thong_ke.resx">
+      <DependentUpon>Nha_Cung_Ung_Thong_ke.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Phieu_Chi_Hop_Dong_Mua.resx">
+      <DependentUpon>Phieu_Chi_Hop_Dong_Mua.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Phieu_Thu_Hop_Dong_Ban.resx">
+      <DependentUpon>Phieu_Thu_Hop_Dong_Ban.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReporChiTietHopDongMua.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>ReporChiTietHopDongMua.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportChiTietHopDong.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>ReportChiTietHopDong.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportHangHoa.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>ReportHangHoa.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportPhieuChi.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>ReportPhieuChi.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportPhieuThu.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>ReportPhieuThu.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Thong_Ke_Hop_Dong_Ban.resx">
+      <DependentUpon>Thong_Ke_Hop_Dong_Ban.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Thong_Ke_Hop_Dong_Mua.resx">
+      <DependentUpon>Thong_Ke_Hop_Dong_Mua.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Thong_ke_K_Hang_Only.resx">
+      <DependentUpon>Thong_ke_K_Hang_Only.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tim_Kiem_S1.resx">
+      <DependentUpon>Tim_Kiem_S1.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="app.config" />
+    <Content Include="App.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{967B4E0D-AD0C-4609-AB67-0FA40C0206D8}" />
+    <Service Include="{CF845C55-C321-4742-B673-E6212D061ED9}" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <PropertyGroup>
+    <PreBuildEvent>
+    </PreBuildEvent>
+    <PostBuildEvent>
+    </PostBuildEvent>
+  </PropertyGroup>
+</Project>

@@ -1,0 +1,695 @@
+G:\Luu Bai Tap Tren Visual\ManagementSASI\ManagementSASI\bin\Debug\ManagementSASI.exe.config
+G:\Luu Bai Tap Tren Visual\ManagementSASI\ManagementSASI\bin\Debug\ManagementSASI.exe
+G:\Luu Bai Tap Tren Visual\ManagementSASI\ManagementSASI\bin\Debug\ManagementSASI.pdb
+G:\Luu Bai Tap Tren Visual\ManagementSASI\ManagementSASI\bin\Debug\Microsoft.Office.Interop.Excel.dll
+G:\Luu Bai Tap Tren Visual\ManagementSASI\ManagementSASI\bin\Debug\Microsoft.Vbe.Interop.dll
+G:\Luu Bai Tap Tren Visual\ManagementSASI\ManagementSASI\bin\Debug\office.dll
+G:\Luu Bai Tap Tren Visual\ManagementSASI\ManagementSASI\bin\Debug\office.xml
+G:\Luu Bai Tap Tren Visual\ManagementSASI\ManagementSASI\bin\Debug\Microsoft.Office.Interop.Excel.xml
+G:\Luu Bai Tap Tren Visual\ManagementSASI\ManagementSASI\obj\Debug\ResolveAssemblyReference.cache
+G:\Luu Bai Tap Tren Visual\ManagementSASI\ManagementSASI\obj\Debug\ManagementSASI.frmBackup.resources
+G:\Luu Bai Tap Tren Visual\ManagementSASI\ManagementSASI\obj\Debug\ManagementSASI.frmChangePassword.resources
+G:\Luu Bai Tap Tren Visual\ManagementSASI\ManagementSASI\obj\Debug\ManagementSASI.frmClass.resources
+G:\Luu Bai Tap Tren Visual\ManagementSASI\ManagementSASI\obj\Debug\ManagementSASI.frmConfig.resources
+G:\Luu Bai Tap Tren Visual\ManagementSASI\ManagementSASI\obj\Debug\ManagementSASI.frmConfiguration.resources
+G:\Luu Bai Tap Tren Visual\ManagementSASI\ManagementSASI\obj\Debug\ManagementSASI.frmDepartment.resources
+G:\Luu Bai Tap Tren Visual\ManagementSASI\ManagementSASI\obj\Debug\ManagementSASI.frmListGeneraMoneySASIClass.resources
+G:\Luu Bai Tap Tren Visual\ManagementSASI\ManagementSASI\obj\Debug\ManagementSASI.frmListGeneraMoneySASITeacher.resources
+G:\Luu Bai Tap Tren Visual\ManagementSASI\ManagementSASI\obj\Debug\ManagementSASI.frmListMoneySASI.resources
+G:\Luu Bai Tap Tren Visual\ManagementSASI\ManagementSASI\obj\Debug\ManagementSASI.frmListStudentMoneySI.resources
+G:\Luu Bai Tap Tren Visual\ManagementSASI\ManagementSASI\obj\Debug\ManagementSASI.frmListStudentToClass.resources
+G:\Luu Bai Tap Tren Visual\ManagementSASI\ManagementSASI\obj\Debug\ManagementSASI.frmLogin.resources
+G:\Luu Bai Tap Tren Visual\ManagementSASI\ManagementSASI\obj\Debug\ManagementSASI.frmMain.resources
+G:\Luu Bai Tap Tren Visual\ManagementSASI\ManagementSASI\obj\Debug\ManagementSASI.frmRestore.resources
+G:\Luu Bai Tap Tren Visual\ManagementSASI\ManagementSASI\obj\Debug\ManagementSASI.frmRetestList.resources
+G:\Luu Bai Tap Tren Visual\ManagementSASI\ManagementSASI\obj\Debug\ManagementSASI.frmSASIClass.resources
+G:\Luu Bai Tap Tren Visual\ManagementSASI\ManagementSASI\obj\Debug\ManagementSASI.frmSASIClassEnd.resources
+G:\Luu Bai Tap Tren Visual\ManagementSASI\ManagementSASI\obj\Debug\ManagementSASI.frmSettingMoney.resources
+G:\Luu Bai Tap Tren Visual\ManagementSASI\ManagementSASI\obj\Debug\ManagementSASI.frmSettingSubjectSplit.resources
+G:\Luu Bai Tap Tren Visual\ManagementSASI\ManagementSASI\obj\Debug\ManagementSASI.frmSplash.resources
+G:\Luu Bai Tap Tren Visual\ManagementSASI\ManagementSASI\obj\Debug\ManagementSASI.frmSelectTableExcel.resources
+G:\Luu Bai Tap Tren Visual\ManagementSASI\ManagementSASI\obj\Debug\ManagementSASI.frmStatisticsStudents.resources
+G:\Luu Bai Tap Tren Visual\ManagementSASI\ManagementSASI\obj\Debug\ManagementSASI.frmStudentToRegisters.resources
+G:\Luu Bai Tap Tren Visual\ManagementSASI\ManagementSASI\obj\Debug\ManagementSASI.frmSubject.resources
+G:\Luu Bai Tap Tren Visual\ManagementSASI\ManagementSASI\obj\Debug\ManagementSASI.frmListTakeATestSASI.resources
+G:\Luu Bai Tap Tren Visual\ManagementSASI\ManagementSASI\obj\Debug\ManagementSASI.frmTeacher.resources
+G:\Luu Bai Tap Tren Visual\ManagementSASI\ManagementSASI\obj\Debug\ManagementSASI.frmTrain.resources
+G:\Luu Bai Tap Tren Visual\ManagementSASI\ManagementSASI\obj\Debug\ManagementSASI.frmTrainingInformation.resources
+G:\Luu Bai Tap Tren Visual\ManagementSASI\ManagementSASI\obj\Debug\ManagementSASI.frmTrain_Subject.resources
+G:\Luu Bai Tap Tren Visual\ManagementSASI\ManagementSASI\obj\Debug\ManagementSASI.frmWating.resources
+G:\Luu Bai Tap Tren Visual\ManagementSASI\ManagementSASI\obj\Debug\ManagementSASI.frmWatingServer.resources
+G:\Luu Bai Tap Tren Visual\ManagementSASI\ManagementSASI\obj\Debug\ManagementSASI.Properties.Resources.resources
+G:\Luu Bai Tap Tren Visual\ManagementSASI\ManagementSASI\obj\Debug\ManagementSASI.frmTestClassSASINotYet.resources
+G:\Luu Bai Tap Tren Visual\ManagementSASI\ManagementSASI\obj\Debug\ManagementSASI.csproj.GenerateResource.Cache
+G:\Luu Bai Tap Tren Visual\ManagementSASI\ManagementSASI\obj\Debug\ManagementSASI.exe.licenses
+G:\Luu Bai Tap Tren Visual\ManagementSASI\ManagementSASI\obj\Debug\ManagementSASI.exe
+G:\Luu Bai Tap Tren Visual\ManagementSASI\ManagementSASI\obj\Debug\ManagementSASI.pdb
+E:\TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\7.4.2011\ManagementSASI\ManagementSASI\bin\Debug\ManagementSASI.exe.config
+E:\TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\7.4.2011\ManagementSASI\ManagementSASI\obj\Debug\ManagementSASI.exe
+E:\TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\7.4.2011\ManagementSASI\ManagementSASI\obj\Debug\ManagementSASI.pdb
+E:\TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\7.4.2011\ManagementSASI\ManagementSASI\bin\Debug\ManagementSASI.exe
+E:\TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\7.4.2011\ManagementSASI\ManagementSASI\bin\Debug\ManagementSASI.pdb
+E:\TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\7.4.2011\ManagementSASI\ManagementSASI\bin\Debug\Microsoft.Office.Interop.Excel.dll
+E:\TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\7.4.2011\ManagementSASI\ManagementSASI\bin\Debug\Microsoft.Vbe.Interop.dll
+E:\TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\7.4.2011\ManagementSASI\ManagementSASI\bin\Debug\office.dll
+E:\TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\7.4.2011\ManagementSASI\ManagementSASI\bin\Debug\office.xml
+E:\TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\7.4.2011\ManagementSASI\ManagementSASI\bin\Debug\Microsoft.Office.Interop.Excel.xml
+E:\TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\7.4.2011\ManagementSASI\ManagementSASI\obj\Debug\ResolveAssemblyReference.cache
+E:\TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\7.4.2011\ManagementSASI\ManagementSASI\obj\Debug\ManagementSASI.frmBackup.resources
+E:\TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\7.4.2011\ManagementSASI\ManagementSASI\obj\Debug\ManagementSASI.frmChangePassword.resources
+E:\TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\7.4.2011\ManagementSASI\ManagementSASI\obj\Debug\ManagementSASI.frmClass.resources
+E:\TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\7.4.2011\ManagementSASI\ManagementSASI\obj\Debug\ManagementSASI.frmConfig.resources
+E:\TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\7.4.2011\ManagementSASI\ManagementSASI\obj\Debug\ManagementSASI.frmConfiguration.resources
+E:\TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\7.4.2011\ManagementSASI\ManagementSASI\obj\Debug\ManagementSASI.frmDepartment.resources
+E:\TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\7.4.2011\ManagementSASI\ManagementSASI\obj\Debug\ManagementSASI.frmListGeneraMoneySASIClass.resources
+E:\TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\7.4.2011\ManagementSASI\ManagementSASI\obj\Debug\ManagementSASI.frmListGeneraMoneySASITeacher.resources
+E:\TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\7.4.2011\ManagementSASI\ManagementSASI\obj\Debug\ManagementSASI.frmListMoneySASI.resources
+E:\TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\7.4.2011\ManagementSASI\ManagementSASI\obj\Debug\ManagementSASI.frmListStudentMoneySI.resources
+E:\TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\7.4.2011\ManagementSASI\ManagementSASI\obj\Debug\ManagementSASI.frmListStudentToClass.resources
+E:\TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\7.4.2011\ManagementSASI\ManagementSASI\obj\Debug\ManagementSASI.frmLogin.resources
+E:\TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\7.4.2011\ManagementSASI\ManagementSASI\obj\Debug\ManagementSASI.frmMain.resources
+E:\TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\7.4.2011\ManagementSASI\ManagementSASI\obj\Debug\ManagementSASI.frmMoneyRatesByClassSASI.resources
+E:\TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\7.4.2011\ManagementSASI\ManagementSASI\obj\Debug\ManagementSASI.frmRestore.resources
+E:\TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\7.4.2011\ManagementSASI\ManagementSASI\obj\Debug\ManagementSASI.frmRetestList.resources
+E:\TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\7.4.2011\ManagementSASI\ManagementSASI\obj\Debug\ManagementSASI.frmSASIClass.resources
+E:\TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\7.4.2011\ManagementSASI\ManagementSASI\obj\Debug\ManagementSASI.frmSASIClassEnd.resources
+E:\TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\7.4.2011\ManagementSASI\ManagementSASI\obj\Debug\ManagementSASI.frmSettingMoney.resources
+E:\TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\7.4.2011\ManagementSASI\ManagementSASI\obj\Debug\ManagementSASI.frmSettingSubjectSplit.resources
+E:\TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\7.4.2011\ManagementSASI\ManagementSASI\obj\Debug\ManagementSASI.frmSplash.resources
+E:\TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\7.4.2011\ManagementSASI\ManagementSASI\obj\Debug\ManagementSASI.frmSelectTableExcel.resources
+E:\TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\7.4.2011\ManagementSASI\ManagementSASI\obj\Debug\ManagementSASI.frmStatisticsStudents.resources
+E:\TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\7.4.2011\ManagementSASI\ManagementSASI\obj\Debug\ManagementSASI.frmStudentToRegisters.resources
+E:\TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\7.4.2011\ManagementSASI\ManagementSASI\obj\Debug\ManagementSASI.frmSubject.resources
+E:\TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\7.4.2011\ManagementSASI\ManagementSASI\obj\Debug\ManagementSASI.frmListTakeATestSASI.resources
+E:\TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\7.4.2011\ManagementSASI\ManagementSASI\obj\Debug\ManagementSASI.frmTeacher.resources
+E:\TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\7.4.2011\ManagementSASI\ManagementSASI\obj\Debug\ManagementSASI.frmTrain.resources
+E:\TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\7.4.2011\ManagementSASI\ManagementSASI\obj\Debug\ManagementSASI.frmTrainingInformation.resources
+E:\TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\7.4.2011\ManagementSASI\ManagementSASI\obj\Debug\ManagementSASI.frmTrain_Subject.resources
+E:\TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\7.4.2011\ManagementSASI\ManagementSASI\obj\Debug\ManagementSASI.frmWating.resources
+E:\TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\7.4.2011\ManagementSASI\ManagementSASI\obj\Debug\ManagementSASI.frmWatingServer.resources
+E:\TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\7.4.2011\ManagementSASI\ManagementSASI\obj\Debug\ManagementSASI.GeneralReceiptMoney.resources
+E:\TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\7.4.2011\ManagementSASI\ManagementSASI\obj\Debug\ManagementSASI.Properties.Resources.resources
+E:\TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\7.4.2011\ManagementSASI\ManagementSASI\obj\Debug\ManagementSASI.frmTestClassSASINotYet.resources
+E:\TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\7.4.2011\ManagementSASI\ManagementSASI\obj\Debug\ManagementSASI.csproj.GenerateResource.Cache
+E:\TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\7.4.2011\ManagementSASI\ManagementSASI\obj\Debug\ManagementSASI.exe.licenses
+G:\Luu Bai Tap Tren Visual\ManagementSASI\ManagementSASI\obj\Debug\ManagementSASI.frmListGeneralReceiptMoney.resources
+C:\Users\HoangYenKuTe\Desktop\5.5.2011\ManagementSASI\bin\Debug\ManagementSASI.exe.config
+C:\Users\HoangYenKuTe\Desktop\5.5.2011\ManagementSASI\bin\Debug\ManagementSASI.exe
+C:\Users\HoangYenKuTe\Desktop\5.5.2011\ManagementSASI\bin\Debug\ManagementSASI.pdb
+C:\Users\HoangYenKuTe\Desktop\5.5.2011\ManagementSASI\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\HoangYenKuTe\Desktop\5.5.2011\ManagementSASI\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\HoangYenKuTe\Desktop\5.5.2011\ManagementSASI\bin\Debug\office.dll
+C:\Users\HoangYenKuTe\Desktop\5.5.2011\ManagementSASI\bin\Debug\office.xml
+C:\Users\HoangYenKuTe\Desktop\5.5.2011\ManagementSASI\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\HoangYenKuTe\Desktop\5.5.2011\ManagementSASI\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\HoangYenKuTe\Desktop\5.5.2011\ManagementSASI\obj\Debug\ManagementSASI.frmBackup.resources
+C:\Users\HoangYenKuTe\Desktop\5.5.2011\ManagementSASI\obj\Debug\ManagementSASI.frmChangePassword.resources
+C:\Users\HoangYenKuTe\Desktop\5.5.2011\ManagementSASI\obj\Debug\ManagementSASI.frmClass.resources
+C:\Users\HoangYenKuTe\Desktop\5.5.2011\ManagementSASI\obj\Debug\ManagementSASI.frmConfig.resources
+C:\Users\HoangYenKuTe\Desktop\5.5.2011\ManagementSASI\obj\Debug\ManagementSASI.frmConfiguration.resources
+C:\Users\HoangYenKuTe\Desktop\5.5.2011\ManagementSASI\obj\Debug\ManagementSASI.frmDepartment.resources
+C:\Users\HoangYenKuTe\Desktop\5.5.2011\ManagementSASI\obj\Debug\ManagementSASI.frmListGeneraMoneySASIClass.resources
+C:\Users\HoangYenKuTe\Desktop\5.5.2011\ManagementSASI\obj\Debug\ManagementSASI.frmListGeneraMoneySASITeacher.resources
+C:\Users\HoangYenKuTe\Desktop\5.5.2011\ManagementSASI\obj\Debug\ManagementSASI.frmListMoneySASI.resources
+C:\Users\HoangYenKuTe\Desktop\5.5.2011\ManagementSASI\obj\Debug\ManagementSASI.frmListStudentMoneySI.resources
+C:\Users\HoangYenKuTe\Desktop\5.5.2011\ManagementSASI\obj\Debug\ManagementSASI.frmListStudentToClass.resources
+C:\Users\HoangYenKuTe\Desktop\5.5.2011\ManagementSASI\obj\Debug\ManagementSASI.frmLogin.resources
+C:\Users\HoangYenKuTe\Desktop\5.5.2011\ManagementSASI\obj\Debug\ManagementSASI.frmMain.resources
+C:\Users\HoangYenKuTe\Desktop\5.5.2011\ManagementSASI\obj\Debug\ManagementSASI.frmRestore.resources
+C:\Users\HoangYenKuTe\Desktop\5.5.2011\ManagementSASI\obj\Debug\ManagementSASI.frmRetestList.resources
+C:\Users\HoangYenKuTe\Desktop\5.5.2011\ManagementSASI\obj\Debug\ManagementSASI.frmSASIClass.resources
+C:\Users\HoangYenKuTe\Desktop\5.5.2011\ManagementSASI\obj\Debug\ManagementSASI.frmSASIClassEnd.resources
+C:\Users\HoangYenKuTe\Desktop\5.5.2011\ManagementSASI\obj\Debug\ManagementSASI.frmSettingSubjectSplit.resources
+C:\Users\HoangYenKuTe\Desktop\5.5.2011\ManagementSASI\obj\Debug\ManagementSASI.frmSplash.resources
+C:\Users\HoangYenKuTe\Desktop\5.5.2011\ManagementSASI\obj\Debug\ManagementSASI.frmSelectTableExcel.resources
+C:\Users\HoangYenKuTe\Desktop\5.5.2011\ManagementSASI\obj\Debug\ManagementSASI.frmStatisticsStudents.resources
+C:\Users\HoangYenKuTe\Desktop\5.5.2011\ManagementSASI\obj\Debug\ManagementSASI.frmStudentToRegisters.resources
+C:\Users\HoangYenKuTe\Desktop\5.5.2011\ManagementSASI\obj\Debug\ManagementSASI.frmSubject.resources
+C:\Users\HoangYenKuTe\Desktop\5.5.2011\ManagementSASI\obj\Debug\ManagementSASI.frmListTakeATestSASI.resources
+C:\Users\HoangYenKuTe\Desktop\5.5.2011\ManagementSASI\obj\Debug\ManagementSASI.frmTeacher.resources
+C:\Users\HoangYenKuTe\Desktop\5.5.2011\ManagementSASI\obj\Debug\ManagementSASI.frmTrain.resources
+C:\Users\HoangYenKuTe\Desktop\5.5.2011\ManagementSASI\obj\Debug\ManagementSASI.frmTrainingInformation.resources
+C:\Users\HoangYenKuTe\Desktop\5.5.2011\ManagementSASI\obj\Debug\ManagementSASI.frmTrain_Subject.resources
+C:\Users\HoangYenKuTe\Desktop\5.5.2011\ManagementSASI\obj\Debug\ManagementSASI.frmWating.resources
+C:\Users\HoangYenKuTe\Desktop\5.5.2011\ManagementSASI\obj\Debug\ManagementSASI.frmWatingServer.resources
+C:\Users\HoangYenKuTe\Desktop\5.5.2011\ManagementSASI\obj\Debug\ManagementSASI.frmListGeneralReceiptMoney.resources
+C:\Users\HoangYenKuTe\Desktop\5.5.2011\ManagementSASI\obj\Debug\ManagementSASI.Properties.Resources.resources
+C:\Users\HoangYenKuTe\Desktop\5.5.2011\ManagementSASI\obj\Debug\ManagementSASI.frmTestClassSASINotYet.resources
+C:\Users\HoangYenKuTe\Desktop\5.5.2011\ManagementSASI\obj\Debug\ManagementSASI.csproj.GenerateResource.Cache
+C:\Users\HoangYenKuTe\Desktop\5.5.2011\ManagementSASI\obj\Debug\ManagementSASI.exe.licenses
+C:\Users\HoangYenKuTe\Desktop\5.5.2011\ManagementSASI\obj\Debug\ManagementSASI.exe
+C:\Users\HoangYenKuTe\Desktop\5.5.2011\ManagementSASI\obj\Debug\ManagementSASI.pdb
+C:\Users\BuiQuy\Desktop\5.5.2011\ManagementSASI\bin\Debug\ManagementSASI.exe.config
+C:\Users\BuiQuy\Desktop\5.5.2011\ManagementSASI\obj\Debug\ManagementSASI.exe
+C:\Users\BuiQuy\Desktop\5.5.2011\ManagementSASI\obj\Debug\ManagementSASI.pdb
+C:\Users\BuiQuy\Desktop\5.5.2011\ManagementSASI\bin\Debug\ManagementSASI.exe
+C:\Users\BuiQuy\Desktop\5.5.2011\ManagementSASI\bin\Debug\ManagementSASI.pdb
+C:\Users\BuiQuy\Desktop\5.5.2011\ManagementSASI\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\BuiQuy\Desktop\5.5.2011\ManagementSASI\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\BuiQuy\Desktop\5.5.2011\ManagementSASI\bin\Debug\office.dll
+C:\Users\BuiQuy\Desktop\5.5.2011\ManagementSASI\bin\Debug\office.xml
+C:\Users\BuiQuy\Desktop\5.5.2011\ManagementSASI\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\BuiQuy\Desktop\5.5.2011\ManagementSASI\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\BuiQuy\Desktop\5.5.2011\ManagementSASI\obj\Debug\ManagementSASI.frmBackup.resources
+C:\Users\BuiQuy\Desktop\5.5.2011\ManagementSASI\obj\Debug\ManagementSASI.frmChangePassword.resources
+C:\Users\BuiQuy\Desktop\5.5.2011\ManagementSASI\obj\Debug\ManagementSASI.frmClass.resources
+C:\Users\BuiQuy\Desktop\5.5.2011\ManagementSASI\obj\Debug\ManagementSASI.frmConfig.resources
+C:\Users\BuiQuy\Desktop\5.5.2011\ManagementSASI\obj\Debug\ManagementSASI.frmConfiguration.resources
+C:\Users\BuiQuy\Desktop\5.5.2011\ManagementSASI\obj\Debug\ManagementSASI.frmDepartment.resources
+C:\Users\BuiQuy\Desktop\5.5.2011\ManagementSASI\obj\Debug\ManagementSASI.frmListGeneraMoneySASIClass.resources
+C:\Users\BuiQuy\Desktop\5.5.2011\ManagementSASI\obj\Debug\ManagementSASI.frmListGeneraMoneySASITeacher.resources
+C:\Users\BuiQuy\Desktop\5.5.2011\ManagementSASI\obj\Debug\ManagementSASI.frmListMoneySASI.resources
+C:\Users\BuiQuy\Desktop\5.5.2011\ManagementSASI\obj\Debug\ManagementSASI.frmListStudentMoneySI.resources
+C:\Users\BuiQuy\Desktop\5.5.2011\ManagementSASI\obj\Debug\ManagementSASI.frmListStudentToClass.resources
+C:\Users\BuiQuy\Desktop\5.5.2011\ManagementSASI\obj\Debug\ManagementSASI.frmLogin.resources
+C:\Users\BuiQuy\Desktop\5.5.2011\ManagementSASI\obj\Debug\ManagementSASI.frmMain.resources
+C:\Users\BuiQuy\Desktop\5.5.2011\ManagementSASI\obj\Debug\ManagementSASI.frmRestore.resources
+C:\Users\BuiQuy\Desktop\5.5.2011\ManagementSASI\obj\Debug\ManagementSASI.frmRetestList.resources
+C:\Users\BuiQuy\Desktop\5.5.2011\ManagementSASI\obj\Debug\ManagementSASI.frmSASIClass.resources
+C:\Users\BuiQuy\Desktop\5.5.2011\ManagementSASI\obj\Debug\ManagementSASI.frmSASIClassEnd.resources
+C:\Users\BuiQuy\Desktop\5.5.2011\ManagementSASI\obj\Debug\ManagementSASI.frmSettingSubjectSplit.resources
+C:\Users\BuiQuy\Desktop\5.5.2011\ManagementSASI\obj\Debug\ManagementSASI.frmSplash.resources
+C:\Users\BuiQuy\Desktop\5.5.2011\ManagementSASI\obj\Debug\ManagementSASI.frmSelectTableExcel.resources
+C:\Users\BuiQuy\Desktop\5.5.2011\ManagementSASI\obj\Debug\ManagementSASI.frmStatisticsStudents.resources
+C:\Users\BuiQuy\Desktop\5.5.2011\ManagementSASI\obj\Debug\ManagementSASI.frmStudentToRegisters.resources
+C:\Users\BuiQuy\Desktop\5.5.2011\ManagementSASI\obj\Debug\ManagementSASI.frmSubject.resources
+C:\Users\BuiQuy\Desktop\5.5.2011\ManagementSASI\obj\Debug\ManagementSASI.frmListTakeATestSASI.resources
+C:\Users\BuiQuy\Desktop\5.5.2011\ManagementSASI\obj\Debug\ManagementSASI.frmTeacher.resources
+C:\Users\BuiQuy\Desktop\5.5.2011\ManagementSASI\obj\Debug\ManagementSASI.frmTrain.resources
+C:\Users\BuiQuy\Desktop\5.5.2011\ManagementSASI\obj\Debug\ManagementSASI.frmTrainingInformation.resources
+C:\Users\BuiQuy\Desktop\5.5.2011\ManagementSASI\obj\Debug\ManagementSASI.frmTrain_Subject.resources
+C:\Users\BuiQuy\Desktop\5.5.2011\ManagementSASI\obj\Debug\ManagementSASI.frmWating.resources
+C:\Users\BuiQuy\Desktop\5.5.2011\ManagementSASI\obj\Debug\ManagementSASI.frmWatingServer.resources
+C:\Users\BuiQuy\Desktop\5.5.2011\ManagementSASI\obj\Debug\ManagementSASI.frmListGeneralReceiptMoney.resources
+C:\Users\BuiQuy\Desktop\5.5.2011\ManagementSASI\obj\Debug\ManagementSASI.Properties.Resources.resources
+C:\Users\BuiQuy\Desktop\5.5.2011\ManagementSASI\obj\Debug\ManagementSASI.frmTestClassSASINotYet.resources
+C:\Users\BuiQuy\Desktop\5.5.2011\ManagementSASI\obj\Debug\ManagementSASI.csproj.GenerateResource.Cache
+C:\Users\BuiQuy\Desktop\5.5.2011\ManagementSASI\obj\Debug\ManagementSASI.exe.licenses
+G:\Luu Bai Tap Tren Visual\5.5.2011\ManagementSASI\bin\Debug\ManagementSASI.exe.config
+G:\Luu Bai Tap Tren Visual\5.5.2011\ManagementSASI\obj\Debug\ManagementSASI.exe
+G:\Luu Bai Tap Tren Visual\5.5.2011\ManagementSASI\obj\Debug\ManagementSASI.pdb
+G:\Luu Bai Tap Tren Visual\5.5.2011\ManagementSASI\bin\Debug\ManagementSASI.exe
+G:\Luu Bai Tap Tren Visual\5.5.2011\ManagementSASI\bin\Debug\ManagementSASI.pdb
+G:\Luu Bai Tap Tren Visual\5.5.2011\ManagementSASI\bin\Debug\Microsoft.Office.Interop.Excel.dll
+G:\Luu Bai Tap Tren Visual\5.5.2011\ManagementSASI\bin\Debug\Microsoft.Vbe.Interop.dll
+G:\Luu Bai Tap Tren Visual\5.5.2011\ManagementSASI\bin\Debug\office.dll
+G:\Luu Bai Tap Tren Visual\5.5.2011\ManagementSASI\bin\Debug\office.xml
+G:\Luu Bai Tap Tren Visual\5.5.2011\ManagementSASI\bin\Debug\Microsoft.Office.Interop.Excel.xml
+G:\Luu Bai Tap Tren Visual\5.5.2011\ManagementSASI\obj\Debug\ResolveAssemblyReference.cache
+G:\Luu Bai Tap Tren Visual\5.5.2011\ManagementSASI\obj\Debug\ManagementSASI.frmBackup.resources
+G:\Luu Bai Tap Tren Visual\5.5.2011\ManagementSASI\obj\Debug\ManagementSASI.frmChangePassword.resources
+G:\Luu Bai Tap Tren Visual\5.5.2011\ManagementSASI\obj\Debug\ManagementSASI.frmClass.resources
+G:\Luu Bai Tap Tren Visual\5.5.2011\ManagementSASI\obj\Debug\ManagementSASI.frmConfig.resources
+G:\Luu Bai Tap Tren Visual\5.5.2011\ManagementSASI\obj\Debug\ManagementSASI.frmConfiguration.resources
+G:\Luu Bai Tap Tren Visual\5.5.2011\ManagementSASI\obj\Debug\ManagementSASI.frmDepartment.resources
+G:\Luu Bai Tap Tren Visual\5.5.2011\ManagementSASI\obj\Debug\ManagementSASI.frmListGeneraMoneySASIClass.resources
+G:\Luu Bai Tap Tren Visual\5.5.2011\ManagementSASI\obj\Debug\ManagementSASI.frmListGeneraMoneySASITeacher.resources
+G:\Luu Bai Tap Tren Visual\5.5.2011\ManagementSASI\obj\Debug\ManagementSASI.frmListMoneySASI.resources
+G:\Luu Bai Tap Tren Visual\5.5.2011\ManagementSASI\obj\Debug\ManagementSASI.frmListStudentMoneySI.resources
+G:\Luu Bai Tap Tren Visual\5.5.2011\ManagementSASI\obj\Debug\ManagementSASI.frmListStudentToClass.resources
+G:\Luu Bai Tap Tren Visual\5.5.2011\ManagementSASI\obj\Debug\ManagementSASI.frmLogin.resources
+G:\Luu Bai Tap Tren Visual\5.5.2011\ManagementSASI\obj\Debug\ManagementSASI.frmMain.resources
+G:\Luu Bai Tap Tren Visual\5.5.2011\ManagementSASI\obj\Debug\ManagementSASI.frmRestore.resources
+G:\Luu Bai Tap Tren Visual\5.5.2011\ManagementSASI\obj\Debug\ManagementSASI.frmRetestList.resources
+G:\Luu Bai Tap Tren Visual\5.5.2011\ManagementSASI\obj\Debug\ManagementSASI.frmSASIClass.resources
+G:\Luu Bai Tap Tren Visual\5.5.2011\ManagementSASI\obj\Debug\ManagementSASI.frmSASIClassEnd.resources
+G:\Luu Bai Tap Tren Visual\5.5.2011\ManagementSASI\obj\Debug\ManagementSASI.frmSettingSubjectSplit.resources
+G:\Luu Bai Tap Tren Visual\5.5.2011\ManagementSASI\obj\Debug\ManagementSASI.frmSplash.resources
+G:\Luu Bai Tap Tren Visual\5.5.2011\ManagementSASI\obj\Debug\ManagementSASI.frmSelectTableExcel.resources
+G:\Luu Bai Tap Tren Visual\5.5.2011\ManagementSASI\obj\Debug\ManagementSASI.frmStatisticsStudents.resources
+G:\Luu Bai Tap Tren Visual\5.5.2011\ManagementSASI\obj\Debug\ManagementSASI.frmStudentToRegisters.resources
+G:\Luu Bai Tap Tren Visual\5.5.2011\ManagementSASI\obj\Debug\ManagementSASI.frmSubject.resources
+G:\Luu Bai Tap Tren Visual\5.5.2011\ManagementSASI\obj\Debug\ManagementSASI.frmListTakeATestSASI.resources
+G:\Luu Bai Tap Tren Visual\5.5.2011\ManagementSASI\obj\Debug\ManagementSASI.frmTeacher.resources
+G:\Luu Bai Tap Tren Visual\5.5.2011\ManagementSASI\obj\Debug\ManagementSASI.frmTrain.resources
+G:\Luu Bai Tap Tren Visual\5.5.2011\ManagementSASI\obj\Debug\ManagementSASI.frmTrainingInformation.resources
+G:\Luu Bai Tap Tren Visual\5.5.2011\ManagementSASI\obj\Debug\ManagementSASI.frmTrain_Subject.resources
+G:\Luu Bai Tap Tren Visual\5.5.2011\ManagementSASI\obj\Debug\ManagementSASI.frmWating.resources
+G:\Luu Bai Tap Tren Visual\5.5.2011\ManagementSASI\obj\Debug\ManagementSASI.frmWatingServer.resources
+G:\Luu Bai Tap Tren Visual\5.5.2011\ManagementSASI\obj\Debug\ManagementSASI.frmListGeneralReceiptMoney.resources
+G:\Luu Bai Tap Tren Visual\5.5.2011\ManagementSASI\obj\Debug\ManagementSASI.Properties.Resources.resources
+G:\Luu Bai Tap Tren Visual\5.5.2011\ManagementSASI\obj\Debug\ManagementSASI.frmTestClassSASINotYet.resources
+G:\Luu Bai Tap Tren Visual\5.5.2011\ManagementSASI\obj\Debug\ManagementSASI.csproj.GenerateResource.Cache
+G:\Luu Bai Tap Tren Visual\5.5.2011\ManagementSASI\obj\Debug\ManagementSASI.exe.licenses
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\23.05.2011(2)\ManagementSASI\bin\Debug\ManagementSASI.exe.config
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\23.05.2011(2)\ManagementSASI\obj\Debug\ManagementSASI.exe
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\23.05.2011(2)\ManagementSASI\obj\Debug\ManagementSASI.pdb
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\23.05.2011(2)\ManagementSASI\bin\Debug\ManagementSASI.exe
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\23.05.2011(2)\ManagementSASI\bin\Debug\ManagementSASI.pdb
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\23.05.2011(2)\ManagementSASI\bin\Debug\Microsoft.Office.Interop.Excel.dll
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\23.05.2011(2)\ManagementSASI\bin\Debug\Microsoft.Vbe.Interop.dll
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\23.05.2011(2)\ManagementSASI\bin\Debug\office.dll
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\23.05.2011(2)\ManagementSASI\bin\Debug\office.xml
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\23.05.2011(2)\ManagementSASI\bin\Debug\Microsoft.Office.Interop.Excel.xml
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\23.05.2011(2)\ManagementSASI\obj\Debug\ResolveAssemblyReference.cache
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\23.05.2011(2)\ManagementSASI\obj\Debug\ManagementSASI.frmBackup.resources
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\23.05.2011(2)\ManagementSASI\obj\Debug\ManagementSASI.frmChangePassword.resources
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\23.05.2011(2)\ManagementSASI\obj\Debug\ManagementSASI.frmClass.resources
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\23.05.2011(2)\ManagementSASI\obj\Debug\ManagementSASI.frmConfig.resources
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\23.05.2011(2)\ManagementSASI\obj\Debug\ManagementSASI.frmConfiguration.resources
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\23.05.2011(2)\ManagementSASI\obj\Debug\ManagementSASI.frmDepartment.resources
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\23.05.2011(2)\ManagementSASI\obj\Debug\ManagementSASI.frmListGeneraMoneySASIClass.resources
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\23.05.2011(2)\ManagementSASI\obj\Debug\ManagementSASI.frmListGeneraMoneySASITeacher.resources
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\23.05.2011(2)\ManagementSASI\obj\Debug\ManagementSASI.frmListMoneySASI.resources
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\23.05.2011(2)\ManagementSASI\obj\Debug\ManagementSASI.frmListStudentMoneySI.resources
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\23.05.2011(2)\ManagementSASI\obj\Debug\ManagementSASI.frmListStudentToClass.resources
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\23.05.2011(2)\ManagementSASI\obj\Debug\ManagementSASI.frmLogin.resources
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\23.05.2011(2)\ManagementSASI\obj\Debug\ManagementSASI.frmMain.resources
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\23.05.2011(2)\ManagementSASI\obj\Debug\ManagementSASI.frmRestore.resources
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\23.05.2011(2)\ManagementSASI\obj\Debug\ManagementSASI.frmRetestList.resources
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\23.05.2011(2)\ManagementSASI\obj\Debug\ManagementSASI.frmSASIClass.resources
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\23.05.2011(2)\ManagementSASI\obj\Debug\ManagementSASI.frmSASIClassEnd.resources
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\23.05.2011(2)\ManagementSASI\obj\Debug\ManagementSASI.frmSettingSubjectSplit.resources
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\23.05.2011(2)\ManagementSASI\obj\Debug\ManagementSASI.frmSplash.resources
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\23.05.2011(2)\ManagementSASI\obj\Debug\ManagementSASI.frmSelectTableExcel.resources
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\23.05.2011(2)\ManagementSASI\obj\Debug\ManagementSASI.frmStatisticsStudents.resources
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\23.05.2011(2)\ManagementSASI\obj\Debug\ManagementSASI.frmStudentToRegisters.resources
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\23.05.2011(2)\ManagementSASI\obj\Debug\ManagementSASI.frmSubject.resources
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\23.05.2011(2)\ManagementSASI\obj\Debug\ManagementSASI.frmListTakeATestSASI.resources
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\23.05.2011(2)\ManagementSASI\obj\Debug\ManagementSASI.frmTeacher.resources
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\23.05.2011(2)\ManagementSASI\obj\Debug\ManagementSASI.frmTrain.resources
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\23.05.2011(2)\ManagementSASI\obj\Debug\ManagementSASI.frmTrainingInformation.resources
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\23.05.2011(2)\ManagementSASI\obj\Debug\ManagementSASI.frmTrain_Subject.resources
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\23.05.2011(2)\ManagementSASI\obj\Debug\ManagementSASI.frmWating.resources
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\23.05.2011(2)\ManagementSASI\obj\Debug\ManagementSASI.frmWatingServer.resources
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\23.05.2011(2)\ManagementSASI\obj\Debug\ManagementSASI.frmListGeneralReceiptMoney.resources
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\23.05.2011(2)\ManagementSASI\obj\Debug\ManagementSASI.Properties.Resources.resources
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\23.05.2011(2)\ManagementSASI\obj\Debug\ManagementSASI.frmTestClassSASINotYet.resources
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\23.05.2011(2)\ManagementSASI\obj\Debug\ManagementSASI.csproj.GenerateResource.Cache
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\23.05.2011(2)\ManagementSASI\obj\Debug\ManagementSASI.exe.licenses
+C:\Users\BuiQuy\Desktop\23.05.2011(2)\ManagementSASI\bin\Debug\ManagementSASI.exe.config
+C:\Users\BuiQuy\Desktop\23.05.2011(2)\ManagementSASI\obj\Debug\ManagementSASI.exe
+C:\Users\BuiQuy\Desktop\23.05.2011(2)\ManagementSASI\obj\Debug\ManagementSASI.pdb
+C:\Users\BuiQuy\Desktop\23.05.2011(2)\ManagementSASI\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\BuiQuy\Desktop\23.05.2011(2)\ManagementSASI\obj\Debug\ManagementSASI.frmBackup.resources
+C:\Users\BuiQuy\Desktop\23.05.2011(2)\ManagementSASI\obj\Debug\ManagementSASI.frmChangePassword.resources
+C:\Users\BuiQuy\Desktop\23.05.2011(2)\ManagementSASI\obj\Debug\ManagementSASI.frmClass.resources
+C:\Users\BuiQuy\Desktop\23.05.2011(2)\ManagementSASI\obj\Debug\ManagementSASI.frmConfig.resources
+C:\Users\BuiQuy\Desktop\23.05.2011(2)\ManagementSASI\obj\Debug\ManagementSASI.frmConfiguration.resources
+C:\Users\BuiQuy\Desktop\23.05.2011(2)\ManagementSASI\obj\Debug\ManagementSASI.frmDepartment.resources
+C:\Users\BuiQuy\Desktop\23.05.2011(2)\ManagementSASI\obj\Debug\ManagementSASI.frmListGeneraMoneySASIClass.resources
+C:\Users\BuiQuy\Desktop\23.05.2011(2)\ManagementSASI\obj\Debug\ManagementSASI.frmListGeneraMoneySASITeacher.resources
+C:\Users\BuiQuy\Desktop\23.05.2011(2)\ManagementSASI\obj\Debug\ManagementSASI.frmListMoneySASI.resources
+C:\Users\BuiQuy\Desktop\23.05.2011(2)\ManagementSASI\obj\Debug\ManagementSASI.frmListStudentMoneySI.resources
+C:\Users\BuiQuy\Desktop\23.05.2011(2)\ManagementSASI\obj\Debug\ManagementSASI.frmListStudentToClass.resources
+C:\Users\BuiQuy\Desktop\23.05.2011(2)\ManagementSASI\obj\Debug\ManagementSASI.frmLogin.resources
+C:\Users\BuiQuy\Desktop\23.05.2011(2)\ManagementSASI\obj\Debug\ManagementSASI.frmMain.resources
+C:\Users\BuiQuy\Desktop\23.05.2011(2)\ManagementSASI\obj\Debug\ManagementSASI.frmRestore.resources
+C:\Users\BuiQuy\Desktop\23.05.2011(2)\ManagementSASI\obj\Debug\ManagementSASI.frmRetestList.resources
+C:\Users\BuiQuy\Desktop\23.05.2011(2)\ManagementSASI\obj\Debug\ManagementSASI.frmSASIClass.resources
+C:\Users\BuiQuy\Desktop\23.05.2011(2)\ManagementSASI\obj\Debug\ManagementSASI.frmSASIClassEnd.resources
+C:\Users\BuiQuy\Desktop\23.05.2011(2)\ManagementSASI\obj\Debug\ManagementSASI.frmSettingSubjectSplit.resources
+C:\Users\BuiQuy\Desktop\23.05.2011(2)\ManagementSASI\obj\Debug\ManagementSASI.frmSplash.resources
+C:\Users\BuiQuy\Desktop\23.05.2011(2)\ManagementSASI\obj\Debug\ManagementSASI.frmSelectTableExcel.resources
+C:\Users\BuiQuy\Desktop\23.05.2011(2)\ManagementSASI\obj\Debug\ManagementSASI.frmStatisticsStudents.resources
+C:\Users\BuiQuy\Desktop\23.05.2011(2)\ManagementSASI\obj\Debug\ManagementSASI.frmStudentToRegisters.resources
+C:\Users\BuiQuy\Desktop\23.05.2011(2)\ManagementSASI\obj\Debug\ManagementSASI.frmSubject.resources
+C:\Users\BuiQuy\Desktop\23.05.2011(2)\ManagementSASI\obj\Debug\ManagementSASI.frmListTakeATestSASI.resources
+C:\Users\BuiQuy\Desktop\23.05.2011(2)\ManagementSASI\obj\Debug\ManagementSASI.frmTeacher.resources
+C:\Users\BuiQuy\Desktop\23.05.2011(2)\ManagementSASI\obj\Debug\ManagementSASI.frmTrain.resources
+C:\Users\BuiQuy\Desktop\23.05.2011(2)\ManagementSASI\obj\Debug\ManagementSASI.frmTrainingInformation.resources
+C:\Users\BuiQuy\Desktop\23.05.2011(2)\ManagementSASI\obj\Debug\ManagementSASI.frmTrain_Subject.resources
+C:\Users\BuiQuy\Desktop\23.05.2011(2)\ManagementSASI\obj\Debug\ManagementSASI.frmWating.resources
+C:\Users\BuiQuy\Desktop\23.05.2011(2)\ManagementSASI\obj\Debug\ManagementSASI.frmWatingServer.resources
+C:\Users\BuiQuy\Desktop\23.05.2011(2)\ManagementSASI\obj\Debug\ManagementSASI.frmListGeneralReceiptMoney.resources
+C:\Users\BuiQuy\Desktop\23.05.2011(2)\ManagementSASI\obj\Debug\ManagementSASI.Properties.Resources.resources
+C:\Users\BuiQuy\Desktop\23.05.2011(2)\ManagementSASI\obj\Debug\ManagementSASI.frmTestClassSASINotYet.resources
+C:\Users\BuiQuy\Desktop\23.05.2011(2)\ManagementSASI\obj\Debug\ManagementSASI.csproj.GenerateResource.Cache
+C:\Users\BuiQuy\Desktop\23.05.2011(2)\ManagementSASI\obj\Debug\ManagementSASI.exe.licenses
+C:\Users\BuiQuy\Desktop\23.05.2011(2)\ManagementSASI\bin\Debug\ManagementSASI.exe
+C:\Users\BuiQuy\Desktop\23.05.2011(2)\ManagementSASI\bin\Debug\ManagementSASI.pdb
+C:\Users\BuiQuy\Desktop\23.05.2011(2)\ManagementSASI\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\BuiQuy\Desktop\23.05.2011(2)\ManagementSASI\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\BuiQuy\Desktop\23.05.2011(2)\ManagementSASI\bin\Debug\office.dll
+C:\Users\BuiQuy\Desktop\23.05.2011(2)\ManagementSASI\bin\Debug\office.xml
+C:\Users\BuiQuy\Desktop\23.05.2011(2)\ManagementSASI\bin\Debug\Microsoft.Office.Interop.Excel.xml
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\27.05.2011\ManagementSASI\bin\Debug\ManagementSASI.exe.config
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\27.05.2011\ManagementSASI\obj\Debug\ManagementSASI.exe
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\27.05.2011\ManagementSASI\obj\Debug\ManagementSASI.pdb
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\27.05.2011\ManagementSASI\bin\Debug\ManagementSASI.exe
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\27.05.2011\ManagementSASI\bin\Debug\ManagementSASI.pdb
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\27.05.2011\ManagementSASI\bin\Debug\Microsoft.Office.Interop.Excel.dll
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\27.05.2011\ManagementSASI\bin\Debug\Microsoft.Vbe.Interop.dll
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\27.05.2011\ManagementSASI\bin\Debug\office.dll
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\27.05.2011\ManagementSASI\bin\Debug\office.xml
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\27.05.2011\ManagementSASI\bin\Debug\Microsoft.Office.Interop.Excel.xml
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\27.05.2011\ManagementSASI\obj\Debug\ResolveAssemblyReference.cache
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\27.05.2011\ManagementSASI\obj\Debug\ManagementSASI.frmBackup.resources
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\27.05.2011\ManagementSASI\obj\Debug\ManagementSASI.frmChangePassword.resources
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\27.05.2011\ManagementSASI\obj\Debug\ManagementSASI.frmClass.resources
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\27.05.2011\ManagementSASI\obj\Debug\ManagementSASI.frmConfig.resources
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\27.05.2011\ManagementSASI\obj\Debug\ManagementSASI.frmConfiguration.resources
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\27.05.2011\ManagementSASI\obj\Debug\ManagementSASI.frmDepartment.resources
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\27.05.2011\ManagementSASI\obj\Debug\ManagementSASI.frmListGeneraMoneySASIClass.resources
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\27.05.2011\ManagementSASI\obj\Debug\ManagementSASI.frmListGeneraMoneySASITeacher.resources
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\27.05.2011\ManagementSASI\obj\Debug\ManagementSASI.frmListMoneySASI.resources
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\27.05.2011\ManagementSASI\obj\Debug\ManagementSASI.frmListStudentMoneySI.resources
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\27.05.2011\ManagementSASI\obj\Debug\ManagementSASI.frmListStudentToClass.resources
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\27.05.2011\ManagementSASI\obj\Debug\ManagementSASI.frmLogin.resources
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\27.05.2011\ManagementSASI\obj\Debug\ManagementSASI.frmMain.resources
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\27.05.2011\ManagementSASI\obj\Debug\ManagementSASI.frmRestore.resources
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\27.05.2011\ManagementSASI\obj\Debug\ManagementSASI.frmRetestList.resources
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\27.05.2011\ManagementSASI\obj\Debug\ManagementSASI.frmSASIClass.resources
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\27.05.2011\ManagementSASI\obj\Debug\ManagementSASI.frmSASIClassEnd.resources
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\27.05.2011\ManagementSASI\obj\Debug\ManagementSASI.frmSettingSubjectSplit.resources
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\27.05.2011\ManagementSASI\obj\Debug\ManagementSASI.frmSplash.resources
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\27.05.2011\ManagementSASI\obj\Debug\ManagementSASI.frmSelectTableExcel.resources
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\27.05.2011\ManagementSASI\obj\Debug\ManagementSASI.frmStatisticsStudents.resources
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\27.05.2011\ManagementSASI\obj\Debug\ManagementSASI.frmStudentToRegisters.resources
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\27.05.2011\ManagementSASI\obj\Debug\ManagementSASI.frmSubject.resources
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\27.05.2011\ManagementSASI\obj\Debug\ManagementSASI.frmListTakeATestSASI.resources
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\27.05.2011\ManagementSASI\obj\Debug\ManagementSASI.frmTeacher.resources
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\27.05.2011\ManagementSASI\obj\Debug\ManagementSASI.frmTrain.resources
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\27.05.2011\ManagementSASI\obj\Debug\ManagementSASI.frmTrainingInformation.resources
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\27.05.2011\ManagementSASI\obj\Debug\ManagementSASI.frmTrain_Subject.resources
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\27.05.2011\ManagementSASI\obj\Debug\ManagementSASI.frmWating.resources
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\27.05.2011\ManagementSASI\obj\Debug\ManagementSASI.frmWatingServer.resources
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\27.05.2011\ManagementSASI\obj\Debug\ManagementSASI.frmListGeneralReceiptMoney.resources
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\27.05.2011\ManagementSASI\obj\Debug\ManagementSASI.Properties.Resources.resources
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\27.05.2011\ManagementSASI\obj\Debug\ManagementSASI.frmTestClassSASINotYet.resources
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\27.05.2011\ManagementSASI\obj\Debug\ManagementSASI.csproj.GenerateResource.Cache
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\27.05.2011\ManagementSASI\obj\Debug\ManagementSASI.exe.licenses
+G:\27.05.2011\30.5.2011\ManagementSASI\bin\Debug\ManagementSASI.exe.config
+G:\27.05.2011\30.5.2011\ManagementSASI\obj\Debug\ManagementSASI.exe
+G:\27.05.2011\30.5.2011\ManagementSASI\obj\Debug\ManagementSASI.pdb
+G:\27.05.2011\30.5.2011\ManagementSASI\bin\Debug\ManagementSASI.exe
+G:\27.05.2011\30.5.2011\ManagementSASI\bin\Debug\ManagementSASI.pdb
+G:\27.05.2011\30.5.2011\ManagementSASI\bin\Debug\Microsoft.Office.Interop.Excel.dll
+G:\27.05.2011\30.5.2011\ManagementSASI\bin\Debug\Microsoft.Vbe.Interop.dll
+G:\27.05.2011\30.5.2011\ManagementSASI\bin\Debug\office.dll
+G:\27.05.2011\30.5.2011\ManagementSASI\bin\Debug\office.xml
+G:\27.05.2011\30.5.2011\ManagementSASI\bin\Debug\Microsoft.Office.Interop.Excel.xml
+G:\27.05.2011\30.5.2011\ManagementSASI\obj\Debug\ResolveAssemblyReference.cache
+G:\27.05.2011\30.5.2011\ManagementSASI\obj\Debug\ManagementSASI.frmBackup.resources
+G:\27.05.2011\30.5.2011\ManagementSASI\obj\Debug\ManagementSASI.frmChangePassword.resources
+G:\27.05.2011\30.5.2011\ManagementSASI\obj\Debug\ManagementSASI.frmClass.resources
+G:\27.05.2011\30.5.2011\ManagementSASI\obj\Debug\ManagementSASI.frmConfig.resources
+G:\27.05.2011\30.5.2011\ManagementSASI\obj\Debug\ManagementSASI.frmConfiguration.resources
+G:\27.05.2011\30.5.2011\ManagementSASI\obj\Debug\ManagementSASI.frmDepartment.resources
+G:\27.05.2011\30.5.2011\ManagementSASI\obj\Debug\ManagementSASI.frmListGeneraMoneySASIClass.resources
+G:\27.05.2011\30.5.2011\ManagementSASI\obj\Debug\ManagementSASI.frmListGeneraMoneySASITeacher.resources
+G:\27.05.2011\30.5.2011\ManagementSASI\obj\Debug\ManagementSASI.frmListMoneySASI.resources
+G:\27.05.2011\30.5.2011\ManagementSASI\obj\Debug\ManagementSASI.frmListStudentMoneySI.resources
+G:\27.05.2011\30.5.2011\ManagementSASI\obj\Debug\ManagementSASI.frmListStudentToClass.resources
+G:\27.05.2011\30.5.2011\ManagementSASI\obj\Debug\ManagementSASI.frmLogin.resources
+G:\27.05.2011\30.5.2011\ManagementSASI\obj\Debug\ManagementSASI.frmMain.resources
+G:\27.05.2011\30.5.2011\ManagementSASI\obj\Debug\ManagementSASI.frmRestore.resources
+G:\27.05.2011\30.5.2011\ManagementSASI\obj\Debug\ManagementSASI.frmRetestList.resources
+G:\27.05.2011\30.5.2011\ManagementSASI\obj\Debug\ManagementSASI.frmSASIClass.resources
+G:\27.05.2011\30.5.2011\ManagementSASI\obj\Debug\ManagementSASI.frmSASIClassEnd.resources
+G:\27.05.2011\30.5.2011\ManagementSASI\obj\Debug\ManagementSASI.frmSettingSubjectSplit.resources
+G:\27.05.2011\30.5.2011\ManagementSASI\obj\Debug\ManagementSASI.frmSplash.resources
+G:\27.05.2011\30.5.2011\ManagementSASI\obj\Debug\ManagementSASI.frmSelectTableExcel.resources
+G:\27.05.2011\30.5.2011\ManagementSASI\obj\Debug\ManagementSASI.frmStatisticsStudents.resources
+G:\27.05.2011\30.5.2011\ManagementSASI\obj\Debug\ManagementSASI.frmStudentToRegisters.resources
+G:\27.05.2011\30.5.2011\ManagementSASI\obj\Debug\ManagementSASI.frmSubject.resources
+G:\27.05.2011\30.5.2011\ManagementSASI\obj\Debug\ManagementSASI.frmListTakeATestSASI.resources
+G:\27.05.2011\30.5.2011\ManagementSASI\obj\Debug\ManagementSASI.frmTeacher.resources
+G:\27.05.2011\30.5.2011\ManagementSASI\obj\Debug\ManagementSASI.frmTrain.resources
+G:\27.05.2011\30.5.2011\ManagementSASI\obj\Debug\ManagementSASI.frmTrainingInformation.resources
+G:\27.05.2011\30.5.2011\ManagementSASI\obj\Debug\ManagementSASI.frmTrain_Subject.resources
+G:\27.05.2011\30.5.2011\ManagementSASI\obj\Debug\ManagementSASI.frmWating.resources
+G:\27.05.2011\30.5.2011\ManagementSASI\obj\Debug\ManagementSASI.frmWatingServer.resources
+G:\27.05.2011\30.5.2011\ManagementSASI\obj\Debug\ManagementSASI.frmListGeneralReceiptMoney.resources
+G:\27.05.2011\30.5.2011\ManagementSASI\obj\Debug\ManagementSASI.Properties.Resources.resources
+G:\27.05.2011\30.5.2011\ManagementSASI\obj\Debug\ManagementSASI.frmTestClassSASINotYet.resources
+G:\27.05.2011\30.5.2011\ManagementSASI\obj\Debug\ManagementSASI.csproj.GenerateResource.Cache
+G:\27.05.2011\30.5.2011\ManagementSASI\obj\Debug\ManagementSASI.exe.licenses
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\CT 30.5.2011(1)\ManagementSASI\bin\Debug\ManagementSASI.exe.config
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\CT 30.5.2011(1)\ManagementSASI\obj\Debug\ManagementSASI.exe
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\CT 30.5.2011(1)\ManagementSASI\obj\Debug\ManagementSASI.pdb
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\CT 30.5.2011(1)\ManagementSASI\bin\Debug\ManagementSASI.exe
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\CT 30.5.2011(1)\ManagementSASI\bin\Debug\ManagementSASI.pdb
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\CT 30.5.2011(1)\ManagementSASI\bin\Debug\Microsoft.Office.Interop.Excel.dll
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\CT 30.5.2011(1)\ManagementSASI\bin\Debug\Microsoft.Vbe.Interop.dll
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\CT 30.5.2011(1)\ManagementSASI\bin\Debug\office.dll
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\CT 30.5.2011(1)\ManagementSASI\bin\Debug\office.xml
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\CT 30.5.2011(1)\ManagementSASI\bin\Debug\Microsoft.Office.Interop.Excel.xml
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\CT 30.5.2011(1)\ManagementSASI\obj\Debug\ResolveAssemblyReference.cache
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\CT 30.5.2011(1)\ManagementSASI\obj\Debug\ManagementSASI.frmBackup.resources
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\CT 30.5.2011(1)\ManagementSASI\obj\Debug\ManagementSASI.frmChangePassword.resources
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\CT 30.5.2011(1)\ManagementSASI\obj\Debug\ManagementSASI.frmClass.resources
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\CT 30.5.2011(1)\ManagementSASI\obj\Debug\ManagementSASI.frmConfig.resources
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\CT 30.5.2011(1)\ManagementSASI\obj\Debug\ManagementSASI.frmConfiguration.resources
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\CT 30.5.2011(1)\ManagementSASI\obj\Debug\ManagementSASI.frmDepartment.resources
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\CT 30.5.2011(1)\ManagementSASI\obj\Debug\ManagementSASI.frmListGeneraMoneySASIClass.resources
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\CT 30.5.2011(1)\ManagementSASI\obj\Debug\ManagementSASI.frmListGeneraMoneySASITeacher.resources
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\CT 30.5.2011(1)\ManagementSASI\obj\Debug\ManagementSASI.frmListMoneySASI.resources
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\CT 30.5.2011(1)\ManagementSASI\obj\Debug\ManagementSASI.frmListStudentMoneySI.resources
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\CT 30.5.2011(1)\ManagementSASI\obj\Debug\ManagementSASI.frmListStudentToClass.resources
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\CT 30.5.2011(1)\ManagementSASI\obj\Debug\ManagementSASI.frmLogin.resources
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\CT 30.5.2011(1)\ManagementSASI\obj\Debug\ManagementSASI.frmMain.resources
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\CT 30.5.2011(1)\ManagementSASI\obj\Debug\ManagementSASI.frmRestore.resources
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\CT 30.5.2011(1)\ManagementSASI\obj\Debug\ManagementSASI.frmRetestList.resources
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\CT 30.5.2011(1)\ManagementSASI\obj\Debug\ManagementSASI.frmSASIClass.resources
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\CT 30.5.2011(1)\ManagementSASI\obj\Debug\ManagementSASI.frmSASIClassEnd.resources
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\CT 30.5.2011(1)\ManagementSASI\obj\Debug\ManagementSASI.frmSettingSubjectSplit.resources
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\CT 30.5.2011(1)\ManagementSASI\obj\Debug\ManagementSASI.frmSplash.resources
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\CT 30.5.2011(1)\ManagementSASI\obj\Debug\ManagementSASI.frmSelectTableExcel.resources
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\CT 30.5.2011(1)\ManagementSASI\obj\Debug\ManagementSASI.frmStatisticsStudents.resources
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\CT 30.5.2011(1)\ManagementSASI\obj\Debug\ManagementSASI.frmStudentToRegisters.resources
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\CT 30.5.2011(1)\ManagementSASI\obj\Debug\ManagementSASI.frmSubject.resources
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\CT 30.5.2011(1)\ManagementSASI\obj\Debug\ManagementSASI.frmListTakeATestSASI.resources
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\CT 30.5.2011(1)\ManagementSASI\obj\Debug\ManagementSASI.frmTeacher.resources
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\CT 30.5.2011(1)\ManagementSASI\obj\Debug\ManagementSASI.frmTrain.resources
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\CT 30.5.2011(1)\ManagementSASI\obj\Debug\ManagementSASI.frmTrainingInformation.resources
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\CT 30.5.2011(1)\ManagementSASI\obj\Debug\ManagementSASI.frmTrain_Subject.resources
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\CT 30.5.2011(1)\ManagementSASI\obj\Debug\ManagementSASI.frmWating.resources
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\CT 30.5.2011(1)\ManagementSASI\obj\Debug\ManagementSASI.frmWatingServer.resources
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\CT 30.5.2011(1)\ManagementSASI\obj\Debug\ManagementSASI.frmListGeneralReceiptMoney.resources
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\CT 30.5.2011(1)\ManagementSASI\obj\Debug\ManagementSASI.Properties.Resources.resources
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\CT 30.5.2011(1)\ManagementSASI\obj\Debug\ManagementSASI.frmTestClassSASINotYet.resources
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\CT 30.5.2011(1)\ManagementSASI\obj\Debug\ManagementSASI.csproj.GenerateResource.Cache
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\CT 30.5.2011(1)\ManagementSASI\obj\Debug\ManagementSASI.exe.licenses
+C:\Users\BuiQuy\Desktop\CT 31.05.2011\ManagementSASI\bin\Debug\ManagementSASI.exe.config
+C:\Users\BuiQuy\Desktop\CT 31.05.2011\ManagementSASI\obj\Debug\ManagementSASI.exe
+C:\Users\BuiQuy\Desktop\CT 31.05.2011\ManagementSASI\obj\Debug\ManagementSASI.pdb
+C:\Users\BuiQuy\Desktop\CT 31.05.2011\ManagementSASI\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\BuiQuy\Desktop\CT 31.05.2011\ManagementSASI\obj\Debug\ManagementSASI.frmBackup.resources
+C:\Users\BuiQuy\Desktop\CT 31.05.2011\ManagementSASI\obj\Debug\ManagementSASI.frmChangePassword.resources
+C:\Users\BuiQuy\Desktop\CT 31.05.2011\ManagementSASI\obj\Debug\ManagementSASI.frmClass.resources
+C:\Users\BuiQuy\Desktop\CT 31.05.2011\ManagementSASI\obj\Debug\ManagementSASI.frmConfig.resources
+C:\Users\BuiQuy\Desktop\CT 31.05.2011\ManagementSASI\obj\Debug\ManagementSASI.frmConfiguration.resources
+C:\Users\BuiQuy\Desktop\CT 31.05.2011\ManagementSASI\obj\Debug\ManagementSASI.frmDepartment.resources
+C:\Users\BuiQuy\Desktop\CT 31.05.2011\ManagementSASI\obj\Debug\ManagementSASI.frmListGeneraMoneySASIClass.resources
+C:\Users\BuiQuy\Desktop\CT 31.05.2011\ManagementSASI\obj\Debug\ManagementSASI.frmListGeneraMoneySASITeacher.resources
+C:\Users\BuiQuy\Desktop\CT 31.05.2011\ManagementSASI\obj\Debug\ManagementSASI.frmListMoneySASI.resources
+C:\Users\BuiQuy\Desktop\CT 31.05.2011\ManagementSASI\obj\Debug\ManagementSASI.frmListStudentToClass.resources
+C:\Users\BuiQuy\Desktop\CT 31.05.2011\ManagementSASI\obj\Debug\ManagementSASI.frmLogin.resources
+C:\Users\BuiQuy\Desktop\CT 31.05.2011\ManagementSASI\obj\Debug\ManagementSASI.frmMain.resources
+C:\Users\BuiQuy\Desktop\CT 31.05.2011\ManagementSASI\obj\Debug\ManagementSASI.frmRestore.resources
+C:\Users\BuiQuy\Desktop\CT 31.05.2011\ManagementSASI\obj\Debug\ManagementSASI.frmRetestList.resources
+C:\Users\BuiQuy\Desktop\CT 31.05.2011\ManagementSASI\obj\Debug\ManagementSASI.frmSASIClass.resources
+C:\Users\BuiQuy\Desktop\CT 31.05.2011\ManagementSASI\obj\Debug\ManagementSASI.frmSASIClassEnd.resources
+C:\Users\BuiQuy\Desktop\CT 31.05.2011\ManagementSASI\obj\Debug\ManagementSASI.frmSettingSubjectSplit.resources
+C:\Users\BuiQuy\Desktop\CT 31.05.2011\ManagementSASI\obj\Debug\ManagementSASI.frmSplash.resources
+C:\Users\BuiQuy\Desktop\CT 31.05.2011\ManagementSASI\obj\Debug\ManagementSASI.frmSelectTableExcel.resources
+C:\Users\BuiQuy\Desktop\CT 31.05.2011\ManagementSASI\obj\Debug\ManagementSASI.frmStatisticsStudents.resources
+C:\Users\BuiQuy\Desktop\CT 31.05.2011\ManagementSASI\obj\Debug\ManagementSASI.frmStudentToRegisters.resources
+C:\Users\BuiQuy\Desktop\CT 31.05.2011\ManagementSASI\obj\Debug\ManagementSASI.frmSubject.resources
+C:\Users\BuiQuy\Desktop\CT 31.05.2011\ManagementSASI\obj\Debug\ManagementSASI.frmListTakeATestSASI.resources
+C:\Users\BuiQuy\Desktop\CT 31.05.2011\ManagementSASI\obj\Debug\ManagementSASI.frmTeacher.resources
+C:\Users\BuiQuy\Desktop\CT 31.05.2011\ManagementSASI\obj\Debug\ManagementSASI.frmTrain.resources
+C:\Users\BuiQuy\Desktop\CT 31.05.2011\ManagementSASI\obj\Debug\ManagementSASI.frmTrainingInformation.resources
+C:\Users\BuiQuy\Desktop\CT 31.05.2011\ManagementSASI\obj\Debug\ManagementSASI.frmTrain_Subject.resources
+C:\Users\BuiQuy\Desktop\CT 31.05.2011\ManagementSASI\obj\Debug\ManagementSASI.frmWating.resources
+C:\Users\BuiQuy\Desktop\CT 31.05.2011\ManagementSASI\obj\Debug\ManagementSASI.frmWatingServer.resources
+C:\Users\BuiQuy\Desktop\CT 31.05.2011\ManagementSASI\obj\Debug\ManagementSASI.frmListGeneralReceiptMoney.resources
+C:\Users\BuiQuy\Desktop\CT 31.05.2011\ManagementSASI\obj\Debug\ManagementSASI.Properties.Resources.resources
+C:\Users\BuiQuy\Desktop\CT 31.05.2011\ManagementSASI\obj\Debug\ManagementSASI.frmTestClassSASINotYet.resources
+C:\Users\BuiQuy\Desktop\CT 31.05.2011\ManagementSASI\obj\Debug\ManagementSASI.csproj.GenerateResource.Cache
+C:\Users\BuiQuy\Desktop\CT 31.05.2011\ManagementSASI\obj\Debug\ManagementSASI.exe.licenses
+C:\Users\BuiQuy\Desktop\CT 31.05.2011\ManagementSASI\bin\Debug\ManagementSASI.exe
+C:\Users\BuiQuy\Desktop\CT 31.05.2011\ManagementSASI\bin\Debug\ManagementSASI.pdb
+C:\Users\BuiQuy\Desktop\CT 31.05.2011\ManagementSASI\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\BuiQuy\Desktop\CT 31.05.2011\ManagementSASI\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\BuiQuy\Desktop\CT 31.05.2011\ManagementSASI\bin\Debug\office.dll
+C:\Users\BuiQuy\Desktop\CT 31.05.2011\ManagementSASI\bin\Debug\office.xml
+C:\Users\BuiQuy\Desktop\CT 31.05.2011\ManagementSASI\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\BuiQuy\Desktop\CT 31.05.2011\ManagementSASI\obj\Debug\ManagementSASI.frmListStudentMoneySI.resources
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\CT 1.6.2011\ManagementSASI\bin\Debug\ManagementSASI.exe.config
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\CT 1.6.2011\ManagementSASI\obj\Debug\ManagementSASI.exe
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\CT 1.6.2011\ManagementSASI\obj\Debug\ManagementSASI.pdb
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\CT 1.6.2011\ManagementSASI\bin\Debug\ManagementSASI.exe
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\CT 1.6.2011\ManagementSASI\bin\Debug\ManagementSASI.pdb
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\CT 1.6.2011\ManagementSASI\bin\Debug\Microsoft.Office.Interop.Excel.dll
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\CT 1.6.2011\ManagementSASI\bin\Debug\Microsoft.Vbe.Interop.dll
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\CT 1.6.2011\ManagementSASI\bin\Debug\office.dll
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\CT 1.6.2011\ManagementSASI\bin\Debug\office.xml
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\CT 1.6.2011\ManagementSASI\bin\Debug\Microsoft.Office.Interop.Excel.xml
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\CT 1.6.2011\ManagementSASI\obj\Debug\ResolveAssemblyReference.cache
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\CT 1.6.2011\ManagementSASI\obj\Debug\ManagementSASI.frmBackup.resources
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\CT 1.6.2011\ManagementSASI\obj\Debug\ManagementSASI.frmChangePassword.resources
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\CT 1.6.2011\ManagementSASI\obj\Debug\ManagementSASI.frmClass.resources
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\CT 1.6.2011\ManagementSASI\obj\Debug\ManagementSASI.frmConfig.resources
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\CT 1.6.2011\ManagementSASI\obj\Debug\ManagementSASI.frmConfiguration.resources
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\CT 1.6.2011\ManagementSASI\obj\Debug\ManagementSASI.frmDepartment.resources
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\CT 1.6.2011\ManagementSASI\obj\Debug\ManagementSASI.frmListGeneraMoneySASIClass.resources
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\CT 1.6.2011\ManagementSASI\obj\Debug\ManagementSASI.frmListGeneraMoneySASITeacher.resources
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\CT 1.6.2011\ManagementSASI\obj\Debug\ManagementSASI.frmListMoneySASI.resources
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\CT 1.6.2011\ManagementSASI\obj\Debug\ManagementSASI.frmListStudentMoneySI.resources
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\CT 1.6.2011\ManagementSASI\obj\Debug\ManagementSASI.frmListStudentToClass.resources
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\CT 1.6.2011\ManagementSASI\obj\Debug\ManagementSASI.frmLogin.resources
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\CT 1.6.2011\ManagementSASI\obj\Debug\ManagementSASI.frmMain.resources
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\CT 1.6.2011\ManagementSASI\obj\Debug\ManagementSASI.frmRestore.resources
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\CT 1.6.2011\ManagementSASI\obj\Debug\ManagementSASI.frmRetestList.resources
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\CT 1.6.2011\ManagementSASI\obj\Debug\ManagementSASI.frmSASIClass.resources
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\CT 1.6.2011\ManagementSASI\obj\Debug\ManagementSASI.frmSASIClassEnd.resources
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\CT 1.6.2011\ManagementSASI\obj\Debug\ManagementSASI.frmSettingSubjectSplit.resources
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\CT 1.6.2011\ManagementSASI\obj\Debug\ManagementSASI.frmSplash.resources
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\CT 1.6.2011\ManagementSASI\obj\Debug\ManagementSASI.frmSelectTableExcel.resources
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\CT 1.6.2011\ManagementSASI\obj\Debug\ManagementSASI.frmStatisticsStudents.resources
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\CT 1.6.2011\ManagementSASI\obj\Debug\ManagementSASI.frmStudentToRegisters.resources
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\CT 1.6.2011\ManagementSASI\obj\Debug\ManagementSASI.frmSubject.resources
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\CT 1.6.2011\ManagementSASI\obj\Debug\ManagementSASI.frmListTakeATestSASI.resources
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\CT 1.6.2011\ManagementSASI\obj\Debug\ManagementSASI.frmTeacher.resources
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\CT 1.6.2011\ManagementSASI\obj\Debug\ManagementSASI.frmTrain.resources
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\CT 1.6.2011\ManagementSASI\obj\Debug\ManagementSASI.frmTrainingInformation.resources
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\CT 1.6.2011\ManagementSASI\obj\Debug\ManagementSASI.frmTrain_Subject.resources
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\CT 1.6.2011\ManagementSASI\obj\Debug\ManagementSASI.frmWating.resources
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\CT 1.6.2011\ManagementSASI\obj\Debug\ManagementSASI.frmWatingServer.resources
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\CT 1.6.2011\ManagementSASI\obj\Debug\ManagementSASI.frmListGeneralReceiptMoney.resources
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\CT 1.6.2011\ManagementSASI\obj\Debug\ManagementSASI.Properties.Resources.resources
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\CT 1.6.2011\ManagementSASI\obj\Debug\ManagementSASI.frmTestClassSASINotYet.resources
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\CT 1.6.2011\ManagementSASI\obj\Debug\ManagementSASI.csproj.GenerateResource.Cache
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\CT 1.6.2011\ManagementSASI\obj\Debug\ManagementSASI.exe.licenses
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\CT 3.6.2011\ManagementSASI\bin\Debug\ManagementSASI.exe.config
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\CT 3.6.2011\ManagementSASI\obj\Debug\ManagementSASI.exe
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\CT 3.6.2011\ManagementSASI\obj\Debug\ManagementSASI.pdb
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\CT 3.6.2011\ManagementSASI\bin\Debug\ManagementSASI.exe
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\CT 3.6.2011\ManagementSASI\bin\Debug\ManagementSASI.pdb
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\CT 3.6.2011\ManagementSASI\bin\Debug\Microsoft.Office.Interop.Excel.dll
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\CT 3.6.2011\ManagementSASI\bin\Debug\Microsoft.Vbe.Interop.dll
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\CT 3.6.2011\ManagementSASI\bin\Debug\office.dll
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\CT 3.6.2011\ManagementSASI\bin\Debug\office.xml
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\CT 3.6.2011\ManagementSASI\bin\Debug\Microsoft.Office.Interop.Excel.xml
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\CT 3.6.2011\ManagementSASI\obj\Debug\ResolveAssemblyReference.cache
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\CT 3.6.2011\ManagementSASI\obj\Debug\ManagementSASI.frmBackup.resources
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\CT 3.6.2011\ManagementSASI\obj\Debug\ManagementSASI.frmChangePassword.resources
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\CT 3.6.2011\ManagementSASI\obj\Debug\ManagementSASI.frmClass.resources
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\CT 3.6.2011\ManagementSASI\obj\Debug\ManagementSASI.frmConfig.resources
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\CT 3.6.2011\ManagementSASI\obj\Debug\ManagementSASI.frmConfiguration.resources
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\CT 3.6.2011\ManagementSASI\obj\Debug\ManagementSASI.frmDepartment.resources
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\CT 3.6.2011\ManagementSASI\obj\Debug\ManagementSASI.frmListGeneraMoneySASIClass.resources
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\CT 3.6.2011\ManagementSASI\obj\Debug\ManagementSASI.frmListGeneraMoneySASITeacher.resources
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\CT 3.6.2011\ManagementSASI\obj\Debug\ManagementSASI.frmListMoneySASI.resources
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\CT 3.6.2011\ManagementSASI\obj\Debug\ManagementSASI.frmListStudentMoneySI.resources
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\CT 3.6.2011\ManagementSASI\obj\Debug\ManagementSASI.frmListStudentToClass.resources
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\CT 3.6.2011\ManagementSASI\obj\Debug\ManagementSASI.frmLogin.resources
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\CT 3.6.2011\ManagementSASI\obj\Debug\ManagementSASI.frmMain.resources
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\CT 3.6.2011\ManagementSASI\obj\Debug\ManagementSASI.frmRestore.resources
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\CT 3.6.2011\ManagementSASI\obj\Debug\ManagementSASI.frmRetestList.resources
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\CT 3.6.2011\ManagementSASI\obj\Debug\ManagementSASI.frmSASIClass.resources
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\CT 3.6.2011\ManagementSASI\obj\Debug\ManagementSASI.frmSASIClassEnd.resources
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\CT 3.6.2011\ManagementSASI\obj\Debug\ManagementSASI.frmSettingSubjectSplit.resources
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\CT 3.6.2011\ManagementSASI\obj\Debug\ManagementSASI.frmSplash.resources
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\CT 3.6.2011\ManagementSASI\obj\Debug\ManagementSASI.frmSelectTableExcel.resources
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\CT 3.6.2011\ManagementSASI\obj\Debug\ManagementSASI.frmStatisticsStudents.resources
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\CT 3.6.2011\ManagementSASI\obj\Debug\ManagementSASI.frmStudentToRegisters.resources
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\CT 3.6.2011\ManagementSASI\obj\Debug\ManagementSASI.frmSubject.resources
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\CT 3.6.2011\ManagementSASI\obj\Debug\ManagementSASI.frmListTakeATestSASI.resources
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\CT 3.6.2011\ManagementSASI\obj\Debug\ManagementSASI.frmTeacher.resources
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\CT 3.6.2011\ManagementSASI\obj\Debug\ManagementSASI.frmTrain.resources
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\CT 3.6.2011\ManagementSASI\obj\Debug\ManagementSASI.frmTrainingInformation.resources
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\CT 3.6.2011\ManagementSASI\obj\Debug\ManagementSASI.frmTrain_Subject.resources
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\CT 3.6.2011\ManagementSASI\obj\Debug\ManagementSASI.frmWating.resources
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\CT 3.6.2011\ManagementSASI\obj\Debug\ManagementSASI.frmWatingServer.resources
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\CT 3.6.2011\ManagementSASI\obj\Debug\ManagementSASI.frmListGeneralReceiptMoney.resources
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\CT 3.6.2011\ManagementSASI\obj\Debug\ManagementSASI.Properties.Resources.resources
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\CT 3.6.2011\ManagementSASI\obj\Debug\ManagementSASI.frmTestClassSASINotYet.resources
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\CT 3.6.2011\ManagementSASI\obj\Debug\ManagementSASI.csproj.GenerateResource.Cache
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\CT 3.6.2011\ManagementSASI\obj\Debug\ManagementSASI.exe.licenses
+G:\Bài mới\CT 3.6.2011\ManagementSASI\bin\Debug\ManagementSASI.exe.config
+G:\Bài mới\CT 3.6.2011\ManagementSASI\obj\Debug\ManagementSASI.exe
+G:\Bài mới\CT 3.6.2011\ManagementSASI\obj\Debug\ManagementSASI.pdb
+G:\Bài mới\CT 3.6.2011\ManagementSASI\bin\Debug\ManagementSASI.exe
+G:\Bài mới\CT 3.6.2011\ManagementSASI\bin\Debug\ManagementSASI.pdb
+G:\Bài mới\CT 3.6.2011\ManagementSASI\bin\Debug\Microsoft.Office.Interop.Excel.dll
+G:\Bài mới\CT 3.6.2011\ManagementSASI\bin\Debug\Microsoft.Vbe.Interop.dll
+G:\Bài mới\CT 3.6.2011\ManagementSASI\bin\Debug\office.dll
+G:\Bài mới\CT 3.6.2011\ManagementSASI\bin\Debug\office.xml
+G:\Bài mới\CT 3.6.2011\ManagementSASI\bin\Debug\Microsoft.Office.Interop.Excel.xml
+G:\Bài mới\CT 3.6.2011\ManagementSASI\obj\Debug\ResolveAssemblyReference.cache
+G:\Bài mới\CT 3.6.2011\ManagementSASI\obj\Debug\ManagementSASI.frmBackup.resources
+G:\Bài mới\CT 3.6.2011\ManagementSASI\obj\Debug\ManagementSASI.frmChangePassword.resources
+G:\Bài mới\CT 3.6.2011\ManagementSASI\obj\Debug\ManagementSASI.frmClass.resources
+G:\Bài mới\CT 3.6.2011\ManagementSASI\obj\Debug\ManagementSASI.frmConfig.resources
+G:\Bài mới\CT 3.6.2011\ManagementSASI\obj\Debug\ManagementSASI.frmConfiguration.resources
+G:\Bài mới\CT 3.6.2011\ManagementSASI\obj\Debug\ManagementSASI.frmDepartment.resources
+G:\Bài mới\CT 3.6.2011\ManagementSASI\obj\Debug\ManagementSASI.frmListGeneraMoneySASIClass.resources
+G:\Bài mới\CT 3.6.2011\ManagementSASI\obj\Debug\ManagementSASI.frmListGeneraMoneySASITeacher.resources
+G:\Bài mới\CT 3.6.2011\ManagementSASI\obj\Debug\ManagementSASI.frmListMoneySASI.resources
+G:\Bài mới\CT 3.6.2011\ManagementSASI\obj\Debug\ManagementSASI.frmListStudentMoneySI.resources
+G:\Bài mới\CT 3.6.2011\ManagementSASI\obj\Debug\ManagementSASI.frmListStudentToClass.resources
+G:\Bài mới\CT 3.6.2011\ManagementSASI\obj\Debug\ManagementSASI.frmLogin.resources
+G:\Bài mới\CT 3.6.2011\ManagementSASI\obj\Debug\ManagementSASI.frmMain.resources
+G:\Bài mới\CT 3.6.2011\ManagementSASI\obj\Debug\ManagementSASI.frmRestore.resources
+G:\Bài mới\CT 3.6.2011\ManagementSASI\obj\Debug\ManagementSASI.frmRetestList.resources
+G:\Bài mới\CT 3.6.2011\ManagementSASI\obj\Debug\ManagementSASI.frmSASIClass.resources
+G:\Bài mới\CT 3.6.2011\ManagementSASI\obj\Debug\ManagementSASI.frmSASIClassEnd.resources
+G:\Bài mới\CT 3.6.2011\ManagementSASI\obj\Debug\ManagementSASI.frmSettingSubjectSplit.resources
+G:\Bài mới\CT 3.6.2011\ManagementSASI\obj\Debug\ManagementSASI.frmSplash.resources
+G:\Bài mới\CT 3.6.2011\ManagementSASI\obj\Debug\ManagementSASI.frmSelectTableExcel.resources
+G:\Bài mới\CT 3.6.2011\ManagementSASI\obj\Debug\ManagementSASI.frmStatisticsStudents.resources
+G:\Bài mới\CT 3.6.2011\ManagementSASI\obj\Debug\ManagementSASI.frmStudentToRegisters.resources
+G:\Bài mới\CT 3.6.2011\ManagementSASI\obj\Debug\ManagementSASI.frmSubject.resources
+G:\Bài mới\CT 3.6.2011\ManagementSASI\obj\Debug\ManagementSASI.frmListTakeATestSASI.resources
+G:\Bài mới\CT 3.6.2011\ManagementSASI\obj\Debug\ManagementSASI.frmTeacher.resources
+G:\Bài mới\CT 3.6.2011\ManagementSASI\obj\Debug\ManagementSASI.frmTrain.resources
+G:\Bài mới\CT 3.6.2011\ManagementSASI\obj\Debug\ManagementSASI.frmTrainingInformation.resources
+G:\Bài mới\CT 3.6.2011\ManagementSASI\obj\Debug\ManagementSASI.frmTrain_Subject.resources
+G:\Bài mới\CT 3.6.2011\ManagementSASI\obj\Debug\ManagementSASI.frmWating.resources
+G:\Bài mới\CT 3.6.2011\ManagementSASI\obj\Debug\ManagementSASI.frmWatingServer.resources
+G:\Bài mới\CT 3.6.2011\ManagementSASI\obj\Debug\ManagementSASI.frmListGeneralReceiptMoney.resources
+G:\Bài mới\CT 3.6.2011\ManagementSASI\obj\Debug\ManagementSASI.Properties.Resources.resources
+G:\Bài mới\CT 3.6.2011\ManagementSASI\obj\Debug\ManagementSASI.frmTestClassSASINotYet.resources
+G:\Bài mới\CT 3.6.2011\ManagementSASI\obj\Debug\ManagementSASI.csproj.GenerateResource.Cache
+G:\Bài mới\CT 3.6.2011\ManagementSASI\obj\Debug\ManagementSASI.exe.licenses
+G:\Bài mới\CT 3.6.2011\ManagementSASI\obj\Debug\ManagementSASI.frmStudent.resources
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\CT 9.6.2011\ManagementSASI\bin\Debug\ManagementSASI.exe.config
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\CT 9.6.2011\ManagementSASI\obj\Debug\ManagementSASI.exe
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\CT 9.6.2011\ManagementSASI\obj\Debug\ManagementSASI.pdb
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\CT 9.6.2011\ManagementSASI\bin\Debug\ManagementSASI.exe
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\CT 9.6.2011\ManagementSASI\bin\Debug\ManagementSASI.pdb
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\CT 9.6.2011\ManagementSASI\bin\Debug\Microsoft.Office.Interop.Excel.dll
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\CT 9.6.2011\ManagementSASI\bin\Debug\Microsoft.Vbe.Interop.dll
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\CT 9.6.2011\ManagementSASI\bin\Debug\office.dll
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\CT 9.6.2011\ManagementSASI\bin\Debug\office.xml
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\CT 9.6.2011\ManagementSASI\bin\Debug\Microsoft.Office.Interop.Excel.xml
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\CT 9.6.2011\ManagementSASI\obj\Debug\ResolveAssemblyReference.cache
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\CT 9.6.2011\ManagementSASI\obj\Debug\ManagementSASI.frmBackup.resources
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\CT 9.6.2011\ManagementSASI\obj\Debug\ManagementSASI.frmChangePassword.resources
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\CT 9.6.2011\ManagementSASI\obj\Debug\ManagementSASI.frmClass.resources
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\CT 9.6.2011\ManagementSASI\obj\Debug\ManagementSASI.frmConfig.resources
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\CT 9.6.2011\ManagementSASI\obj\Debug\ManagementSASI.frmConfiguration.resources
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\CT 9.6.2011\ManagementSASI\obj\Debug\ManagementSASI.frmDepartment.resources
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\CT 9.6.2011\ManagementSASI\obj\Debug\ManagementSASI.frmListGeneraMoneySASIClass.resources
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\CT 9.6.2011\ManagementSASI\obj\Debug\ManagementSASI.frmListGeneraMoneySASITeacher.resources
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\CT 9.6.2011\ManagementSASI\obj\Debug\ManagementSASI.frmListMoneySASI.resources
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\CT 9.6.2011\ManagementSASI\obj\Debug\ManagementSASI.frmListStudentMoneySI.resources
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\CT 9.6.2011\ManagementSASI\obj\Debug\ManagementSASI.frmListStudentToClass.resources
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\CT 9.6.2011\ManagementSASI\obj\Debug\ManagementSASI.frmLogin.resources
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\CT 9.6.2011\ManagementSASI\obj\Debug\ManagementSASI.frmMain.resources
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\CT 9.6.2011\ManagementSASI\obj\Debug\ManagementSASI.frmRestore.resources
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\CT 9.6.2011\ManagementSASI\obj\Debug\ManagementSASI.frmRetestList.resources
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\CT 9.6.2011\ManagementSASI\obj\Debug\ManagementSASI.frmSASIClass.resources
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\CT 9.6.2011\ManagementSASI\obj\Debug\ManagementSASI.frmSASIClassEnd.resources
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\CT 9.6.2011\ManagementSASI\obj\Debug\ManagementSASI.frmSettingSubjectSplit.resources
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\CT 9.6.2011\ManagementSASI\obj\Debug\ManagementSASI.frmSplash.resources
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\CT 9.6.2011\ManagementSASI\obj\Debug\ManagementSASI.frmSelectTableExcel.resources
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\CT 9.6.2011\ManagementSASI\obj\Debug\ManagementSASI.frmStatisticsStudents.resources
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\CT 9.6.2011\ManagementSASI\obj\Debug\ManagementSASI.frmStudent.resources
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\CT 9.6.2011\ManagementSASI\obj\Debug\ManagementSASI.frmStudentToRegisters.resources
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\CT 9.6.2011\ManagementSASI\obj\Debug\ManagementSASI.frmSubject.resources
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\CT 9.6.2011\ManagementSASI\obj\Debug\ManagementSASI.frmListTakeATestSASI.resources
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\CT 9.6.2011\ManagementSASI\obj\Debug\ManagementSASI.frmTeacher.resources
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\CT 9.6.2011\ManagementSASI\obj\Debug\ManagementSASI.frmTrain.resources
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\CT 9.6.2011\ManagementSASI\obj\Debug\ManagementSASI.frmTrainingInformation.resources
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\CT 9.6.2011\ManagementSASI\obj\Debug\ManagementSASI.frmTrain_Subject.resources
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\CT 9.6.2011\ManagementSASI\obj\Debug\ManagementSASI.frmWating.resources
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\CT 9.6.2011\ManagementSASI\obj\Debug\ManagementSASI.frmWatingServer.resources
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\CT 9.6.2011\ManagementSASI\obj\Debug\ManagementSASI.frmListGeneralReceiptMoney.resources
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\CT 9.6.2011\ManagementSASI\obj\Debug\ManagementSASI.Properties.Resources.resources
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\CT 9.6.2011\ManagementSASI\obj\Debug\ManagementSASI.frmTestClassSASINotYet.resources
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\CT 9.6.2011\ManagementSASI\obj\Debug\ManagementSASI.csproj.GenerateResource.Cache
+E:\0.TAI LIEU HOC TAP\Mon Chuyen Nganh\6. PROJECT 4\Chuong trinh\CT 9.6.2011\ManagementSASI\obj\Debug\ManagementSASI.exe.licenses

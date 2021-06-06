@@ -1,0 +1,555 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Database Name="SDGHY" Class="ManagementSASIDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=.\SQLEXPRESS;Initial Catalog=SDGHY;Integrated Security=True" SettingsObjectName="ManagementSASI.Properties.Settings" SettingsPropertyName="SDGHYConnectionString1" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.Classes" Member="Classes">
+    <Type Name="Class">
+      <Column Name="ClassCode" Type="System.String" DbType="VarChar(10) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="DepartmentCode" Type="System.String" DbType="VarChar(10) NOT NULL" CanBeNull="false" />
+      <Column Name="TrainCode" Type="System.String" DbType="VarChar(10) NOT NULL" CanBeNull="false" />
+      <Column Name="ClassName" Type="System.String" DbType="NVarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="StartYear" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="EndYear" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Total" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Description" Type="System.String" DbType="NVarChar(200)" CanBeNull="true" />
+      <Association Name="Class_StudentToRegister" Member="StudentToRegisters" OtherKey="ClassCode" Type="StudentToRegister" />
+      <Association Name="Train_Class" Member="Train" ThisKey="TrainCode" Type="Train" IsForeignKey="true" />
+      <Association Name="Department_Class" Member="Department" ThisKey="DepartmentCode" Type="Department" IsForeignKey="true" DeleteRule="CASCADE" DeleteOnNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Trains" Member="Trains">
+    <Type Name="Train">
+      <Column Name="TrainCode" Type="System.String" DbType="VarChar(10) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="TrainName" Type="System.String" DbType="NVarChar(70) NOT NULL" CanBeNull="false" />
+      <Column Name="TrainType" Type="System.String" DbType="NVarChar(30)" CanBeNull="true" />
+      <Column Name="TotalClass" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Description" Type="System.String" DbType="NVarChar(500)" CanBeNull="true" />
+      <Association Name="Train_Class" Member="Classes" OtherKey="TrainCode" Type="Class" />
+      <Association Name="Train_SubjectTrain" Member="SubjectTrains" OtherKey="TrainCode" Type="SubjectTrain" />
+    </Type>
+  </Table>
+  <Table Name="dbo.TrainingInformations" Member="TrainingInformations">
+    <Type Name="TrainingInformation">
+      <Column Name="InfoID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="InfoName" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="TrainType" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="TrainingType" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="LearningType" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Association Name="TrainingInformation_SettingMoneyRate" Member="SettingMoneyRates" OtherKey="InfoID" Type="SettingMoneyRate" />
+      <Association Name="TrainingInformation_SASIClass" Member="SASIClasses" OtherKey="InfoID" Type="SASIClass" />
+      <Association Name="TrainingInformation_MoneyRatesByClassSASI" Member="MoneyRatesByClassSASIs" OtherKey="InfoID" Type="MoneyRatesByClassSASI" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Teachers" Member="Teachers">
+    <Type Name="Teacher">
+      <Column Name="TeacherCode" Type="System.String" DbType="VarChar(10) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="DepartmentCode" Type="System.String" DbType="VarChar(10)" CanBeNull="true" />
+      <Column Name="DegreeCode" Type="System.String" DbType="VarChar(10)" CanBeNull="true" />
+      <Column Name="TeacherName" Type="System.String" DbType="NVarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="PhoneNumber" Type="System.String" DbType="VarChar(15)" CanBeNull="true" />
+      <Column Name="Birthday" Type="System.String" DbType="VarChar(15)" CanBeNull="true" />
+      <Column Name="Gender" Type="System.String" DbType="NVarChar(5)" CanBeNull="true" />
+      <Column Name="Email" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="HomeTown" Type="System.String" DbType="NVarChar(200)" CanBeNull="true" />
+      <Column Name="Description" Type="System.String" DbType="NVarChar(200)" CanBeNull="true" />
+      <Association Name="Teacher_SASIClass" Member="SASIClasses" OtherKey="TeacherCode" Type="SASIClass" />
+      <Association Name="Department_Teacher" Member="Department" ThisKey="DepartmentCode" Type="Department" IsForeignKey="true" DeleteRule="CASCADE" />
+    </Type>
+  </Table>
+  <Table Name="dbo.SubjectTrains" Member="SubjectTrains">
+    <Type Name="SubjectTrain">
+      <Column Name="SubjectTrainID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="TrainCode" Type="System.String" DbType="VarChar(10) NOT NULL" CanBeNull="false" />
+      <Column Name="SubjectCode" Type="System.String" DbType="VarChar(10) NOT NULL" CanBeNull="false" />
+      <Column Name="TheoryNumber" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="PracticeNumber" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="SectionTheory" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="SectionPractice" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="SubjectSplitName" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Association Name="Train_SubjectTrain" Member="Train" ThisKey="TrainCode" Type="Train" IsForeignKey="true" />
+      <Association Name="Subject_SubjectTrain" Member="Subject" ThisKey="SubjectCode" Type="Subject" IsForeignKey="true" />
+      <Association Name="SettingSubjectSplit_SubjectTrain" Member="SettingSubjectSplit" ThisKey="SubjectSplitName" Type="SettingSubjectSplit" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Subjects" Member="Subjects">
+    <Type Name="Subject">
+      <Column Name="SubjectCode" Type="System.String" DbType="VarChar(10) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="SubjectName" Type="System.String" DbType="NVarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="Description" Type="System.String" DbType="NVarChar(200)" CanBeNull="true" />
+      <Association Name="Subject_SubjectTrain" Member="SubjectTrains" OtherKey="SubjectCode" Type="SubjectTrain" />
+      <Association Name="Subject_StudentToRegister" Member="StudentToRegisters" OtherKey="SubjectCode" Type="StudentToRegister" />
+    </Type>
+  </Table>
+  <Table Name="dbo.StudentToRegisters" Member="StudentToRegisters">
+    <Type Name="StudentToRegister">
+      <Column Name="StudentRG" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="StudentCode" Type="System.String" DbType="VarChar(10) NOT NULL" CanBeNull="false" />
+      <Column Name="ClassCode" Type="System.String" DbType="VarChar(10) NOT NULL" CanBeNull="false" />
+      <Column Name="SubjectCode" Type="System.String" DbType="VarChar(10) NOT NULL" CanBeNull="false" />
+      <Column Name="SASIClassID" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="StudentName" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="BirthDay" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="RegisterDay" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="NumberStudy" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="MoneySA" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="MoneySI" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="Description" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="Receipt" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="MoneyRetakeATestEnd" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="MoneyRetakeATestCenter" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="PeoplePay" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Association Name="Class_StudentToRegister" Member="Class" ThisKey="ClassCode" Type="Class" IsForeignKey="true" />
+      <Association Name="Subject_StudentToRegister" Member="Subject" ThisKey="SubjectCode" Type="Subject" IsForeignKey="true" DeleteRule="CASCADE" DeleteOnNull="true" />
+      <Association Name="SASIClass_StudentToRegister" Member="SASIClass" ThisKey="SASIClassID" Type="SASIClass" IsForeignKey="true" DeleteRule="CASCADE" DeleteOnNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Students" Member="Students">
+    <Type Name="Student">
+      <Column Name="StudentCode" Type="System.String" DbType="VarChar(10) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="FullName" Type="System.String" DbType="NVarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="Birthday" Type="System.String" DbType="VarChar(15)" CanBeNull="true" />
+      <Column Name="Gender" Type="System.String" DbType="NVarChar(5)" CanBeNull="true" />
+      <Column Name="PriorityCode" Type="System.String" DbType="VarChar(10)" CanBeNull="true" />
+      <Column Name="PhoneNumber" Type="System.String" DbType="VarChar(15)" CanBeNull="true" />
+      <Column Name="HomeTown" Type="System.String" DbType="NVarChar(200)" CanBeNull="true" />
+      <Column Name="Description" Type="System.String" DbType="NVarChar(200)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.SettingSubjectSplits" Member="SettingSubjectSplits">
+    <Type Name="SettingSubjectSplit">
+      <Column Name="SubjectSplitName" Type="System.String" DbType="NVarChar(50) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="SectionNumber" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="TheoryNumber" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="TrainingType" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Association Name="SettingSubjectSplit_SubjectTrain" Member="SubjectTrains" OtherKey="SubjectSplitName" Type="SubjectTrain" />
+    </Type>
+  </Table>
+  <Table Name="dbo.SettingMoneyRates" Member="SettingMoneyRates">
+    <Type Name="SettingMoneyRate">
+      <Column Name="MoneyRatesID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="MoneyRatesName" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="InfoID" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="PracticeMoney" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="TheoryMoney" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="NumberStudy" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Association Name="TrainingInformation_SettingMoneyRate" Member="TrainingInformation" ThisKey="InfoID" Type="TrainingInformation" IsForeignKey="true" DeleteRule="CASCADE" DeleteOnNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.SASIClasses" Member="SASIClasses">
+    <Type Name="SASIClass">
+      <Column Name="SASIClassID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="TeacherCode" Type="System.String" DbType="VarChar(10)" CanBeNull="true" />
+      <Column Name="InfoID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="SASIClassName" Type="System.String" DbType="NVarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="Semester" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="ShoolYear" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="EndDate" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="Description" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="StartDate" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="Cadre" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="Status" Type="System.String" DbType="NVarChar(20)" CanBeNull="true" />
+      <Column Name="DateSASIClass" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Association Name="SASIClass_StudentToRegister" Member="StudentToRegisters" OtherKey="SASIClassID" Type="StudentToRegister" />
+      <Association Name="Teacher_SASIClass" Member="Teacher" ThisKey="TeacherCode" Type="Teacher" IsForeignKey="true" DeleteRule="CASCADE" />
+      <Association Name="TrainingInformation_SASIClass" Member="TrainingInformation" ThisKey="InfoID" Type="TrainingInformation" IsForeignKey="true" DeleteRule="CASCADE" />
+    </Type>
+  </Table>
+  <Table Name="dbo.MoneyRatesByClassSASIs" Member="MoneyRatesByClassSASIs">
+    <Type Name="MoneyRatesByClassSASI">
+      <Column Name="MoneyRatesByClassID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="InfoID" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="StudentNumberStart" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="StudentNumberEnd" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="TheoryMoney" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="PracticeMoney" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="MoneyRatesName" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Association Name="TrainingInformation_MoneyRatesByClassSASI" Member="TrainingInformation" ThisKey="InfoID" Type="TrainingInformation" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Logins" Member="Logins">
+    <Type Name="Login">
+      <Column Name="UserName" Type="System.String" DbType="VarChar(20) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="Password" Type="System.String" DbType="VarChar(20) NOT NULL" CanBeNull="false" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Departments" Member="Departments">
+    <Type Name="Department">
+      <Column Name="DepartmentCode" Type="System.String" DbType="VarChar(10) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="DepartmentName" Type="System.String" DbType="NVarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="PhoneNumber" Type="System.String" DbType="VarChar(15)" CanBeNull="true" />
+      <Column Name="Description" Type="System.String" DbType="NVarChar(200)" CanBeNull="true" />
+      <Association Name="Department_Class" Member="Classes" OtherKey="DepartmentCode" Type="Class" />
+      <Association Name="Department_Teacher" Member="Teachers" OtherKey="DepartmentCode" Type="Teacher" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Configs" Member="Configs">
+    <Type Name="Config">
+      <Column Name="ID" Type="System.String" DbType="VarChar(10) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="Dean" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="Trainbueau" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="MoneyProctor" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="MoneyExam" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="Rector" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="Departmentfinance" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="DepartmentTrain" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="AssociateDean" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="RetakeATestEnd" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="RetakeATestCenter" Type="System.Int32" DbType="Int" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Function Name="dbo.CountSubjectTrainID" Method="CountSubjectTrainID">
+    <Parameter Name="SASIClassID" Parameter="sASIClassID" Type="System.Int32" DbType="Int" />
+    <ElementType Name="CountSubjectTrainIDResult">
+      <Column Name="Column1" Type="System.Int32" DbType="Int" CanBeNull="true" />
+    </ElementType>
+  </Function>
+  <Function Name="dbo.StudentTimeStudy" Method="StudentTimeStudy">
+    <ElementType Name="StudentTimeStudyResult">
+      <Column Name="StudentCode" Type="System.String" DbType="VarChar(10) NOT NULL" CanBeNull="false" />
+      <Column Name="StudentName" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="SubjectName" Type="System.String" DbType="NVarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="subjectCode" Type="System.String" DbType="VarChar(10) NOT NULL" CanBeNull="false" />
+      <Column Name="NumberTimeStudy" Type="System.Int32" DbType="Int" CanBeNull="true" />
+    </ElementType>
+  </Function>
+  <Function Name="dbo.GeneralReceiptMoney" Method="GeneralReceiptMoney">
+    <Parameter Name="Semester" Parameter="semester" Type="System.Int32" DbType="Int" />
+    <Parameter Name="ShoolYear" Parameter="shoolYear" Type="System.String" DbType="VarChar(50)" />
+    <Parameter Name="EndDate" Parameter="endDate" Type="System.DateTime" DbType="DateTime" />
+    <ElementType Name="GeneralReceiptMoneyResult">
+      <Column Name="row_number" Type="System.String" DbType="VarChar(7)" CanBeNull="true" />
+      <Column Name="StudentCode" Type="System.String" DbType="VarChar(10) NOT NULL" CanBeNull="false" />
+      <Column Name="StudentName" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="ClassName" Type="System.String" DbType="NVarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="SubjectName" Type="System.String" DbType="NVarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="Receipt" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="MoneySA" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="MoneySI" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="MoneyRetakeATestEnd" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="MoneyRetakeATestCenter" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="total" Type="System.Int32" DbType="Int" CanBeNull="true" />
+    </ElementType>
+  </Function>
+  <Function Name="dbo.GeneralReceiptMoneyQuater" Method="GeneralReceiptMoneyQuater">
+    <Parameter Name="Quater" Parameter="quater" Type="System.Int32" DbType="Int" />
+    <Parameter Name="EndDate" Parameter="endDate" Type="System.DateTime" DbType="DateTime" />
+    <ElementType Name="GeneralReceiptMoneyQuaterResult">
+      <Column Name="row_number" Type="System.String" DbType="VarChar(7)" CanBeNull="true" />
+      <Column Name="StudentCode" Type="System.String" DbType="VarChar(10) NOT NULL" CanBeNull="false" />
+      <Column Name="StudentName" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="ClassName" Type="System.String" DbType="NVarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="SubjectName" Type="System.String" DbType="NVarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="Receipt" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="MoneySA" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="MoneySI" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="MoneyRetakeATestEnd" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="MoneyRetakeATestCenter" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="total" Type="System.Int32" DbType="Int" CanBeNull="true" />
+    </ElementType>
+  </Function>
+  <Function Name="dbo.GeneraMoneySASIClass" Method="GeneraMoneySASIClass">
+    <Parameter Name="Semester" Parameter="semester" Type="System.Int32" DbType="Int" />
+    <Parameter Name="ShoolYear" Parameter="shoolYear" Type="System.String" DbType="VarChar(50)" />
+    <Parameter Name="EndDate" Parameter="endDate" Type="System.DateTime" DbType="DateTime" />
+    <ElementType Name="GeneraMoneySASIClassResult">
+      <Column Name="row_number" Type="System.String" DbType="VarChar(7)" CanBeNull="true" />
+      <Column Name="TrainName" Type="System.String" DbType="NVarChar(70) NOT NULL" CanBeNull="false" />
+      <Column Name="ClassName" Type="System.String" DbType="NVarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="NumberMoney" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Description" Type="System.String" DbType="NVarChar(200)" CanBeNull="true" />
+    </ElementType>
+  </Function>
+  <Function Name="dbo.GeneraMoneySASIClassQuater" Method="GeneraMoneySASIClassQuater">
+    <Parameter Name="Quater" Parameter="quater" Type="System.Int32" DbType="Int" />
+    <Parameter Name="EndDate" Parameter="endDate" Type="System.DateTime" DbType="DateTime" />
+    <ElementType Name="GeneraMoneySASIClassQuaterResult">
+      <Column Name="row_number" Type="System.String" DbType="VarChar(7)" CanBeNull="true" />
+      <Column Name="TrainName" Type="System.String" DbType="NVarChar(70) NOT NULL" CanBeNull="false" />
+      <Column Name="ClassName" Type="System.String" DbType="NVarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="NumberMoney" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Description" Type="System.String" DbType="NVarChar(200)" CanBeNull="true" />
+    </ElementType>
+  </Function>
+  <Function Name="dbo.GeneraMoneySASITeacher" Method="GeneraMoneySASITeacher">
+    <Parameter Name="MoneyProctor" Parameter="moneyProctor" Type="System.Double" DbType="Float" />
+    <Parameter Name="MoneyExam" Parameter="moneyExam" Type="System.Double" DbType="Float" />
+    <Parameter Name="Semester" Parameter="semester" Type="System.Int32" DbType="Int" />
+    <Parameter Name="ShoolYear" Parameter="shoolYear" Type="System.String" DbType="VarChar(50)" />
+    <ElementType Name="GeneraMoneySASITeacherResult">
+      <Column Name="row_number" Type="System.String" DbType="VarChar(7)" CanBeNull="true" />
+      <Column Name="TeacherName" Type="System.String" DbType="NVarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="ClassName" Type="System.String" DbType="NVarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="TrainName" Type="System.String" DbType="NVarChar(70) NOT NULL" CanBeNull="false" />
+      <Column Name="NumberStudent" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="CreditTheory" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Creditpractice" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="SubjectName" Type="System.String" DbType="NVarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="MoneySASI" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="MoneyProctor" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="MoneyExam" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="PlusMoney" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="TotalMoneySubject" Type="System.Int32" DbType="Int" CanBeNull="true" />
+    </ElementType>
+  </Function>
+  <Function Name="dbo.GetTrainName" Method="GetTrainName">
+    <Parameter Name="SASIClassID" Parameter="sASIClassID" Type="System.Int32" DbType="Int" />
+    <ElementType Name="GetTrainNameResult">
+      <Column Name="TrainCode" Type="System.String" DbType="VarChar(10) NOT NULL" CanBeNull="false" />
+      <Column Name="TrainName" Type="System.String" DbType="NVarChar(70) NOT NULL" CanBeNull="false" />
+    </ElementType>
+  </Function>
+  <Function Name="dbo.ListMoneySASI" Method="ListMoneySASI">
+    <Parameter Name="Semester" Parameter="semester" Type="System.Int32" DbType="Int" />
+    <Parameter Name="ShoolYear" Parameter="shoolYear" Type="System.String" DbType="VarChar(50)" />
+    <ElementType Name="ListMoneySASIResult">
+      <Column Name="row_number" Type="System.String" DbType="VarChar(7)" CanBeNull="true" />
+      <Column Name="StudentName" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="ClassName" Type="System.String" DbType="NVarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="SubjectName" Type="System.String" DbType="NVarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="TheoryNumber" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="PracticeNumber" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="TeacherName" Type="System.String" DbType="NVarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="MoneyNumber" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Description" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="RegisterDay" Type="System.String" DbType="VarChar(30)" CanBeNull="true" />
+      <Column Name="Receipt" Type="System.Int32" DbType="Int" CanBeNull="true" />
+    </ElementType>
+  </Function>
+  <Function Name="dbo.ListStudentMoneySI" Method="ListStudentMoneySI">
+    <Parameter Name="Semester" Parameter="semester" Type="System.Int32" DbType="Int" />
+    <Parameter Name="ShoolYear" Parameter="shoolYear" Type="System.String" DbType="VarChar(50)" />
+    <Parameter Name="EndDate" Parameter="endDate" Type="System.DateTime" DbType="DateTime" />
+    <ElementType Name="ListStudentMoneySIResult">
+      <Column Name="row_number" Type="System.String" DbType="VarChar(7)" CanBeNull="true" />
+      <Column Name="StudentCode" Type="System.String" DbType="VarChar(10) NOT NULL" CanBeNull="false" />
+      <Column Name="Receipt" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="StudentName" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="TeacherName" Type="System.String" DbType="NVarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="ClassName" Type="System.String" DbType="NVarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="SubjectName" Type="System.String" DbType="NVarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="MoneySI" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Numbe" Type="System.Int32" DbType="Int" CanBeNull="true" />
+    </ElementType>
+  </Function>
+  <Function Name="dbo.ListStudentMoneySILoadComboxSubject" Method="ListStudentMoneySILoadComboxSubject">
+    <Parameter Name="ClassName" Parameter="className" Type="System.String" DbType="NVarChar(50)" />
+    <ElementType Name="ListStudentMoneySILoadComboxSubjectResult">
+      <Column Name="SubjectCode" Type="System.String" DbType="VarChar(10) NOT NULL" CanBeNull="false" />
+      <Column Name="SubjectName" Type="System.String" DbType="NVarChar(100) NOT NULL" CanBeNull="false" />
+    </ElementType>
+  </Function>
+  <Function Name="dbo.ListStudentMoneySIQuater" Method="ListStudentMoneySIQuater">
+    <Parameter Name="Quater" Parameter="quater" Type="System.Int32" DbType="Int" />
+    <Parameter Name="EndDate" Parameter="endDate" Type="System.DateTime" DbType="DateTime" />
+    <ElementType Name="ListStudentMoneySIQuaterResult">
+      <Column Name="row_number" Type="System.String" DbType="VarChar(7)" CanBeNull="true" />
+      <Column Name="StudentCode" Type="System.String" DbType="VarChar(10) NOT NULL" CanBeNull="false" />
+      <Column Name="StudentName" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="ClassName" Type="System.String" DbType="NVarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="SubjectName" Type="System.String" DbType="NVarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="TeacherName" Type="System.String" DbType="NVarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="MoneySI" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Number" Type="System.Int32" DbType="Int" CanBeNull="true" />
+    </ElementType>
+  </Function>
+  <Function Name="dbo.ListStudentToClass" Method="ListStudentToClass">
+    <Parameter Name="Semester" Parameter="semester" Type="System.Int32" DbType="Int" />
+    <Parameter Name="ShoolYear" Parameter="shoolYear" Type="System.String" DbType="VarChar(50)" />
+    <Parameter Name="EndDate" Parameter="endDate" Type="System.DateTime" DbType="DateTime" />
+    <ElementType Name="ListStudentToClassResult">
+      <Column Name="row_number" Type="System.String" DbType="VarChar(7)" CanBeNull="true" />
+      <Column Name="NumberStudent" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="ClassName" Type="System.String" DbType="NVarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="SASIClassID" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="Receipt" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="StudentName" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="BirthDay" Type="System.String" DbType="VarChar(30)" CanBeNull="true" />
+      <Column Name="TrainName" Type="System.String" DbType="NVarChar(70) NOT NULL" CanBeNull="false" />
+      <Column Name="NumberStudent1" Type="System.String" DbType="VarChar(7)" CanBeNull="true" />
+      <Column Name="SubjectName" Type="System.String" DbType="NVarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="Creditpractice" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="CreditTheory" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="MoneySASI" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="PlusMoney" Type="System.Int32" DbType="Int" CanBeNull="true" />
+    </ElementType>
+  </Function>
+  <Function Name="dbo.ListStudentToClassQuater" Method="ListStudentToClassQuater">
+    <Parameter Name="EndDate" Parameter="endDate" Type="System.DateTime" DbType="DateTime" />
+    <Parameter Name="Quater" Parameter="quater" Type="System.Int32" DbType="Int" />
+    <ElementType Name="ListStudentToClassQuaterResult">
+      <Column Name="row_number" Type="System.String" DbType="VarChar(7)" CanBeNull="true" />
+      <Column Name="NumberStudent" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="ClassName" Type="System.String" DbType="NVarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="SASIClassID" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="Receipt" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="StudentName" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="BirthDay" Type="System.String" DbType="VarChar(30)" CanBeNull="true" />
+      <Column Name="TrainName" Type="System.String" DbType="NVarChar(70) NOT NULL" CanBeNull="false" />
+      <Column Name="NumberStudent1" Type="System.String" DbType="VarChar(7)" CanBeNull="true" />
+      <Column Name="SubjectName" Type="System.String" DbType="NVarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="Creditpractice" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="CreditTheory" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="MoneySASI" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="PlusMoney" Type="System.Int32" DbType="Int" CanBeNull="true" />
+    </ElementType>
+  </Function>
+  <Function Name="dbo.ListTakeATestSASI" Method="ListTakeATestSASI">
+    <Parameter Name="SASIClassName" Parameter="sASIClassName" Type="System.String" DbType="NVarChar(50)" />
+    <Parameter Name="Semester" Parameter="semester" Type="System.Int32" DbType="Int" />
+    <Parameter Name="ShoolYear" Parameter="shoolYear" Type="System.String" DbType="VarChar(50)" />
+    <ElementType Name="ListTakeATestSASIResult">
+      <Column Name="row_number" Type="System.String" DbType="VarChar(7)" CanBeNull="true" />
+      <Column Name="Receipt" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="StudentCode" Type="System.String" DbType="VarChar(10) NOT NULL" CanBeNull="false" />
+      <Column Name="StudentName" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="BirthDay" Type="System.String" DbType="VarChar(30)" CanBeNull="true" />
+      <Column Name="ClassName" Type="System.String" DbType="NVarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="SubjectName" Type="System.String" DbType="NVarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="NumberCredit" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="MoneySASI" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="StartDayStudy" Type="System.String" DbType="VarChar(30)" CanBeNull="true" />
+      <Column Name="EndDayStudy" Type="System.String" DbType="VarChar(30)" CanBeNull="true" />
+    </ElementType>
+  </Function>
+  <Function Name="dbo.LoadlookUpEditSASIClass" Method="LoadlookUpEditSASIClass">
+    <ElementType Name="LoadlookUpEditSASIClassResult">
+      <Column Name="SASIClassID" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="SASIClassName" Type="System.String" DbType="NVarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="Status" Type="System.String" DbType="NVarChar(20)" CanBeNull="true" />
+      <Column Name="DateSASIClass" Type="System.String" DbType="VarChar(30)" CanBeNull="true" />
+    </ElementType>
+  </Function>
+  <Function Name="dbo.LoadSASIClassRetakeTest" Method="LoadSASIClassRetakeTest">
+    <ElementType Name="LoadSASIClassRetakeTestResult">
+      <Column Name="SASIClassName" Type="System.String" DbType="NVarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="Status" Type="System.String" DbType="NVarChar(20)" CanBeNull="true" />
+      <Column Name="Semester" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="ShoolYear" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="DateSASIClass" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="SASIClassID" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+    </ElementType>
+  </Function>
+  <Function Name="dbo.MoneySASITeacher" Method="MoneySASITeacher">
+    <Parameter Name="MoneyProctor" Parameter="moneyProctor" Type="System.Int32" DbType="Int" />
+    <Parameter Name="MoneyExam" Parameter="moneyExam" Type="System.Int32" DbType="Int" />
+    <Parameter Name="Semester" Parameter="semester" Type="System.Int32" DbType="Int" />
+    <Parameter Name="ShoolYear" Parameter="shoolYear" Type="System.String" DbType="VarChar(50)" />
+    <Parameter Name="StarDate" Parameter="starDate" Type="System.DateTime" DbType="DateTime" />
+    <Parameter Name="EndDate" Parameter="endDate" Type="System.DateTime" DbType="DateTime" />
+    <ElementType Name="MoneySASITeacherResult">
+      <Column Name="row_number" Type="System.String" DbType="VarChar(7)" CanBeNull="true" />
+      <Column Name="TeacherName" Type="System.String" DbType="NVarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="TotalMoneySubject" Type="System.Int32" DbType="Int" CanBeNull="true" />
+    </ElementType>
+  </Function>
+  <Function Name="dbo.Receipt" Method="Receipt">
+    <Parameter Name="ClassName" Parameter="className" Type="System.String" DbType="NVarChar(70)" />
+    <Parameter Name="SubjectName" Parameter="subjectName" Type="System.String" DbType="NVarChar(70)" />
+    <Parameter Name="RegisterDay" Parameter="registerDay" Type="System.DateTime" DbType="DateTime" />
+    <Parameter Name="StudentCode" Parameter="studentCode" Type="System.String" DbType="VarChar(10)" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.ReceiptManyStudent" Method="ReceiptManyStudent">
+    <Parameter Name="ClassName" Parameter="className" Type="System.String" DbType="NVarChar(70)" />
+    <Parameter Name="SubjectName" Parameter="subjectName" Type="System.String" DbType="NVarChar(70)" />
+    <Parameter Name="RegisterDay" Parameter="registerDay" Type="System.DateTime" DbType="DateTime" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.RetestList" Method="RetestList">
+    <Parameter Name="Semester" Parameter="semester" Type="System.Int32" DbType="Int" />
+    <Parameter Name="ShoolYear" Parameter="shoolYear" Type="System.String" DbType="VarChar(50)" />
+    <ElementType Name="RetestListResult">
+      <Column Name="row_number" Type="System.String" DbType="VarChar(7)" CanBeNull="true" />
+      <Column Name="StudentName" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="ClassName" Type="System.String" DbType="NVarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="SubjectName" Type="System.String" DbType="NVarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="TeacherName" Type="System.String" DbType="NVarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="MoneyRetake" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="LearningType" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="RegisterDay" Type="System.String" DbType="VarChar(30)" CanBeNull="true" />
+      <Column Name="Receipt" Type="System.Int32" DbType="Int" CanBeNull="true" />
+    </ElementType>
+  </Function>
+  <Function Name="dbo.SASIClassEnd" Method="SASIClassEnd">
+    <ElementType Name="SASIClassEndResult">
+      <Column Name="SASIClassName" Type="System.String" DbType="NVarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="TeacherName" Type="System.String" DbType="NVarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="SASIClassName1" Type="System.String" DbType="NVarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="Semester" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="ShoolYear" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="EndDate" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="StartDate" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="DateSASIClass" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+    </ElementType>
+  </Function>
+  <Function Name="dbo.SearchStudentStudiesAgainsToSubjectName" Method="SearchStudentStudiesAgainsToSubjectName">
+    <Parameter Name="SubjectName" Parameter="subjectName" Type="System.String" DbType="NVarChar(50)" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.SelectSASIStudentToSubjectName" Method="SelectSASIStudentToSubjectName">
+    <Parameter Name="SubjectName" Parameter="subjectName" Type="System.String" DbType="NVarChar(50)" />
+    <Parameter Name="SASIClassName" Parameter="sASIClassName" Type="System.String" DbType="NVarChar(50)" />
+    <Parameter Name="StarDate" Parameter="starDate" Type="System.DateTime" DbType="DateTime" />
+    <Parameter Name="EndDate" Parameter="endDate" Type="System.DateTime" DbType="DateTime" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.SelectStudentToRegister" Method="SelectStudentToRegister">
+    <ElementType Name="SelectStudentToRegisterResult">
+      <Column Name="StudentCode" Type="System.String" DbType="VarChar(10) NOT NULL" CanBeNull="false" />
+      <Column Name="StudentName" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="BirthDay" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="ClassName" Type="System.String" DbType="NVarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="SubjectName" Type="System.String" DbType="NVarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="TeacherName" Type="System.String" DbType="NVarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="SASIClassName" Type="System.String" DbType="NVarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="NumberStudy" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="MoneySA" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="MoneySI" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="Semester" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="ShoolYear" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="RegisterDay" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="Description" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+    </ElementType>
+  </Function>
+  <Function Name="dbo.SelectStudentToRegisterToSASIClassName" Method="SelectStudentToRegisterToSASIClassName">
+    <Parameter Name="SASIClassName" Parameter="sASIClassName" Type="System.String" DbType="NVarChar(50)" />
+    <ElementType Name="SelectStudentToRegisterToSASIClassNameResult">
+      <Column Name="Mã_sinh_viên" Type="System.String" DbType="VarChar(10) NOT NULL" CanBeNull="false" />
+      <Column Name="Tên_sinh_viên" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Ngày_sinh" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="ClassName" Type="System.String" DbType="NVarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="SubjectName" Type="System.String" DbType="NVarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="SASIClassName" Type="System.String" DbType="NVarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="Số_lần_học" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="Tiền_học_lại" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Tiền_học_cải_thiện" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Tiền_thi_lại_giữa_học_kì" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Tiền_thi_lại_kết_thúc_học_kì" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Receipt" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Ngày_đăng_ký_học" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="Ghi_chú" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+    </ElementType>
+  </Function>
+  <Function Name="dbo.SelectStudentToSubjectName" Method="SelectStudentToSubjectName">
+    <Parameter Name="SubjectName" Parameter="subjectName" Type="System.String" DbType="NVarChar(50)" />
+    <Parameter Name="StarDate" Parameter="starDate" Type="System.DateTime" DbType="DateTime" />
+    <Parameter Name="EndDate" Parameter="endDate" Type="System.DateTime" DbType="DateTime" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.ShowSASIClassesNotYet" Method="ShowSASIClassesNotYet">
+    <ElementType Name="ShowSASIClassesNotYetResult">
+      <Column Name="SASIClassName" Type="System.String" DbType="NVarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="NumberStudent" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Total" Type="System.Int32" DbType="Int" CanBeNull="true" />
+    </ElementType>
+  </Function>
+  <Function Name="dbo.LoadGridViewStudent" Method="LoadGridViewStudent">
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.LoadGridViewStudent1" Method="LoadGridViewStudent1">
+    <ElementType Name="LoadGridViewStudent1Result">
+      <Column Name="Ngày_sinh" Type="System.String" DbType="VarChar(15)" CanBeNull="true" />
+      <Column Name="Tên_sinh_viên" Type="System.String" DbType="NVarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="Mã_sinh_viên" Type="System.String" DbType="VarChar(10) NOT NULL" CanBeNull="false" />
+    </ElementType>
+  </Function>
+</Database>
